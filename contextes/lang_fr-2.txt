@@ -1,0 +1,15 @@
+analyse se fait en 4 phases successives :
+- Identification et hiérarchisation de la charge physique de travail dans
+l'entreprise.
+- Analyse de la charge physique de travail selon 5 indicateurs (efforts
+physiques, dimensionnement, caractéristiques temporelles, caractéristiques de
+l'environnement, organisation).
+- Recherche de pistes de prévention.
+--
+Cette méthodologie fait appel aux principes ergonomiques et à la manière de
+les appliquer pour la conception et l'amélioration des situations de travail.
+Elle s'appuie sur des textes de référence (normes, directives, littérature
+scientifique) dans le champ de la charge physique de travail. Cette méthode
+est applicable dans les entreprises de toutes tailles. Sa mise en oeuvre peut
+être initiée par tous les acteurs internes ou externes de l'entreprise, mais
+son efficacité repose sur une démarche collective.

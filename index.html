@@ -1,0 +1,121 @@
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Programmation et Projet encadré</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="fiche_css/site.css"/>
+</head>
+<!--Menu-->
+ <nav class="navbar" role="navigation" aria-label="main navigation">
+    <div class="navbar-brand">
+        <span class="navbar-title">PPE1</span>
+        <span class="navbar-subtitle">Projet-Final</span>
+    </div>
+    <div class="navbar-menu">
+        <div class="navbar-start">
+            <a class="navbar-item" href="index.html">Accueil</a>
+            <div class="navbar-item has-dropdown is-hoverable">
+              <a class="navbar-item" href="index.html">Le projet</a>
+              <div class="navbar-dropdown">
+                <a class="navbar-item sub" href="#Présentation">Présentation</a>
+                <a class="navbar-item sub" href="#Méthodologie">Méthodologie</a>
+                <a class="navbar-item sub" href="#Choix">Choix du mot</a>
+              </div>
+            </div>
+            <a class="navbar-item" href="html/scripts.html">Scripts</a>
+            <div class="navbar-item has-dropdown is-hoverable">
+              <a class="navbar-item" href="html/tableaux.html">Tableaux</a>
+              <div class="navbar-dropdown">
+                <a class="navbar-item sub" href="">Russe</a>
+                <a class="navbar-item sub" href="">Japonais</a>
+                <a class="navbar-item sub" href="https://oushan24.github.io/PPE1-projet_final/tableaux/Fr.html">Français</a>
+              </div>
+            </div>
+            <div class="navbar-item has-dropdown is-hoverable">
+              <a class="navbar-item" href="html/analyse.html">Analyses</a>
+              <div class="navbar-dropdown">
+                <a class="navbar-item sub" href="#nuage">Nuage de mots</a>
+              </div>
+            </div>
+            <div class="navbar-item has-dropdown is-hoverable">
+              <a class="navbar-item" href="html/nous.html">L'équipe</a>
+              <div class="navbar-dropdown">
+                <a class="navbar-item sub" href="#Qui?">Qui sommes-nous ?</a>
+              </div>
+            </div>
+        </div>
+    </div>
+</nav>
+<!--Menu Fin-->
+
+<!--Milieu image-->
+<section class="hero-area">
+  <div class="block">
+    <h1>Charge | en Russe | en Japonais</h1>
+    </div>
+</section>
+<!--Milieu image fin-->
+
+<!--Début-->
+<section id="Présentation" class="content-container">
+<div class="columns is-centered">
+    <div class="column is-four-fifths">
+     <div class="block content">
+      <h1>A la découverte de la vie multilingue des mots</h1>
+      <p>Les mots ont plusieurs vies lesquelles se révèlent à travers de nombreux paramètres comme par exemple : le contexte, la langue, l'époque à laquelle ils sont employés etc. L'objectif de ce projet est d'étudier la vie linguistique d'un mot cible dans plusieurs langues différentes, d'analyser et de comparer leurs usages.</p>
+     </div>
+    </div>
+</div>
+</section>
+<section id="Méthodologie" class="content-container-bis">
+  <div class="columns is-centered">
+    <div class="column is-four-fifths">
+      <div class="block content">
+      <h1>Méthodologie</h1>
+      <h2>Le projet étape par étape</h2>
+        <ul class="has-text-black">
+        <li>Le choix d’un mot à explorer</li>
+        <li>La recherche d’URLs pour étudier le multilinguisme du mot choisi</li>
+        <li>La formation d’un corpus via la récupération des données textuelles et autres informations récupérées depuis les URLs sélectionnés</li>
+        <li>La construction d’un nuage de mot</li>
+        <li>L’étude des contextes gravitant autour du mot choisi (concordancier)</li>
+        </ul>
+      <h2>Script de récupération de pages internet</h2>
+      <p class="has-text-black">Construction d'un script, implémenté au fur et à mesure, pour répondre à plusieurs objectifs :</p>
+        <ol class="has-text-black">
+        <li>Lire une liste d’URLs donnée</li>
+        <li>Vérifier la validité de ces URLs</li>
+        <li>Vérifier la réponse du serveur des URLs valide pour savoir si la page est accessible</li>
+        <li>Récupérer l’encodage des pages accessible</li>
+        <li>Extraire le contenu textuel des pages (les convertir en <emph>UTF-8</emph> si nécessaire)</li>
+        <li>Construire un tableaux qui rassemblent diverses informations tel que :</li>
+        <ul>
+          <li>L’URL lui même</li>
+          <li>Le code retour de HTTP</li>
+          <li>L’encodage initial de la page</li>
+          <li>La page HTML brut (aspiration)</li>
+          <li>Le dump textuel</li>
+          <li>Le nombre d’occurence du mot cible dans la page</li>
+          <li>Le concordancier</li>
+          <li>Le contexte (1 par URL)</li>
+        </ul>
+        </ol>
+      </div>
+    </div>
+  </div>
+</section>
+<section id="Choix" class="content-container">
+  <div class="columns is-centered">
+    <div class="column is-four-fifths">
+    <div class="block content">
+      <h1>Choix du mot</h1>
+      <p> On s'est interessé ednedjkebnendlzndzlekndlnlkjdn</p>
+    </div>
+  </div>
+  </div>
+</section>
+
+</html>

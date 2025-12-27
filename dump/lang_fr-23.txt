@@ -1,0 +1,414 @@
+   #alternate
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-NVP8KD7
+
+     * Contenu
+     * Menu
+     * Pied de page
+
+   Groupe JLO - retour à l'accueil (BUTTON)
+
+     * (BUTTON) Conseil
+       Diversité & Inclusion
+          + Diversité & Inclusion
+          + Handicap
+          + Égalité professionnelle F/H
+       Santé au travail
+          + Conseil en santé mentale
+          + Prévention des risques (HSE)
+          + Prévention des RPS
+          + Enquêtes harcèlement moral / sexuel
+          + Prévention des risques physiques & TMS
+          + Maintien dans l'emploi
+          + Médiation professionnelle individuelle ou collective
+       QVCT et performance sociale
+          + Démarche QVCT
+          + Prévention et régulation de l'absentéisme
+          + Accompagnement du changement et des transformations
+          + Management des organisations
+          + Dialogue social
+     * (BUTTON) Accompagnement - soutien
+       Accompagnement individuel
+          + Diagnostic de situation
+          + Bilan de compétences
+          + Bilan neuropsychologique (ou bilan cognitif)
+          + Accompagnement à la reprise d'activité
+          + Coaching
+          + Repositionnement professionnel
+          + Accompagnement des personnes en situation de burn-out
+          + Tout savoir sur notre offre d'accompagnement individuel
+       Soutien psychologique
+          + Ligne d'écoute et d'assistance psychologique
+          + Gestion de crise et d'évènement impactant
+          + Permanences psychologiques sur site
+          + Tout savoir sur notre offre de soutien psychologique
+     * (BUTTON) Formation
+       A propos
+          + Tout savoir sur notre organisme de formation
+          + Catalogue formation
+          + Le digital learning
+          + Blog formation
+       Nos domaines de formation
+          + Handicap
+          + Diversité & Inclusion
+          + Égalité professionnelle F-H
+          + Prévention des RPS
+          + Prévention des TMS
+          + Prévention des risques
+          + Maintien dans l'emploi
+          + Management responsable
+          + Dialogue social
+          + QVCT
+          + Prévention du harcèlement
+          + Modules E-Learning
+       Formations Inter
+          + Référent harcèlement
+          + Référent Handicap en entreprise
+          + Référent Handicap en établissement public
+          + Référent Handicap en organisme de formation
+          + Référent égalité professionnelle F/H en entreprise
+          + Référent égalité professionnelle F/H en établissement public
+          + Maintien dans l'emploi
+          + TMS Pros
+     * (BUTTON) Communication
+       Conseil & stratégie
+          + Tout savoir sur notre agence de communication RH
+          + Développer sa marque employeur
+       Évènementiel
+          + Sensibilisation Handicap (SEEPH)
+          + Sensibilisation QVCT (SQVCT)
+          + Dispositif campagne Égalité professionnelle
+          + Sensibilisation santé mentale (SISM)
+       Sensibilisation digitale
+          + Les indispensables
+          + Space tour en 10 Caps
+          + La série Sensi'Clip
+          + Les capsules vidéo TMS
+     * (BUTTON) Solutions, Services
+       Piloter ses démarches RH & QVCT
+          + Pimeo : Plateforme QVCT
+          + SpeakUP : Baromètre interne RH & QVCT
+       Services QVCT
+          + Ligne d'écoute dédiée
+          + Accompagnement salariés aidants
+          + Lanceur d'alerte
+          + Assistance sociale
+          + Garder le lien pendant l'arrêt de travail et accompagner à la
+            reprise (léa)
+          + Prévention et réduction des douleurs physiques
+     * (BUTTON) A propos
+       Notre cabinet
+          + Qui sommes-nous ?
+          + Notre démarche des 5M
+          + Nos implantations
+          + Groupe JLO filiale du Groupe APICIL
+          + Groupe JLO recrute !
+       Nos engagements
+          + Société à mission
+          + Nos engagements RSE
+          + Nos certifications et labels
+     * (BUTTON) Actu
+       Ressources RH & QVCT
+          + Notre blog RH & QVCT
+          + Nos webinars RH
+          + Nos livres blancs
+          + Linkedin Groupe JLO
+       Nos livres blancs
+          + Burn-out : guide pratique à destination des RH
+          + Inclure la performance dans sa démarche QVCT
+          + La QVCT : un rempart face à l'usure professionnelle
+          + Maintien dans l'emploi et QVTC : les facteurs clés de réussite
+          + Voir tous nos livres blancs
+     * (BUTTON) Contact
+       Contactez le Groupe JLO
+          + Pour toute question sur le Groupe JLO, notre offre de
+            service..., nous sommes joignables par téléphone du lundi au
+            vendredi, de 9h à 12h30 et de 14h à 18h30 au 04 74 09 08 67.
+          + Formulaire de contact
+
+   Article Sante au travail QVCT-QVT
+
+Comprendre la charge de travail pour mieux la réguler
+
+   Dans le contexte dynamique et concurrentiel des entreprises modernes,
+   la gestion efficace de la charge de travail est essentielle pour
+   garantir la productivité, la satisfaction des employés et la pérennité
+   de l'organisation. Pour développer et améliorer la Qualité de Vie et
+   des Conditions de Travail au sein des organisations, il est essentiel
+   pour les RH d'assurer un équilibre entre les exigences du travail et le
+   bien-être des employés aussi, bien comprendre les notions liées à la
+   charge de travail permet de donner un éclairage précieux pour mieux la
+   réguler.
+
+   Le Groupe JLO vous propose d'explorer en détail les trois dimensions de
+   la charge de travail, introduit les concepts de charge de travail
+   prescrite, charge de travail réelle et charge de travail subjective et
+   explique pourquoi il est impératif pour les entreprises de réguler
+   cette charge de manière appropriée.
+
+   Comprendre la charge de travail pour mieux la réguler
+
+Charge cognitive, émotionnelle et physique, de quoi parle-t-on ?
+
+   Avant d'aborder les concepts spécifiques de charge de travail, il est
+   essentiel de comprendre les trois dimensions fondamentales de la charge
+   de travail : cognitive, émotionnelle et physique. Chacune de ces
+   dimensions influence la manière dont les employés perçoivent et
+   réagissent à leurs responsabilités professionnelles, contribuant ainsi
+   à la complexité globale de la charge de travail.
+
+La charge cognitive :
+
+   La charge cognitive représente la quantité d'effort mental nécessaire
+   pour effectuer une tâche. Elle est influencée par la complexité des
+   missions assignées, la nécessité de prendre des décisions rapides, et
+   le niveau de concentration requis. Par exemple, un projet de résolution
+   de problèmes complexes ou une gestion multitâche excessive peut
+   augmenter la charge cognitive.
+
+   Exemple : Un responsable de projet travaillant sur plusieurs projets
+   simultanément peut ressentir une charge cognitive accrue due à la
+   nécessité de jongler entre différentes exigences, échéances et équipes.
+
+Charge Émotionnelle :
+
+   La charge émotionnelle se rapporte à l'impact émotionnel que le travail
+   peut avoir sur un individu. Elle découle souvent de situations
+   stressantes, de conflits interpersonnels, ou de la nécessité de traiter
+   des problèmes difficiles. La charge émotionnelle peut affecter la santé
+   mentale des employés et, par conséquent, leur productivité.
+
+   Exemple : Un professionnel des ressources humaines qui doit gérer des
+   conflits au sein de l'équipe peut éprouver une charge émotionnelle
+   importante, ce qui peut impacter son bien-être et sa performance.
+
+Charge Physique :
+
+   La charge physique se réfère à l'effort physique requis pour accomplir
+   une tâche. Cela englobe les exigences physiques directes du travail,
+   telles que la force musculaire nécessaire, ainsi que les aspects liés à
+   l'environnement de travail, comme la posture et la durée des périodes
+   d'activité physique.
+
+   Exemple : Les travailleurs de la chaîne de production dans l'industrie
+   manufacturière peuvent subir une charge physique élevée en raison des
+   mouvements répétitifs et de la nécessité de rester debout pendant de
+   longues périodes.
+
+Comprendre les concepts de charge de travail prescrite, réelle et subjective
+:
+
+   La gestion efficace de la charge de travail est un pilier fondamental
+   pour assurer la performance de l'organisation et la Qualité de Vie et
+   des Conditions de Travail des collaborateurs au sein d'une
+   organisation. Les concepts de charge de travail prescrite, la charge de
+   travail réelle et la charge de travail subjective fournissent un cadre
+   essentiel pour comprendre la dynamique complexe qui entoure les
+   responsabilités professionnelles et la manière dont elles sont perçues
+   par les individus au sein de l'entreprise.
+
+   adobestock122079970
+
+Charge de Travail Prescrite :
+
+   Il s'agit de la charge de travail théorique assignée à un employé. Elle
+   est définie par les tâches, les responsabilités et les objectifs
+   spécifiques que l'employé est censé accomplir dans un délai donné.
+
+   Exemple : Considérons un chef de ligne de production dans une usine de
+   fabrication de produits électroniques. Sa charge de travail prescrite
+   comprend la supervision des opérations de la ligne de production, la
+   coordination des membres de l'équipe, la garantie du respect des normes
+   de qualité et le respect des délais de livraison. Il doit également
+   s'assurer que les équipements fonctionnent de manière optimale et que
+   les ressources sont utilisées efficacement.
+
+Charge de Travail Réelle :
+
+   C'est la charge de travail réellement accomplie par un employé. Elle
+   tient compte des imprévus, des interruptions, et des ajustements
+   nécessaires pour atteindre les objectifs. La charge de travail réelle
+   peut différer de la charge de travail prescrite en raison de divers
+   facteurs.
+
+   Exemple : Malgré la charge de travail prescrite, le chef de ligne de
+   production peut être confronté à des imprévus tels que des pannes
+   d'équipement inattendues, des retards dans la livraison de matières
+   premières ou des ajustements nécessaires pour faire face à une demande
+   imprévue. Il doit également gérer des interruptions, comme la formation
+   de nouveaux membres de l'équipe ou la résolution de problèmes
+   opérationnels quotidiens. La charge de travail réelle peut ainsi
+   différer de celle initialement planifiée.
+
+Charge de Travail Subjective :
+
+   Elle reflète la perception personnelle de la charge de travail par
+   l'employé. Elle dépend de la manière dont l'individu évalue la
+   difficulté, la pression et la complexité de ses tâches. Deux employés
+   confrontés à la même charge de travail prescrite peuvent ressentir des
+   charges subjectives différentes en fonction de leurs compétences, de
+   leur expérience et de leur résilience au stress.
+
+   Exemple : Deux chefs de ligne de production travaillant dans des usines
+   similaires peuvent ressentir des charges subjectives différentes. Celui
+   qui a une expérience considérable dans la gestion des lignes de
+   production peut percevoir la charge comme gérable et stimulante. En
+   revanche, un chef de ligne moins expérimenté peut ressentir une charge
+   subjective plus lourde en raison de la pression perçue liée aux
+   responsabilités du poste. La charge de travail prescrite reste
+   constante, mais la manière dont elle est perçue varie en fonction des
+   compétences, de l'expérience et de la résilience au stress de chaque
+   individu.
+
+L'enjeu de la régulation de la charge de travail pour les entreprises
+
+   Le travail connait des évolutions de fond avec le développement des
+   technologies de communication et des modes d'organisations hybrides.
+   Ces changements ont été accentués par la crise sanitaire en 2020 avec
+   des impacts positifs ou négatifs selon la situation des collaborateurs.
+   Parmi ces impacts, la charge de travail apparait comme l'une des
+   problématiques saillantes. Elle semble traduire une forme
+   d'intensification du travail qui pose aujourd'hui une difficulté
+   majeure dans l'activité, par exemple :
+     * absentéisme / arrêt maladie,
+     * épuisement professionnel (burnout),
+     * perte de sens au travail (brownout, quiet-quitting)
+     * perte de performance (erreurs, impact sur la qualité du travail
+       fourni, etc).
+     * turnover
+
+   On parle alors souvent de problèmes de surcharge de travail, de
+   surcharge cognitive, ou encore de surcharge mentale.
+
+   La régulation de la charge de travail doit tenir compte de ces trois
+   aspects. Les organisations et les RH doivent non seulement s'assurer
+   que la charge de travail prescrite est réaliste et équilibrée, mais
+   aussi comprendre la charge de travail réelle vécue par les employés.
+   De plus, ils doivent prendre en considération les perceptions
+   subjectives des employés pour créer un environnement de travail où
+   chacun peut atteindre son plein potentiel sans compromettre son
+   bien-être.
+   Il est également important de ne pas négliger les aspects de
+   sous-charge au travail qui peuvent tout autant que la surcharge, être
+   un facteur pouvant impacter les collaborateurs.
+
+   En prenant en compte la charge de travail prescrite, réelle et
+   subjective, les entreprises peuvent anticiper et atténuer les risques
+   liés au stress, à l'épuisement professionnel et à la baisse de
+   productivité.
+   Une gestion proactive de ces dimensions conduit à :
+     * une meilleure planification des ressources humaines,
+     * une amélioration de la satisfaction au travail,
+     * une réduction du taux de turnover,
+     * et un renforcement de la réputation de l'entreprise en tant
+       qu'employeur responsable (marque employeur)
+
+L'accompagnement du Groupe JLO dans la régulation de la charge de travail
+
+   En complément des actions menées en interne par l'organisation
+   concernée (entretiens individuels, échanges collectifs...), le Groupe
+   JLO propose un accompagnement des RH dans la mise en place de solutions
+   pour objectiver, analyser et expliquer la charge de travail.
+
+   Nos consultants peuvent ainsi mettre en place :
+     * des enquêtes quantitatives ciblées via notre baromètre de mesure de
+       l'engagement collaborateur SpeakUP. Cet outil digital propose une
+       approche simplifiée et facilitée qui libère la parole et apporte
+       des données précieuses pour les RH en charge de l'étude de ces
+       résultats.
+     * des entretiens individuels et collectifs sur l'ensemble des
+       dimensions qui constituent le travail.
+     * un dispositif qui permettra d'enregistrer, visualiser et analyser
+       l'activité au travers de chroniques, de graphes d'activités et de
+       données statistiques.
+     * Des modules de formation et de sensibilisation à destination des
+       managers pour leur permettre de pratiquer une démarche managériale
+       responsable contributrice de l'amélioration de la Qualité de Vie et
+       des Conditions de Travail.
+
+   Pour en savoir plus sur l'accompagnement du Groupe JLO dans la
+   régulation de la charge de travail, n'hésitez pas à nous contacter pour
+   échanger avec un de nos consultants expert Santé au Travail.
+
+A propos de l'auteur.trice
+
+   Responsable Acquisition Marketing & automation, Emmanuel Bonnaty pilote
+   le développement de la visibilité du Groupe JLO sur les différents
+   canaux digitaux exploités par le groupe.
+
+   Article publié le 29 janv. 2024
+   Partager sur Linkedin
+
+Engagés en faveur de la QVCT
+
+   Parce que la Qualité de Vie et des Conditions de Travail est un réel
+   engagement au sein du Groupe JLO, nous vous proposons dans nos
+   actualités, toute l'expertise et la réflexion de nos experts sur les
+   sujets du handicap, de la diversité et l'inclusion, de la santé au
+   travail, du dialogue social et du management.
+
+Suivez-le Groupe JLO
+
+     * sur Linkedin
+
+Dernières publications
+
+Observatoire des arrêts de travail 2025 : comprendre pour mieux agir
+
+   01 octobre 2025
+
+Santé physique, santé mentale : une seule santé pour la prévention
+
+   30 septembre 2025
+
+Communication & Handicap : savoir agir toute l'année
+
+   16 septembre 2025
+
+Connaissez-vous les limites cachées de votre mémoire pour bien se former en
+digital learning ?
+
+   21 août 2025
+
+Communication & handicap : un levier toujours stratégique pour l'employeur
+
+   11 août 2025
+
+   Groupe JLO, filiale du Groupe APICIL
+
+   Le Groupe JLO est un cabinet de conseil en Ressources Humaines expert
+   des enjeux de Qualité de Vie et des Conditions de Travail, et entité du
+   Groupe APICIL.
+
+   598 Boulevard Albert Camus
+   69400 Villefranche-sur-Saône
+   Tél : 04 74 09 08 67
+
+   Sourd, malentendant ?
+
+   Qui sommes-nous ?
+     * Qui sommes-nous ?
+     * Société à Mission
+     * Nos engagements RSE
+     * On recrute
+
+   Notre offre
+     * Conseil RH & QVCT
+     * Accompagnement individuel
+     * Formation RH & QVCT
+     * Solutions digitales & services
+
+   Ressources
+     * Actualité RH & QVCT
+     * Nos livres blancs RH & QVCT
+     * Webinars RH & QVCT
+
+     * RGPD
+     * Accessibilité : partiellement conforme
+     * Lanceur d'alerte
+
+   Certification ISO 9001 Certification QUALIIOPI Certification Great
+   Place To Work
+   © 2023 GROUPE JLO - CGV - Mentions légales - Plan du site
+
+   (BUTTON) Gestion des cookies

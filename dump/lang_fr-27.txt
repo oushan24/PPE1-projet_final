@@ -1,0 +1,1741 @@
+   #Syndiquer tout le site alternate
+
+   dane
+     * Académie numérique
+          + Site académique
+          + Site de la Dane
+          + WebTV
+          + M@gistère
+     * Outils
+          + Blogs
+          + ScolaWebTV
+          + Xia
+          + Éduportail
+     * Sites et actualités
+          + Sites favoris
+          + Sites disciplinaires
+          + Actualités des sites pédagogiques
+          + Éducation aux médias
+          + ENT
+     * Participer
+          + Logiciels libres
+          + Wiki Dane
+          + Créatice
+
+   Académie de Versailles
+
+Centre de Ressources en Économie-Gestion
+
+   Rechercher :
+   ____________________ (BUTTON) >>
+     *
+     *
+     * ENSEIGNER
+          + Enseigner en voie technologique
+          + Enseigner en voie professionnelle
+          + Enseigner en transversalité
+          + Exploiter les PFMP/STAGES
+          + Evaluer
+          + Faire partager les valeurs de la république
+          + Enseigner de façon hybride
+          + En EMI
+     * EXPERIMENTER
+          + Concours et prix
+          + Enseigner avec le numérique
+          + Tester de nouvelles pratiques pédagogiques
+     * ORIENTER
+     * S'INFORMER
+          + Veille informationnelle en économie-gestion
+          + Groupe d'inspection
+          + IAN
+          + Projets et partenariats
+          + Information institutionnelles
+          + Les actualités du CREG LP
+          + LETTRE Édu_Num
+          + Liens utiles
+          + Archives veille scientifique avant 2020
+     * SE FORMER
+          + Se préparer au concours
+          + Vivre son année de stagiaire ou de néo-contractuel
+          + Evoluer dans son métier
+          + S'inscrire à un stage
+          + Journées de l'économie-gestion
+
+     * Accueil >
+     * S'INFORMER >
+     * Archives veille scientifique avant 2020 >
+     * Les risques psychosociaux et la responsabilité du chef d'entreprise
+
+Les risques psychosociaux et la responsabilité du chef d'entreprise
+
+   mercredi 18 septembre 2013, par Christophe Lechaptois
+
+   Une relation de cause à effet semble prévaloir entre le cout des RPS -
+   dont le stress couterait en France de 3 % à 4 % du PIB, soit environ 60
+   milliards d'euros selon le BIT - et la décision de la Cour de cassation
+   obligeant, par un arrêt du 3 février 2010, les entreprises à offrir à
+   leurs salariés un milieu exempt non seulement de tensions, mais aussi
+   de risques de tensions. Si l'application scrupuleuse de la loi par les
+   entreprises ne les immunise pas totalement d'éventuelles tensions, elle
+   peut avoir un effet contreproductif. Quelle orientation les entreprises
+   doivent elles tenir en matière de risques psychosociaux ? C'est
+   difficile à dire. Les entreprises s'intéressent bien sûr à la
+   prévention ou à la gestion de crises humaines déclarées. Leur intérêt
+   se porte aussi, en amont, sur l'impact humain de leur stratégie. Elles
+   n'ont par contre aucune garantie sur le type de management à adopter.
+   Le juge seul appréciera, en cas d'accident du travail, la « faute
+   inexcusable » de l'employeur en fonction des mesures de prévention ou
+   de traitement mis en oeuvre par l'entreprise.
+     Sommaire
+     * Introduction
+     * I. Les risques psychosociaux
+     * II. Le management du risque
+     * Conclusion
+     * Bibliographie
+
+ Introduction
+
+   Les risques psychosociaux et la responsabilité du chef d'entreprise
+
+   La notion de travail trouve son origine dans le mot latin tripalium, un
+   instrument à 3 pieux, un instrument de torture, de combat pour
+   gladiateurs ou destiné à ferrer les chevaux rétifs. Travailler serait
+   donc vécu comme une torture. Torture physique dans le film « les temps
+   modernes », torture morale et risques psychosociaux aujourd'hui en
+   répercussion des pressions mises en oeuvre par toutes les organisations
+   en recherche d'efficacité économique pour les entreprises privées,
+   d'efficacité de l'action publique pour les organisations de la fonction
+   publique. Lorsque les entreprises investissent dans leur système de
+   production de richesses, on constate trop souvent encore qu'elles ne
+   prennent en compte que les aspects organisationnels, techniques et
+   financiers. Mais à un moment ou un autre, elles se trouvent confrontées
+   à des difficultés dans leur gestion des ressources humaines. Les
+   entreprises industrielles notamment maîtrisent pourtant leur niveau de
+   sécurité au travail du fait de l'amélioration de leurs processus de
+   production. Mais l'ensemble des organisations observe une augmentation
+   des nouvelles pathologies du travail : violences physiques et
+   psychologiques, dépendances et stress. L'intensification du travail,
+   l'augmentation des exigences de productivité ont entrainé une
+   dégradation des conditions de travail pour les salariés, dégradation
+   révélée non seulement par l'augmentation du nombre d'accidents du
+   travail et de maladies professionnelles mais aussi par les témoignages
+   de souffrance des salariés au travail, les cas de suicides en étant
+   malheureusement l'expression aigüe. La santé au travail n'est dès lors
+   plus un axe de la gestion des Ressources humaines, elle en est la
+   limite. C'est pour cela que depuis une dizaine d'années, les risques
+   psychosociaux en situation de travail font l'objet de recherches en
+   sciences sociales. L'objectif est ambitieux : la prévention de ces
+   risques majeurs du travail relatifs à la santé et à la sécurité permet
+   non seulement de réduire les coûts cachés du travail, mais plus encore
+   de faire du bien-être au travail un vecteur de performance.
+
+   Lorsqu'on s'interroge sur la signification de l'adjectif
+   « psychosocial » qui qualifie le risque, deux sens différents viennent
+   à l'esprit. En premier lieu, les risques peuvent être relatifs au
+   dommage. Ils s'expriment par des troubles psychologiques, « sociaux »
+   renvoyant à des troubles de l'insertion sociale. En second lieu, les
+   risques psychosociaux sont relatifs aux causes du danger créé par
+   l'interaction d'une situation sociale avec le psychisme. C'est cette
+   deuxième solution qu'a adopté le Ministère du Travail considérant que
+   ce qui fait qu'un risque pour la santé au travail est psychosocial, ce
+   n'est pas sa manifestation, mais son origine : « les risques
+   psychosociaux recouvrent des risques professionnels qui portent
+   atteinte à l'intégrité physique et à la santé mentale des salariés :
+   stress, harcèlement, épuisement professionnel, violence au travail...
+   Ces risques peuvent entraîner des pathologies professionnelles telles
+   que dépressions, maladies psychosomatiques, problèmes de sommeil, mais
+   aussi générer des troubles musculo-squelettiques, des maladies
+   cardio-vasculaires, voire entraîner des accidents du travail ». Ces
+   situations de danger ne sont pas toujours clairement identifiées. A
+   propos du concept de risque en situation de travail, Jean Pierre
+   Brun [1], fait référence, à la relation de cause à effet entre
+   l'exposition aux dangers du travail et les préjudices engendrés par
+   cette exposition. Le risque serait donc probabilisable selon
+   l'acceptation de Frank Knight [2]. Pourtant pour Hervé Lanouzière [3],
+   directeur de l'ANACT [4], les RPS ont la palme de la complexité. Pour
+   Alain Lancryl [5], le stress est encore un concept incertain et ambigu.
+   On retrouve cette ambigüité risque / incertitude relative à la
+   perception des RPS entre les employeurs et les salariés et elle est
+   d'ailleurs développée par les travaux récents des sociologues. Pour
+   Marichalar et Martin [6], la terminologie « risques psychosociaux » est
+   plutôt employée à l'initiative des employeurs. Les salariés et
+   syndicats évoquent davantage leur souffrance psychique à propos des
+   RPS, ils revendiquent ainsi la reconnaissance par l'employeur des
+   conséquences incertaines sur leur santé et leur prise en compte suivant
+   le principe de précaution sous peine d'engager sa responsabilité.
+   Quoiqu'il en soit, pour Brun, il existe un lien de causalité très fort
+   entre le bien-être au travail et l'efficacité des entreprises. Et si
+   « le contexte économique n'a fait qu'amplifier » les risques
+   psychosociaux, « recouvrant des réalités aussi diverses que le
+   harcèlement moral et sexuel, l'épuisement professionnel, les suicides
+   au travail ou encore les violences adressées aux salariés par des
+   personnes extérieures à l'entreprise », le Conseil économique, social
+   et environnemental (CESE) préconise dans un projet d'avis présenté fin
+   Mai 2013 l'amélioration de la prévention des risques psychosociaux au
+   travail. Nous allons voir dans quelle mesure la prévention peut
+   présenter une réponse à l'inquiétude et l'incertitude qui marque les
+   situations de RPS au travail. Dans une première partie, nous ferons le
+   point sur la mise en évidence de la souffrance du salarié, avant de
+   passer en revue les outils de management dont disposent les employeurs
+   pour gérer les RPS.
+
+ I. Les risques psychosociaux : la mise en évidence de la souffrance du
+salarié
+
+   Dans une enquête réalisée en 2003 auprès de 194 personnes, E. Abord De
+   Chatillon [7] compare les conditions de travail des banquiers avec
+   celles de salariés de l'immobilier, deux secteurs a priori comparables.
+   Dans le secteur bancaire, on retrouve davantage de dépressions, plus
+   d'absentéisme et de congés maladies qu'au sein d'autres secteurs. En
+   approfondissant l'explication, les salariés subissent dans ce secteur
+   plus de pression morale, une moindre liberté dans le travail, un
+   sentiment d'iniquité, du mépris voire des manifestations de harcèlement
+   moral, expressions de leur souffrance.
+
+   Les différents acteurs économiques et sociaux reconnaissent à présent
+   la réalité de ces souffrances, il reste néanmoins difficile d'en
+   mesurer l'ampleur et l'évolution en l'absence d'indicateurs spécifiques
+   et fiables. Cette souffrance est complexe, mais l'employeur est tenu
+   envers ses salariés d'une obligation de sécurité de résultat
+   conformément à l'article L4421-1 du Code du travail, engageant de fait
+   sa responsabilité pénale.
+
+A. L'état des lieux des RPS
+
+1. Les chiffres
+
+   Quelques chiffres illustrent l'urgence à agir en matière de risques
+   psychosociaux :
+     * Selon l'IFOP (2007) : 73 % des salariés s'avouent stressés au
+       travail ;
+     * Selon TNS SOFRES (2009), 66 % des français se considèrent de plus
+       en plus stressés au travail.
+     * * Les enquêtes SUMER 2003 et « conditions de travail » 2005
+       réalisées par le ministère chargé du Travail auprès de la
+       population active (disponibles sur le site www.travail.gouv.fr
+       rubrique statistiques) montrent les résultats suivants :
+          + 60 % des salariés interrogés estiment devoir fréquemment
+            interrompre une tâche qu'ils sont en train de faire pour en
+            commencer une autre,
+          + 48 % déclarent travailler dans l'urgence (devoir toujours ou
+            souvent se dépêcher),
+          + 53 % déclarent que leur rythme de travail est imposé par une
+            demande à satisfaire immédiatement,
+          + 1 salarié sur 4 travaillant en contact avec du public subit
+            des agressions verbales,
+          + 42 % déclarent vivre des situations de tension avec le public
+            (parmi les 68 % des salariés en contact avec le public).
+     * Selon la Caisse Nationale d'Assurance Maladie des Travailleurs
+       Salariés (CNAMTS), 20 % des causes des arrêts maladie de plus de 45
+       jours seraient liés à des troubles psychosociaux.
+     * Les français sont les plus démotivés d'Europe selon le baromètre
+       Edenred Ipsos 2013 : en cause, un manque de reconnaissance et une
+       frustration salariale. Ils vont au bureau « à reculons » malgré un
+       attachement plus fort à leur travail que les britanniques plus
+       distants.
+     * Enfin, selon un sondage réalisé dans le cadre de la 10^e semaine
+       pour la qualité de vie au travail, (sondage TNS SOFRES entre le 7
+       et le 17 Mai 2013), près de 7 salariés sur 10 interrogés
+       considèrent que la qualité de vie au travail s'est dégradée au
+       cours des 5 dernières années. Les salariés pointent du doigt le
+       manque de temps et de moyens pour faire leur travail, alors que les
+       exigences de leur employeur restent les mêmes voire progressent.
+
+   L'opinion publique n'a pris conscience du problème du mal-être au
+   travail qu'à travers les médias : en 2006, Sophie Bruneau et
+   Marc-Antoine Roudil réalisaient le documentaire « Ils ne mouraient pas
+   tous mais tous étaient frappés » [8], documentaire mettant en avant les
+   souffrances endurées au travail. En 2009, les suicides sur le lieu de
+   travail dans la société France télécom sont dénoncés. Ces drames qui
+   ont également lieu dans d'autres entreprises, ne sont que la
+   manifestation tragique d'un phénomène beaucoup plus large. En termes de
+   mesure des risques psychosociaux, la France a fait figure de mauvais
+   élève pendant longtemps. Ce n'est qu'en mars 2008 que Xavier Bertrand,
+   alors ministre du travail, a demandé à l'INSEE d'établir une enquête
+   nationale annuelle pour mesurer le stress au travail et identifier les
+   secteurs touchés. Cette initiative fait suite au Rapport sur la
+   détermination, la mesure et le suivi des risques psychosociaux au
+   travail de Philippe Nasse et Patrick Légeron publié en 2008. Pour
+   dresser un premier état des lieux des RPS au travail en France, le
+   collège d'expertise sur le suivi statistique des risques psychosociaux,
+   présidé par Michel Gollac, détermine en octobre 2009 des Indicateurs
+   provisoires de facteurs de risques psychosociaux au travail [9]. La
+   classification en 6 catégories proposée est à présent reconnue. En
+   2011, les conclusions du rapport du même collège d'expertise ont
+   dénoncé l'absence en France d'enquête ciblée sur les RPS au travail.
+   « Les mesures effectuées sont partielles et ont moins de cohérence que
+   dans les meilleures enquêtes étrangères ». L'INSEE aborde le thème des
+   RPS, pour la première fois, dans son enquête sur la qualité de la vie
+   de 2011. Il apparaît par exemple que mal-être au travail et mal-être
+   dans la vie courante ne se substituent pas mais s'ajoutent l'un à
+   l'autre. On peut noter également que l'impact des RPS est comparable à
+   celui des problèmes de santé physique. Pourtant, il est moins fort que
+   l'impact des contraintes financières, de l'isolement social et du
+   stress de la vie courante. Le manque de mesure des RPS en France
+   n'empêche pas les professionnels de pouvoir établir que le stress
+   coûterait chaque année à la France entre 2 et 3 milliards d'euros
+   incluant les coûts de soins et la perte de richesse pour cause
+   d'absentéisme, de cessation prématurée d'activité et de décès prématuré
+   (source INRS - Étude réalisée en 2010 basée sur des chiffres de 2007).
+   Pour remédier à ce constat de carence, l'INSEE a entrepris de réaliser
+   une enquête ciblée sur les RPS en 2015 sur un échantillonnage élargi à
+   toutes les catégories de la population active notamment aux personnes
+   sans emploi.
+
+2. Les RPS et la palme de la complexité
+
+   La complexité d'un système est le produit du nombre des éléments qui le
+   composent et de la variabilité de ces éléments. La variabilité,
+   conséquence de la variation continue ou discontinue, prévisible ou
+   imprévisible des éléments du système engendre différences et
+   spécificités des systèmes. La complexité renvoie donc au nombre
+   d'éléments du système et à leur propre variabilité et à l'état
+   d'incertitude du système. Les RPS sont des risques professionnels qui
+   renvoient aux impacts qu'ont les conditions de travail sur la santé
+   physique et mentale des travailleurs. Ils sont « à l'interface de
+   l'individu et de sa situation de travail ». Les spécialistes évoquent
+   des RPS multifactoriels qui se caractérisent par l'imbrication de
+   facteurs professionnels (organisationnels, relationnels) et
+   extraprofessionnels (familiaux, personnels). Et cette conjugaison joue
+   évidemment sur la complexité du phénomène.
+
+   Force est de constater que le développement des risques psychosociaux
+   est, d'une manière générale, lié aux transformations du travail ainsi
+   qu'à l`environnement économique et social. On retrouve autant de causes
+   internes à l'entreprise sur lesquelles nous reviendront que de causes
+   externes, notamment un environnement économique hypercompétitif, la
+   situation de crise permanente conjuguée à la peur du chômage,
+   l'allongement des temps de transports.
+
+   « Ce qui fait qu'un risque pour la santé au travail est psychosocial,
+   ce n'est pas sa manifestation, mais son origine ». Sont donc
+   psychosociaux les risques suivants :
+
+   a. Le stress au travail
+
+   Il se caractérise par un déséquilibre entre les contraintes imposées en
+   situation de travail (temps, conflits, surcharge de travail...) et la
+   capacité des employés à faire face à celles-ci (AESST 2002). C'est le
+   problème de santé majeur de nos organisations. Dans un environnement
+   perçu comme de plus en plus compétitif et où chacun doit assumer les
+   multiples contraintes de la vie familiale et professionnelle, la
+   pression semble peser de plus en plus lourdement sur les épaules des
+   salariés. Certains d'entre eux ne la supportent pas. L'étude du
+   stress [10] a donné lieu à de nombreux modèles théoriques cherchant à
+   comprendre les relations entre facteurs de stress et indicateurs et
+   symptômes de stress. Pour les biologistes, dont Cannon, le stress fait
+   référence à la rupture de l'équilibre (homéostasie) provoquée par
+   l'action sur l'organisme par un agent extérieur. Pour les médecins, le
+   stress est considéré comme une maladie de l'adaptation. Pour les
+   psychologues Lazarus et Folkmann (1984), il s'agit de comprendre
+   pourquoi un individu perçoit ou non un évènement stressant et de quelle
+   façon il s'adapte. Abord De Chatillon [11] envisage le stress comme
+   cause et conséquence de l'état des conditions de travail.
+
+   Le stress un phénomène récursif complexe : E. Abord De Chatillon
+
+   Deux types de stress peuvent être différenciés :
+     * Le stress aigu affronté par l'individu de manière ponctuelle ;
+     * Le stress chronique : l'individu doit faire face à des situations
+       de stress répété ou cumulé.
+
+   L'accumulation de stress dans la durée, les stress antagonistes
+   situations de « Job strain » (exigences psychologiques élevées et
+   autonomie faible) décrit par Karasek sont particulièrement néfastes
+   pour le travailleur. Le modèle du déséquilibre effort-récompense de
+   Sigriest est lui fondé sur l'idée de la réciprocité des échanges. Une
+   violation de ce principe est de nature à générer de fortes émotions
+   négatives et un stress durable.
+
+   La balance effort-récompense du modèle de Siegrist [12]
+
+   b. L'épuisement professionnel
+
+   Autrement appelé « burn-out », il s'agit d'un épuisement physique,
+   mental, émotionnel et profond du salarié suite aux situations de stress
+   professionnel prolongées. Le salarié perd tout intérêt pour son travail
+   voire perd toute estime de soi. Le « burn-out » est fréquemment la
+   conséquence d'un investissement personnel et affectif important dans
+   son activité professionnelle. On peut ainsi souvent le croiser dans les
+   professions en lien avec la formation, la santé ou l'aide sociale.
+   L'épuisement professionnel a un impact considérable sur la santé du
+   travailleur comme le stress : accident de travail, hypertension,
+   problème cardiovasculaires, troubles anxio-dépressifs, tentative de
+   suicide voire suicide...
+
+   c. Le harcèlement
+
+   Moral ou sexuel, Il consiste en des agissements, abus, menaces,
+   humiliations hostiles exprimés ou manifestés par une ou plusieurs
+   personnes envers une personne victime, atteinte dans sa dignité ou dans
+   son intégrité.
+     * Le harcèlement moral ou psychologique [13] - mobbing en anglais -
+       désigne toute attitude durable et répétée d'un ou plusieurs membres
+       de l'organisation dont l'intention délibérée est d'intimider,
+       dévaloriser ou isoler un autre des membres dans le but de le
+       déstabiliser. Il a pour objet ou pour effet une dégradation des
+       conditions de travail susceptible de porter atteinte aux droits et
+       à la dignité de la personne, d'altérer sa santé ou de compromettre
+       son avenir professionnel.
+     * Le harcèlement sexuel : Il est caractérisé par des agissements dont
+       le but est d'obtenir des faveurs de nature sexuelle à son profit ou
+       au profit d'un tiers.
+
+   Le harcèlement est un processus dynamique en quatre étapes.
+   L'interaction de trois types d'antécédents - la rencontre de deux ou
+   plusieurs individus (caractéristiques de la victime et de l'agresseur)
+   dans un contexte de travail donné (caractéristiques de l'organisation)
+   - (phase 1), développe le comportement de harcèlement (phase 2), qui
+   génère des réponses des individus et de l'organisation (phase 3), et
+   produit trois types de conséquences - conséquences individuelles,
+   organisationnelles et sociétales - (phase 4).
+
+   Le modèle de harcèlement psychologique au travail : G
+   Poilpot-Rocaboy [14]
+
+   Le harcèlement peut être analysé comme une relation de pouvoir entre
+   l'agresseur et le harcelé. Le harcèlement peut être le fait de
+   l'employeur, d'un supérieur, d'un collègue ou d'un subordonné. Aucun
+   rapport n'est exigé entre la victime et l'auteur du harcèlement. La
+   faible estime de soi, le haut niveau d'anxiété, l'introversion, la
+   probité sont pour les victimes soit la cause soit la conséquence de
+   leur harcèlement. Concernant le harceleur, 3 types de harcèlement
+   peuvent être distingués. Le premier lié à la volonté du harceleur de
+   protéger son estime de soi. La seconde forme est liée à un manque de
+   compétences sociales et relationnelles du harceleur. Le harcèlement
+   peut enfin être le résultat de jeux politiques de l'organisation, ce
+   qui explique que les harceleurs sont souvent des managers. Concernant
+   l'organisation, le harcèlement ne peut se développer que dans un
+   contexte organisationnel et/ou culturel tolérant à l'égard de ces
+   comportements. Pour Hirigoyen, il est plus présent dans le secteur
+   tertiaire, le secteur médico-social et l'enseignement. Enfin le
+   changement organisationnel apparait comme un déterminant du
+   harcèlement.
+
+   d. Les violences et agressions
+
+   La violence est le fait pour une personne d'être agressée physiquement
+   ou verbalement du fait de son travail par une personne extérieure au
+   travail ou une personne de l'entreprise. Il peut s'agir d'un manque de
+   respect, d'incivilité, d'agression physique - verbale ou
+   comportementale. Les femmes sont plus essentiellement visées par les
+   violences, en raison de la persistance des stéréotypes et des tabous.
+   La violence peut se manifester au travail en interne : entre les
+   salariés eux-mêmes, entre les salariés et la hiérarchie ; ou être
+   externe, c'est-à-dire entre le personnel et une personne extérieure à
+   l'entreprise mais présente sur le lieu de travail (tel un client).
+   Certains secteurs d'activité sont plus touchés que d'autres par la
+   violence externe. Les activités de service multiplient les contacts qui
+   peuvent créer des tensions voire dégénérer en conflits. Les activités
+   dans lesquelles des personnes manipulent des objets de valeur (banques,
+   bijouteries...) sont fréquemment à la une en termes d'agressions plus
+   ou moins graves.
+
+   Pour ce qui est des violences internes, on constate généralement deux
+   choses :
+     * l'auteur est fréquemment une personne bien intégrée à l'entreprise
+       (il croit alors pouvoir justifier davantage son attitude) ;
+     * la victime n'est pas nécessairement une personne jugée comme
+       fragile (femme, jeune).
+
+   A présent, on ne peut pas passer en revue les risques psychosociaux
+   sans parler du suicide au travail, acte éminemment dramatique, par
+   lequel un individu décide se donner la mort. Le suicide au travail ne
+   relève pas d'une problématique spécifique à un secteur d'activité en
+   particulier, aucun secteur n'est épargné. La révélation des suicides
+   permet juste de matérialiser un sentiment diffus que les conditions de
+   travail se dégradent. Bon nombre d'entreprises avec la complicité de
+   certains syndicats, ont refusé ou refusent toujours d'envisager la
+   complexité de la cause de cet acte. Evacuer le problème en le mettant
+   sur le compte des problèmes personnels et psychologiques rencontrés par
+   les victimes, sans vraiment s'interroger sur les organisations du
+   travail et la façon de les faire évoluer a été jusqu'il y a peu ou est
+   toujours une façon fort rationnelle de le résoudre [15].
+
+3. Les effets des RPS : un enjeu de santé publique
+
+   L'intérêt des dirigeants tant politiques qu'économiques est justifié
+   par l'importance des RPS au travail en tant qu'enjeu de santé publique.
+
+   C'est un enjeu pour les salariés : Les RPS peuvent engendrer des
+   pathologies voire des accidents du travail et avoir des conséquences
+   irréversibles. En termes médicaux, les stresseurs de type psychosocial
+   conduisent notamment à l'augmentation de la sécrétion de certaines
+   hormones, l'augmentation de la tension artérielle, et à la modification
+   de certains comportements « à risque » comme la consommation de tabac
+   ou d'alcool. Ces effets sont autant de :
+     * facteurs de risques cardiovasculaires tels que hypertension,
+       troubles digestifs, métaboliques ;
+     * facteurs de problèmes de santé mentale dont l'anxiété et la
+       dépression constituent l'essentiel des troubles pour les
+       populations au travail ;
+     * facteurs accroissant les risques de troubles musculo
+       squelettiques : entre 40 et 64 ans, en 2008, une personne sur cinq
+       déclarait souffrir d'une lombalgie, d'une sciatique ou d'un
+       lumbago. Le coût des TMS représente plus du tiers des
+       indemnisations du régime général au titre des maladies
+       professionnelles en 2008 (Source CNAMTS 2008).
+
+   C'est un enjeu pour les entreprises. L'impact des RPS sur la santé des
+   salariés se répercute évidemment sur la bonne marche de l'entreprise.
+   Les RPS engendrent une fréquence accrue de l'absentéisme au travail
+   pour raison de santé, des accidents du travail... On constate une
+   baisse de la productivité, l'augmentation du turn-over (taux de
+   rotation du personnel). Plus généralement, on constate une
+   recrudescence des actes de malveillance ou de violence au travail, une
+   dégradation du climat social, des mouvements sociaux et des procédures
+   judiciaires. La prise de conscience de toutes les dimensions des RPS
+   amènent aujourd'hui tous les acteurs de l'entreprise à réfléchir à
+   cette problématique.
+
+B. La judiciarisation des risques psychosociaux
+
+   En matière de RPS, la souffrance des salariés se traduit par une
+   constante augmentation des contentieux. Et cette situation s'est
+   renforcée depuis la mise en examen au mois de juillet 2012 de l'ancien
+   président directeur général de France Telecom, Didier Lombard, pour
+   harcèlement moral après le suicide d'une trentaine de salariés de
+   l'entreprise au cours des années 2008 et 2009.
+
+   L'article L4121-1CT dispose que l'employeur doit prendre les mesures
+   nécessaires pour la protection de la sécurité et de la santé physique
+   et mentale de ses salariés. Cette obligation générale de sécurité
+   s'analyse à présent et selon une jurisprudence désormais bien établie,
+   en une obligation de sécurité et de résultat. Cela concerne aussi les
+   risques psychosociaux. Jusqu'alors, si la responsabilité de
+   l'entreprise pouvait être engagée, c'était essentiellement sur le
+   terrain civil : une responsabilité pour faute de l'entreprise.
+   Aujourd'hui il faut également envisager la possibilité de la mise en
+   cause de la responsabilité pénale de l'entreprise ou de ses
+   représentants pour tous les risques psychosociaux.
+
+1. La faute inexcusable de l'employeur et la réparation des effets sur la
+santé des RPS.
+
+   a. La notion de faute inexcusable
+
+   Les avancées de la jurisprudence ont permis la reconnaissance des RPS à
+   partir du concept d'obligation de sécurité de résultat, elles ont aussi
+   permis de faire évoluer la définition de l'accident du travail,
+   permettant dans certaines circonstances la reconnaissance et la
+   réparation des effets sur la santé des RPS en entreprise. Dès 1898, en
+   cas d'accident du travail ou maladie professionnelle, le principe de la
+   responsabilité de l'employeur était reconnu, mais c'était une
+   responsabilité sans faute ne donnant lieu qu'à une réparation
+   automatique et forfaitaire. En 1941, la jurisprudence « Dame veuve
+   Villa » a permis de définir la faute inexcusable de l'employeur « faute
+   d'une gravité exceptionnelle, dérivant d'un acte ou d'une omission
+   volontaire, de la conscience du danger que devait en avoir son auteur,
+   de l'absence de toute cause justificative et se distinguant, par le
+   défaut d'un élément intentionnel, de la faute intentionnelle ». Les
+   Arrêts amiante de 2002 ont étendu la faute inexcusable, celle-ci
+   passant du manquement à l'obligation de sécurité au manquement à
+   l'obligation de résultat : « En vertu du contrat de travail le liant à
+   son salarié, l'employeur est tenu envers celui-ci d'une obligation de
+   sécurité de résultat, notamment en ce qui concerne les maladies
+   professionnelles contractées par ce salarié du fait des produits
+   fabriqués ou utilisés par l'entreprise ; le manquement à cette
+   obligation a le caractère d'une faute inexcusable, au sens de l'article
+   L. 452-1 du Code de la sécurité sociale, lorsque l'employeur avait ou
+   aurait dû avoir conscience du danger auquel était exposé le salarié, et
+   qu'il n'a pas pris les mesures nécessaires pour l'en préserver ». La
+   responsabilité de l'employeur est même engagée en l'absence de toute
+   faute de sa part (Cass. soc., 21 juin 2006, n° 05-43.914). Depuis, le
+   conseil constitutionnel, saisi d'une question prioritaire de
+   constitutionnalité, impose la réparation intégrale de tous les
+   préjudices dès lors qu'est reconnue une faute inexcusable de
+   l'employeur (Cons. Const., décision n° 2010-8 QPC du 18 juin 2010). Et
+   la responsabilité de l'employeur découle de son obligation de sécurité
+   (Cass. Soc. 1^er mars 2011, n° 09-69.616).
+
+   b. L'obligation de sécurité de résultat concerne aussi les risques
+   psychosociaux
+
+   Dans l'arrêt du 28 février 2002 évoqué ci-dessus, la Cour de cassation
+   énonce que « l'employeur, tenu d'une obligation de sécurité de résultat
+   en matière de protection de la santé et de la sécurité des travailleurs
+   dans l'entreprise, doit en assurer l'effectivité ». L'employeur, pour
+   respecter cette obligation de sécurité de résultat, doit donc mettre en
+   place de véritables mesures de nature à empêcher la survenance d'actes
+   constitutifs de RPS. La Cour de cassation, dans deux arrêts, a jugé que
+   l'employeur n'avait pas respecté cette obligation de sécurité de
+   résultat alors qu'un salarié était victime sur le lieu de
+   travail [16] :
+     * de violences physiques ou morales, exercées par l'un de ses
+       subordonnés (en l'occurrence, un directeur), même s'il a pris - dès
+       qu'il a eu connaissance des faits - des mesures en vue de faire
+       cesser ces agissements (Cass. soc., 3 févr. 2010, n° 08-40.144).
+       Dans cette affaire, la Haute juridiction a considéré que
+       l'employeur ne pouvait ignorer le danger auquel était exposée la
+       salariée et que - même s'il avait pris certaines mesures pour
+       éviter tout nouveau conflit, et donc pour faire cesser le
+       harcèlement - il n'avait pas pris les mesures préventives
+       nécessaires pour l'en préserver, conformément aux articles L.
+       4121-1 et 2 (7°) du Code du travail (ex : formation des managers,
+       systèmes d'alerte en amont pour désamorcer les conflits...) ;
+     * d'agissements de harcèlement moral ou sexuel exercés par l'un ou
+       l'autre de ses salariés, même s'il a pris les mesures en vue de
+       faire cesser ces agissements (Cass. soc., 3 févr. 2010,
+       n° 08-44.019).
+
+2. De la responsabilité civile à la responsabilité pénale
+
+   Concernant le harcèlement moral, les victimes ont tout intérêt à
+   choisir la voie prud'homale pour obtenir réparation de leur préjudice,
+   car elles bénéficient de l'inversion de la charge de la preuve. Il en
+   va tout autrement devant les juridictions pénales : il n'existe aucune
+   présomption de preuve pesant sur l'auteur du harcèlement, la charge de
+   la preuve revient à l'accusation. Aussi, le salarié qui agit devant les
+   juridictions pénales pour faire reconnaître une infraction devra-t-il
+   établir l'intention de nuire de son auteur (Cass. crim., 21 juin 2005,
+   n° 04-86.936). Dans tous les cas, des sanctions civiles (dommages et
+   intérêts) peuvent être demandées par le salarié dans le cadre d'une
+   action en réparation fondée sur l'inexécution par l'employeur de ses
+   obligations légales.
+
+   a. En matière de stress
+
+   Dans un arrêt du 3 Février 2010, n° 08-44.107, la Cour de cassation a
+   dénoncé des méthodes de gestion d'un directeur qui soumettait ses
+   vendeurs à un management par objectifs intensifs et à des conditions de
+   travail très pénibles, se traduisant par des propos insultants et des
+   dénigrements ayant entraîné un état de stress majeur chez le salarié.
+
+   Le 8 novembre 2012 n° 11-23.855, S^té Sédih c/ Guiffre un employeur
+   menant une politique générant du stress est condamné. Dans cette
+   affaire, un salarié est victime d'un infarctus du myocarde dont le
+   caractère professionnel est reconnu. Afin d'obtenir une indemnisation
+   complémentaire, il intente une action en reconnaissance de la faute
+   inexcusable de l'employeur, lequel aurait dû avoir conscience du danger
+   auquel était exposé le salarié mais n'a pas pris les mesures
+   nécessaires pour l'en préserver. Pour cela, le salarié invoque une
+   surcharge de travail provoquée par une politique de réduction des coûts
+   menée depuis plusieurs années par la direction. La Cour de cassation
+   approuve cet argument relevant l'accroissement du travail du salarié
+   sur les années précédant son accident. Cette politique de surcharge, de
+   pressions, et « d'objectifs inatteignables » a généré un stress. Par
+   conséquent, l'employeur a ignoré les données médicales et n'a pas
+   utilement pris la mesure des conséquences de son objectif de réduction
+   des coûts en termes de facteurs de risque pour la santé de ses
+   employés. Dès lors, les conditions de mise en oeuvre de la faute
+   inexcusable sont remplies. Désormais les employeurs devront donc faire
+   attention à ce que la charge de travail ne soit pas trop importante,
+   même si les salariés ne se plaignent pas.
+
+   Le jugement du TGI de Lyon du 4 septembre 2012, « fait défense » à la
+   Caisse d'épargne Rhône Alpes sud « d'avoir recours à une organisation
+   du travail fondée sur le benchmark » consistant en une évaluation
+   permanente... Aucun objectif n'est imposé officiellement aux agences,
+   ni aux salariés. Le seul objectif qui existe est de faire mieux que les
+   autres. Avec un tel système, tout est remis en question chaque jour, ce
+   qui crée un stress permanent, stress exacerbé par le contrôle permanent
+   permis par l'utilisation de l'informatique. Ce jugement devrait être
+   transmis et étudié par toutes les Directions des Ressources Humaines de
+   France.
+
+   b. En matière de harcèlement et de violence
+
+   Le harcèlement est une action punie par la loi tant elle constitue un
+   désir volontaire d'atteindre l'intégrité d'une personne. L'employeur
+   est tenu en vertu du Code du travail de prendre toutes les mesures
+   nécessaires en vue de prévenir et combattre de tels agissements. L'art.
+   L1152-1 du Code du travail concerne le harcèlement moral : aucun
+   salarié ne doit subir les agissements répétés de harcèlement moral qui
+   ont pour objet ou pour effet une dégradation des conditions de travail
+   susceptible de porter atteinte à ses droits et à sa dignité d'altérer
+   sa santé physique ou mentale ou de compromettre son avenir
+   professionnel. L'article L.1153-1 concerne le harcèlement sexuel.
+   L'art. 222-33-2 du Code pénal dispose que le fait de harceler autrui
+   par des agissements répétés ayant pour objet ou pour effet une
+   dégradation des conditions de travail susceptible de porter atteinte à
+   ses droits et à sa dignité, d'altérer sa santé physique ou mentale ou
+   de compromettre son avenir professionnel, est puni de deux ans
+   d'emprisonnement et de 30 000 EUR d'amende. Les jugements suivants
+   montrent en quoi cette responsabilité ne doit pas être prise à la
+   légère. Une situation de harcèlement moral est par exemple constituée
+   lorsque l'employeur impose à une responsable d'effectuer des tâches de
+   manutention lourde de manière répétée au mépris des prescriptions du
+   médecin du travail entraînant des arrêts de travail (Cass., soc., 28
+   janvier 2010 n° 08-42.616). Le licenciement ici est sans cause réelle
+   et sérieuse. Dans un autre cas, l'employeur est responsable des actes
+   de harcèlement moral commis par un tiers (Cass, soc., arrêt du 19
+   octobre 2011 (n° 09-68272). Le harcèlement moral peut donner lieu à
+   l'octroi d'une indemnité spécifique pour sanctions injustifiées (Cass.
+   soc., 30.11.2011 n° 11-10.527 et 11-10.528). En cas de harcèlement,
+   l'employeur doit rapidement sanctionner le salarié fautif (Cass. soc.,
+   29 juin 2011 n° 09-70.902). Le licenciement pour inaptitude d'un
+   salarié peut être annulé lorsqu'il est démontré que le harcèlement
+   sexuel ou moral subi par le salarié est à l'origine de l'inaptitude
+   (Cass. soc, 3 mars 2009, n° 07-44.082). Le harcèlement moral doit être
+   apprécié en tenant compte de l'attitude de la personne qui s'en estime
+   victime (Jugement du Conseil d'Etat. CE 11 Juillet 2011, n° 321225).
+
+   Par ailleurs, ce n'est donc pas l'intention qui caractérise le
+   harcèlement, mais les agissements, dès lors qu'ils répondent aux
+   critères légaux (exemples : réponses managériales abruptes et
+   maladroites en réponse à une mauvaise adaptation du salarié pouvant se
+   confondre avec le pouvoir de direction mais qui ont été reconnus comme
+   caractérisant le harcèlement). Et le contexte organisationnel est
+   déterminant. Dans un arrêt du 10 nov. 2009, n° 07-45.321), la Cour de
+   cassation a décidé que l'organisation du travail et les méthodes de
+   gestion pouvaient être à l'origine de harcèlement moral, dès lors
+   qu'elles se manifestent par des agissements répétés ayant pour objet ou
+   pour effet d'entraîner une dégradation des conditions de travail,
+   susceptibles de porter atteinte aux droits et à la dignité, d'altérer
+   la santé mentale ou de compromettre l'avenir professionnel. Dans cette
+   affaire il s'agissait de reproches incessants, pression continuelle,
+   ordres et contre-ordres, mise à l`écart du salarié, etc. Dans tous les
+   cas, l'employeur verra toujours sa responsabilité engagée. En effet,
+   même si la loi prévoit que chaque salarié doit prendre soin de sa santé
+   et de sa sécurité et de celles des autres personnes concernées par ses
+   actes ou ses omissions au travail, cela n'a pas d'incidence sur le
+   principe de responsabilité de l'employeur (C. trav., art. L. 4121-1 et
+   s.et C. trav., art. L. 4122-1).
+
+   c. L'épuisement professionnel ou burn-out
+
+   Après le harcèlement moral, agir sur la charge de travail pourrait bien
+   être le grand chantier des prochaines années. En décembre 2012, le TGI
+   de Créteil a fait suspendre le plan « Organisation 2012 » de la FNAC au
+   motif notamment d'une analyse insuffisante du report de la charge de
+   travail sur les postes de travail conservés et induit par ce plan. En
+   juin 2011, les conclusions du TGI de Versailles à l'encontre de Renault
+   mettaient également en évidence l'absence de mesures prises par
+   l'entreprise pour évaluer la charge de travail d'un de ses salariés.
+   Dans un arrêt du 13 mars 2013 (n° 11-22.082), la Cour de cassation
+   vient préciser sa jurisprudence en affirmant que ce motif ne peut être
+   utilisé pour justifier un licenciement, lorsque les absences du salarié
+   ont été causées par un manquement de l'employeur à son obligation de
+   sécurité de résultat. En l'espèce, le salarié avait subi un épuisement
+   professionnel (burn-out) généré par une surcharge de travail.
+
+   La Cour de cassation affirme que « lorsque l'absence prolongée du
+   salarié pour cause de maladie résulte d'un manquement de l'employeur à
+   l'obligation de sécurité de résultat, ses conséquences sur le
+   fonctionnement de l'entreprise ne peuvent être invoquées pour justifier
+   un licenciement ». L'obligation du contrôle de la charge de travail des
+   salariés dans les entreprises recourant au forfait jour par exemple
+   (Cass. soc., n° 11-14540 du 26 septembre 2012), la multiplication et
+   l'intensité des réorganisations, les changements de paradigmes
+   socio-économiques que vivent nos sociétés modernes nécessitent d'agir
+   dès à présent sur la charge de travail au risque que celle-ci devienne
+   une bombe à retardement dont le tic-tac est déjà audible.
+
+   d. Dépressions et suicides
+
+   Un certain nombre de cas de jurisprudence portent sur des souffrances
+   psychiques ou autres atteintes à la santé mentale. Les juges du fond
+   assimilent de plus en plus ces souffrances à des accidents du travail.
+   Un arrêt de travail a été prescrit à une salariée pour « dépression ».
+   La Cour de Cassation dans un arrêt en date du 1^er juillet 2003, a
+   souligné le caractère soudain de cette dépression qui était liée, pour
+   les juges, au travail (à la suite d'un entretien professionnel avec le
+   supérieur hiérarchique). La qualification d'accident du travail a donc
+   été retenue.
+
+   De 2008 à 2009, selon les données de la CNAMTS/DRP, 107 décès par
+   suicide ont fait l'objet d'une demande de reconnaissance au titre des
+   accidents du travail. L'employeur est ainsi tenu d'agir sur le risque
+   « suicide ». Les suicides peuvent être qualifiés d'accident du travail
+   par la jurisprudence dans deux cas :
+     * Si l'acte suicidaire s'inscrit et est en relation directe avec un
+       accident de travail antérieur ;
+     * Si l'acte suicidaire intervient en lien avec le travail. Avant 2007
+       la Cour de cassation, très réservée, demandait un lien clair entre
+       l'acte et le travail.
+
+   Depuis 2007, la jurisprudence a établi un tournant en matière de
+   requalification des suicides en accident du travail. La Cour de
+   Cassation reconnaît même, le 22 février 2007 n° 05-13.771, le caractère
+   d'accident du travail à un suicide intervenu au cours d'un arrêt
+   maladie (hors temps de travail). Il convient seulement de prouver que
+   « le suicide est survenu par le fait du travail ».
+
+   Le tribunal de sécurité sociale des Yvelines, dans un arrêt du 9 mars
+   2010 (n° 07-01555), a considéré que le suicide d'un salarié, survenu en
+   raison du stress au travail, constituait un accident du travail, le
+   fait générateur de cet accident étant la surcharge de travail et la
+   dégradation des conditions de travail. Dans une autre affaire
+   concernant le suicide d'un ingénieur, la Cour d'appel rappelle que
+   lorsqu'un employeur ne fait pas preuve de réactivité devant la
+   dégradation de l'état de santé d'un salarié et l'absence d'un système
+   de prévention performant du stress au travail, il commet une faute
+   inexcusable (CA Versailles 19 mai 2011 n° 10-000954).
+
+   Pour conclure, les RPS ont la palme de la complexité, les RPS ont la
+   palme de la souffrance. Le niveau de cette souffrance est en relation
+   directe avec l'augmentation des contentieux en la matière. Nous allons
+   voir à présent comment l'employeur peut parvenir à transformer cette
+   complexité en risque et ainsi mieux les contrôler.
+
+ II. Le management du risque par l'employeur
+
+   Pour l'OMS (Organisation Mondiale de la Santé), la santé ne consiste
+   pas seulement en une absence de maladie ou d'infirmité, la santé est
+   définie comme un état de complet bien-être physique, mental et social.
+   Pour l'OIT (l'Organisation Internationale du Travail), la santé est un
+   état de bien être dans lequel la personne peut se réaliser, surmonter
+   les tensions normales de la vie, accumuler un travail productif et
+   fructueux et contribuer à la vie de sa communauté. Dès lors, se
+   préoccuper du bien-être des travailleurs signifie identifier les RPS
+   comme « un risque particulier qu'il faut traiter comme les autres ».
+   Mais aussi comme « risque comme les autres qu'il faut traiter de
+   manière particulière ». Nous avons analysé dans la première partie les
+   manifestations des RPS. Il nous faut à présent sur la base d'une
+   typologie des origines des RPS identifier les facteurs de risque au
+   sein de l'entreprise afin d'envisager la gestion de ces risques.
+
+A. L' identification des facteurs psychosociaux à l'origine des RPS
+
+   Les déterminants principaux des RPS sont bien identifiés. Mais, comme
+   pour tous les autres risques professionnels, il n'existe pas une grille
+   unique d'analyse.
+
+1. Le collège d'expertise
+
+   Le collège d'expertise sur le suivi statistique des RPS présidé par
+   Michel Gollac [17] a relevé 6 catégories de risques psychosociaux :
+     * L'intensité au travail : contraintes de rythmes durée et
+       organisation du temps de travail.
+     * Exigences émotionnelles : relation au public, situation confrontant
+       au contact avec la souffrance, devoir cacher ses émotions, peur au
+       travail.
+     * L'autonomie : autonomie dans la tâche, prévisibilité du travail,
+       utilisation et accroissement des compétences, monotonie et ennui.
+       Plaisir au travail.
+     * Les rapports sociaux au travail : représentation des rapports
+       sociaux telle l'intégration, la justice organisationnelle, la
+       reconnaissance, relation avec les collègues et avec la hiérarchie,
+       la rémunération, la carrière, violence interne.
+     * Les conflits de valeurs : conflits éthiques, qualité empêchée,
+       travail inutile.
+     * L'insécurité de la situation de travail : sécurité de l'emploi, du
+       salaire, de la carrière, soutenabilité du travail, changements.
+
+   C'est la typologie à la base de la grille d'évaluation ci-dessous
+   proposée dans le rapport sur les risques psychosociaux du Conseil
+   Economique et Social paru en mai 2013 [18].
+
+2. Hervé Lanouzière
+
+   Quant à Hervé Lanouzière, conseiller technique à la direction générale
+   du travail, il définit quatre grandes familles de risques
+   psychosociaux : la charge de travail, la reconnaissance du travail, la
+   qualité du travail et les changements et restructuration, typologie
+   base de grilles d'analyse qui peut être également exploitée en
+   entreprise dans le cadre d'audit des RPS [19].
+
+   - La charge de travail :
+
+   On vise ici l'organisation même du travail. La charge de travail n'est
+   pas en elle-même facteur de risques psychosociaux. Il existe des
+   salariés qui peuvent très bien supporter une lourde charge de travail.
+   La charge de travail va être facteur de RPS lorsque les marges de
+   manoeuvres et d'autonomie dont dispose le salarié dans son travail vont
+   être réduites. Plus celles-ci sont faibles, plus les risques sont
+   élevés. Il en est de même en cas d'absence de soutien social de la part
+   de la hiérarchie ou/et des collègues de travail. Ces différents
+   facteurs permettent d'identifier la tension au travail (« job strain »)
+   subie par un salarié. Un système d'évaluation de la tension a été mis
+   en place par Karasek [20], un sociologue américain. On évalue ainsi la
+   demande psychologique à laquelle le salarié est soumis, la latitude
+   décisionnelle et le soutien social qu'il reçoit sur son lieu de
+   travail.
+
+   Les questions que l'entreprise doit se poser pour éviter ces risques
+   peuvent être les suivantes : la charge de travail est-elle bien
+   répartie ? Les responsabilités sont-elles clairement identifiées ? Les
+   salariés ont-ils des marges de manoeuvre et des tâches variées ?
+   Niveau de risque Définition de chaque niveau de risque Exemples
+   3 Surcharge constante de travail - Plusieurs tâches à effectuer en même
+   temps ou avec un temps insuffisant
+   - Non remplacement des personnes absentes
+   - Ajout de tâches sans vérifier la disponibilité du salarié
+   2 Surcharge fréquente de travail - Variation de la charge de travail en
+   fonction de la demande des clients
+   1 Surcharge ponctuelle de travail - Travail interrompu
+   - Travail urgent ou imprévu (exigence d'heures supplémentaires)
+   0 Charge de travail adéquate - Objectifs adéquats et réalisables dans
+   les heures de travail
+   - Travail respectant les aptitudes de chacun
+   - Appel à des ressources temporaires en cas de surcharge de travail
+
+   Selon une étude du groupe Cegos de septembre 2012 (groupe de conseil et
+   formation), seuls 37 % des salariés du privé estiment que l'effectif de
+   leur service est adapté à la charge de travail. L'organisation du
+   travail est d'ailleurs citée par ces salariés comme le 1^er facteur de
+   stress.
+
+   - La reconnaissance du travail :
+
+   Sont ici visées les relations avec la hiérarchie, avec les collègues ou
+   avec les clients/usagers. L'absence de reconnaissance au travail est
+   source de risque. Les salariés doivent avoir un « retour » sur leur
+   travail et sentir qu'ils sont utiles à leur entreprise. Une étude de
+   Lanouzière réalisée en Finlande sur des managers montre combien cette
+   reconnaissance du travail est mise à mal. La simple question suivante
+   l'exprime parfaitement.
+
+   « Quand pour la dernière fois avez-vous fait un reproche à un
+   salarié ? » -> Réponse du tac au tac « ce matin » ou « hier soir »
+
+   « Quand pour la dernière fois avez-vous complimenté un salarié ? » ->
+   Réponse non spontanée, incertaine et évasive « Je ne sais pas » ou « il
+   y a trois semaines ».
+   Niveau de risque Définition de chaque niveau de risque Exemples
+   3 Absence de soutien de la hiérarchie - Les supérieurs ne sont pas
+   accessibles
+   - Les supérieurs sont incapables de gérer les conflits
+   - Conflits entre les collaborateurs
+   2 Présence de la hiérarchie avec faible soutien - Supérieurs
+   accessibles mais laissant traîner les problèmes et ne soutenant pas les
+   équipes
+   1 Bon soutien mais hiérarchie peu accessible - Le supérieur gère les
+   conflits par personne tierce
+   - Le supérieur met en place des mécanismes pour donner suite aux
+   requêtes et suggestions dans un délai raisonnable
+   0 Bon soutien et supérieurs accessibles - Le supérieur se soucie du
+   bien être
+   - Le supérieur tient souvent des réunions avec ses équipes et sait
+   favoriser le travail en équipe
+   - Le supérieur prend le rôle de médiateur et gère les conflits
+
+   M. Dejours, psychiatre et psychanalyste, est l'un des premiers à avoir
+   mis en lumière le facteur de la reconnaissance du travail. Un
+   questionnaire dit de « Siegrist » permet de détecter les déséquilibres
+   entre les efforts fournis et la reconnaissance reçue [21].
+
+   Selon l'étude du groupe Cegos (septembre 2012), 39 % des salariés
+   estiment que leur responsable hiérarchique est attentif à leur
+   bien-être et 35 % estiment qu'il régule les tensions au sein de
+   l'équipe.
+
+   - La qualité du travail :
+
+   La qualité du travail ne doit pas devenir secondaire. Le salarié doit
+   pouvoir considérer que son travail est un travail de qualité. On
+   renvoie aux conflits de valeur et à l'articulation entre vie privée et
+   vie professionnelle.
+
+   On citera par exemple le fait pour un cadre d'être « joignable et
+   disponible » à tout moment par e-mail, téléphone, smart phone ...
+   Niveau de risque Définition de chaque niveau de risque Exemples
+   3 Absence de conciliation travail/vie personnelle - Pas de délai de
+   prévenance
+   - Recours aux heures supplémentaires systématique
+   - Sollicitation fréquente en dehors des jours et heures de travail
+   2 Mesures contraignantes - Recours fréquent aux heures supplémentaires
+   - Souplesse dans les horaires
+   - Astreintes
+   1 Entreprise sensibilisée avec mises en place de dispositifs - Horaires
+   variables
+   - Pas de réunion avant 9h et après 18h
+   - Renault : interdiction aux cadres d'ouvrir leur boîte mail après 20h
+   0 Equilibre vie professionnelle et vie privée par certaines mesures
+   - Aménagement des horaires (pour les familles notamment)
+   - Temps partiel choisi
+   - Souplesse dans les modalités de récupération
+   - Souplesse dans la prise des CP
+
+   - Les changements et restructurations :
+
+   Les restructurations, réorganisations ou changements de toute nature
+   créent un sentiment d'insécurité pour les salariés sur leur avenir. Les
+   salariés ont peur du changement et ont besoin d'un accompagnement.
+   Niveau de risque Définition de chaque niveau de risque Exemples
+   3 Restructuration en cours ou à prévoir - Baisse de l'activité avec
+   licenciements économiques
+   - Projet de fusion/absorption
+   2 Activité fluctuante avec des effectifs à la baisse - Préférence pour
+   le recours aux CDD et intérims
+   - Non remplacement des départs
+   1 Activité forte avec maintien de l'emploi - Grand nombre de salariés
+   en CDI
+   - Augmentation des effectifs
+   0 Marché pérenne ou en développement, forte croissance - Multiplication
+   des CDI
+   - Absence de peur d'être licencié
+   Niveau de risque Définition de chaque niveau de risque Exemples
+   3 Absence d'information sur le contexte et les perspectives - Pas
+   d'information sur l'économie, les politiques, les plans de
+   restructurations en cours
+   2 Information ponctuelle et partielle - Communication de la direction
+   - Information limité
+   - Aucune rencontre
+   1 Information et rencontre avec les managers - Réunion avec la
+   direction et les managers après une décision
+   - Réunion occasionnelle pour communiquer
+   0 Politique de communication - Politique claire
+   - Information bien diffusée et transparente
+   - Information régulière
+   - Multiplication des échanges
+
+3. Typologie basée sur des facteurs organisationnels et managériaux
+
+   La finalité de la médecine du travail est de protéger la santé au
+   travail. Si elle s'est construite autour d'une approche individuelle,
+   la loi du 20 juillet 2011 sur la réforme de la médecine du travail
+   cherche à présent à promouvoir l'approche organisationnelle et
+   managériale dans le cadre d'actions collectives et pluridisciplinaires
+   que les médecins du travail pourraient orchestrer. S'appuyant sur une
+   enquête qualitative menée auprès de trente médecins du travail, une
+   étude a proposé une typologie des souffrances permettant d'appréhender
+   la perception en vue d'une mise en oeuvre d'une prévention, résumée
+   dans le tableau suivant [22].
+
+4. D'autres questionnaires sont basés sur des questions ouvertes [23] posées
+lors d'entretiens.
+
+   Si ces questionnaires plus personnalisés permettent d'établir une
+   empathie face à la souffrance subie, la mise en oeuvre des entretiens
+   est plus délicate. Les entretiens ne peuvent donc être destinés qu'à un
+   échantillon de personnes plus ciblé et restreint. De la même manière
+   que l'exploitation des réponses.
+
+5. Le bilan social, le tableau de bord social
+
+   Dans le registre de l'identification des risques psychosociaux, il faut
+   enfin noter les outils essentiels que sont le bilan social défini par
+   l'article L. 2323-70 CT et le tableau de bord social. [Pour les
+   entreprises dont l'effectif dépasse 300 salariés], « Le bilan social
+   récapitule en un document unique les principales données chiffrées
+   permettant d'apprécier la situation de l'entreprise dans le domaine
+   social, d'enregistrer les réalisations effectuées et de mesurer les
+   changements intervenus au cours de l'année écoulée et des deux années
+   précédentes. Le bilan social comporte des informations sur l'emploi,
+   les rémunérations et charges accessoires, les conditions de santé et de
+   sécurité, les autres conditions de travail, la formation, les relations
+   professionnelles ainsi que sur les conditions de vie des salariés et de
+   leurs familles dans la mesure où ces conditions dépendent de
+   l'entreprise ».
+
+   L'article R. 2323-17 du Code du travail définit sous forme de tableau
+   la liste des informations à remplir. Les indicateurs du bilan social en
+   lien avec les RPS figurent au 1^er chapitre « Emploi » rubrique 18
+   Absentéisme : un absentéisme élevé peut être expliqué par un mal-être
+   ou une souffrance au travail. Le chapitre 3 « Conditions d'hygiène et
+   sécurité » et le chapitre 4 « Autres conditions de travail »
+   constituent également autant d'informations pertinentes au regard des
+   RPS dans la recherche de solutions adaptées. Le tableau de bord social
+   est lui, un instrument essentiel au pilotage de la performance des
+   ressources humaines et permet de mettre en évidence par des chiffres
+   les dysfonctionnements présents au sein de l'entreprises. Il aide et
+   oriente le dirigeant vers la conduite la meilleure à adopter en matière
+   de ressources humaines, en particulier il permet de cibler et
+   surveiller les postes sensibles. Le tableau de bord social permet de
+   comparer les indicateurs sociaux d'un exercice à l'autre. La difficulté
+   consiste à définir les meilleurs indicateurs en lien avec les besoins
+   et l'activité de l'entreprise et de traiter let analyser les données
+   collectées.
+
+   En définitive, sur la base des typologies proposées par Gollac,
+   Lanouzière ou d'autres, il existe une multitude de « questionnaire » ou
+   « test ». Tous ont la même fonction : mettre en avant les difficultés
+   ressenties par les salariés de l'entreprise. La recherche de cohérence
+   est toutefois fondamentale pour faciliter la comparaison entre
+   entreprises, faciliter une analyse de l'évolution de la situation d'une
+   période à une autre, ou même faciliter la réponse et l'exploitation des
+   questionnaires. A présent que les risques sont identifiés, il est
+   possible d'envisager une mise en oeuvre des dispositifs managériaux de
+   gestion des RPS.
+
+B. Les dispositifs managériaux de gestion des risques psychosociaux
+
+   Avec l'augmentation des risques psychosociaux, le management de
+   l'entreprise est l'objet de nombreuses critiques. Pour autant si le
+   management peut être à l'origine des risques psychosociaux, il
+   détermine aussi les conditions du bien-être au travail. Les dispositifs
+   managériaux de gestion des risques psychosociaux sont largement
+   orientés par la législation. Ensuite, lorsqu'on envisage ces
+   dispositifs, on pense de prime abord à la prévention dont la démarche
+   vise à éviter la maladie ou le handicap (approche pathogénique de la
+   santé), avec la définition d'une batterie d'indicateurs de suivi. Pour
+   autant il est possible d'envisager une démarche autre portant sur
+   l'amélioration des conditions de travail : c'est la démarche de
+   bien-être, qui fait du travail un élément de construction de la santé
+   (approche salutogénique), démarche bâtie autour d'actions collectives
+   et pluridisciplinaires.
+
+1. Les dispositifs légaux de la protection des salariés
+
+   Depuis un peu plus d'un siècle, le droit du travail s'est construit en
+   préoccupation de la santé physique des salariés. L'employeur est tenu
+   envers ses salariés d'une obligation de sécurité et une obligation de
+   résultat. Aucune direction d'entreprise aujourd'hui ne peut contourner
+   la question des RPS, particulièrement dans un contexte social tendu.
+   Les actions multiples dans ce domaine sont largement orientées par
+   l'intervention publique. La prise en compte des risques psychosociaux
+   par l'employeur ne s'arrête pas à la loi de 2002. De nouvelles lois
+   font évoluer le Code du travail et le Code pénal dans la prise en
+   compte de mesures de protection relative aussi bien à la sécurité des
+   travailleurs qu'à leur santé physique et mentale.
+
+   a. Les incitations publiques, l'expression du dialogue social montrent
+   à quel point le sujet est brûlant.
+     * Mars 2008 : le rapport Nasse Légeron sur la détermination, la
+       mesure et le suivi des RPS est réalisé sur demande du Ministre du
+       travail
+     * Octobre 2009 : Le ministre du Travail présente, le 9 octobre, un
+       plan d'action d'urgence pour la prévention du stress au travail. Ce
+       plan vise « à mobiliser les employeurs des secteurs privé et public
+       sur cette problématique ».
+     * Février 2010 : rapport Lachmann Larose Pénicaud [24] à la demande
+       du premier ministre : 10 propositions pour améliorer la santé au
+       travail.
+     * 15 février 2012 : Le Comité des hauts responsables de l'inspection
+       du travail (CHRIT) a décidé de mener une campagne de contrôle sur
+       les RPS dans 11 pays de l'UE.
+     * Dans le cadre du dialogue social, les dispositifs de négociations
+       entre partenaires sociaux ont permis la conclusion d'accords
+       nationaux interprofessionnels (ANI) :
+          + Sur le stress le 2 juillet 2008, ANI étendu par arrêté du 23
+            Avril 2009. Des accords de branche et accords d'entreprises
+            prévoient également des dispositifs de lutte contre le stress
+            (site travailler mieux http://www.travailler-mieux.gouv.fr/
+            ) ;
+          + Sur la prévention du harcèlement moral et sexuel et des
+            violences au travail le 26 mars 2010.
+
+   La prévention des RPS constitue l'une des quatre priorités d'action de
+   la branche AT/MP pour la période 2009-2012. Elle est devenue une action
+   de priorité nationale et atteste de la volonté des partenaires sociaux
+   de concevoir et déployer des dispositifs pour les combattre. Elle
+   accompagne les employeurs dans le respect de leur obligation de
+   sécurité de résultat visant à :
+     * supprimer ou réduire les facteurs à l'origine des RPS ;
+     * mettre en oeuvre des mesures d'actions au profit des salariés.
+
+   La prévention est réellement mise en oeuvre tous azimuts comme pour
+   montrer encore davantage l'urgence du problème :
+     * Rapport de la Commission Européenne de 1996 sur le stress « Manuel
+       d'orientation sur le stress lié au travail, piment de la vie ou
+       coup fatal » présente les lignes directrices recommandées aux Etats
+       membres en matière de gestion du stress sur le lieu de travail.
+     * En 2002, l'agence européenne pour la sécurité et la santé au
+       travail a publié un recueil d'interventions réalisées dans
+       différents pays « prévention pratique des RPS et du stress du
+       travail ».
+     * Le gouvernement a mis en place un site relatif à la prévention des
+       RPS
+       www.travailler-mieux.gouv.fr/Stress-les-risques-psychosociaux.html.
+
+   b. Le cadre juridique régissant les RPS
+
+   Le cadre juridique (Droit national) qui régit les risques psychosociaux
+   est globalement repris dans le document de la Direction générale du
+   travail publié en 2010 [25].
+     * Les éléments qui concernent la protection de la santé physique et
+       mentale du salarié sont les suivants : Les articles L. 4121-1 et L.
+       4121-2 du Code du travail énoncent les obligations de prévention de
+       l'employeur. L'employeur a également une obligation de réparation
+       en cas de faute inexcusable. La circulaire n° 6 DRT du 18 avril
+       2002 prise pour l'application du décret n° 2001-1016 à l'origine de
+       la création du document relatif à l'évaluation des risques (DUER
+       Document unique d'évaluation des risques [26]) pour la santé et la
+       sécurité des travailleurs, prévue par l'article L. 230-2 CT -
+       ancien - et modifiant le Code du travail.
+     * Concernant plus particulièrement le harcèlement, les textes majeurs
+       sont les suivants : Arrêté du 23 juillet 2010 portant extension
+       d'un accord national interprofessionnel sur le harcèlement et la
+       violence au travail ; Accord du 26 mars 2010 sur le harcèlement et
+       la violence au travail ; Article L. 1151-1 : champ d'application ;
+       Articles L. 1152-1 à L. 1152-6 : harcèlement moral ; Articles L.
+       1153-1 à L. 1153-6 : harcèlement sexuel ; Articles L. 1154-1 à L.
+       1154-2 : actions en justice ; Articles L. 1155-1 à L. 1155-4 :
+       dispositions pénales.
+
+   L'introduction du harcèlement moral dans les Codes du travail et pénal
+   incite les victimes de harcèlement à agir activement. Enfin, après la
+   suppression inattendue par le Conseil constitutionnel le 4 mai 2012 du
+   délit de harcèlement sexuel, la loi du 6 aout 2012 l'a réintroduit en
+   améliorant sa définition.
+     * Le droit d'alerte du délégué du personnel est repris à l'Article L.
+       2313-2.
+     * Le Règlement intérieur Article L. 1321-2 : celui-ci doit énoncer
+       les dispositions relatives aux harcèlements moral et sexuel prévues
+       par le Code du travail.
+     * Concernant le stress, la lettre de la DGT du 10 décembre 2009
+       contraint les entreprises de plus de 1 000 salariés d'ouvrir avec
+       les Organisations syndicales des négociations sur le stress.
+
+   L'employeur doit penser aux conséquences de ses décisions en matière de
+   gestion et d'organisation du travail sur la santé de ses salariés. Il
+   est responsable civilement, et s'expose à des sanctions pénales sur la
+   base du délit de mise en danger délibéré de la personne d'autrui (C.
+   pén., art. 223-1) ou d'homicides ou blessures involontaires(C. pén.,
+   art. 221-6 et s. ; C. pén., art. 222-19 et s.). Au pénal, l'auteur des
+   agissements peut être poursuivi sur la base du délit de harcèlement
+   sexuel (C. pén., art. 222-33), de harcèlement moral (C. pén., art.
+   222-33-2), ou sur la base du délit de menaces (C. pén., art. 222-17 et
+   s.) ou de violences (C. pén., art. 222-7 et s.).
+
+   Le non-respect des obligations engage la responsabilité exclusive du
+   chef d'entreprise, et ce même si c'est un salarié qui méconnait la
+   règle. Dans ce contexte la faute est caractérisée par simple défaut de
+   surveillance. Cette présomption peut être toutefois levée si une
+   délégation a été attribuée. (C. pén., art. 121-2 et 121-3). Mais la
+   délégation pour être valable doit respecter un minimum de règles : elle
+   doit être antérieure au constat de l'infraction, précise, acceptée par
+   le délégataire qui doit être investi de l'autorité, de la compétence et
+   des moyens nécessaires à l'exercice de sa mission.
+
+   c. L'engagement de l'Etat
+
+   Les établissements publics et associations à mission de service
+   public : CNAMTS, ANACT et INRS ont un rôle d'accompagnement des
+   entreprises dans la lutte contre les RPS. Dans le cadre d'une action
+   nationale de sensibilisation contre le harcèlement sexuel, le
+   gouvernement a mis récemment à disposition des citoyens un site
+   Internet et deux numéros d'appels à destination des victimes de
+   violences (www.stop-harcelement-sexuel.gouv.fr). On peut en particulier
+   y trouver :
+     * Des affichettes rappelant que le harcèlement sexuel est un délit.
+       Elles sont imprimables à partir du site Internet et peuvent être
+       affichées dans les entreprises, dans le cadre de l'obligation pour
+       l'employeur d'afficher le texte du Code pénal réprimant le délit de
+       harcèlement sexuel sur le lieu de travail et dans les locaux ou à
+       la porte des locaux où se fait l'embauche.
+     * Des indications sur la marche à suivre pour les victimes et témoins
+       de harcèlement sexuel.
+     * Un rappel du contenu de la loi 2012-954 du 06 août 2012 qui a
+       redéfini le délit de harcèlement sexuel et aggravé les peines
+       encourues.
+
+2. les dispositifs managériaux de gestion des risques.
+
+   La prévention de risques psychosociaux est un enjeu majeur et
+   l'anticipation est devenue prioritaire. Les approches qui sous-tendent
+   l'intérêt de prévenir pour réduire les RPS sont de plusieurs ordres :
+     * approche économique : la promotion de la santé au travail génère
+       des bénéfices économiques (ex : diminution de l'absentéisme et des
+       accidents de travail) mais aussi au plan social (ex : meilleure
+       performance globale due à un climat social moins conflictuel) et
+       pour les personnes (ex : amélioration de la satisfaction
+       professionnelle) et le développement de l'image « corporate » de
+       l'entreprise (ex : satisfaction des clients, engagement concret
+       dans la responsabilité sociale de l'entreprise).
+     * approche gestionnaire : rationalisation de la gestion des
+       ressources humaines lors de la mise en place de nouvelles méthodes
+       d'organisation du travail et de management sur les lieux de travail
+       (prise en compte du facteur humain et de la santé des
+       travailleurs).
+     * approche sociale : prise en compte de la vie privée des salariés
+       (ex : arrivée des femmes sur le marché du travail, développement de
+       technologies de communication).
+
+   A côté des démarches de prévention, d'autres misent sur la
+   reconnaissance ou mettent en oeuvre des actions de promotion de la
+   santé. On vise à promouvoir les comportements sains et on met en oeuvre
+   des actions concernant l'organisation du travail. On introduit des
+   politiques de qualité de vie ou de bien-être au travail.
+
+   On retrouve classiquement trois types de prévention :
+     * La prévention primaire : elle s'applique quand des contraintes
+       inhérentes au métier ou à l'organisation apparaissent dans
+       l'entreprise. L'objectif est de réduire ou éliminer ces contraintes
+       avant quelconque impact. Exemples : enrichir le travail - augmenter
+       l'autonomie - harmoniser vie privée/vie professionnelle.
+     * La prévention secondaire : les contraintes exercées ont déjà un
+       impact sur les travailleurs et on tend à inverser, réduire ou
+       ralentir la progression des RPS. Exemples : action avec les
+       managers - coaching - promotion.
+     * La prévention tertiaire : les personnes sont déjà touchées par les
+       pathologies. On évite alors que l'état de santé de ces personnes ne
+       se détériore davantage. On tend vers une prise en charge médicale
+       et psychologique pour un retour au travail (tentative de suicide,
+       dépression nerveuse, absentéisme de longue durée...) Exemples :
+       gestion du stress - numéros verts - traitements - aide au retour
+       vers le travail.
+
+   La mise en place d'une mesure de prévention s'effectue toujours de la
+   même manière : Mise en place d'un projet et renvoie aux méthodes
+   traditionnelles de prévention des risques professionnels :
+     * Engagement d'une action. Il s'agit de regrouper l'ensemble des
+       acteurs (direction, RH, IRP, CHSCT, service de santé au travail,
+       assistants sociaux...) afin de traiter de la problématique des RPS.
+       Ensemble, ils se doivent, après avoir ciblé les secteurs les plus
+       touchés et les acteurs pouvant agir, d'opter pour la mise en place
+       d'action de prévention.
+     * Réaliser un diagnostic. Il s'agit d'analyser et de comprendre les
+       questions de santé dans l'entreprise. Afin de poser un diagnostic,
+       des indicateurs avec des données quantitatives et qualitatives
+       doivent être fournis. Les difficultés doivent être ciblées. On vise
+       à évaluer les risques. Exemples : données sur les AT/MP - maladies
+       - arrêts de travail, recueil des conflits collectifs (actes de
+       violence, insubordination), données sur le fonctionnement
+       (burn-out, absentéisme, démissions, non-respect des délais,
+       mauvaise qualité, incidents avec les clients) - envoi d'un
+       questionnaire aux salariés. L'évaluation doit être transcrite dans
+       le document unique d'évaluation des risques.
+     * Définir un plan d'intervention. Il s'agit de définir les
+       changements nécessaires pour améliorer la santé physique et mentale
+       des travailleurs, et les moyens adaptés pour y parvenir.
+     * Mettre en oeuvre l'action de prévention consiste à réaliser les
+       changements organisationnels et/ou conjoncturels.
+     * Juger de l'efficacité de l'action revient à évaluer l'impact de
+       l'action vis-à-vis des travailleurs. Le plan doit être suivi pour
+       vérifier sa mise en application effective et son efficacité. La
+       démarche peut ainsi s'inscrire dans le document unique d'évaluation
+       des risques, notamment au travers de l'analyse des situations
+       problème repérées. Toutes les étapes de ce projet s'accompagnent
+       d'une communication adaptée et d'une implication de tous les
+       acteurs, de sorte qu'ils s'approprient le projet.
+
+   Les indicateurs classiquement retenus pour le suivi et la prévention
+   des RPS sont les suivants :
+     *
+          + Un niveau élevé d'absentéisme notamment de courte durée ;
+          + Un niveau élevé de rotation du personnel en particulier fondée
+            sur des démissions, des conflits personnels ou des plaintes
+            fréquentes de la part des travailleurs ;
+          + Un taux de fréquence des accidents du travail élevé ;
+          + Des passages à l'acte violents contre soi-même ou contre
+            d'autres, même peu nombreux ;
+          + Une augmentation significative des visites spontanées au
+            service médical.
+
+   A ces indicateurs mesurables proches de ceux qui permettent d'élaborer
+   le bilan social s'ajoutent d'autres indicateurs mesurés par échelle de
+   Likert repris dans les questionnaires de Lanouzière, Karasek ou
+   Siegrist.
+
+   Finalement, « la santé et la sécurité, ça se manage comme les autres
+   domaines de l'entreprise ». Le référentiel ILO-OSH 2001 « Principes
+   directeurs des systèmes de management de la santé et la sécurité au
+   travail », Outil de management de la santé et de la sécurité au travail
+   développé par le Bureau International du Travail (BIT), est le seul
+   référentiel international adopté dans un cadre tripartite -pouvoirs
+   publics, employeurs et travailleurs. Mais alors que ces programmes et
+   outils se développent, les statistiques ne s'améliorent guère. Le
+   caractère normatif de ces outils de gestion des risques est d'ailleurs
+   en débat concernant les RPS.
+
+   D'ailleurs, pour Marie Christine Soula, médecin du travail et
+   directrice du pôle santé de l'Institut français d'action sur le stress
+   (IFA), les entreprises ne savent plus communiquer avec leurs salariés.
+   Elles communiquent très peu sur le comment et le pourquoi. Nombre de
+   managers sont d'anciens financiers et ne savent pas faire dans
+   l'humain. Même les syndicats ont une part de responsabilité, car
+   préférant jusqu'à présent se concentrer sur leur coeur d'activité :
+   l'emploi. Pour Philippe Zarifian, il faut instituer dans les
+   entreprises, des espaces de dialogue au sein desquels puissent être
+   débattus les difficultés mais aussi toutes les potentialités positives,
+   liées à l'exercice concret du travail. La qualité du travail se joue
+   sur deux critères : le travail bien fait et le travail utile, critères
+   simples qui donnent sens et valeur au travail [27]. Patrick Conjard
+   parle, lui, d'activités de régulation lorsqu'il évoque le rôle des
+   réunions d'équipe, les séances de coaching ou la gestion des
+   conflits [28]. Certains responsables des Ressources humaines, proposent
+   de mêler prévention des RPS avec la gestion prévisionnelle des
+   compétences. Pour Detchessahar, Le Loch, Minguet et Stimec [29], ce
+   n'est finalement pas la charge de travail ou le degré d'exigence du
+   travail qui sont problématiques pour la santé des salariés mais la
+   manière dont leur environnement socio psychologique va leur permettre
+   de faire face à cette charge, de lui donner du sens et de se
+   l'approprier. Les différentes dimensions mises en avant pour
+   caractériser cet environnement convergent toutes vers la question
+   importante de la reconnaissance du travail du salarié. Cette
+   reconnaissance est au coeur des questions de santé au travail. Sans
+   cette reconnaissance, le risque est que l'individu doive assumer des
+   comportements vécus comme déviants et répréhensibles donnant lieu à de
+   l'anxiété du stress. Certaines démarches promues par les directions
+   incluent des services pour les salariés leur facilitant la vie
+   quotidienne (service de pressing, salle de sport, salle de repos,
+   crèche d'entreprise...). Laurence Vanhée, la DRH de la Sécurité sociale
+   belge a quant à elle carrément décidé de remplacer son titre par
+   « directrice du bonheur ». Elle a la simple conviction de gérer des
+   êtres humains plutôt que des ressources. Happy_Laurence (son pseudo sur
+   Twitter) a la tête parfaitement calée sur ses épaules quand elle avance
+   ses (excellents) résultats : la hausse de candidatures spontanées de
+   500 %. La baisse d'arrêts maladie de 50 % dans ses services. Ou encore
+   l'effondrement des absences : 6 fois moins qu'auparavant. Quant au taux
+   de satisfaction interne, il est désormais de 89 %. Des chiffres qui lui
+   ont valu d'être élu DRH de l'année dans son pays. Et sa conviction est
+   communicative... [30]
+
+3. Les acteurs en présence
+
+   Pour traiter des RPS, il est important de cerner les différents
+   ressentis avec des approches variées, des échanges issus de compétences
+   et de positions différentes dans l'entreprise. Ainsi, divers acteurs
+   ont un rôle actif à jouer dans la prévention des RPS.
+     * La Direction de l'entreprise est le 1^er acteur. C'est elle qui
+       prend les décisions stratégiques et de gestion. C'est un acteur
+       central aux RPS. Elle est tenue de prendre les mesures nécessaires
+       pour assurer la sécurité et protéger la santé physique et mentale
+       des travailleurs. L'employeur transcrit et met à jour dans un
+       document unique les résultats de ses évaluations des risques à
+       laquelle il doit procéder. Ce document lui permettra de définir les
+       mesures de prévention et d'actions à mettre en oeuvre.
+     * Le CHSCT (comité d'hygiène et de sécurité des conditions de
+       travail) est une instance de dialogue social et de pilotage des
+       conditions de travail. Cette instance permet de traiter des RPS à
+       travers les discussions relatives au travail, aux relations
+       sociales, aux situations des personnes, au management. Le CHSCT est
+       la clé de voûte du système de prévention des RPS et des risques
+       professionnels en général. Il est compétent pour prévenir la santé
+       physique et mentale des travailleurs. Cette année (2012), le CHSCT
+       célèbre ses 30 ans.
+     * Les différentes IRP notamment concernant le harcèlement (moral ou
+       sexuel) ou les actes de violence.
+     * La médecine du travail : la médecine est le « conseiller » de
+       l'employeur, des travailleurs, des IRP et des services sociaux. Son
+       objectif est d'améliorer les conditions de vie et de travail,
+       adapter les postes de travail, protéger les travailleurs, assurer
+       l'hygiène en générale, aménager de nouveaux espaces... Elle émet
+       des rapports de synthèse. Le médecin du travail joue un rôle
+       crucial dans les RPS car en contact avec l'état de santé des
+       travailleurs. Il peut alerter l'employeur en cas de développement
+       important de RPS dans l'entreprise.
+     * Les salariés eux-mêmes. Les salariés doivent pouvoir s'exprimer sur
+       leurs difficultés au travail. Des dispositifs d'écoute, d'échanges
+       doivent être mis en place pour en assurer l'effectivité.
+
+   Schéma tiré de JF Paulin : Les risques psychosociaux.
+     * Les pouvoirs publics ainsi que nous l'avons vu plus haut.
+     * Les partenaires sociaux. Ils représentent l'intérêt collectif et
+       individuel des salariés. Ils sont donc tenus également de
+       participer à la prévention des RPS. Les partenaires sociaux ont
+       déjà beaucoup contribué en matière de RPS comme avec l'accord sur
+       le stress de juillet 2008 ou sur le harcèlement/violence en
+       décembre 2010.
+     * Acteurs extérieurs divers : INRS, CNAMTS, ANACT
+
+ Conclusion
+
+   Au regard des dispositifs d'incitation et de contrainte mis en oeuvre
+   par les pouvoirs publics, on peut raisonnablement affirmer que le
+   niveau d'efficience dans la lutte contre les risques psychosociaux au
+   travail est satisfaisant. Des réserves peuvent tout de même être émises
+   concernant les petites entreprises dont l'effectif est inférieur à 11
+   salariés, par absence d'institutions représentatives du personnel
+   parties prenantes dans la lutte contre les RPS. Des réserves peuvent
+   être également formulées dans la fonction publique alors que la montée
+   en puissance des CHSCT dans les projets de prévention des RPS reste
+   encore très timide. Ce niveau d'efficience a certainement des effets
+   positifs sur l'efficacité des mesures mises en place. Pour autant,
+   aucun dispositif fiable n'a encore été mis en place pour mesurer cette
+   efficacité des outils mis en oeuvre. Cela ne saurait probablement
+   tarder car après plusieurs années d'exercice, les facteurs impliqués
+   dans les RPS sont identifiés. Avec le recul, l'analyse des démarches,
+   méthodes et outils disponibles pour combattre les RPS au sein des
+   entreprises permettent de les affiner et d'améliorer leur efficacité.
+   Il apparaît toutefois que beaucoup de difficultés demeurent pour
+   pérenniser la prévention. L'expérience montre que la prévention des RPS
+   ne se résume pas à une question d'outil, de méthode... La question des
+   RPS renvoie toujours à des enjeux locaux, liés tant aux contextes de
+   travail particuliers, aux activités mises en oeuvre, mais aussi à des
+   relations de travail établies et des systèmes de rapports sociaux dans
+   l'entreprise. Par conséquent, il est constamment nécessaire d'adapter
+   la démarche au contexte. L'idée n'est donc pas seulement de combattre
+   les risques mais également d'améliorer la qualité du travail : faire du
+   travail une source d'épanouissement.
+
+ Bibliographie :
+
+   La bibliographie est extrêmement abondante sur le sujet des RPS.
+
+Sitographie :
+
+     * http://www.pearltrees.com/#/N-u=1_365784&N-p=25136988&N-s=1_3313643
+       &N-f=1_3313643&N-fa=3313643
+     * http://philippe.davezies.free.fr/
+     * http://riseo.fr/-Revue-2012-1 - Revue risques, études,
+       observations, 1^er mars 2012 Dossier : « les risques
+       psychosociaux »,
+     * http://www.anact.fr/portal/pls/portal/docs/1/4298377.PDF :
+       L'intervention des pouvoirs publics depuis le plan d'urgence sur le
+       stress : enseignements et perspectives », Hervé Lanouzière
+     * http://www.travailler-mieux.gouv.fr/IMG/pdf/livreblancstress.pdf
+     * http://www.travailler-mieux.gouv.fr/IMG/pdf/Cadre_reglementaire__V4
+       .pdf
+     * www.inrs.fr/dossiers/stress.html
+     * http://www.wk-rh.fr/actualites/detail/65933/les-recommandations-du-
+       cese-pour-renforcer-la-prevention-des-risques-psychosociaux.html
+     * http://gestes.net/ Groupe d'étude sur le travail et la souffrance
+       au travail
+     * http://www.elnet-rh.fr/ : Gestion des risques
+     * http://halshs.archives-ouvertes.fr/halshs-00700884/ Risques
+       psychosociaux au travail : quel rôle du CHSCT aujourd'hui ? » Loïc
+       Lerouge
+     * http://www.cadre-dirigeant-magazine.com/actu/social-emploi/quand-la
+       -drh-a-le-titre-de-directrice-du-bonheur/
+     * http://www.education.gouv.fr/pid25535/bulletin_officiel.html?cid_bo
+       =66031 CHSCT du MEN Les orientations stratégiques en matière de
+       prévention des risques professionnels 2012-2013
+     * www.tess-prevention.fr/.../Santé%20mentale/SanteMentale.htm
+       Travail, Environnement, santé et société : La santé mentale
+     * http://www.isrifrance.fr/dossiers/risques-psychosociaux-les-risques
+       -juridiques
+     * http://www.ac-aix-marseille.fr/pedagogie/upload/docs/application/pd
+       f/2013-03/dossier_registre_sst_2degre_mars_2013.pdf Mise en place
+       et Exploitation du Registre Santé et Sécurité au Travail dans les
+       Collèges, EREA et Lycées publics
+     * http://www.scoop.it/t/l-accompagnement-des-soignants-vers-le-change
+       ment-organisationnel
+     * www.creg.ac-versailles.fr/spip.php ?article502 : Sécurité et Santé
+       au travail
+     * http://www.creg.ac-versailles.fr/spip.php?article236 : Les
+       conditions de travail - le stress dans les organisations
+
+Livres
+
+     * F. CHAMPEAUX S. FOULON , Seuil, 2012 « Dernier recours. Le monde du
+       travail devant les tribunaux »
+     * Ouvrage collectif (2012), « Risques psychosociaux, santé et
+       sécurité au travail : une perspective managériale ». Editions
+       Vuibert
+
+   _,
+
+Articles - Revues
+
+     * « Approche institutionnelle de la prévention des RPS au travail »,
+       Semaine sociale Lamy, supplément n°1536 en date du 30 avril 2012
+     * « Comment gérer les nouveaux risques psychosociaux dans
+       l'entreprise ? », Charlotte Hammelrath, Lexbase, La lettre
+       juridique n°383, 28 février 2010
+     * Douillet Philippe (2012), « La prévention des RPS : une opportunité
+       de développer le dialogue sur le travail » Semaine sociale Lamy
+       Supplément 30 janvier 2012
+     * Hervé Lanouzière (2011) « La prévention des RPS du point de vue du
+       Code du travail » Semaine social Lamy 21 février 2011
+     * Nicole Maggi-germain (2003) « Le stress au travail », Revue de
+       jurisprudence sociale, n° 3, p. 191-200
+     * « Risques psychosociaux au travail », Les cahiers du DRH, n°150,
+       janvier 2009
+     * « Santé physique et mentale des salariés », Lamy Social, 2012,
+       p.1598 et suivantes
+     * Emmanuel Abord de Chatillon (2005) « Le DRH de demain face aux
+       questions de santé et sécurité au travail »
+       http://www.cairn.info/revue-management-et-avenir-2005-2-page-157.ht
+       m
+     * Patrick Conjard (2011), « Prévenir les risques psychosociaux par le
+       management du travail Chargé de mission Anact. » Association
+       francophone de gestion des ressources humaines :
+       http://www.reims-ms.fr/agrh/docs/actes-agrh/pdf-des-actes/2011conja
+       rd.pdf
+     * Jocelyne Machefer (2011) « Approche collective des risques
+       Psychosociaux en médecine du travail Intérets et limites des pièges
+       à éviter. »
+     * Alain Lancryl (2007) « incertitude et stress » Le travail humain
+       Vol. 70, 2007/3 PUF Marie Laure Bertrand (2010) « Santé au
+       travail : que doit faire l'employeur ? » Les cahiers Lamy du CE
+       n°93 Mai 2010
+     * Emmanuel Daoud et Marie Desplanques « la gestion pénale des risques
+       psychosociaux » AJ Pénal Décembre 2010 Editions Dalloz
+     * Marie Christine Soula (2009) « les entreprises sont allées beaucoup
+       trop loin dans la dépersonnalisation » Stratégies Magazine n°1570
+
+Rapports
+
+     * «  Bien-être et efficacité au travail », Rapport Lachmann - Larose
+       et Pénicaud réalisé entre le 15 novembre 2009 et le 15 février 2010
+     * « Identification des RPS », groupe RH&M, conférence sur la gestion
+       et la négociation des RPS dans l'entreprise, 22 juin 2011
+     * « Les risques psychosociaux au travail : les indicateurs
+       disponibles », DARES analyses, décembre 2010, n°81
+     * Accord National interprofessionneI sur le stress au travail, 2
+       juillet 2008
+     * * Cécile Benchetrit : mémoire de fin d'étude : « le stress au
+       travail »,
+       http://www.slideshare.net/cecilebenchetrit/mmoire-le-stress-au-trav
+       ail
+
+Articles de journaux :
+
+     * Philippe Zarifian : « Derrière les suicides et les RPS, un retour
+       absolument nécessaire sur la question du travail ». Le monde 4 Mai
+       2011.
+     * Stéphane Lauer « Souffrances et suicides au travail », Le Monde, 22
+       mars 2008
+     * « Les salariés français sont les plus démotivés d'Europe » Le
+       Figaro le 14/06/2013
+     * « Pour sept salariés sur dix ; la qualité de vie au travail se
+       dégrade » Le Figaro le 10/06/2013
+     * « Au chevet du travail » Marie Pesé Le Monde 15/09/2008
+     * « Suicides de salariés : quels risques juridiques pour les
+       employeurs ? » Pierre Bonneau, avocat associé, département social,
+       CMS Bureau Francis Lefebvre Les Echos Business « Le 06/05/2013 »
+     * « Conditions de travail - La grande distribution commence à
+       craquer ». Agnès Chareton le Figaro le 01/06/2013
+
+   Pour télécharger cet article au format pdf, cliquer sur l'icône
+   ci-dessous :
+
+Notes
+
+   [1] Professeur titulaire de management à l'Université Laval (Québec),
+   fondateur de la Chaire en gestion de la santé et de la sécurité du
+   travail et du MBA en gestion de la SST.
+
+   [2] Economiste principalement connu pour la distinction entre risque et
+   incertitude qu'il propose en 1921 dans Risk, Uncertainty and Profit. Le
+   risque désigne une situation où les possibilités de l'avenir sont
+   connues et probabilisables. Par opposition, l'incertitude désigne une
+   situation où l'on ignore tout cela. Knight distingue donc des
+   situations risquées (où la distribution de probabilité des cas
+   possibles n'est pas connue) des situations incertaines (où les cas
+   possibles ne sont même pas connus). Une incertitude knightienne est
+   donc une situation où non seulement l'avenir n'est pas connu, mais il
+   ne peut l'être.
+
+   [3] Directeur de l'ANACTau 1^er décembre 2012.
+
+   [4] ANACT : agence nationale pour l'amélioration des conditions de
+   travail.
+
+   [5] Professeur de psychologie du travail et d'ergonomie à l'Université
+   de Picardie Jules Verne.
+
+   [6] « Les syndicats et la souffrance », Sociologie du travail, dossier
+   « Maux du travail : dégradation, recomposition ou illusion ? », vol.
+   53, n°1, p.3-36.
+
+   [7] Professeur des Universités à l'IAE de Grenoble, Chaire Management
+   et Santé au Travail.
+
+   [8] Film documentaire de Sophie Bruneau et Marc-Antoine Roudil (Fr,
+   2006). 80 mn. Bodega Films.
+
+   [9] http://www.travailler-mieux.gouv.fr/IMG/pdf/rapport_08_10.pdf :
+   Indicateurs provisoires de facteurs de risques psychosociaux au travail
+   Collège d'expertise sur le suivi statistique des risques psychosociaux
+   au travail (DARES / DREES).
+
+   [10] Virginie Moisson - Le management du stress professionnel : apport
+   du modèle de déséquilibre « effort récompense »- Risques psychosociaux,
+   santé et sécurité au travail, une perspective managériale Editions
+   Vuibert.
+
+   [11] Emmanuel Abord de Chatillon Le DRH de demain face aux questions de
+   santé et sécurité au travail
+   http://www.cairn.info/revue-management-et-avenir-2005-2-page-157.htm
+
+   [12] http://www.atousante.com/risques-professionnels/sante-mentale/stre
+   ss-professionnel/mesure-desequilibre-efforts-recompenses-questionnaire-
+   siegrist/
+
+   [13] Gwénaëlle Poilpot-Rocaboy, Guy Notelaers, Lars Johan Hauge.
+   Exposition au harcèlement psychologique au travail : impact sur la
+   satisfaction au travail, l'implication organisationnelle et l'intention
+   de départ.
+   http://www.reims-ms.fr/agrh/docs/actes-agrh/pdf-des-actes/2009poilpot-n
+   otelaers-hauge096.pdf.
+
+   [14] Gwénaëlle Poilpot-Rocaboy : Comprendre le harcèlement
+   psychologique au travail : proposition d'une modélisation du processus
+   de harcèlement « Risques psychosociaux, santé et sécurité au travail :
+   une perspective managériale » Editions Vuibert. Ouvrage collectif
+   (2012).
+
+   [15] Stéphane Lauer « Souffrances et suicides au travail », Le Monde,
+   22 mars 2008.
+
+   [16] Les Cahiers Lamy du CE n° 92, avr. 2010.
+
+   [17] http://travail-emploi.gouv.fr/documentation-publications,49/rappor
+   ts,51/travail-emploi,900/sante-au-travail,1803/mesurer-les-facteurs-psy
+   chosociaux,13319.html.
+
+   [18] http://www.lecese.fr/content/la-prevention-des-risques-psychosocia
+   ux.
+
+   [19] Groupement des industries métallurgiques. Document interne
+   « Grille d'aide au repérage et à l'évaluation des facteurs de RPS »,
+   GIM, septembre 2011.
+
+   [20] http://www2.ac-clermont.fr/hygiene-securite/Risques_et_ambiances/P
+   sychosociaux/karasek.pdf
+
+   [21] http://docs.bossons-fute.fr/Documents/Risques%20psychosociaux/Ques
+   tionnaire%20SIEGRIST.pdf.
+
+   [22] Tiré de « Le rôle des médecins du travail dans les actions de
+   prévention primaire » Yvan Barel, Maître de conférences HDR en Sciences
+   de gestion, LEMNA (Laboratoire d'Économie et de Management de
+   Nantes-Atlantique), Université de Nantes, Sandrine Fremeaux Professeur,
+   Audencia. Nantes - École de management. @GRH 2012/2 (n°3) 88 pages
+   Editeur De Boeck Supérieur.
+
+   [23] http://www.slideshare.net/cecilebenchetrit/mmoire-le-stress-au-tra
+   vail.
+
+   [24] http://www.ladocumentationfrancaise.fr/var/storage/rapports-public
+   s/104000081/0000.pdf.
+
+   [25] http://www.travailler-mieux.gouv.fr/IMG/pdf/Cadre_reglementaire__V
+   4.pdf.
+
+   [26] http://www.inrs.fr/accueil/demarche/evaluation-risques.html.
+
+   [27] Philippe Zarifian : « Derrière les suicides et les RPS, un retour
+   absolument nécessaire sur la question du travail ». Le monde 4 Mai
+   2011.
+
+   [28] Patrick Conjard chargé de mission Anact . Association francophone
+   de Gestion des Ressources Humaines congrès 2011 « Prévenir les risques
+   psychosociaux par le management du travail »
+   www.reims-ms.fr/agrh/docs/actes-agrh/pdf-des-actes/2011conjard.pdf.
+
+   [29] Mathieu Detchessahar, Chrystèle Le Loch, Guy Minguet, Arnaud
+   Stimec Les déterminants organisationnels et managériaux de la santé au
+   travail. Risques psychosociaux, santé et sécurité au travail : une
+   perspective managériale. Editions Vuibert.
+
+   [30] http://www.cadre-dirigeant-magazine.com/actu/social-emploi/quand-l
+   a-drh-a-le-titre-de-directrice-du-bonheur/.
+
+Partager
+
+   Imprimer cette page (impression du contenu de la page)
+     * Publié le mercredi 18 septembre 2013
+     * Mots-clés
+          + Communication
+          + Ressources humaines
+     * Auteur(s)Christophe Lechaptois
+
+article de cet auteur
+
+     * Groupe, réseau et socialisation
+
+Dans la même rubrique
+
+     * Les biens communs
+     * La gouvernance des « Biens communs » au service du « Bien commun »
+     * Le micro apprentissage (microlearning) : apprendre en fractionnant
+     * Les représentations des activités économiques par les artistes du
+       XVI^e siècle à notre époque contemporaine
+     * Bien-être au travail et sport : des apports évidents et des dérives
+       à maîtriser
+     * L'économie du bonheur
+     * La pédagogie institutionnelle : le Conseil, les « ceintures » et
+       autres outils pédagogiques
+     * Travaux Scientifiques de Nature Réflexive des Enseignants
+       stagiaires
+     * Comprendre le principe de l'économie circulaire
+     * Les clusters touristiques : entre compétitivité territoriale et
+       attractivité touristique
+
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+
+   2025 - Centre de Ressources en Économie-Gestion
+     * Plan du site
+     * Mentions légales
+     * Contact
+     * Flux RSS
+     * Accès Ariane
+
+     * Se connecter

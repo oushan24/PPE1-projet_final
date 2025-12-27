@@ -1,0 +1,47 @@
+body {
+    background-color: lightpink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 50px 20px;
+    margin: 0;             /* Supprime les marges par défaut du navigateur */
+    min-height: 100vh;     /* Force le fond sur toute la hauteur de l'écran */
+}
+
+.table-container {
+    width:auto;
+    margin: 0 auto;   /* Centre le tableau horizontalement */
+    background-color: whitesmoke;
+    padding: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.4);
+}
+
+h2 {
+    text-align: center;
+    color: #666;
+    text-transform: uppercase;
+    font-weight: 800;
+    margin-bottom: 30px;
+}
+/* Style spécifique pour le tableau */
+.table thead th {
+    background-color: rgba(255, 182, 193, 0.9) !important; /* Bleu très léger comme tes sections */
+    color:whitesmoke !important;
+    text-transform: uppercase;
+    font-size: 12px;
+    text-align: center !important;
+}
+
+.table tbody tr td {
+    background-color: rgba(245, 245, 245, 0.9) !important;
+    font-size: 12px;
+    text-align: center;
+    color: black;
+
+}
+
+#url {
+    text-align: justify;
+}
+

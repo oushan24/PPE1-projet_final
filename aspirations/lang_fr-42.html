@@ -1,0 +1,884 @@
+
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang=""> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+          <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <style>
+            body {
+                padding-top: 50px;
+                padding-bottom: 20px;
+            }
+        </style>
+        <link rel="stylesheet" href="css/bootstrap-theme.min.css">
+        <link rel="stylesheet" href="css/main.css">
+        <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+        <script src="https://www.google.com/recaptcha/api.js"></script>
+        <link href="https://fonts.googleapis.com/css?family=Muli:300,400,700,900" rel="stylesheet">
+        <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+        <link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+        <link rel="manifest" href="/manifest.json">
+        <meta name="msapplication-TileColor" content="#ffffff">
+        <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+        <meta name="theme-color" content="#ffffff">
+                  <meta property="og:url"                content="https://www.popmoms.fr/actu.php?id=1241" />
+          <meta property="og:type"               content="article" />
+          <meta property="og:title"              content="Alléger sa charge mentale, c'est possible !" />
+          <meta property="og:description"        content="La charge mentale ça vous parle ?
+Non ?! Mais si, vous savez bien, devoir penser à tout, tout le temps !
+...Penser à prendre un rendez-vous pour le vaccin du petit dernier alors que vous êtes" />
+          <meta property="og:image:url"          content="http://cdn.popmoms.fr/static/5LPXmpK9P8KOkJ4OPamgJhACxz7vCh.jpg" />
+          <meta property="og:image"          content="http://cdn.popmoms.fr/static/5LPXmpK9P8KOkJ4OPamgJhACxz7vCh.jpg" />
+          <meta name="twitter:card" content="summary_large_image" />
+          <meta name="twitter:site" content="@karen_popmoms" />
+          <meta property="twitter:url" content="https://www.popmoms.fr/actu.php?id=1241" />
+          <meta property="twitter:title" content="Alléger sa charge mentale, c'est possible !" />
+          <meta property="twitter:description" content="Découvrez l'actu complète sur le site internet et l'application mobile !" />
+          <meta property="twitter:image" content="https://cdn.popmoms.fr/static/5LPXmpK9P8KOkJ4OPamgJhACxz7vCh.jpg" />
+          <title>Alléger sa charge mentale, c'est possible !</title>
+          <meta name="description" content="La charge mentale ça vous parle ?
+Non ?! Mais si, vous savez bien, devoir penser à tout, tout le temps !
+...Penser à prendre un rendez-vous pour le vaccin du petit dernier alors que vous êtes">
+          
+        <meta property="fb:app_id" content="114635329234714">
+        <style>
+          .btn-success, .btn-success:hover {
+            background-image:none !important;
+            border:none;
+            background-color:#93ce25;
+            border-radius:0px;
+            text-shadow: none;
+            font-size: 16px;
+            font-weight: 700;
+
+            padding: 10px 15px;
+            box-shadow:none;
+
+          }
+          h1, h2 {
+            font-family:"CenturyGothic-Bold";
+          }
+          h1 {
+            color:#f26522;
+            font-size: 30px;
+          }
+          h1.card-title {
+            font-size:25px;
+          }
+          h2 {
+            color:#9e9e9e;
+          }
+          h2.partenaire {
+            font-size:13px;
+            color:#9A9A9A;
+            font-family: "CenturyGothic";
+          }
+          p {
+            font-family: "CenturyGothic";
+          }
+          .card {
+            position:relative;
+            margin-bottom: 20px;
+            /*min-height:510px;*/
+          }
+          h2.card-title {
+            color:#f26522;
+            font-size:18px;
+          }
+          .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+            border:none;
+          }
+          .navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle {
+            background-color:#f26522;
+            color:white;
+          }
+          .navbar-inverse .navbar-toggle {
+            border-color:#f26522;
+          }
+          .footer-2 {
+            text-align: center;
+          }
+          .footer-3 {
+            text-align: right;
+          }
+          .navbar-inverse .navbar-brand, .navbar-inverse .navbar-nav>li>a {
+            text-shadow: none;
+          }
+          .navbar-inverse .navbar-nav>li>a, .navbar-inverse .navbar-nav>li>a:hover, .navbar-inverse .navbar-nav>li>a:focus {
+            color: #f26522;
+            font-family:"CenturyGothic-Bold";
+            font-size:20px;
+            line-height:30px;
+          }
+          .navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:hover, .navbar-inverse .navbar-nav>.active>a:focus {
+            background: #f26522;
+            box-shadow: none !important;
+            text-shadow: none !important;
+          }
+          a:hover, a:focus {
+            color:inherit;
+            text-decoration: inherit;
+          }
+          .navbar {
+            min-height:70px;
+            box-shadow: 0 10px 20px rgba(0,0,0,0.05), 0 6px 6px rgba(0,0,0,0.04);
+
+          }
+          .main {
+            padding-top: 70px;
+          }
+          .single-actu .card-img {
+            margin-top: 0px;
+          }
+          @media(max-width:768px){
+            .icon-rs {
+              width: 0px;
+            }
+          }
+          @media(max-width:992px){
+
+            .card {
+              /*min-height:390px;*/
+            }
+
+            .card-img {
+              height:300px !important;
+            }
+            .footer-2 {
+              text-align: left;
+            }
+            .footer-3 {
+              text-align: left;
+            }
+          }
+
+          h1 {
+            font-size:30px;
+          }
+          h2.card-title {
+            margin-top: 0px;
+          }
+
+          h3.card-subtitle {
+            text-transform: uppercase;
+            color:#9A9A9A;
+            font-size: 16px;
+            margin-top:0px;
+            font-weight:400;
+          }
+          p.card-text {
+            font-size:13px;
+          }
+
+          .ncard {
+            margin-bottom: 30px;
+          }
+
+          a > .card-text {
+            color:#333;
+          }
+          span.author, span.author a {
+            color:#9A9A9A;
+          }
+          .ncard-content {
+            padding-top: 5px;
+          }
+
+          .share-links {
+            list-style-type: none;
+            margin-top: 0px;
+          }
+          .share-links li {
+            float:right;
+          }
+          .share-links li:before {
+            content:"" !important;
+          }
+          .share-links li a img {
+            filter: gray; /* IE6-9 */
+            -webkit-filter: grayscale(1); /* Google Chrome, Safari 6+ & Opera 15+ */
+            filter: grayscale(1); /* Microsoft Edge and Firefox 35+ */
+            width: 25px;
+            margin-left:5px;
+            opacity: 0.4;
+          }
+          .share-links li:nth-child(2) a img {
+            opacity: 0.6;
+          }
+          .share-links li a:hover img {
+            filter: none; /* IE6-9 */
+            -webkit-filter: grayscale(0); /* Google Chrome, Safari 6+ & Opera 15+ */
+            filter: grayscale(0); /* Microsoft Edge and Firefox 35+ */
+            opacity: 1;
+          }
+          .ncard-content {
+            text-align: justify;
+            text-justify: inter-word;
+          }
+          @media(max-width:1200px){
+            .ncard-content {
+              padding-top: 0px;
+            }
+            .share-links {
+              margin-top: -20px;
+            }
+          }
+          @media(max-width:992px){
+            .ncard-content {
+              padding-top: 5px;
+            }
+          }
+          @media(max-width:768px){
+            .share-links {
+              margin-top: 0px;
+            }
+          }
+          
+          .navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:hover, .navbar-inverse .navbar-nav>.open>a:focus {
+            color: #f26522;
+            background:white;
+          }
+          .dropdown-menu {
+            min-width:220px;
+          }
+          .dropdown-item {
+            display:block;
+            color: #f26522 !important;
+            font-family: "CenturyGothic-Bold";
+            font-size: 20px;
+            line-height: 30px;
+            padding-left:20px;
+            padding-top:5px;
+            padding-bottom:10px;
+          }
+
+          @media(max-width:768px){
+            .dropdown-item {
+              margin-left: 30px;
+              font-size:18px;
+            }
+            .dropdown-item::before {
+              display: inline-block;
+              font-style: normal;
+              font-variant: normal;
+              text-rendering: auto;
+              -webkit-font-smoothing: antialiased;
+              margin-right:10px;
+            }
+            .dropdown-item::before {
+              font-size:12px;
+              font-family: "Font Awesome 5 Free"; font-weight: 900; content: "\f111"; color:#f0f0f0;
+            }
+          }
+          
+        </style>
+    </head>
+    <body class="eupopup eupopup-bottomright">
+        <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation" style="background-color:white !important;">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="index.php" style="padding:0px;"><img src="img/logo.png" height="70px"/></a>
+        </div>
+        <div style="float:right;padding-top:10px;margin-left: 29px;" class="hidden-xs hidden-sm icon-rs">
+          <a href="https://twitter.com/karen_popmoms" target="_blank"><img src="img/icon-twitter.png" width="40px" /></a>
+          <a href="https://www.facebook.com/popmoms.officiel/" target="_blank"><img src="img/icon-fb.png" width="40px" /></a>
+          <a href="https://www.instagram.com/popmoms_officiel/" target="_blank"><img src="img/icon-instagram.png" width="40px" /></a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="https://www.popmoms.fr/">Accueil</a></li>
+            <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown1" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Qui sommes-nous ?&nbsp;&nbsp;<i class="fa fa-caret-down"></i>
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown1">
+            <a class="dropdown-item" href="https://www.popmoms.fr/story.php">Story</a>
+            <a class="dropdown-item" href="https://www.popmoms.fr/valeurs.php">Valeurs</a>
+            <a class="dropdown-item" href="https://www.facebook.com/groups/2321987494693235/" target="_blank">Forum</a>
+            <a class="dropdown-item" href="https://www.popmoms.fr/evenements.php">Évènements</a>
+            <a class="dropdown-item" href="https://www.popmoms.fr/agenda.php">Partenaires</a>
+          </div>
+        </li>
+            <li><a href="https://www.popmoms.fr/actualites.php">Blog</a></li>
+            <li><a href="https://www.popmoms.fr/ecoles.php">Écoles</a></li>
+            <li><a href="https://www.popmoms.fr/contact.php">Contact</a></li>
+            <li><a href="https://www.popmoms.fr/pros.php" target="_blank">Professionnels</a></li>
+            <!--<li class="active"><a href="./">Fixed top <span class="sr-only">(current)</span></a></li>-->
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+
+    <style>
+    .single-actu li { margin-bottom: 20px;}
+    .single-actu img {
+      max-width: 100%;
+    }
+    .single-actu ol {list-style: none; counter-reset: li} .single-actu  ol > li {counter-increment: li} .single-actu  ol > li::before {content: counter(li)'.'; color: #f26522;   display: absolute; margin-left: -30px; font-weight:bold; width: 30px; font-size: 20px; margin-right: 0.5em; text-align: left;} .single-actu ul {list-style: none !important} .single-actu ul > li::before {content: "•"; color: #f26522;    display: inline-block; width: 1em;    margin-left: -1em}
+    </style>
+    <div class="container main single-actu">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="row">
+            <div class="col-md-8">
+              <div class="card" style="">
+                <div style="width:100%;height:400px;background-image:url('https://cdn.popmoms.fr/static/5LPXmpK9P8KOkJ4OPamgJhACxz7vCh.jpg');background-position:center;background-size:cover;" class="card-img">&nbsp;</div>
+              </div>
+              <div class="card">
+                <div class="card-body">
+                  <h1 class="card-title">Alléger sa charge mentale, c'est possible !</h2>
+                    <span class="author">
+                    <a href='https://www.facebook.com/najet.messadaa' target='_blank'>Par Najet Messadaa  </a>                   </span>
+                   <br/>
+                  <p class="card-text"><p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">La charge mentale ça vous parle ?</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Non ?! Mais si, vous savez bien, devoir penser à tout, tout le temps !</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">...Penser à prendre un rendez-vous pour le vaccin du petit dernier alors que vous êtes en train de boucler un dossier au travail, réaliser que la plus grande a un pique-nique demain mais que vous n'avez rien au réfrigérateur et qu'il faudra donc passer au supermarché en rentrant du travail, faire en sorte que la maison sente bon le <em>Monsieur Propre,</em> ranger le salon comme celui du dernier catalogue <em>IKEA</em>, préparer le sac de piscine...</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Bref avoir des « to do » listes qui n'en finissent pas, le sentiment d'être complètement débordée et de ne plus avoir de temps pour soi.</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Ah ça y est, vous voyez ! Je savais que ça vous parlerait !</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Cette charge mentale concerne majoritairement les femmes qui en plus de leur carrière, doivent endosser le rôle d'une vraie chef d'entreprise à la maison, occupant tout à la fois les rôles de responsable achats, responsable ressources humaines, responsable planification, responsable maintenance...</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">...tout en assurant le bon fonctionnement de la maisonnée et le bien-être de chaque membre de la famille.</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Selon l'<span style="color: #f26522;">INSEE</span>, en 2010, malgré une plus grande implication des hommes, ce sont principalement les femmes qui sont en charge des tâches domestiques (64%) et des tâches parentales au sein des foyers (71%). Ces chiffres n'ont malheureusement pas beaucoup évolué depuis 1985 où ces taux étaient respectivement à 69% et 80%.</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Si un équilibre dans la répartition des tâches s'établit lorsque le couple emménage ensemble, celui-ci est mis à mal à l'arrivée du bébé.</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">En effet, dès le retour de la maternité, puisqu'elle est en congé et que son conjoint travaille, la femme va tout naturellement prendre l'habitude de s'occuper du bébé, de prendre les rendez-vous chez le pédiatre et de s'occuper de la gestion du foyer.</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">De retour au travail, si la répartition n'est pas revue, la femme se retrouve alors à devoir jongler entre son travail et la maison, optimisant sa journée en prenant de courtes pauses pour pouvoir terminer plus tôt sa journée pour récupérer bébé, et enchaînant dès le seuil de la porte passé, le bain, le dîner, le coucher du bébé...</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">...pour finir souvent lessivée...</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">... Et cela, sans compter les réveils nocturnes de bébé qui peuvent durer longtemps, empêchant un vrai sommeil réparateur</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Le concept de charge mentale a été introduit pour la première fois par la sociologue <span style="color: #f26522;"><strong>Monique Haicault</strong> </span>en 1984 dans son article « la gestion ordinaire de la vie en deux », concept qu'elle a défini comme « deux univers, l'univers professionnel et l'univers domestique qui co-existent et empiètent l'un sur l'autre ». </span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Un concept donc différent de celui que nous avons souvent en tête, qui est celui de deux journées qui se suivent : la journée au travail, <em>puis</em> la journée à la maison.</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">La charge mentale, c'est devoir penser à un domaine alors que l'on se trouve physiquement dans un autre domaine : vous êtes au travail en train de boucler un dossier <em>et</em> vous pensez à la machine que vous avez oublié de lancer avant de partir.</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Le terme est popularisé en 2017 par la bloggeuse <span style="color: #f26522;"><strong>Emma</strong></span> avec sa BD « <span style="color: #f26522;"><a title="Illustration Emma Clit" href="https://www.femmeactuelle.fr/actu/news-actu/charge-mentale-bd-emma-femmes-taches-menageres-39159" target="_blank" rel="noopener"><em>Fallait demander</em></a> </span>» qui a trouvé écho chez un grand nombre de femmes qui se sont reconnues dans les situations qu'elle a illustrées.</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">L'une des <a href="https://emmaclit.com/2017/05/09/repartition-des-taches-hommes-femmes/comment-page-6/" target="_blank" rel="noopener">planches de la BD</a> dans laquelle beaucoup de femmes se sont retrouvées est celle où - alors que sa tâche était juste de ranger la table après le dîner - l'auteure se retrouve à lancer une machine, ranger les légumes dans le frigo, noter qu'il manque de la moutarde sur la liste de courses et finir par ranger sa table au bout de 2 heures !! </span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Ça vous parle ?</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Cette charge mentale est souvent à l'origine de stress, de frustration et de déception.</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Stress, parce que vous n'arrivez pas à faire tout ce que vous aviez prévu de faire.</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Frustration, car le reste de la maisonnée ne semble pas se rendre compte de l'effort que cela représente, ni du temps que vous y consacrez.</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Et enfin, déception, parce que vous aimeriez tellement que votre conjoint et que vos enfants participent sans avoir <em>nécessairement</em> à le leur demander.</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Vous vous sentez par moment, complètement débordée et finissez par exploser de colère et par crier sur tout ce qui bouge, réaction que votre conjoint ne comprend pas.</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">-       « Pourquoi ne demandes-tu pas de l'aide tout simplement ? »</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">-       « Ben oui, pourquoi ? »</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Parce que, Messieurs, les femmes ne souhaitent pas une aide, ce qui supposerait qu'elles seraient seules responsables de la tenue du foyer. Les femmes souhaitent que leur conjoint - au même titre qu'elles - prenne part à la gestion du foyer, qu'elles n'aient plus à elles seules la responsabilité de penser à toutes les tâches domestiques et parentales.</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; line-height: normal; font-size: 11pt; font-family: Arial, sans-serif;"><span style="font-size: 12pt; color: #000000; font-family: arial; line-height: 24pt;">Aider sur l'exécution des tâches ne libère pas de la charge mentale puisque votre femme devra toujours organiser, planifier et <em>penser</em> à vous demander d'exécuter la tâche.</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; line-height: normal; font-size: 11pt; font-family: Arial, sans-serif;"><span style="font-size: 12pt; color: #000000; font-family: arial; line-height: 24pt;">Or c'est précisément toutes ces étapes qui pèsent sur la charge mentale et pas uniquement la réalisation des tâches.</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; line-height: normal; font-size: 11pt; font-family: Arial, sans-serif;"><span style="font-size: 12pt; color: #000000; font-family: arial; line-height: 24pt;">Prenons un exemple, les courses. Pour en prendre complètement la responsabilité, il faudra planifier d'aller au supermarché, préparer la liste, faire et ranger les courses et pas seulement faire les courses une fois que la liste aura été préparée pour vous.</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; line-height: normal; font-size: 11pt; font-family: Arial, sans-serif;"><span style="font-family: arial; font-size: 12pt; color: #000000; line-height: 24pt;">Cette coexistence des deux mondes dont parle <span style="color: #f26522;">Monique Haicault</span> s'est d'autant plus amplifiée avec le télétravail imposé dans un grand nombre de foyers depuis la COVID, effaçant la frontière physique qui existait jusque-là entre la sphère professionnelle et la sphère personnelle.</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; line-height: normal; font-size: 11pt; font-family: Arial, sans-serif;"><span style="font-family: arial; font-size: 12pt; color: #000000; line-height: 24pt;">Maintenant que le concept et l'origine de la charge mentale ont été clarifiés, voici quelques conseils pour alléger votre charge mentale et retrouver un peu de sérénité.</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; line-height: normal; font-size: 11pt; font-family: Arial, sans-serif;"><span style="font-size: 12pt; color: #000000; font-family: arial; line-height: 24pt;">Considérez ces propositions comme une boîte à outils dans laquelle vous piocherez ce qui vous inspirera !</span></p>
+<h2 class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial; font-size: 13pt; color: #f26522;"><strong>1/  Communiquez !  </strong></span></h2>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Prenez le temps de partager avec votre conjoint sur le sujet : comment vous vivez cette charge mentale, ce que vous ressentez au quotidien, le soutien dont vous auriez besoin.</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Pour les mamans solos, n'hésitez pas à partager avec votre famille, vos amies, qui peuvent elles aussi vous aider, ne pensez pas que vous êtes tenues de vous débrouiller seule.</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Petite mise au point : crier quand la coupe est pleine, ce n'est pas communiquer, on est d'accord ?</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Prenez un moment quand vous êtes calme, quand vous êtes en tête à tête avec votre conjoint pour lui expliquer tout ce dont vous vous occupez, ce à quoi vous devez penser, éventuellement le stress que cela génère chez vous.</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Cette discussion doit être un échange pendant lequel vous exposez des faits.</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Il ne s'agit surtout pas d'émettre des jugements ou des critiques à son égard, vous ne ferez que le braquer !</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Adoptez un ton bienveillant et centrez votre discussion sur vos sentiments et vos besoins.</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Une discussion apaisée vous permettra de trouver ensemble des solutions pour mieux répartir les tâches, voire décider d'en abandonner certaines.</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Alors bien sûr, tout ne va pas changer du jour au lendemain, ni après une seule discussion, mais petit à petit à force d'échanger, de constater que son implication vous allège, améliore votre humeur, des changements vont s'opérer.</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Des réajustements seront sans doute nécessaires mais vous serez sur la bonne voie.</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">J'y suis arrivée avec mon mari, pour qui sa mère faisait tout, il n'y a donc pas de raison que vous n'y arriviez pas. Je crois en vous. On ne lâche rien ! </span></p>
+<h2 class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt;"><span style="font-family: arial; color: #f26522; font-size: 13pt;"><strong>2/  Faites une </strong></span><span style="font-size: 13pt; color: #f26522;">«</span> <strong style="color: #f26522; font-family: arial; font-size: 13pt;">to do » liste</strong></span></h2>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Faîtes une « to do » liste pour préparer votre journée.</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Noter les tâches à accomplir sur un papier ou dans votre téléphone permet de libérer votre esprit.  </span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Une fois notée, vous n'avez plus à penser à cette tâche et vous diminuez l'angoisse liée à la peur d'oublier.</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Ainsi, à chaque fois que vous êtes en train de faire quelque chose et qu'il vous vient en tête une action à faire, notez-la instantanément et reprenez ce que vous étiez en train de faire pour ne pas perdre le fil de ce que vous aviez commencé et ne pas vous disperser.</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Pensez également à noter tout ce qui vous pollue l'esprit le soir au coucher et vous empêche de dormir, ainsi vous vous endormirez plus facilement.</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Evitez de démultiplier les to do listes, centralisez toutes vos tâches à faire/à planifier dans un même endroit, à vous de choisir ce qui vous convient le mieux, un cahier, une grande feuille ou un post-it par jour.</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Il est primordial que votre "to do" liste soit réaliste, nous avons souvent tendance à sous-évaluer le temps que nous passons sur une tâche, à ne pas laisser de place à l'imprévu ou à ne pas s'octroyer des moments de pauses dans la journée. </span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Rien de plus frustrant en fin de journée de ne pouvoir barrer que 3 tâches sur les 10 que vous vous étiez fixées. </span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">A l'inverse, quelle satisfaction quand en fin de journée, armée de votre surligneur, vous les barrez toutes.</span></p>
+<h2 class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial; font-size: 13pt; color: #f26522;"><strong>3/  Faites participer les enfants</strong></span></h2>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Mettez les enfants à contribution en leur apprenant à mettre et à débarrasser la table, à ranger avec vous, à préparer leurs affaires...</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">On ne culpabilise pas surtout ! L'idée n'est pas d'en faire des <em>Cendrillon</em> mais de leur permettre de gagner en autonomie, de les responsabiliser et, surtout, de leur apprendre le sens du travail en équipe.</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Si chacun participe, c'est autant de temps de gagné pour vous et donc plus de temps de qualité à passer avec vos enfants, plus de temps pour vous.</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Plus les enfants grandissent, et plus vous pouvez les impliquer.</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Commencez par exemple par les impliquer sur des tâches qui les concernent : mettre leur linge sale dans le panier, préparer leur cartable ou leur sac de piscine.</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Il faudra éventuellement les accompagner dans leurs tâches les premiers temps, mais une fois l'habitude ancrée, vous serez définitivement libérée, délivrée de cette charge.</span></p>
+<h2 class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial; color: #f26522; font-size: 13pt;"><strong>4/  Faites des pauses régulières</strong></span></h2>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">En télétravail, prenez des pauses régulières : des vraies pauses, pas des pauses pour lancer une machine ou le lave-vaisselle.</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Profitez-en pour prendre une petite tisane, pour respirer en pratiquant la cohérence cardiaque par exemple, pour regarder les arbres par la fenêtre.... Vous pouvez aussi sortir prendre l'air, vous asseoir au soleil s'il fait beau, bref, vous recharger !</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Le cerveau a besoin d'alterner des phases de travail et des phases de repos car le cerveau se fatigue, eh oui ! lui aussi ! Il est donc important de lui laisser le temps de se régénérer et de se ressourcer.</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Si vous êtes à la maison, profitez-en pour faire une sieste pendant votre pause déjeuner,  une micro-sieste de 15 à 20 min vous permettra de diminuer le stress, d'amoindrir vos tensions physiques, et de gagner en performance... Et c'est la NASA qui le dit ;-)</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Enfin, autre avantage, les pauses sont propices à la créativité et vous permettront de trouver de nouvelles idées et solutions.</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Pour être sûre de prendre vos pauses, assurer vous de les planifier et de les caler dans votre journée, de la même manière que vous caleriez un rendez-vous ou une réunion ! </span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Prendre rendez-vous avec vous-même est important pour ne pas vous épuiser mentalement.</span></p>
+<h2 class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial; color: #f26522; font-size: 13pt;"><strong>5/  Oui, oui, oui, apprenez à lâcher prise !</strong></span></h2>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Apprenez à lâcher prise, vous ne pouvez pas tout contrôler.</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Vouloir tout contrôler contribue à alourdir votre charge mentale, c'est encore quelque chose de plus auquel penser ou quelque chose de plus à faire.</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Posez-vous ces quelques questions :</span></p>
+<ul>
+<li class="MsoNormal" style="font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt;"><em><span style="font-family: arial;">Est-ce vraiment important ?</span></em></span></li>
+<li class="MsoNormal" style="font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt;"><em><span style="font-family: arial;">Quel sera la conséquence si je ne le fais pas ? Quelle importance ça aura dans un an ? Dans cinq ans ?</span></em></span></li>
+<li class="MsoNormal" style="font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt;"><em><span style="font-family: arial;">Est-ce que ma réaction est vraiment appropriée ? Était-ce si grave ?</span></em></span></li>
+</ul>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Si vous ne faites pas la poussière aujourd'hui, ou encore s'il reste de la vaisselle ce soir dans l'évier, est-ce vraiment grave ? </span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Si la tenue qu'a choisie votre conjoint pour les enfants n'est pas celle que vous aviez prévue, est-ce vraiment important ? </span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Est-ce que cela justifie que vous vous emportiez ?</span></p>
+<ul>
+<li class="MsoNormal" style="font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt;"><em><span style="font-family: arial;">Avez-vous besoin de préparer le repas des enfants avant de sortir retrouver vos amies, les enfants ne peuvent-ils pas manger une pizza avec leur père par exemple ? L'important c'est surtout qu'ils mangent, non ? Ils mangeront de bons plats préparés les autres soirs, l'important n'est-il pas qu'ils passent une soirée sympa avec papa ?</span></em></span></li>
+</ul>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Essayez de lâcher prise sur une ou deux tâches qui peuvent vous sembler moins importantes parmi toutes celles que vous vous imposez au quotidien, et prenez le temps de constater que ce n'est finalement pas si grave.</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Les hommes y arrivent bien, pourquoi pas vous ?</span></p>
+<h2 class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial; color: #f26522; font-size: 13pt;"><strong>6/  Dîtes au revoir au perfectionnisme!</strong></span></h2>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Abandonnez le perfectionnisme, acceptez que les choses ne soient pas parfaitement faites, mais juste faites.</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Là encore, prenez exemple sur les hommes.</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Vous recevez à dîner… Selon vous quel est le plus important :</span></p>
+<ul>
+<li class="MsoNormal" style="font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">passer un bon moment avec vos amis,</span></li>
+</ul>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">ou</span></p>
+<ul>
+<li class="MsoNormal" style="font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">avoir fait un menu très élaboré, entièrement fait maison en vous mettant la pression et en stressant toute la maisonnée ?</span></li>
+</ul>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Optez donc pour la facilité, pour la convivialité, demandez à vos invités d'apporter le dessert (ou achetez-le) et concentrez-vous sur le reste.</span></p>
+<h2 class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial; color: #f26522; font-size: 13pt;"><strong>7/  Et pour finir…</strong></span></h2>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Petit exercice d'écriture : Pour rester sur une note positive en fin de journée, notez tout ce que vous avez pu faire, plutôt que ce que vous n'avez pas fait.</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Vous serez agréablement surprise de voir que vous aurez fait énormément de choses en une journée, des choses qui n'étaient pas forcément sur votre "to do" liste, mais qu'il était sans doute indispensable de faire.</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Félicitez-vous, remerciez-vous !</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Partagez aussi ce que vous avez accompli avec votre conjoint et vos enfants pour qu'eux aussi réalisent tout ce que vous accomplissez au quotidien !</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial; color: #f26522;">Bon courage à toutes !</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial; color: #f26522;">... et bravo aux papas qui ont déjà compris le poids que représentait la charge mentale pour leur conjointe et qui sont très impliqués dans la gestion du foyer au quotidien.</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">On compte maintenant sur les autres papas qui, j'en suis sûre, ne manqueront pas de suivre le même chemin !</span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="line-height: 24pt; font-family: arial;">Pour les mamans solos, on sollicite sa famille, ses amies et on utilise deux fois plus l'appli <a href="https://www.popmoms.com/" target="_blank" rel="noopener">PopMoms</a> ;-)</span></p>
+<p style="margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif; text-align: justify;"><span style="font-family: 'Century Gothic', sans-serif; color: #333333; line-height: 24pt; font-size: 12pt;"><span style="color: #f26522;">Najet MESSADAA</span></span></p>
+<p style="margin-top: 0pt; margin-bottom: 12pt; margin-left: 0in; text-align: left; direction: ltr; unicode-bidi: embed; word-break: normal; padding-left: 80px;"><span style="line-height: 24pt;"><em><span style="font-size: 11pt; font-family: arial; color: #4e5253;">Maman de deux enfants de 12 et 16 ans, pharmacienne et directrice Qualité dans l'industrie, Dr Najet Messadaa concilie comme beaucoup de femmes carrière professionnelle, vie familiale et vie personnelle.</span></em></span></p>
+<p style="margin-top: 0pt; margin-bottom: 12pt; margin-left: 0in; text-align: justify; direction: ltr; unicode-bidi: embed; word-break: normal; padding-left: 80px;"><span style="line-height: 24pt;"><em><span style="font-size: 11pt; font-family: arial; color: #4e5253;">C'est en discutant avec ses amies et collègues que Najet réalise que beaucoup de femmes sont, à des degrés différents, victimes de cette charge et que d'en parler, d'échanger est déjà un premier pas pour l'alléger.</span></em></span></p>
+<p style="margin-top: 0pt; margin-bottom: 12pt; margin-left: 0in; text-align: justify; direction: ltr; unicode-bidi: embed; word-break: normal; padding-left: 80px;"><span style="line-height: 24pt;"><em><span style="font-size: 11pt; font-family: arial; color: #4e5253;">Persuadée qu'à travers l'écoute et les échanges, les femmes peuvent s'entraider, elle entreprend alors de créer des ateliers autour de la charge mentale qu'elle propose aux particuliers mais également aux entreprises.</span></em></span></p>
+<p style="margin-top: 0pt; margin-bottom: 12pt; margin-left: 0in; text-align: justify; direction: ltr; unicode-bidi: embed; word-break: normal; padding-left: 80px;"><span style="line-height: 24pt;"><em><span style="font-size: 11pt; font-family: arial; color: #4e5253;">A travers ces ateliers, Najet a à c&oelig;ur d'offrir aux femmes un moment de convivialité, un temps pour elles, loin de leur quotidien souvent chargé, dans la bonne humeur et la bienveillance.</span></em></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 20pt; font-size: 11pt; font-family: Calibri, sans-serif; line-height: 18pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; padding-left: 80px;"><span style="line-height: 24pt;"><em><span style="font-size: 11pt; font-family: arial; color: #4e5253;"> <!--StartFragment--> <!--EndFragment--></span></em></span></p>
+<p style="margin-top: 0pt; margin-bottom: 12pt; margin-left: 0in; text-align: justify; direction: ltr; unicode-bidi: embed; word-break: normal; padding-left: 80px;"><span style="line-height: 24pt;"><em><span style="font-size: 11pt; font-family: arial; color: #4e5253;">Vous pouvez suivre ou contacter Najet sur Instagram : najet_messadaa  ou sur sa page <a style="color: #4e5253;" href="https://www.facebook.com/najet.messadaa">Facebook </a>: "la charge mentale, on en parle" </span></em></span></p>
+<p style="margin-top: 0pt; margin-bottom: 12pt; margin-left: 0in; text-align: justify; direction: ltr; unicode-bidi: embed; word-break: normal; padding-left: 80px;"><span style="line-height: 24pt;"><em><span style="font-size: 11pt; font-family: arial; color: #4e5253;">Pour en savoir plus ou pour participer à un atelier, écrivez lui à <a style="color: #4e5253;" href="mailto:atelierchargementale@gmail.com" target="_blank" rel="noopener">atelierchargementale@gmail.com</a></span></em></span></p>
+<p style="margin-top: 0pt; margin-bottom: 12pt; margin-left: 0in; text-align: justify; direction: ltr; unicode-bidi: embed; word-break: normal; padding-left: 80px;"><span style="line-height: 24pt;"><em><span style="font-size: 11pt; font-family: arial; color: #4e5253;">Découvrez aussi notre <a href="https://www.popmoms-pro.fr/carrousel/alleger-sa%20-charge-mentale-de-parent-carrousel-PopMoms" target="_blank" rel="noopener">carrousel sur la charge mentale</a> !</span></em></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 12pt; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="font-size: 11pt; color: #a4a4a4; font-family: arial; line-height: 24pt;">Crédit photo : 123RF Image ID: 58832513 sifotography</span></p>
+<p><span style="line-height: 24pt;"><!--StartFragment--></span></p>
+<p> </p>
+<p><span style="line-height: 24pt;"><!--EndFragment--></span></p>
+<p> </p>
+<p><span style="line-height: 24pt;"><!--StartFragment--></span></p>
+<p style="language: fr; margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left; direction: ltr; unicode-bidi: embed; mso-line-break-override: none; word-break: normal; punctuation-wrap: hanging;"> </p>
+<p><span style="line-height: 24pt;"><!--EndFragment--></span></p></p>
+                </div>
+              </div>
+
+            <div id="fb-root"></div>
+              <script>(function(d, s, id) {
+              var js, fjs = d.getElementsByTagName(s)[0];
+              if (d.getElementById(id)) return;
+              js = d.createElement(s); js.id = id;
+              js.src = 'https://connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v2.12&appId=114635329234714&autoLogAppEvents=1';
+              fjs.parentNode.insertBefore(js, fjs);
+              }(document, 'script', 'facebook-jssdk'));</script>
+
+              <div class="fb-share-button"
+                data-href="https://www.popmoms.fr/actu.php?id=1241"
+                data-layout="button_count" style="line-height:11px;">
+              </div>
+              &nbsp;&nbsp;&nbsp;
+              <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+              &nbsp;&nbsp;&nbsp;
+              <script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: fr_FR</script>
+<script type="IN/Share"></script>
+
+              <h2>Commentaires</h2>
+<div class="fb-comments" data-order-by="reverse_time " data-href="https://www.popmoms.fr/actu.php?id=1241" data-numposts="5" data-width="100%"></div>
+
+
+              <br/><br/>
+
+              <h2>Les autres articles</h2>
+              <br/>
+              <div class="row">
+                             <div class="col-md-12">
+                 <div class="row ncard">
+                   <div class="col-md-6">
+                     <a href="actu.php?id=641"><div style="width:100%;height:200px;background-image:url('https://cdn.popmoms.fr/static/actu-641.png');background-position:center;background-size:cover;" class="card-img">&nbsp;</div></a>
+                   </div>
+                   <div class="col-md-6 ncard-content">
+                     <a href="actu.php?id=641"><h3 class="card-subtitle">PSYCHOLOGIE</h3></a>
+                     <a href="actu.php?id=641"><h2 class="card-title">Les enfants du divorce</h2></a>
+                     <a href="actu.php?id=641"><p class="card-text">Il n'est pas rare que d'anciens amoureux demeurent ensemble sans éprouver ni amour ni haine pour l'autre ;...</p></a>
+                     <!--<a href="actu.php?id=641" class="btn btn-success">Lire la suite</a>-->
+                     <span class="author">
+                     <a href='https://www.linkedin.com/in/le%C3%AFla-marie-turki-redactrice/' target='_blank'>Par LMT,  journaliste scientifique</a>                    </span>
+                    <div>
+                      <ul class="share-links">
+                        <li>
+                          <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.popmoms.fr%2Factu.php%3Fid%3D641">
+                            <img src="img/p-facebook.svg"></a></li>
+                        <li><a href="https://twitter.com/intent/tweet?text=Les+enfants+du+divorce&url=https%3A%2F%2Fwww.popmoms.fr%2Factu.php%3Fid%3D641" target="_blank"><img src="img/p-twitter.svg"></a></li>
+                        <li><a href="http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.popmoms.fr%2Factu.php%3Fid%3D641&title=Les+enfants+du+divorce" target="_blank"><img src="img/p-linkedin.svg"></a></li>
+                      </ul>
+                    </div>
+                   </div>
+                 </div>
+                 
+               </div>
+
+                            <div class="col-md-12">
+                 <div class="row ncard">
+                   <div class="col-md-6">
+                     <a href="actu.php?id=1191"><div style="width:100%;height:200px;background-image:url('https://cdn.popmoms.fr/static/U7oTgOo9bwjq1EfBYshrAerTAROK65.jpg');background-position:center;background-size:cover;" class="card-img">&nbsp;</div></a>
+                   </div>
+                   <div class="col-md-6 ncard-content">
+                     <a href="actu.php?id=1191"><h3 class="card-subtitle">Bien-être et santé</h3></a>
+                     <a href="actu.php?id=1191"><h2 class="card-title">Ce que l'hypnose peut apporter à votre enfant</h2></a>
+                     <a href="actu.php?id=1191"><p class="card-text">  
+La pratique de l'hypnose, de plus en plus répandue, est pourtant encore mal connue du grand public...</p></a>
+                     <!--<a href="actu.php?id=1191" class="btn btn-success">Lire la suite</a>-->
+                     <span class="author">
+                     <a href='https://www.linkedin.com/in/val%C3%A9rie-roumanoff/' target='_blank'>Par Valérie Roumanoff</a>                    </span>
+                    <div>
+                      <ul class="share-links">
+                        <li>
+                          <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.popmoms.fr%2Factu.php%3Fid%3D1191">
+                            <img src="img/p-facebook.svg"></a></li>
+                        <li><a href="https://twitter.com/intent/tweet?text=Ce+que+l%27hypnose+peut+apporter+%C3%A0+votre+enfant&url=https%3A%2F%2Fwww.popmoms.fr%2Factu.php%3Fid%3D1191" target="_blank"><img src="img/p-twitter.svg"></a></li>
+                        <li><a href="http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.popmoms.fr%2Factu.php%3Fid%3D1191&title=Ce+que+l%27hypnose+peut+apporter+%C3%A0+votre+enfant" target="_blank"><img src="img/p-linkedin.svg"></a></li>
+                      </ul>
+                    </div>
+                   </div>
+                 </div>
+                 
+               </div>
+
+                            <div class="col-md-12">
+                 <div class="row ncard">
+                   <div class="col-md-6">
+                     <a href="actu.php?id=1463"><div style="width:100%;height:200px;background-image:url('https://d1lx6cnr608381.cloudfront.net/MFSMPAvhwEDXv3AH299YyMogfjoavc.png');background-position:center;background-size:cover;" class="card-img">&nbsp;</div></a>
+                   </div>
+                   <div class="col-md-6 ncard-content">
+                     <a href="actu.php?id=1463"><h3 class="card-subtitle">Education</h3></a>
+                     <a href="actu.php?id=1463"><h2 class="card-title">Maman de 11 enfants, voici  mes 11 règles à la maison !</h2></a>
+                     <a href="actu.php?id=1463"><p class="card-text">Je suis maman de 11 enfants, et voici 11 règles à mettre en place à la maison pour le bien de tous...</p></a>
+                     <!--<a href="actu.php?id=1463" class="btn btn-success">Lire la suite</a>-->
+                     <span class="author">
+                     <a href='www.popmoms.fr' target='_blank'>Par POPMOMS</a>                    </span>
+                    <div>
+                      <ul class="share-links">
+                        <li>
+                          <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.popmoms.fr%2Factu.php%3Fid%3D1463">
+                            <img src="img/p-facebook.svg"></a></li>
+                        <li><a href="https://twitter.com/intent/tweet?text=Maman+de+11+enfants%2C+voici++mes+11+r%C3%A8gles+%C3%A0+la+maison+%21&url=https%3A%2F%2Fwww.popmoms.fr%2Factu.php%3Fid%3D1463" target="_blank"><img src="img/p-twitter.svg"></a></li>
+                        <li><a href="http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.popmoms.fr%2Factu.php%3Fid%3D1463&title=Maman+de+11+enfants%2C+voici++mes+11+r%C3%A8gles+%C3%A0+la+maison+%21" target="_blank"><img src="img/p-linkedin.svg"></a></li>
+                      </ul>
+                    </div>
+                   </div>
+                 </div>
+                 
+               </div>
+
+                            <div class="col-md-12">
+                 <div class="row ncard">
+                   <div class="col-md-6">
+                     <a href="actu.php?id=751"><div style="width:100%;height:200px;background-image:url('https://cdn.popmoms.fr/static/actu-751.png');background-position:center;background-size:cover;" class="card-img">&nbsp;</div></a>
+                   </div>
+                   <div class="col-md-6 ncard-content">
+                     <a href="actu.php?id=751"><h3 class="card-subtitle">EDUCATION</h3></a>
+                     <a href="actu.php?id=751"><h2 class="card-title">4 bonnes raisons de faire participer vos enfants aux tâches domestiques</h2></a>
+                     <a href="actu.php?id=751"><p class="card-text">Les américains appellent ça « overparenting » et ont même inventé une expression pour les parents...</p></a>
+                     <!--<a href="actu.php?id=751" class="btn btn-success">Lire la suite</a>-->
+                     <span class="author">
+                     <a href='https://www.linkedin.com/in/ylandau/' target='_blank'>Par Yaël Landau, en exclusivité pour PopMoms</a>                    </span>
+                    <div>
+                      <ul class="share-links">
+                        <li>
+                          <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.popmoms.fr%2Factu.php%3Fid%3D751">
+                            <img src="img/p-facebook.svg"></a></li>
+                        <li><a href="https://twitter.com/intent/tweet?text=4+bonnes+raisons+de+faire+participer+vos+enfants+aux+t%C3%A2ches+domestiques&url=https%3A%2F%2Fwww.popmoms.fr%2Factu.php%3Fid%3D751" target="_blank"><img src="img/p-twitter.svg"></a></li>
+                        <li><a href="http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.popmoms.fr%2Factu.php%3Fid%3D751&title=4+bonnes+raisons+de+faire+participer+vos+enfants+aux+t%C3%A2ches+domestiques" target="_blank"><img src="img/p-linkedin.svg"></a></li>
+                      </ul>
+                    </div>
+                   </div>
+                 </div>
+                 
+               </div>
+
+                            <div class="col-md-12">
+                 <div class="row ncard">
+                   <div class="col-md-6">
+                     <a href="actu.php?id=1462"><div style="width:100%;height:200px;background-image:url('https://d1lx6cnr608381.cloudfront.net/rroCQ2tnJjfuB8XuGWD9qYpbxCVxlw.png');background-position:center;background-size:cover;" class="card-img">&nbsp;</div></a>
+                   </div>
+                   <div class="col-md-6 ncard-content">
+                     <a href="actu.php?id=1462"><h3 class="card-subtitle">Education</h3></a>
+                     <a href="actu.php?id=1462"><h2 class="card-title">La langue des signes, un trésor pour les enfants Dys !</h2></a>
+                     <a href="actu.php?id=1462"><p class="card-text">La langue des signes est souvent associée aux personnes sourdes ou malentendantes, mais en réalité,...</p></a>
+                     <!--<a href="actu.php?id=1462" class="btn btn-success">Lire la suite</a>-->
+                     <span class="author">
+                     <a href='www.popmoms.fr' target='_blank'>Par POPMOMS</a>                    </span>
+                    <div>
+                      <ul class="share-links">
+                        <li>
+                          <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.popmoms.fr%2Factu.php%3Fid%3D1462">
+                            <img src="img/p-facebook.svg"></a></li>
+                        <li><a href="https://twitter.com/intent/tweet?text=La+langue+des+signes%2C+un+tr%C3%A9sor+pour+les+enfants+Dys+%21&url=https%3A%2F%2Fwww.popmoms.fr%2Factu.php%3Fid%3D1462" target="_blank"><img src="img/p-twitter.svg"></a></li>
+                        <li><a href="http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.popmoms.fr%2Factu.php%3Fid%3D1462&title=La+langue+des+signes%2C+un+tr%C3%A9sor+pour+les+enfants+Dys+%21" target="_blank"><img src="img/p-linkedin.svg"></a></li>
+                      </ul>
+                    </div>
+                   </div>
+                 </div>
+                 
+               </div>
+
+                            <div class="col-md-12">
+                 <div class="row ncard">
+                   <div class="col-md-6">
+                     <a href="actu.php?id=681"><div style="width:100%;height:200px;background-image:url('https://cdn.popmoms.fr/static/actu-681.png');background-position:center;background-size:cover;" class="card-img">&nbsp;</div></a>
+                   </div>
+                   <div class="col-md-6 ncard-content">
+                     <a href="actu.php?id=681"><h3 class="card-subtitle">BON PLAN</h3></a>
+                     <a href="actu.php?id=681"><h2 class="card-title">10 idées de cadeaux qui ne coûtent rien... et bien plus !</h2></a>
+                     <a href="actu.php?id=681"><p class="card-text">Quand j'étais enfant, Noël était pour moi le plus beau moment de l'année. Toute la famille se réunissait,...</p></a>
+                     <!--<a href="actu.php?id=681" class="btn btn-success">Lire la suite</a>-->
+                     <span class="author">
+                     <a href='https://www.linkedin.com/in/carmen-kervella%F0%9F%92%A5-bb6b9138/' target='_blank'>Par CK</a>                    </span>
+                    <div>
+                      <ul class="share-links">
+                        <li>
+                          <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.popmoms.fr%2Factu.php%3Fid%3D681">
+                            <img src="img/p-facebook.svg"></a></li>
+                        <li><a href="https://twitter.com/intent/tweet?text=10+id%C3%A9es+de+cadeaux+qui+ne+co%C3%BBtent+rien...+et+bien+plus+%21&url=https%3A%2F%2Fwww.popmoms.fr%2Factu.php%3Fid%3D681" target="_blank"><img src="img/p-twitter.svg"></a></li>
+                        <li><a href="http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.popmoms.fr%2Factu.php%3Fid%3D681&title=10+id%C3%A9es+de+cadeaux+qui+ne+co%C3%BBtent+rien...+et+bien+plus+%21" target="_blank"><img src="img/p-linkedin.svg"></a></li>
+                      </ul>
+                    </div>
+                   </div>
+                 </div>
+                 
+               </div>
+
+             
+
+
+              </div>
+            </div>
+
+
+
+            
+            <div class="col-md-4">
+              <br/>
+              <br/>
+                            <div class="row">
+                <div class="col-md-12 text-center">
+
+                  <a href='ad.php?id=1491' target='_blank'>                  <img src="https://popmoms.s3.eu-west-2.amazonaws.com/partenaires/PRO%20-%20ATELIERS%20tiny.png" style="width:90%;" />
+
+                  <h2 class='partenaire'>Décodez les pleurs de votre bébé !</h2></a>                </div>
+
+              </div>
+              <hr/>
+                            <div class="row">
+                <div class="col-md-12 text-center">
+
+                  <a href='ad.php?id=1481' target='_blank'>                  <img src="https://popmoms.s3.eu-west-2.amazonaws.com/partenaires/ATELIERS%20De%CC%81couvre%20tous%20nos%20ateliers%20APP.png" style="width:90%;" />
+
+                  <h2 class='partenaire'>Découvre nos Ateliers Parentalité</h2></a>                </div>
+
+              </div>
+              <hr/>
+                            <div class="row">
+                <div class="col-md-12 text-center">
+
+                  <a href='ad.php?id=1471' target='_blank'>                  <img src="https://popmoms.s3.eu-west-2.amazonaws.com/partenaires/Atelier%20Carine%20Senan%20sommeil%20bb.png" style="width:90%;" />
+
+                  <h2 class='partenaire'>Atelier sommeil du bébé de 0 à 6 mois</h2></a>                </div>
+
+              </div>
+              <hr/>
+                            <div class="row">
+                <div class="col-md-12 text-center">
+
+                  <a href='ad.php?id=1461' target='_blank'>                  <img src="https://popmoms.s3.eu-west-2.amazonaws.com/partenaires/Atelier%20Marine%20JAIS%20booste%20ta%20carrie%CC%80re.png" style="width:90%;" />
+
+                  <h2 class='partenaire'>Atelier Booste ta carrière sans sacrifier ta vie de maman</h2></a>                </div>
+
+              </div>
+              <hr/>
+                            <div class="row">
+                <div class="col-md-12 text-center">
+
+                  <a href='ad.php?id=1451' target='_blank'>                  <img src="https://popmoms.s3.eu-west-2.amazonaws.com/partenaires/Atelier%20S%20Broggini%20Initiation%20a%CC%80%20la%20sophro.png" style="width:90%;" />
+
+                  <h2 class='partenaire'>Atelier d'initiation à la sophrologie</h2></a>                </div>
+
+              </div>
+              <hr/>
+                            <div class="row">
+                <div class="col-md-12 text-center">
+
+                  <a href='ad.php?id=1441' target='_blank'>                  <img src="https://popmoms.s3.eu-west-2.amazonaws.com/partenaires/Ve%CC%81ronique%20Delaplace%20sur%20app.png" style="width:90%;" />
+
+                  <h2 class='partenaire'>Les pros de la famille sont sur PopMoms-PRO.fr</h2></a>                </div>
+
+              </div>
+              <hr/>
+                            <div class="row">
+                <div class="col-md-12 text-center">
+
+                  <a href='ad.php?id=1431' target='_blank'>                  <img src="https://popmoms.s3.eu-west-2.amazonaws.com/partenaires/Valentine%20Burge%CC%80re%20sur%20app.png" style="width:90%;" />
+
+                  <h2 class='partenaire'>Les pros de la famille sont sur PopMoms-PRO.fr</h2></a>                </div>
+
+              </div>
+              <hr/>
+                            <div class="row">
+                <div class="col-md-12 text-center">
+
+                  <a href='ad.php?id=1421' target='_blank'>                  <img src="https://popmoms.s3.eu-west-2.amazonaws.com/partenaires/Johanna%20de%20Barmon%20sur%20app.png" style="width:90%;" />
+
+                  <h2 class='partenaire'>Les pros de la famille sont sur PopMoms-PRO.fr</h2></a>                </div>
+
+              </div>
+              <hr/>
+                            <div class="row">
+                <div class="col-md-12 text-center">
+
+                  <a href='ad.php?id=1361' target='_blank'>                  <img src="https://popmoms.s3.eu-west-2.amazonaws.com/partenaires/09-01%20RENTREE%20SCOLAIRE%202022%20%281%29.jpg" style="width:90%;" />
+
+                  <h2 class='partenaire'>Bonne rentrée !</h2></a>                </div>
+
+              </div>
+              <hr/>
+              
+                          </div>
+
+          </div>
+        </div>
+
+      </div>
+    </div>
+    <div class="container-fluid videobox" style="background:#f26522;">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-4">
+            <div align="center">
+              <iframe width="400" height="250" src="https://www.youtube.com/embed/-zQ7ey8Pu5o" frameborder="0" allowfullscreen></iframe>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div align="center">
+              <a href="https://www.youtube.com/embed/-zQ7ey8Pu5o" target="_blank"><img src="img/v1.png" width="300px"/></a>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div align="center">
+              <a href="https://itunes.apple.com/fr/app/popmoms/id1249840052?ls=1&mt=8" style="display:block;width:300px;margin-top:0px;max-width:90%;"><img src="img/btn_availableontheappstore.png"></a>
+              <a href="https://play.google.com/store/apps/details?id=app.popmoms" style="display:block;width:300px;max-width:90%;"><img src="img/button_dl_android2.png"></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div> <!-- /container -->
+<div class="container-fluid footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        <img src="img/logo_dark.png" class="logo-footer" />
+      </div>
+      <div class="col-md-6">
+        <a href="https://twitter.com/karen_popmoms" target="_blank" style="float:right;"><img src="img/icon_twitter.png" class="icon_share"  /></a>
+        <a href="https://www.instagram.com/popmoms_officiel/" target="_blank" style="float:right;"><img src="img/icon_instagram.png" class="icon_share"  /></a>
+        <a href="https://www.facebook.com/popmoms.officiel/" target="_blank" style="float:right;"><img src="img/icon_fb.png" class="icon_share"  /></a>
+      </div>
+      <div class="col-md-12">
+        <img src="img/dot.png" style="width:100%;padding-top:20px;padding-bottom:40px;" />
+      </div>
+      <div class="col-md-3 links footer-1">
+        <a href="https://www.popmoms.fr/dossier-presse.php" class="d-block">Dossier de presse</a>
+      </div>
+      <div class="col-md-3 links footer-1">
+        <a href="https://www.popmoms.fr/contact.php">Contactez-nous</a>
+      </div>
+      <div class="col-md-3 links footer-1">
+        <a href="https://www.popmoms.fr/legals.html" target="_blank" >MENTIONS LEGALES</a>
+      </div>
+      <div class="col-md-3 links footer-3">
+        <a href="https://www.popmoms.fr/cgu-popmoms.pdf" target="_blank">Conditions générales d'utilisation</a><br/>
+      </div>
+      <div class="col-md-12 links footer-1" style="padding-top:10px;">
+        <a href="https://www.popmoms.org/" target="_blank">Popmoms pour les mairies / entreprises</a><br/>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="https://www.popmoms.fr/js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
+    <script type="text/javascript" src="js/slick.min.js"></script>
+    <script src="https://www.popmoms.fr/js/vendor/bootstrap.min.js"></script>
+
+    <script src="https://www.popmoms.fr/js/main.js"></script>
+
+    <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-114409058-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-114409058-1');
+</script>
+<link rel="stylesheet" type="text/css" href="css/jquery-eu-cookie-law-popup.css"/>
+<script src="js/jquery-eu-cookie-law-popup.js"></script>
+
+<script type="text/javascript">
+
+jQuery(document).ready(function() {
+  const $dropdown = jQuery(".dropdown");
+  const $dropdownToggle = jQuery(".dropdown-toggle");
+  const $dropdownMenu = jQuery(".dropdown-menu");
+  const showClass = "show";
+
+jQuery(window).on("load resize", function() {
+if (this.matchMedia("(min-width: 768px)").matches) {
+$dropdown.hover(
+  function() {
+    const $this = $(this);
+    $this.addClass(showClass);
+    $this.find($dropdownToggle).attr("aria-expanded", "true");
+    $this.find($dropdownMenu).addClass(showClass);
+  },
+  function() {
+    const $this = $(this);
+    $this.removeClass(showClass);
+    $this.find($dropdownToggle).attr("aria-expanded", "false");
+    $this.find($dropdownMenu).removeClass(showClass);
+  }
+);
+} else {
+$dropdown.off("mouseenter mouseleave");
+}
+});
+});
+
+    </script>
+</body>
+</html>
+

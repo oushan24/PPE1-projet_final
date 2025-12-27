@@ -1,0 +1,109 @@
+
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+     * Début
+     * 1 Charge physique globale de travail
+     * 2 Charge mentale de travail
+     * 3 Références
+
+   [ ] Basculer la table des matières
+
+Charge de travail
+
+   [ ] 6 langues
+     * Català
+--
+   Un article de Wikipédia, l'encyclopédie libre.
+   Page d'aide sur l'homonymie
+
+   Pour les articles homonymes, voir Charge.
+   Page d'aide sur l'homonymie
+
+   Ne doit pas être confondu avec le terme informatique workload qui peut
+   désigner une capacité informatique (calcul, stockage...) située dans le
+   Cloud
+
+   En ergonomie, la charge de travail est le coût d'une activité.
+
+   On distingue classiquement la charge physique et la charge mentale de
+   travail. Ainsi, c'est le niveau de sollicitation des ressources
+   cognitives lors de la réalisation d'une tâche qui a été conceptualisé
+   par la notion de charge cognitive. Une définition a minima de cette
+   charge mentale est, selon Cegarra et Chevalier, « le rapport entre la
+   demande de la tâche et les ressources disponibles »^[1].
+
+   Selon Jacques Leplat, « le travail est une activité et la charge de
+--
+   Dans les années 2000, Wickens (2000) dit qu'il faut considérer les
+   relations entre l'offre (ressources disponibles) et la demande
+   (exigences). Cela implique d'admettre l'importance des variations de
+   charge mentale ressentie par l'opérateur au cours de l'exécution d'une
+   même tâche. Le concept, s'il gagne en clarté, n'en devient pas moins
+   labile selon Martin et al.^[2]
+
+   On parle de surcharge de travail et de sous-charge de travail.
+
+   Il y a surcharge de travail lorsque les ressources de l'opérateur sont
+   dépassées par le coût que nécessite le travail. Ce coût peut être
+   influencé par les limites propres à l'opérateur.
+
+   Il y a sous-charge de travail lorsque l'opérateur ne dispose pas de
+   suffisamment de travail pour maintenir son attention.
+
+Charge physique globale de travail
+
+   [modifier | modifier le code]
+
+   Selon l'INRS, trois catégories de méthodes peuvent être déployées pour
+   mesurer la charge de travail^[3]^,^[4].
+     * Les évaluations par observation
+     * Les évaluations subjectives, faisant appel au jugement du
+       travailleur
+     * Les évaluations métrologiques, qui s'appuient sur de mesures
+       physiologiques.
+
+   La charge physique peut être mesurée objectivement (évaluation
+   métrologique) par exemple en analysant la fréquence cardiaque ou la
+   consommation d'oxygène^[3].
+
+Charge mentale de travail
+
+   [modifier | modifier le code]
+
+--
+   résultante de l'ajustement entre ressources cognitives et exigences de
+   la tâche pour un objectif fixé^[2].
+
+   Pour mesurer la charge mentale, différentes méthodes ont été
+   classiquement mobilisées. On peut les classer en trois catégories :
+     * les méthodes basées sur les corrélations ;
+     * les méthodes basées sur la double tâche ;
+--
+   les conditions de sa réalisation, mais également les formes d'autonomie
+   ou encore le poids du hors-travail. La qualité des moyens d'expression,
+   d'en débattre, est aussi déterminant dans la régulation de la
+   charge^[5].
+
+Références
+
+--
+       methodological improvements. Behaviour Research Methods, 40,
+       988-1000
+    2. ^| ^a b et c Martin, C., Hourlier, S. & Cegarra, J. (2013). La
+       charge mentale de travail : un concept qui reste indispensable,
+       l'exemple de l'aéronautique. Le travail humain, 76, 285-308.
+       https://doi.org/10.3917/th.764.0285
+    3. ^| ^a et b Nathalie Judon, « La charge physique et son influence
+--
+       p. 32-39 (lire en ligne)
+    4. ^| « Méthode d'analyse de la charge physique de travail - Brochure
+       - INRS », sur www.inrs.fr (consulté le 1^er février 2022)
+    5. ^| Laurent Tertrais, Ecouter la charge de travail, Lyon, Chronique
+       sociale, février 2021, 69 p. (ISBN 978-2-36717-738-0)
+
+     * icône décorative Portail de la psychologie
+--
+   (BUTTON) Rechercher
+
+   [ ] Basculer la table des matières
+   Charge de travail
+   (BUTTON) 6 langues Ajouter un sujet
