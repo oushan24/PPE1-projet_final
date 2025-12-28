@@ -70,14 +70,13 @@ while read -r LINE ; do
         NB_MOTS=$(cat "tmp.txt" | lynx -dump -stdin -nolist | wc -w)
 
         # Aspiration des pages (1 fichier html par url)
-        FICHIER_ASP=$"lang_fr-${NB_LIGNE}.html"
-        CHEMIN=$"../aspirations/$FICHIER_ASP"
-        curl -s -L -o "$CHEMIN" "$LINE"
-        ASPIRATION=$"<a href='aspirations/$FICHIER_ASP' target='_blank'>Aspiration n°$NB_LIGNE</a>"
+        FICHIER_ASP=$"../aspirations/lang_fr-${NB_LIGNE}.html"
+        curl -s -L -o "$FICHIER_ASP" "$LINE"
+        ASPIRATION=$"<a href='$FICHIER_ASP' target='_blank'>Aspiration n°$NB_LIGNE</a>"
 
         # Extraire le contenu textuel des pages 
         FICHIER_DUMP=$"../dump/lang_fr-${NB_LIGNE}.txt"
-        lynx -dump -nolist "$CHEMIN" > "$FICHIER_DUMP"
+        lynx -dump -nolist "$FICHIER_ASP" > "$FICHIER_DUMP"
         DUMP=$"<a href='$FICHIER_DUMP' target='_blank'>Texte n°$NB_LIGNE</a>"
 
         # Compte du nombre du mot cible dans la page
