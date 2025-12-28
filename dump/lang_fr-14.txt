@@ -33,8 +33,8 @@ Popular Tags
      * deals
      * avocats
      * nominations
-     * Intelligence artificielle
      * Lex Inside
+     * Intelligence artificielle
      * directeur juridique
      * CNB
      * magistrats
@@ -787,9 +787,9 @@ Exercice en société des professions de santé
 
 Paris
 
-   2.1°C
-   Overcast Clouds Humidity: 82%
-   Wind: E at 4.12 M/S
+   -0.2°C
+   Mist Humidity: 93%
+   Wind: NNE at 5.14 M/S
 
                                  [INS: :INS]
 
@@ -889,9 +889,9 @@ La charge de travail : enjeux d'une définition légale
    ? Précédent Article suivant : Détournement du fichier clientèle d'un
    concurrent Suivant
 
-     * deals 153
-     * avocats 19
-     * nominations 19
+     * deals 149
+     * avocats 18
+     * nominations 18
      * Intelligence artificielle 2
 
 S'abonner à la newsletter

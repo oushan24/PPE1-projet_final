@@ -71,12 +71,12 @@ while read -r LINE ; do
 
         # Aspiration des pages (1 fichier html par url)
         FICHIER_ASP=$"lang_fr-${NB_LIGNE}.html"
-        CHEMIN=$"aspirations/$FICHIER_ASP"
+        CHEMIN=$"../aspirations/$FICHIER_ASP"
         curl -s -L -o "$CHEMIN" "$LINE"
         ASPIRATION=$"<a href='aspirations/$FICHIER_ASP' target='_blank'>Aspiration n°$NB_LIGNE</a>"
 
         # Extraire le contenu textuel des pages 
-        FICHIER_DUMP=$"dump/lang_fr-${NB_LIGNE}.txt"
+        FICHIER_DUMP=$"../dump/lang_fr-${NB_LIGNE}.txt"
         lynx -dump -nolist "$CHEMIN" > "$FICHIER_DUMP"
         DUMP=$"<a href='$FICHIER_DUMP' target='_blank'>Texte n°$NB_LIGNE</a>"
 
@@ -84,12 +84,12 @@ while read -r LINE ; do
         NB_OCCURENCES=$(grep -oEi "[a-zA-Z]*?charge[s]?" "$FICHIER_DUMP" | wc -l)
 
         # Contexte (quelques lignes autour du mot cible, "zoomer" dans le dump textuel)
-        FICHIER_CONTX=$"contextes/lang_fr-${NB_LIGNE}.txt"
-        grep -i -E -C 3 "charge[s]?" "$FICHIER_DUMP" | iconv -f ISO-8859-1 -t UTF-8 | sponge "$FICHIER_CONTX"
+        FICHIER_CONTX=$"../contextes/lang_fr-${NB_LIGNE}.txt"
+        grep -i -E -C 3 "charge[s]?" "$FICHIER_DUMP" | iconv -f ISO-8859-1 -t UTF-8 | sponge "$FICHIER_CONTX" # Conversion en UTF-8 parce que dans mon ordi, les fichiers ne s'ouvres pas correctement (problèmes d'accent etc)
         CONTEXTE=$"<a href='$FICHIER_CONTX' target='_blank'>Contexte n°$NB_LIGNE</a>"
 
         # Concordancier (créer un fichier pour chaque URL à partir du contexte précédemment produit, construction de tableaux à mettre dans un dossier "Concordancier" et mettre les liens de chaque concordancier dans le tableau de base)
-        FICHIER_CONCO=$"concordanciers/lang_fr-${NB_LIGNE}.html"
+        FICHIER_CONCO=$"../concordanciers/lang_fr-${NB_LIGNE}.html"
         cat > "$FICHIER_CONCO" <<EOF
 
 <!DOCTYPE html>
@@ -98,7 +98,7 @@ while read -r LINE ; do
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css"/>
-    <link rel="stylesheet" href="../tableau.css"/>
+    <link rel="stylesheet" href="../fiche_css/tableau.css"/>
 </head>
 <body>
     <div class="table-container">

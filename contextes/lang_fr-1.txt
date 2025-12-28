@@ -6,14 +6,6 @@
        faits incontournables, les principales sources de contamination et
        les leviers pour soutenir vos organes d'élimination dès
 --
-       la panne sexuelle psychogène s'installe dans la durée, alimentée
-       par l'anxiété de performance, le stress ou les problèmes
-       relationnels. Découvrez comment identifier et différencier ces
-       troubles pour mieux les prendre en charge.
-     * Diététique (BUTTON) Toggle submenu
-          + Gérer son poids et sa silhouette
-          + Les bases de l'alimentation saine
---
      * Maladies
      * Santé mentale et troubles psy
 

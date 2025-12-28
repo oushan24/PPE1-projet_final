@@ -97,35 +97,31 @@ votre foie sans prévenir
           + Forme et vitalité saisonnière
           + Santé mentale et épanouissement
           + Santé sexuelle
-       Un couple diversifié (homme et femme dans la trentaine) est assis
-       sur un canapé confortable dans un Santé sexuelle
+       gros plan sur le corps d'une femme sportive qui transpire. Son
+       ventre nu montre des abdominaux saill
+       Bien vieillir
 
-Panne, éjaculation précoce : pourquoi votre cerveau est le vrai coupable (et
-comment briser le cercle vicieux)
-       Fréquemment rencontrées chez les hommes de moins de 50 ans, la
-       dysfonction érectile et l'éjaculation précoce trouvent souvent leur
-       origine dans des causes psychologiques. Au-delà de l'échec isolé,
-       la panne sexuelle psychogène s'installe dans la durée, alimentée
-       par l'anxiété de performance, le stress ou les problèmes
-       relationnels. Découvrez comment identifier et différencier ces
-       troubles pour mieux les prendre en charge.
+Ventre plat après 40 ans : ce n'est pas qu'une question de calories (et voici
+pourquoi vos hormones décident tout)
+       Le stockage de la graisse abdominale évolue inévitablement avec
+       l'âge sous l'influence de facteurs hormonaux et métaboliques
+       complexes. Loin d'être une fatalité, cette modification de la
+       silhouette s'explique par la fluctuation des oestrogènes et la
+       gestion du cortisol.
      * Diététique (BUTTON) Toggle submenu
           + Gérer son poids et sa silhouette
           + Les bases de l'alimentation saine
           + Sécurité alimentaire
           + Vitamines, minéraux et compléments
-       Prompt 1: Une image lumineuse et dynamique montrant une femme et un
-       homme d'une quarantaine d'années
-       Diététique
+       Prompt 2: photographie chaleureuse d'un dîner familial. Deux
+       adultes et un enfant sont assis autour Diététique
 
-Métabolisme lent ou rapide : tout ce que vous devez savoir pour maigrir
-durablement
-       Souvent accusé à tort d'être le responsable de nos kilos en trop,
-       le métabolisme reste une notion floue pour beaucoup. Est-il
-       vraiment possible de le stimuler ou sommes-nous condamnés par notre
-       génétique ? Au-delà des idées reçues, il est crucial de comprendre
-       la définition exacte du métabolisme de base et les mécanismes
-       scientifiques qui le régulent.
+Saumon sauvage, bio ou élevage : lequel choisir réellement pour votre santé
+en 2024 ?
+       Le saumon, star des poissons gras, est essentiel pour ses oméga-3
+       mais soulève des questions de santé et d'éthique. Entre saumon
+       sauvage, d'élevage ou certifié bio, les différences nutritionnelles
+       et les risques de contaminants (PCB, mercure) sont réels.
      * Recettes (BUTTON) Toggle submenu
           + Apéritifs et entrées
           + Boissons et smoothies

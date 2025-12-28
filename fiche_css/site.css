@@ -2,13 +2,12 @@ body {
     margin: 0;
     width: 100%;
     height: 100%;
-    padding: 0; /* Ajustez selon la hauteur de votre navbar */
+    padding: 0;
     background-color: whitesmoke;
     overflow-x: hidden;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-/* 1. Base de la barre de navigation */
 .navbar {
     display: flex;
     align-items: center;
@@ -39,18 +38,18 @@ body {
  .navbar-title {
     font-weight: larger;
     font-size: 28px;
-    line-height: 1.2; /* Réduit l'espace entre les lignes */
+    line-height: 1.2; 
     color: whitesmoke;
     padding-top: 15px;
 }
 
 .navbar-subtitle {
     font-size: 20px;
-    color:whitesmoke; /* Couleur un peu plus discrète */
+    color:whitesmoke; 
     margin-top: 0;
     padding-bottom: 15px;
 }
-/* 2. Alignement horizontal */
+
 .navbar-menu, .navbar-start {
     display: flex;
     justify-content: center;
@@ -66,9 +65,8 @@ body {
   padding: 0;
 }
 
-/* 3. Style des liens et éléments */
 .navbar-item {
-    position: relative; /* Important pour positionner le menu déroulant */
+    position: relative; 
     color:whitesmoke;
     text-decoration: none;
     padding: 15px 20px;
@@ -79,11 +77,11 @@ body {
 .navbar-item:hover {
     background-color:rgba(255, 255, 255, 0.4);
 }
-/* 4. Gestion du Menu Déroulant (Dropdown) */
+
 .navbar-dropdown {
-    display: none; /* Cache le menu par défaut */
+    display: none; 
     position: absolute;
-    top: 100%; /* S'affiche juste en dessous du parent */
+    top: 100%; 
     left: 0;
     background-color:transparent;
     min-width: 180px;
@@ -91,12 +89,10 @@ body {
     z-index:200;
 }
 
-/* Affiche le menu quand on survole le parent .is-hoverable */
 .has-dropdown.is-hoverable:hover > .navbar-dropdown {
     display: block;
 }
 
-/* Style des sous-items */
 .navbar-item.sub {
     padding: 10px 20px;
     font-size: 0.9em;
@@ -107,12 +103,14 @@ body {
     width: 100%;
 }
 .navbar-item.sub:hover {
-    background-color: #666 !important; /* Fond légèrement plus gris au survol */
-    color: white !important;               /* Texte qui change de couleur */
+    background-color: #666 !important;
+    color: white !important;               
 }
+
 .navbar-item.sub:last-child {
     border-bottom: none;
 }
+
 html {
     scroll-behavior: smooth;
 }
@@ -151,7 +149,6 @@ html {
   color: black;
 }
 
-/* Titre principal */
 h1 {
     display: flex;
     flex-direction: column;
@@ -160,20 +157,19 @@ h1 {
     text-align: center;
     text-transform: uppercase;
     padding-bottom: 50px;
-    font-weight: 800;      /* Très gras */
-    color: #666 !important;     /* Ta couleur */
-    font-size: 3.5rem;     /* Taille imposante */
+    font-weight: 800;
+    color: #666 !important;
+    font-size: 3.5rem;     
     margin-bottom: 10px;
     margin-top: 80px;
-    text-shadow: 2px 2px 4px rgba(0,0,0,0.3); /* Pour qu'il ressorte sur l'image */
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
 }
 
-/* Sous-titre ou titre de section */
 h2 {
     font-weight: 400;
     color: dimgray !important;
-    font-size: 1.5rem;     /* Plus grand que 'small' pour rester un titre */
-    letter-spacing: 1px;   /* Un peu d'espace entre les lettres */
+    font-size: 1.5rem;
+    letter-spacing: 1px;
 }
 
 h3 {
@@ -258,10 +254,10 @@ p{
 }
 
 .card-img{
-    width: 100%;       /* Prend toute la largeur de la carte */
-    height: 200px;     /* Fixez une hauteur pour l'image */
-    object-fit: cover; /* Recadre l'image proprement sans la déformer */
-    border-radius: 15px ; /* Optionnel : arrondit les coins de l'image */
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 15px ;
     overflow: hidden;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
 }
@@ -281,23 +277,23 @@ p{
 }
 
 .card-button:hover {
-  background-color: rgba(255, 183, 193, 0.7) !important; /* On assombrit un peu */
-  transform: translateY(-2px);               /* Petit effet de soulèvement en bonus */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);  /* Ajoute une légère ombre au survol */
+  background-color: rgba(255, 183, 193, 0.7) !important;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
 .card-content{
-    width: 100%;       /* Prend toute la largeur de la carte */
+    width: 100%;
     display: flex;
     flex-direction: column; 
-    gap: 30px;          /* Espace entre le titre et le sous-titre */
+    gap: 30px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .card-content_title {
     font-size: 34px;
     font-weight: 500;
     color: black;
-    align-self: center; /* Force le titre à se coller à DROITE */
+    align-self: center;
     border-radius: 100px;
     background-color: transparent;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
@@ -308,7 +304,7 @@ p{
     font-size: 30px;
     font-weight: 400;
     color: dimgray;
-    align-self: center; /* Force le sous-titre à se coller à GAUCHE */
+    align-self: center;
     font-style: italic;
 }
 
@@ -355,11 +351,11 @@ p{
 }
 
 .card-wrap {
-    display: flex;          /* On remet les enfants côte à côte */
-    flex-wrap: wrap;        /* Pour le mobile */
-    justify-content: center; /* On centre les cartes */
-    gap: 50px;              /* L'espace entre les cartes */
-    width: 100%;            /* Prend toute la largeur */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 50px;
+    width: 100%;
 }
 
 .profil-card{
@@ -379,11 +375,11 @@ p{
 }
 
 .profil-card_img{
-    width: 300px;       /* Prend toute la largeur de la carte */
-    height: 300px;     /* Fixez une hauteur pour l'image */
-    object-fit: cover; /* Recadre l'image proprement sans la déformer */
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
     border-radius: 50% ;
-    overflow: hidden; /* Optionnel : arrondit les coins de l'image */
+    overflow: hidden;
     display: block;
     margin: 0 auto;
     flex-shrink: 0;
@@ -403,22 +399,22 @@ p{
 }
 
 .profil-card_content{
-    width: 100%;       /* Prend toute la largeur de la carte */
+    width: 100%;
     display: flex;
     flex-direction: column; 
-    gap: 10px;          /* Espace entre le titre et le sous-titre */
+    gap: 10px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .profil-card_content_title {
     font-size: 34px;
     font-weight: 500;
     color: black;
-    align-self:center; /* Force le titre à se coller à DROITE */
+    align-self:center;
     text-align: center;
 }
 
 .profil-card_content_title2 {
-    align-self:self-end; /* Force le titre à se coller à DROITE */
+    align-self:self-end;
     text-align: center;
     justify-content: flex-start;
     margin:0;
