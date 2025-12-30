@@ -5,7 +5,7 @@
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-M592F3M
 
    Logo of the Government of Quebec Government of Quebec
-   Institut national de santé publique du Québec
+   Institut national de santÃ© publique du QuÃ©bec
      * English EN
 
    Accueil Logo INSPQ
@@ -16,61 +16,61 @@ Navigation principale
           + L'Institut
           + Qui sommes-nous?
                o Qui sommes-nous?
-               o La science au service de la santé
+               o La science au service de la santÃ©
                o Nos produits et services
-               o Célébrons notre expertise
-                    # Célébrons notre expertise
-                    # 25 ans en rétrospective
+               o CÃ©lÃ©brons notre expertise
+                    # CÃ©lÃ©brons notre expertise
+                    # 25 ans en rÃ©trospective
                     # Ligne du temps
                     # COVID-19 : 5 ans plus tard
                     # Retour
                o Organigramme
                o Conseil d'administration
-               o Comités d'experts permanents
-                    # Comités d'experts permanents
-                    # Comité de Surveillance provinciale des infections
+               o ComitÃ©s d'experts permanents
+                    # ComitÃ©s d'experts permanents
+                    # ComitÃ© de Surveillance provinciale des infections
                       nosocomiales (SPIN)
-                    # Comité consultatif québécois sur la santé des
+                    # ComitÃ© consultatif quÃ©bÃ©cois sur la santÃ© des
                       voyageurs (CCQSV)
-                    # Comité sur les analyses de laboratoire en lien avec
+                    # ComitÃ© sur les analyses de laboratoire en lien avec
                       les ITSS (CALI)
-                    # Comité sur les infections nosocomiales du Québec
+                    # ComitÃ© sur les infections nosocomiales du QuÃ©bec
                       (CINQ)
-                    # Comité sur les infections transmissibles
+                    # ComitÃ© sur les infections transmissibles
                       sexuellement et par le sang (CITSS)
-                    # Comité sur l'immunisation du Québec (CIQ)
-                    # Comité d'experts en retraitement des dispositifs
-                      médicaux (CERDM)
+                    # ComitÃ© sur l'immunisation du QuÃ©bec (CIQ)
+                    # ComitÃ© d'experts en retraitement des dispositifs
+                      mÃ©dicaux (CERDM)
                     # Retour
                o Documents institutionnels
                o Retour
           + Diffusion de l'information
                o Diffusion de l'information
-               o Demandes d'accès à l'information
-               o Divulgation des dépenses
-               o Documents déposés à l'Assemblée nationale
+               o Demandes d'accÃ¨s Ã  l'information
+               o Divulgation des dÃ©penses
+               o Documents dÃ©posÃ©s Ã  l'AssemblÃ©e nationale
                o Inventaire des fichiers de renseignements personnels
                o Retour
           + Programme scientifique
                o Programme scientifique
                o Conseil scientifique
-               o Rigueur et qualité scientifiques
-               o Recherche et développement des connaissances
+               o Rigueur et qualitÃ© scientifiques
+               o Recherche et dÃ©veloppement des connaissances
                o Transfert des connaissances
                     # Transfert des connaissances
-                    # Communauté de pratique en transfert des
+                    # CommunautÃ© de pratique en transfert des
                       connaissances
                     # Retour
                o Collaboration internationale
                o Retour
           + Politiques publiques
                o Politiques publiques
-               o Bulletin politiques publiques et santé
+               o Bulletin politiques publiques et santÃ©
                o Centre de collaboration nationale sur les politiques
-                 publiques et la santé
-               o Questions de santé publique
+                 publiques et la santÃ©
+               o Questions de santÃ© publique
                o Retour
-          + Veille documentaire en santé publique
+          + Veille documentaire en santÃ© publique
           + Centre de presse
           + Nous joindre
                o Nous joindre
@@ -80,37 +80,37 @@ Navigation principale
           + Fermer Retour
      * Expertises
           + Expertises
-          + États de santé et inégalités
-               o États de santé et inégalités
+          + Ã‰tats de santÃ© et inÃ©galitÃ©s
+               o Ã‰tats de santÃ© et inÃ©galitÃ©s
                o Cancer
                     # Cancer
-                    # Évaluation du Programme québécois de dépistage du
+                    # Ã‰valuation du Programme quÃ©bÃ©cois de dÃ©pistage du
                       cancer du sein
                     # Retour
-               o Santé buccodentaire
-                    # Santé buccodentaire
-                    # Portrait québécois
-                    # Prévention
-                    # Inégalités sociales de santé buccodentaire
+               o SantÃ© buccodentaire
+                    # SantÃ© buccodentaire
+                    # Portrait quÃ©bÃ©cois
+                    # PrÃ©vention
+                    # InÃ©galitÃ©s sociales de santÃ© buccodentaire
                     # Veille scientifique
                     # Retour
-               o Santé mentale
-                    # Santé mentale
-                    # Qu'est-ce que la santé mentale?
-                    # Facteurs qui influencent la santé mentale
-                    # Interventions pour promouvoir la santé mentale
-                    # Données et mesures
+               o SantÃ© mentale
+                    # SantÃ© mentale
+                    # Qu'est-ce que la santÃ© mentale?
+                    # Facteurs qui influencent la santÃ© mentale
+                    # Interventions pour promouvoir la santÃ© mentale
+                    # DonnÃ©es et mesures
                     # Comportements suicidaires
-                    # La santé mentale dans les médias et l'espace public
+                    # La santÃ© mentale dans les mÃ©dias et l'espace public
                     # Veille scientifique
                     # Retour
-               o L'Indicateur de santé publique
-                    # L'Indicateur de santé publique
-                    # Conditions socioéconomiques
-                    # Santé globale
-                    # Santé des mères et des tout-petits
-                    # Développement des jeunes
-                    # Santé mentale et psychosociale
+               o L'Indicateur de santÃ© publique
+                    # L'Indicateur de santÃ© publique
+                    # Conditions socioÃ©conomiques
+                    # SantÃ© globale
+                    # SantÃ© des mÃ¨res et des tout-petits
+                    # DÃ©veloppement des jeunes
+                    # SantÃ© mentale et psychosociale
                     # Habitudes de vie
                     # Maladies chroniques
                     # Traumatismes non intentionnels
@@ -118,123 +118,123 @@ Navigation principale
                     # Informations sur les comparaisons
                     # Glossaire
                     # Retour
-               o Inégalités sociales de santé
-                    # Inégalités sociales de santé
-                    # Les ISS à l'INSPQ
-                    # Indice de défavorisation matérielle et sociale
+               o InÃ©galitÃ©s sociales de santÃ©
+                    # InÃ©galitÃ©s sociales de santÃ©
+                    # Les ISS Ã  l'INSPQ
+                    # Indice de dÃ©favorisation matÃ©rielle et sociale
                     # Retour
                o Retour
-          + Développement des personnes et des communautés
-               o Développement des personnes et des communautés
-               o Périnatalité et petite enfance
-                    # Périnatalité et petite enfance
-                    # Portail d'information périnatale
-                    # Mieux vivre avec notre enfant de la grossesse à deux
+          + DÃ©veloppement des personnes et des communautÃ©s
+               o DÃ©veloppement des personnes et des communautÃ©s
+               o PÃ©rinatalitÃ© et petite enfance
+                    # PÃ©rinatalitÃ© et petite enfance
+                    # Portail d'information pÃ©rinatale
+                    # Mieux vivre avec notre enfant de la grossesse Ã  deux
                       ans
-                    # Développement des jeunes enfants
-                    # Surveillance de la santé maternelle et infantile
+                    # DÃ©veloppement des jeunes enfants
+                    # Surveillance de la santÃ© maternelle et infantile
                     # Retour
-               o Santé et bien-être des jeunes en contexte scolaire
-               o Vieillissement en santé
-                    # Vieillissement en santé
-                    # Le vieillissement au Québec
-                    # Santé cognitive
+               o SantÃ© et bien-Ãªtre des jeunes en contexte scolaire
+               o Vieillissement en santÃ©
+                    # Vieillissement en santÃ©
+                    # Le vieillissement au QuÃ©bec
+                    # SantÃ© cognitive
                     # Retour
-               o Centre de référence sur l'environnement bâti et la santé
+               o Centre de rÃ©fÃ©rence sur l'environnement bÃ¢ti et la santÃ©
                  (CREBS)
-                    # Centre de référence sur l'environnement bâti et la
-                      santé (CREBS)
-                    # À propos du CREBS
+                    # Centre de rÃ©fÃ©rence sur l'environnement bÃ¢ti et la
+                      santÃ© (CREBS)
+                    # Ã€ propos du CREBS
                     # Collection OPUS
                     # Trousse diagnostique
                     # Mon habitat, plus qu'un simple toit
                     # Outils de collecte CARDEX
                     # Explorateur cartographique
                     # Autres outils cartographiques
-                    # Événements, webinaires et rediffusions
+                    # Ã‰vÃ©nements, webinaires et rediffusions
                     # Retour
                o Retour
           + Habitudes de vie
                o Habitudes de vie
-               o Activité physique
-                    # Activité physique
-                    # Activité physique de loisirs
-                    # Activité physique de transports
-                    # Sédentarité
+               o ActivitÃ© physique
+                    # ActivitÃ© physique
+                    # ActivitÃ© physique de loisirs
+                    # ActivitÃ© physique de transports
+                    # SÃ©dentaritÃ©
                     # Retour
                o Alimentation
                     # Alimentation
-                    # Achats alimentaires en supermarchés et magasins à
+                    # Achats alimentaires en supermarchÃ©s et magasins Ã 
                       grande surface
-                    # Cibles de reformulation des aliments transformés
-                    # Environnements favorables à la santé
+                    # Cibles de reformulation des aliments transformÃ©s
+                    # Environnements favorables Ã  la santÃ©
                     # Pour des environnements favorables
-                    # Pour une culture d'évaluation
-                    # Surveillance de la nutrition, de l'activité physique
-                      et des problèmes liés au poids
-                    # Veille scientifique : amélioration de la qualité
-                      nutritionnelle des aliments transformés
+                    # Pour une culture d'Ã©valuation
+                    # Surveillance de la nutrition, de l'activitÃ© physique
+                      et des problÃ¨mes liÃ©s au poids
+                    # Veille scientifique : amÃ©lioration de la qualitÃ©
+                      nutritionnelle des aliments transformÃ©s
                     # Veille scientifique : saine alimentation et mode de
                       vie actif
                     # Retour
-               o Écrans et hyperconnectivité
-                    # Écrans et hyperconnectivité
-                    # Effets sur la santé
+               o Ã‰crans et hyperconnectivitÃ©
+                    # Ã‰crans et hyperconnectivitÃ©
+                    # Effets sur la santÃ©
                     # Famille
-                    # École
+                    # Ã‰cole
                     # Recommandations
                     # Veille scientifique
                     # Retour
-               o Santé reproductive et prévention des grossesses non
-                 désirées
-               o Comité sur les habitudes de vie
+               o SantÃ© reproductive et prÃ©vention des grossesses non
+                 dÃ©sirÃ©es
+               o ComitÃ© sur les habitudes de vie
                o Retour
           + Substances psychoactives, tabac et jeux d'argent
                o Substances psychoactives, tabac et jeux d'argent
                o Alcool
                     # Alcool
                     # Coup d'oeil sur l'alcool
-                    # Données
+                    # DonnÃ©es
                     # Bulletin analytique
                     # Veille scientifique
-                    # Veille médiatique
+                    # Veille mÃ©diatique
                     # Retour
                o Cannabis
                     # Cannabis
                     # Coup d'oeil sur le cannabis
-                    # Conséquences sanitaires
-                    # Données
-                    # Contenu pour les équipes de santé publique
+                    # ConsÃ©quences sanitaires
+                    # DonnÃ©es
+                    # Contenu pour les Ã©quipes de santÃ© publique
                     # Bulletin analytique
                     # Veille scientifique
-                    # Veille médiatique
+                    # Veille mÃ©diatique
                     # Retour
-               o Drogues et médicaments
-                    # Drogues et médicaments
+               o Drogues et mÃ©dicaments
+                    # Drogues et mÃ©dicaments
                     # Surdoses
-                    # Données
-                    # Conséquences sanitaires
+                    # DonnÃ©es
+                    # ConsÃ©quences sanitaires
                     # Veille scientifique
-                    # Veille médiatique
+                    # Veille mÃ©diatique
                     # Retour
-               o Tabac et cigarette électronique
-                    # Tabac et cigarette électronique
+               o Tabac et cigarette Ã©lectronique
+                    # Tabac et cigarette Ã©lectronique
                     # Coup d'oeil sur le tabac
-                    # Données
+                    # DonnÃ©es
                     # Bulletin analytique
                     # Veille scientifique
-                    # Veille médiatique
+                    # Veille mÃ©diatique
                     # Retour
                o Jeux de hasard et d'argent
                     # Jeux de hasard et d'argent
                     # Coup d'oeil sur les JHA
-                    # Cartographie du jeu au Québec
-                    # Données
+                    # Cartographie du jeu au QuÃ©bec
+                    # DonnÃ©es
                     # Veille analytique
                     # Veille scientifique
-                    # Veille médiatique
+                    # Veille mÃ©diatique
                     # Retour
-               o Projets multithématiques
+               o Projets multithÃ©matiques
                o Ressources d'aide
                o Bulletins d'information
                o Retour
@@ -249,110 +249,110 @@ Navigation principale
                       sang
                     # Espace ITSS
                     # Avis, recommandations et guides
-                    # Diversité sexuelle et pluralité des genres
+                    # DiversitÃ© sexuelle et pluralitÃ© des genres
                     # Surveillance
                     # Retour
                o Maladies infectieuses respiratoires
                     # Maladies infectieuses respiratoires
-                    # Données des virus respiratoires
+                    # DonnÃ©es des virus respiratoires
                     # COVID-19 - documentation
-                    # Maladies respiratoires sévères infectieuses
+                    # Maladies respiratoires sÃ©vÃ¨res infectieuses
                     # Tuberculose
                     # Retour
-               o Prévention et contrôle des infections liées aux soins de
-                 santé
-                    # Prévention et contrôle des infections liées aux
-                      soins de santé
+               o PrÃ©vention et contrÃ´le des infections liÃ©es aux soins de
+                 santÃ©
+                    # PrÃ©vention et contrÃ´le des infections liÃ©es aux
+                      soins de santÃ©
                     # Les infections nosocomiales et leur surveillance
                     # Biovigilance
-                    # Retraitement des dispositifs médicaux
+                    # Retraitement des dispositifs mÃ©dicaux
                     # Retour
-               o Santé-voyage
-                    # Santé-voyage
-                    # Guide d'intervention santé-voyage
-                    # Actualités en santé-voyage
-                    # Outils en santé-voyage
-                    # Astuces pour voyager en santé
+               o SantÃ©-voyage
+                    # SantÃ©-voyage
+                    # Guide d'intervention santÃ©-voyage
+                    # ActualitÃ©s en santÃ©-voyage
+                    # Outils en santÃ©-voyage
+                    # Astuces pour voyager en santÃ©
                     # Retour
-               o Zoonoses et maladies émergentes
-                    # Zoonoses et maladies émergentes
+               o Zoonoses et maladies Ã©mergentes
+                    # Zoonoses et maladies Ã©mergentes
                     # Maladies transmises par les moustiques
                     # Maladies transmises par les tiques
                     # Rage
-                    # Autres zoonoses et maladies émergentes
-                    # Observatoire multipartite québécois sur les zoonoses
+                    # Autres zoonoses et maladies Ã©mergentes
+                    # Observatoire multipartite quÃ©bÃ©cois sur les zoonoses
                       et l'adaptation aux changements climatiques
-                    # Comité scientifique sur les zoonoses et l'adaptation
+                    # ComitÃ© scientifique sur les zoonoses et l'adaptation
                       aux changements climatiques
                     # Veille sur les zoonoses
-                    # Cartes de répartition actuelle et future
+                    # Cartes de rÃ©partition actuelle et future
                     # Retour
                o Retour
-          + Santé au travail
-               o Santé au travail
-               o Surveillance, recherche et évaluation en santé au travail
-                    # Surveillance, recherche et évaluation en santé au
+          + SantÃ© au travail
+               o SantÃ© au travail
+               o Surveillance, recherche et Ã©valuation en santÃ© au travail
+                    # Surveillance, recherche et Ã©valuation en santÃ© au
                       travail
                     # EQCOTESST
                     # Retour
-               o Maladies respiratoires reliées au travail
-                    # Maladies respiratoires reliées au travail
+               o Maladies respiratoires reliÃ©es au travail
+                    # Maladies respiratoires reliÃ©es au travail
                     # Amiante
                     # Produits en amiante / fournisseurs
                     # Retour
-               o Troubles musculo-squelettiques liés au travail
-                    # Troubles musculo-squelettiques liés au travail
-                    # Guide et outils d'évaluation des contraintes du
+               o Troubles musculo-squelettiques liÃ©s au travail
+                    # Troubles musculo-squelettiques liÃ©s au travail
+                    # Guide et outils d'Ã©valuation des contraintes du
                       travail
                     # Guide et outils pour le maintien et le retour au
                       travail
                     # Ampleur des TMS
                     # Facteurs de risque des TMS
-                    # Sexe/genre et autres déterminants des iniquités de
-                      santé
-                    # Nouveautés
+                    # Sexe/genre et autres dÃ©terminants des iniquitÃ©s de
+                      santÃ©
+                    # NouveautÃ©s
                     # Groupe scientifique sur les troubles
-                      musculo-squelettiques liés au travail
+                      musculo-squelettiques liÃ©s au travail
                     # Retour
-               o Exposition au bruit et effets sur la santé et la sécurité
-               o Exposition aux vibrations et effets sur la santé et la
-                 sécurité
+               o Exposition au bruit et effets sur la santÃ© et la sÃ©curitÃ©
+               o Exposition aux vibrations et effets sur la santÃ© et la
+                 sÃ©curitÃ©
                o Risques psychosociaux du travail
                     # Risques psychosociaux du travail
-                    # Carrefour de la prévention organisationnelle
-                    # À vous de jouer!
+                    # Carrefour de la prÃ©vention organisationnelle
+                    # Ã€ vous de jouer!
                     # Bulletin info-RPS
-                    # Harcèlement psychologique au travail
+                    # HarcÃ¨lement psychologique au travail
                     # Recueil de fiches portant sur les indicateurs de la
                       Grille d'identification de risques psychosociaux du
                       travail
                     # Retour
-               o Maternité et travail
-                    # Maternité et travail
-                    # Comité Maternité et travail
+               o MaternitÃ© et travail
+                    # MaternitÃ© et travail
+                    # ComitÃ© MaternitÃ© et travail
                     # Retour
                o Adaptation du travail aux changements climatiques
                o Retour
-          + Santé des Autochtones
-               o Santé des Autochtones
+          + SantÃ© des Autochtones
+               o SantÃ© des Autochtones
                o Veille scientifique
                     # Veille scientifique
-                    # Méthodologie de la veille
+                    # MÃ©thodologie de la veille
                     # Retour
-               o Enquête de santé auprès des Inuit du Nunavik 2017
-               o Enquête de santé auprès des Inuit du Nunavik 2004
-               o Enquête de santé auprès des Cris 2003
+               o EnquÃªte de santÃ© auprÃ¨s des Inuit du Nunavik 2017
+               o EnquÃªte de santÃ© auprÃ¨s des Inuit du Nunavik 2004
+               o EnquÃªte de santÃ© auprÃ¨s des Cris 2003
                o Retour
-          + Santé environnementale
-               o Santé environnementale
+          + SantÃ© environnementale
+               o SantÃ© environnementale
                o Air
                     # Air
-                    # Air intérieur
-                    # Air extérieur
+                    # Air intÃ©rieur
+                    # Air extÃ©rieur
                     # Retour
                o Bruit environnemental
                     # Bruit environnemental
-                    # Bruit des éoliennes
+                    # Bruit des Ã©oliennes
                     # Retour
                o Changements climatiques
                     # Changements climatiques
@@ -361,63 +361,63 @@ Navigation principale
                     # Programme VRAC-PARC
                     # Formations et outils
                     # Notes de politique
-                    # À propos
+                    # Ã€ propos
                     # Retour
                o Eau
                     # Eau
                     # Eau potable
-                    # Eau récréative
+                    # Eau rÃ©crÃ©ative
                     # Eau non potable
-                    # Effets sur la santé
+                    # Effets sur la santÃ©
                     # Retour
                o Rayonnement non ionisant
                     # Rayonnement non ionisant
-                    # La 5G et la santé
+                    # La 5G et la santÃ©
                     # Retour
                o Toxicologie clinique
                     # Toxicologie clinique
                     # Antidotes
-                    # Registre des antidotes du Québec
+                    # Registre des antidotes du QuÃ©bec
                     # Responsables locaux des antidotes
-                    # Actualités en toxicologie clinique
+                    # ActualitÃ©s en toxicologie clinique
                     # Retour
-               o Bulletin d'information en santé environnementale
-                    # Bulletin d'information en santé environnementale
-                    # À propos
+               o Bulletin d'information en santÃ© environnementale
+                    # Bulletin d'information en santÃ© environnementale
+                    # Ã€ propos
                     # Rubriques
                     # Publier dans le BISE
-                    # Anciens numéros
+                    # Anciens numÃ©ros
                     # Liens externes
                     # Pour nous joindre
                     # Retour
                o Retour
-          + Sécurité, prévention de la violence et des traumatismes
-               o Sécurité, prévention de la violence et des traumatismes
-               o Prévention des traumatismes non intentionnels
-                    # Prévention des traumatismes non intentionnels
-                    # Approche de prévention des traumatismes
+          + SÃ©curitÃ©, prÃ©vention de la violence et des traumatismes
+               o SÃ©curitÃ©, prÃ©vention de la violence et des traumatismes
+               o PrÃ©vention des traumatismes non intentionnels
+                    # PrÃ©vention des traumatismes non intentionnels
+                    # Approche de prÃ©vention des traumatismes
                     # Au domicile
                     # Dans les sports et loisirs
-                    # Sur le réseau routier
-                    # Groupes d'âge
+                    # Sur le rÃ©seau routier
+                    # Groupes d'Ã¢ge
                     # Surveillance et statistiques
                     # Retour
-               o Promotion de la sécurité dans les communautés
-                    # Promotion de la sécurité dans les communautés
-                    # Approche de promotion de la sécurité dans les
-                      communautés
-                    # Démarche structurée de planification des actions
-                    # Méthodes et outils
+               o Promotion de la sÃ©curitÃ© dans les communautÃ©s
+                    # Promotion de la sÃ©curitÃ© dans les communautÃ©s
+                    # Approche de promotion de la sÃ©curitÃ© dans les
+                      communautÃ©s
+                    # DÃ©marche structurÃ©e de planification des actions
+                    # MÃ©thodes et outils
                     # Retour
-               o Prévention de la violence interpersonnelle
-                    # Prévention de la violence interpersonnelle
-                    # Approche de prévention de la violence
+               o PrÃ©vention de la violence interpersonnelle
+                    # PrÃ©vention de la violence interpersonnelle
+                    # Approche de prÃ©vention de la violence
                     # Manifestations de violence
                     # Violence conjugale
                     # Violence sexuelle
                     # Intimidation
-                    # Rapport québécois sur la violence et la santé
-                    # Tueries de masse et traitement médiatique
+                    # Rapport quÃ©bÃ©cois sur la violence et la santÃ©
+                    # Tueries de masse et traitement mÃ©diatique
                     # Retour
                o Publications
                o Rapports annuels
@@ -425,156 +425,156 @@ Navigation principale
           + Fermer Retour
      * Services
           + Services
-          + Analyse des données de santé et systèmes d'information
-               o Analyse des données de santé et systèmes d'information
-               o Géomatique
-                    # Géomatique
-                    # Géoportail de santé publique du Québec
+          + Analyse des donnÃ©es de santÃ© et systÃ¨mes d'information
+               o Analyse des donnÃ©es de santÃ© et systÃ¨mes d'information
+               o GÃ©omatique
+                    # GÃ©omatique
+                    # GÃ©oportail de santÃ© publique du QuÃ©bec
                     # Retour
                o Outils de diffusion
                     # Outils de diffusion
-                    # Infocentre de santé publique
+                    # Infocentre de santÃ© publique
                     # Formulaire de demande (BIESP)
                     # Retour
-               o Systèmes d'information
+               o SystÃ¨mes d'information
                o Retour
-          + Centre de toxicologie du Québec
-               o Centre de toxicologie du Québec
-               o À propos du CTQ
-                    # À propos du CTQ
+          + Centre de toxicologie du QuÃ©bec
+               o Centre de toxicologie du QuÃ©bec
+               o Ã€ propos du CTQ
+                    # Ã€ propos du CTQ
                     # Joindre le CTQ
                     # Retour
                o Services de laboratoire
                     # Services de laboratoire
-                    # Répertoire des analyses
-                    # Requêtes des analyses
+                    # RÃ©pertoire des analyses
+                    # RequÃªtes des analyses
                     # Expertise en biosurveillance
-                    # Offre de services à l'intention du réseau de santé
+                    # Offre de services Ã  l'intention du rÃ©seau de santÃ©
                       publique
-                    # Expédition des échantillons
+                    # ExpÃ©dition des Ã©chantillons
                     # Paiement de facture PayPal
                     # Retour
-               o Programmes d'assurance qualité externes
-                    # Programmes d'assurance qualité externes
+               o Programmes d'assurance qualitÃ© externes
+                    # Programmes d'assurance qualitÃ© externes
                     # AMAP : AMAP Ring Test pour les polluants organiques
-                      persistants dans le sérum humain
-                    # Créatinine : Programme d'assurance qualité externe
-                      pour la mesure de la créatinine sérique
+                      persistants dans le sÃ©rum humain
+                    # CrÃ©atinine : Programme d'assurance qualitÃ© externe
+                      pour la mesure de la crÃ©atinine sÃ©rique
                     # OSEQAS : Programme sur les substances organiques
                       urinaires
-                    # PCI : Programme d'assurance qualité externe pour les
-                      métaux en milieu biologique
-                    # QMEQAS : Programme d'assurance qualité externe
-                      multiélément
+                    # PCI : Programme d'assurance qualitÃ© externe pour les
+                      mÃ©taux en milieu biologique
+                    # QMEQAS : Programme d'assurance qualitÃ© externe
+                      multiÃ©lÃ©ment
                     # Retour
                o Retour
-          + Cliniques de dépistage
-          + Éthique
-               o Éthique
-               o Comité d'éthique de santé publique
-                    # Comité d'éthique de santé publique
+          + Cliniques de dÃ©pistage
+          + Ã‰thique
+               o Ã‰thique
+               o ComitÃ© d'Ã©thique de santÃ© publique
+                    # ComitÃ© d'Ã©thique de santÃ© publique
                     # Historique
                     # Soumettre une demande
                     # Retour
                o Retour
-          + Évaluation d'impact sur la santé
-               o Évaluation d'impact sur la santé
+          + Ã‰valuation d'impact sur la santÃ©
+               o Ã‰valuation d'impact sur la santÃ©
                o Formation, outils et connaissances
-               o EIS réalisées au Québec
-               o Répertoire de publications utiles
+               o EIS rÃ©alisÃ©es au QuÃ©bec
+               o RÃ©pertoire de publications utiles
                o Retour
-          + Évaluation et gestion des risques
-               o Évaluation et gestion des risques
-               o Cadre de référence
-                    # Cadre de référence
+          + Ã‰valuation et gestion des risques
+               o Ã‰valuation et gestion des risques
+               o Cadre de rÃ©fÃ©rence
+                    # Cadre de rÃ©fÃ©rence
                     # Introduction au cadre
-                    # Les concepts clés de la gestion des risques à la
-                      santé
+                    # Les concepts clÃ©s de la gestion des risques Ã  la
+                      santÃ©
                     # Le processus
                     # Conclusion
-                    # Références
+                    # RÃ©fÃ©rences
                     # Annexe 1
                     # Annexe 2
                     # Liste des sigles et acronymes
                     # Glossaire
                     # Retour
                o Retour
-          + Laboratoire de santé publique du Québec
-               o Laboratoire de santé publique du Québec
+          + Laboratoire de santÃ© publique du QuÃ©bec
+               o Laboratoire de santÃ© publique du QuÃ©bec
                o Qui sommes-nous?
                     # Qui sommes-nous?
-                    # La qualité au LSPQ
+                    # La qualitÃ© au LSPQ
                     # Ligne du temps au LSPQ
                     # Nous joindre
                     # Retour
-               o Répertoire des analyses
-                    # Répertoire des analyses
+               o RÃ©pertoire des analyses
+                    # RÃ©pertoire des analyses
                     # Calendrier des analyses
                     # Protocoles de laboratoire et guides de pratique
                     # Retour
                o Microbiologie
                     # Microbiologie
                     # Archives Bulletin Statlabo
-                    # Communauté de pratique MALDI-TOF
+                    # CommunautÃ© de pratique MALDI-TOF
                     # Retour
-               o Biosécurité
+               o BiosÃ©curitÃ©
                o Formation
                     # Formation
                     # Stages de formation
-                    # Transport des matières dangereuses
+                    # Transport des matiÃ¨res dangereuses
                     # Forums de discussion 15189
                     # Retour
-               o Recherche et développement
+               o Recherche et dÃ©veloppement
                o Surveillance en laboratoire des infections
-               o Certification des unités de mammographie
-               o Permis d'exploitation des laboratoires privés
-                    # Permis d'exploitation des laboratoires privés
-                    # Laboratoires de biologie médicale : permis
+               o Certification des unitÃ©s de mammographie
+               o Permis d'exploitation des laboratoires privÃ©s
+                    # Permis d'exploitation des laboratoires privÃ©s
+                    # Laboratoires de biologie mÃ©dicale : permis
                       d'exploitation
-                    # Laboratoires de radiologie : processus d'émission
+                    # Laboratoires de radiologie : processus d'Ã©mission
                       d'un permis
                     # Retour
-               o Programme d'évaluation externe de la qualité
-                    # Programme d'évaluation externe de la qualité
+               o Programme d'Ã©valuation externe de la qualitÃ©
+                    # Programme d'Ã©valuation externe de la qualitÃ©
                     # APTITUDE | Page d'accueil
                     # Retour
-               o Programmes visant la qualité de l'eau
-                    # Programmes visant la qualité de l'eau
-                    # Programme d'hémodialyse
+               o Programmes visant la qualitÃ© de l'eau
+                    # Programmes visant la qualitÃ© de l'eau
+                    # Programme d'hÃ©modialyse
                     # Programme de fluoration des eaux de consommation au
-                      Québec
-                    # Eaux purifiées de laboratoire et d'usage en milieu
+                      QuÃ©bec
+                    # Eaux purifiÃ©es de laboratoire et d'usage en milieu
                       hospitalier
                     # Retour
                o Retour
           + Maladies infectieuses
                o Maladies infectieuses
-               o Épidémiologie de terrain
-               o Service d'évaluation des risques de transmission
-                 d'infections hématogènes
-                    # Service d'évaluation des risques de transmission
-                      d'infections hématogènes
-                    # Processus d'évaluation
-                    # Droits et responsabilités
+               o Ã‰pidÃ©miologie de terrain
+               o Service d'Ã©valuation des risques de transmission
+                 d'infections hÃ©matogÃ¨nes
+                    # Service d'Ã©valuation des risques de transmission
+                      d'infections hÃ©matogÃ¨nes
+                    # Processus d'Ã©valuation
+                    # Droits et responsabilitÃ©s
                     # Retour
                o Soutien aux situations complexes de l'infection par le
                  VIH
-               o Retraitement des dispositifs médicaux
+               o Retraitement des dispositifs mÃ©dicaux
                o Retour
           + Protocole de contraception
-          + Santé environnementale
-               o Santé environnementale
-               o Aménagement du territoire et urbanisme
+          + SantÃ© environnementale
+               o SantÃ© environnementale
+               o AmÃ©nagement du territoire et urbanisme
                o Biosurveillance
-               o Évaluation environnementale
-                    # Évaluation environnementale
-                    # Boîte à outils en évaluation environnementale au
-                      Québec méridional
+               o Ã‰valuation environnementale
+                    # Ã‰valuation environnementale
+                    # BoÃ®te Ã  outils en Ã©valuation environnementale au
+                      QuÃ©bec mÃ©ridional
                     # Retour
                o Examen des impacts sociaux et psychologiques
                     # Examen des impacts sociaux et psychologiques
-                    # Boîte à outils pour la surveillance post-sinistre
-                      des impacts sur la santé mentale
+                    # BoÃ®te Ã  outils pour la surveillance post-sinistre
+                      des impacts sur la santÃ© mentale
                     # Retour
                o Retour
           + Service documentaire et veille
@@ -583,90 +583,90 @@ Navigation principale
           + Formation
           + Formations offertes par l'Institut
                o Formations offertes par l'Institut
-               o Maladies infectieuses et santé-voyage
+               o Maladies infectieuses et santÃ©-voyage
                o Immunisation
                o ITSS
                o Zoonoses
-               o Santé au travail
-               o Santé environnementale et changements climatiques
-               o Santé physique et mentale
-               o Santé publique
-               o Sécurité et prévention de la violence
+               o SantÃ© au travail
+               o SantÃ© environnementale et changements climatiques
+               o SantÃ© physique et mentale
+               o SantÃ© publique
+               o SÃ©curitÃ© et prÃ©vention de la violence
                o Substances psychoactives, tabac et jeux d'argent
-               o Calendrier des événements
-               o Ateliers de santé environnementale
-                    # Ateliers de santé environnementale
-                    # Programmation préliminaire
+               o Calendrier des Ã©vÃ©nements
+               o Ateliers de santÃ© environnementale
+                    # Ateliers de santÃ© environnementale
+                    # Programmation prÃ©liminaire
                     # Inscription
                     # Lieu
-                    # Évaluation des ASE
-                    # Comités et équipes
+                    # Ã‰valuation des ASE
+                    # ComitÃ©s et Ã©quipes
                     # Contactez-nous
                     # Retour
-               o Prévention et promotion de la santé
+               o PrÃ©vention et promotion de la santÃ©
                o Retour
           + Campus virtuel de l'INSPQ
-          + Développement des compétences
-               o Développement des compétences
-               o Ressources en développement des compétences
-                    # Ressources en développement des compétences
+          + DÃ©veloppement des compÃ©tences
+               o DÃ©veloppement des compÃ©tences
+               o Ressources en dÃ©veloppement des compÃ©tences
+                    # Ressources en dÃ©veloppement des compÃ©tences
                     # Formations
-                    # Communautés de pratique
-                    # Référentiels de compétences
-                    # Références en santé publique
+                    # CommunautÃ©s de pratique
+                    # RÃ©fÃ©rentiels de compÃ©tences
+                    # RÃ©fÃ©rences en santÃ© publique
                     # Retour
-               o À propos de l'équipe du développement des compétences
+               o Ã€ propos de l'Ã©quipe du dÃ©veloppement des compÃ©tences
                o Retour
-          + Exercer la responsabilité populationnelle
-               o Exercer la responsabilité populationnelle
-               o Responsabilité populationnelle
-                    # Responsabilité populationnelle
-                    # Pourquoi assumer la responsabilité populationnelle?
-                    # Quelle est la stratégie ministérielle en soutien à
-                      l'exercice de la responsabilité populationnelle?
-                    # Comment assumer la responsabilité populationnelle?
+          + Exercer la responsabilitÃ© populationnelle
+               o Exercer la responsabilitÃ© populationnelle
+               o ResponsabilitÃ© populationnelle
+                    # ResponsabilitÃ© populationnelle
+                    # Pourquoi assumer la responsabilitÃ© populationnelle?
+                    # Quelle est la stratÃ©gie ministÃ©rielle en soutien Ã 
+                      l'exercice de la responsabilitÃ© populationnelle?
+                    # Comment assumer la responsabilitÃ© populationnelle?
                     # Retour
-               o Déterminants de la santé
-                    # Déterminants de la santé
-                    # Principaux déterminants de la santé - Environnement
-                      économique
-                    # Principaux déterminants de la santé - Environnement
+               o DÃ©terminants de la santÃ©
+                    # DÃ©terminants de la santÃ©
+                    # Principaux dÃ©terminants de la santÃ© - Environnement
+                      Ã©conomique
+                    # Principaux dÃ©terminants de la santÃ© - Environnement
                       physique
-                    # Principaux déterminants de la santé - Environnement
+                    # Principaux dÃ©terminants de la santÃ© - Environnement
                       social
-                    # Principaux déterminants de la santé -
-                      Caractéristiques, expériences et comportements
+                    # Principaux dÃ©terminants de la santÃ© -
+                      CaractÃ©ristiques, expÃ©riences et comportements
                       individuels
-                    # Principaux déterminants de la santé - Le système de
-                      santé et des services sociaux
+                    # Principaux dÃ©terminants de la santÃ© - Le systÃ¨me de
+                      santÃ© et des services sociaux
                     # Retour
-               o Réaliser un projet en lien avec la responsabilité
+               o RÃ©aliser un projet en lien avec la responsabilitÃ©
                  populationnelle
-                    # Réaliser un projet en lien avec la responsabilité
+                    # RÃ©aliser un projet en lien avec la responsabilitÃ©
                       populationnelle
-                    # Responsabilité populationnelle
+                    # ResponsabilitÃ© populationnelle
                     # Analyser la situation, convenir de l'orientation et
                       de la structure du projet avec les partenaires
-                    # Planifier la réalisation du projet et convenir des
-                      modalités de soutien
+                    # Planifier la rÃ©alisation du projet et convenir des
+                      modalitÃ©s de soutien
                     # Mettre en oeuvre, suivre le projet et l'adapter
                     # Faire le bilan du projet
                     # Faciliter le changement
                     # Retour
-               o Favoriser le Vieillissement en santé
-                    # Favoriser le Vieillissement en santé
-                    # Modèle Vieillissement en santé
-                    # Utiliser le modèle
-                    # Activité physique
+               o Favoriser le Vieillissement en santÃ©
+                    # Favoriser le Vieillissement en santÃ©
+                    # ModÃ¨le Vieillissement en santÃ©
+                    # Utiliser le modÃ¨le
+                    # ActivitÃ© physique
                     # Alimentation
                     # Retour
-               o Fiches thématiques
+               o Fiches thÃ©matiques
                o Bonnes pratiques
                     # Bonnes pratiques
-                    # Initiatives documentées
-                    # Autres références
+                    # Initiatives documentÃ©es
+                    # Autres rÃ©fÃ©rences
                     # Retour
-               o Données probantes
+               o DonnÃ©es probantes
                o Statistiques populationnelles et de services
                o Documentation et publications
                     # Documentation et publications
@@ -675,123 +675,123 @@ Navigation principale
                o Outils de veille
                o Liens utiles
                o Retour
-          + Journées annuelles de santé publique
-          + Soutien à l'apprenant - Foire aux questions
-          + Rendez-vous recherche et innovation en santé publique
+          + JournÃ©es annuelles de santÃ© publique
+          + Soutien Ã  l'apprenant - Foire aux questions
+          + Rendez-vous recherche et innovation en santÃ© publique
           + Fermer Retour
      * Nos productions
           + Nos productions
           + Publications
           + Publications par sujet
                o Publications par sujet
-               o Activité de laboratoire
+               o ActivitÃ© de laboratoire
                o Administration
                o Cancer
                     # Cancer
                     # Cancer colorectal
-                    # Cancer du col utérin
+                    # Cancer du col utÃ©rin
                     # Cancer du sein
                     # Retour
                o Collaboration internationale
-               o Contrôle de la qualité
-               o Déterminants sociaux de la santé
-               o Développement social et communautaire
-                    # Développement social et communautaire
+               o ContrÃ´le de la qualitÃ©
+               o DÃ©terminants sociaux de la santÃ©
+               o DÃ©veloppement social et communautaire
+                    # DÃ©veloppement social et communautaire
                     # Milieu scolaire
                     # Retour
-               o Économie de la santé
-               o État de santé de la population
-               o Éthique
-               o Évaluation d'impact sur la santé
+               o Ã‰conomie de la santÃ©
+               o Ã‰tat de santÃ© de la population
+               o Ã‰thique
+               o Ã‰valuation d'impact sur la santÃ©
                o Formation
-               o Géographie de la santé
+               o GÃ©ographie de la santÃ©
                o Gestion des risques
                o Habitudes de vie
                     # Habitudes de vie
-                    # Activité physique
+                    # ActivitÃ© physique
                     # Alimentation et nutrition
-                    # Boisson sucrée
-                    # Écrans
-                    # Environnement bâti
+                    # Boisson sucrÃ©e
+                    # Ã‰crans
+                    # Environnement bÃ¢ti
                     # Poids
-                    # Santé dentaire
+                    # SantÃ© dentaire
                     # Substances psychoactives, tabac et jeuxd'argent
                     # Transport actif
                     # Retour
-               o Hémovigilance
-               o Inégalités sociales de santé
+               o HÃ©movigilance
+               o InÃ©galitÃ©s sociales de santÃ©
                o Infection transmissible sexuellement et par le sang
                     # Infection transmissible sexuellement et par le sang
                     # VIH / Sida
                     # Virus du papillome humain
                     # Retour
                o Logement
-               o Maladie à déclaration obligatoire
+               o Maladie Ã  dÃ©claration obligatoire
                o Maladie chronique
                     # Maladie chronique
-                    # Diabète
+                    # DiabÃ¨te
                     # Maladie cardiovasculaire
                     # Retour
                o Maladie infectieuse
                     # Maladie infectieuse
-                    # Antibiorésistance
+                    # AntibiorÃ©sistance
                     # Immunisation
-                    # Infection à streptocoque
+                    # Infection Ã  streptocoque
                     # Infection nosocomiale
                     # Infection respiratoire
-                    # Retraitement des dispositifs médicaux
+                    # Retraitement des dispositifs mÃ©dicaux
                     # Zoonose
                     # Retour
                o Maladie respiratoire
-               o Méthodologie
+               o MÃ©thodologie
                o Microbiologie
-               o Mortalité
-               o Organisation de la santé et des services sociaux
-                    # Organisation de la santé et des services sociaux
-                    # Dépistage
-                    # Soins de santé primaires
+               o MortalitÃ©
+               o Organisation de la santÃ© et des services sociaux
+                    # Organisation de la santÃ© et des services sociaux
+                    # DÃ©pistage
+                    # Soins de santÃ© primaires
                     # Soins palliatifs
-                    # Technologie en santé
+                    # Technologie en santÃ©
                     # Retour
-               o Prévention et promotion de la santé
+               o PrÃ©vention et promotion de la santÃ©
                o Programme et politique publique
-               o Santé au travail
-                    # Santé au travail
+               o SantÃ© au travail
+                    # SantÃ© au travail
                     # Amiante
                     # Bruit et audition
-                    # Retrait préventif
+                    # Retrait prÃ©ventif
                     # Risques psychosociaux du travail
                     # Trouble musculosquelettique
                     # Retour
-               o Santé de la famille
-                    # Santé de la famille
+               o SantÃ© de la famille
+                    # SantÃ© de la famille
                     # Petite enfance
-                    # Santé des enfants
-                    # Santé des adolescents
+                    # SantÃ© des enfants
+                    # SantÃ© des adolescents
                     # Retour
-               o Santé des Autochtones
-               o Santé des femmes
-                    # Santé des femmes
+               o SantÃ© des Autochtones
+               o SantÃ© des femmes
+                    # SantÃ© des femmes
                     # Grossesse et accouchement
                     # Retour
-               o Santé des personnes ainées
-               o Santé des voyageurs
-               o Santé environnementale
-                    # Santé environnementale
+               o SantÃ© des personnes ainÃ©es
+               o SantÃ© des voyageurs
+               o SantÃ© environnementale
+                    # SantÃ© environnementale
                     # Biosurveillance
                     # Changement climatique
                     # Pesticide et pollution agricole
-                    # Qualité de l'air
-                    # Qualité de l'eau et santé
+                    # QualitÃ© de l'air
+                    # QualitÃ© de l'eau et santÃ©
                     # Radiation
                     # Rayonnement non ionisant
                     # Retour
-               o Santé mentale
-                    # Santé mentale
+               o SantÃ© mentale
+                    # SantÃ© mentale
                     # Suicide
                     # Retour
-               o Santé sexuelle et reproductive
-               o Sécurité
+               o SantÃ© sexuelle et reproductive
+               o SÃ©curitÃ©
                o Surveillance
                o Toxicologie
                     # Toxicologie
@@ -799,20 +799,20 @@ Navigation principale
                     # Retour
                o Traumatisme non intentionnel
                     # Traumatisme non intentionnel
-                    # Sécurité routière
+                    # SÃ©curitÃ© routiÃ¨re
                     # Retour
                o Violence
                o Retour
-          + Vidéos
+          + VidÃ©os
           + Abonnement aux listes de diffusion de l'INSPQ
-          + Les Résonances de l'Institut
+          + Les RÃ©sonances de l'Institut
           + Bulletins et infolettres
           + Fermer Retour
      * Emplois
           + Emplois
-          + Travailler à l'INSPQ
-               o Travailler à l'INSPQ
-               o Équité, diversité et inclusion
+          + Travailler Ã  l'INSPQ
+               o Travailler Ã  l'INSPQ
+               o Ã‰quitÃ©, diversitÃ© et inclusion
                o Processus de recrutement
                o Retour
           + Domaines d'emploi
@@ -823,26 +823,26 @@ Navigation principale
                o Science
                o Technologies de l'information
                o Retour
-          + Façonner l'avenir de la santé publique
+          + FaÃ§onner l'avenir de la santÃ© publique
           + Stages
           + Fermer Retour
      * Sondages
           + Sondages
           + Sondage sur les virus respiratoires
                o Sondage sur les virus respiratoires
-               o Répondre à la collecte du 28 décembre 2025 au 3 janvier
+               o RÃ©pondre Ã  la collecte du 28 dÃ©cembre 2025 au 3 janvier
                  2026
                o Retour
-          + Besoins de formation sur l'âgisme
-          + Étude sur les blessures subies au cours de la pratique
-            d'activités récréatives et sportives au Québec en 2025 (EBARS)
+          + Besoins de formation sur l'Ã¢gisme
+          + Ã‰tude sur les blessures subies au cours de la pratique
+            d'activitÃ©s rÃ©crÃ©atives et sportives au QuÃ©bec en 2025 (EBARS)
           + Fermer Retour
 
    Danger page
 
 Recherche
 
-   Chercher par mots-clés ______________________________
+   Chercher par mots-clÃ©s ______________________________
    Type de contenu [Type de contenu_______]
    Rechercher
 
@@ -850,188 +850,188 @@ Fil d'Ariane
 
      * Accueil
      * Expertises
-     * Santé au travail
+     * SantÃ© au travail
      * Risques psychosociaux du travail
      * Recueil de fiches portant sur les indicateurs de la Grille
        d'identification de risques psychosociaux du travail
-     * Composantes clés de l'organisation du travail
+     * Composantes clÃ©s de l'organisation du travail
      * Fiche 2-A : Charge de travail
 
-Fiche 2-A : Indicateur « Charge de travail »
+Fiche 2-A : Indicateur Â« Charge de travail Â»
 
 Qu'est-ce que la charge de travail?
 
-   La charge de travail est un concept complexe à définir et va au-delà de
-   la quantité de travail prescrite par l'employeur. Elle comporte une
+   La charge de travail est un concept complexe Ã  dÃ©finir et va au-delÃ  de
+   la quantitÃ© de travail prescrite par l'employeur. Elle comporte une
    dimension subjective : la charge de travail ressentie est aussi
-   importante que la charge de travail demandée. Elle doit être abordée de
-   façon globale en tenant compte de la complexité du travail réel, des
+   importante que la charge de travail demandÃ©e. Elle doit Ãªtre abordÃ©e de
+   faÃ§on globale en tenant compte de la complexitÃ© du travail rÃ©el, des
    demandes formelles et informelles qui sont faites aux travailleurs, des
-   ressources et des outils mis à la disposition de chacun pour réaliser
-   le travail, du temps disponible et des imprévus que l'on ne peut pas
-   toujours prévoir et qui ont un impact sur la charge de travail.
+   ressources et des outils mis Ã  la disposition de chacun pour rÃ©aliser
+   le travail, du temps disponible et des imprÃ©vus que l'on ne peut pas
+   toujours prÃ©voir et qui ont un impact sur la charge de travail.
 
-   En matière de risques psychosociaux, la charge de travail réfère à la
-   quantité de travail à accomplir, aux exigences intellectuelles requises
-   et aux contraintes de temps à respecter dans la réalisation du travail.
-   Ces dimensions peuvent être évaluées en questionnant les travailleurs
-   sur leurs perceptions de leur charge réelle de travail.
+   En matiÃ¨re de risques psychosociaux, la charge de travail rÃ©fÃ¨re Ã  la
+   quantitÃ© de travail Ã  accomplir, aux exigences intellectuelles requises
+   et aux contraintes de temps Ã  respecter dans la rÃ©alisation du travail.
+   Ces dimensions peuvent Ãªtre Ã©valuÃ©es en questionnant les travailleurs
+   sur leurs perceptions de leur charge rÃ©elle de travail.
 
-   Exemples de questions posées aux travailleurs pour évaluer la charge de
+   Exemples de questions posÃ©es aux travailleurs pour Ã©valuer la charge de
    travail
-     * Votre charge de travail vous apparait-elle excessivement élevée?
-     * Avez-vous l'impression que vous devez travailler très fort?
-     * Votre travail est-il très mouvementé?
-     * Votre travail exige-t-il de vous concentrer intensément durant de
-       longues périodes?
-     * Recevez-vous fréquemment des demandes contradictoires?
-     * Votre tâche est-elle souvent interrompue?
+     * Votre charge de travail vous apparait-elle excessivement Ã©levÃ©e?
+     * Avez-vous l'impression que vous devez travailler trÃ¨s fort?
+     * Votre travail est-il trÃ¨s mouvementÃ©?
+     * Votre travail exige-t-il de vous concentrer intensÃ©ment durant de
+       longues pÃ©riodes?
+     * Recevez-vous frÃ©quemment des demandes contradictoires?
+     * Votre tÃ¢che est-elle souvent interrompue?
      * Avez-vous suffisamment de temps pour terminer votre travail?
 
-Pourquoi s'en préoccuper?
+Pourquoi s'en prÃ©occuper?
 
-   L'intensification du travail est un phénomène de plus en plus présent
-   qui découle des grands changements des formes d'organisation du
-   travail. Ce phénomène se traduit par une augmentation constante de la
-   charge de travail et une mobilisation accrue des capacités
+   L'intensification du travail est un phÃ©nomÃ¨ne de plus en plus prÃ©sent
+   qui dÃ©coule des grands changements des formes d'organisation du
+   travail. Ce phÃ©nomÃ¨ne se traduit par une augmentation constante de la
+   charge de travail et une mobilisation accrue des capacitÃ©s
    intellectuelles, psychologiques et physiques des travailleurs.
 
-   La charge de travail est un facteur de risque important pour la santé.
-   Plusieurs études ont montré des liens entre une combinaison d'une
-   charge de travail élevée et une faible autonomie décisionnelle et les
+   La charge de travail est un facteur de risque important pour la santÃ©.
+   Plusieurs Ã©tudes ont montrÃ© des liens entre une combinaison d'une
+   charge de travail Ã©levÃ©e et une faible autonomie dÃ©cisionnelle et les
    maladies mentales, musculo-squelettiques et cardiovasculaires.
 
-   En plus de la hausse de l'absentéisme et du présentéisme, une charge de
-   travail élevée peut avoir des impacts négatifs sur les organisations.
+   En plus de la hausse de l'absentÃ©isme et du prÃ©sentÃ©isme, une charge de
+   travail Ã©levÃ©e peut avoir des impacts nÃ©gatifs sur les organisations.
    Par exemple, l'augmentation de la charge de travail freinerait
-   l'initiative et la créativité des travailleurs. Aussi, une charge de
-   travail élevée chez les gestionnaires nuirait à la mise en place de
-   pratiques de gestion qui favorisent le soutien et la disponibilité du
-   supérieur immédiat.
+   l'initiative et la crÃ©ativitÃ© des travailleurs. Aussi, une charge de
+   travail Ã©levÃ©e chez les gestionnaires nuirait Ã  la mise en place de
+   pratiques de gestion qui favorisent le soutien et la disponibilitÃ© du
+   supÃ©rieur immÃ©diat.
 
-Quelles pratiques privilégier?
+Quelles pratiques privilÃ©gier?
 
    Voici des exemples de pratiques organisationnelles et de gestion
    susceptibles d'avoir des effets positifs sur l'indicateur : charge de
    travail.
-     * Définir les rôles et les responsabilités de chacun en favorisant la
-       participation des travailleurs concernés et en effectuant des
-       révisions régulièrement. S'assurer que les tâches établies sont
-       réalisables à l'intérieur des heures régulières de travail;
-     * Mettre en place des moyens pour permettre de bien connaître la
-       charge de travail réelle de façon régulière et de la réajuster en
-       fonction des nouvelles demandes, des capacités des personnes et des
-       imprévus qui surviennent. Par exemple :
-          + faire des réunions d'équipe hebdomadaires,
-          + permettre des échanges entre collègues sur les difficultés
-            rencontrées afin de trouver de nouvelles façons de les
+     * DÃ©finir les rÃ´les et les responsabilitÃ©s de chacun en favorisant la
+       participation des travailleurs concernÃ©s et en effectuant des
+       rÃ©visions rÃ©guliÃ¨rement. S'assurer que les tÃ¢ches Ã©tablies sont
+       rÃ©alisables Ã  l'intÃ©rieur des heures rÃ©guliÃ¨res de travail;
+     * Mettre en place des moyens pour permettre de bien connaÃ®tre la
+       charge de travail rÃ©elle de faÃ§on rÃ©guliÃ¨re et de la rÃ©ajuster en
+       fonction des nouvelles demandes, des capacitÃ©s des personnes et des
+       imprÃ©vus qui surviennent. Par exemple :
+          + faire des rÃ©unions d'Ã©quipe hebdomadaires,
+          + permettre des Ã©changes entre collÃ¨gues sur les difficultÃ©s
+            rencontrÃ©es afin de trouver de nouvelles faÃ§ons de les
             surmonter,
-          + organiser des rencontres régulièrement entre le supérieur
-            immédiat et chaque employé pour fixer des objectifs réalistes
-            et évaluer si les moyens pour y arriver sont suffisants.
+          + organiser des rencontres rÃ©guliÃ¨rement entre le supÃ©rieur
+            immÃ©diat et chaque employÃ© pour fixer des objectifs rÃ©alistes
+            et Ã©valuer si les moyens pour y arriver sont suffisants.
      * Remplacer les personnes qui quittent pour des raisons de maladie ou
        pour la retraite;
-     * Ajouter des ressources ou faire appel à des ressources d'appoint en
-       période de surcharge;
-     * Redéfinir les priorités en laissant de côté certaines tâches après
-       avoir consulté les travailleurs concernés;
-     * Implanter les changements de façon progressive, en y allant par
-       phases entrecoupées de périodes de stabilisation pour permettre la
-       récupération et le temps d'appropriation aux changements;
+     * Ajouter des ressources ou faire appel Ã  des ressources d'appoint en
+       pÃ©riode de surcharge;
+     * RedÃ©finir les prioritÃ©s en laissant de cÃ´tÃ© certaines tÃ¢ches aprÃ¨s
+       avoir consultÃ© les travailleurs concernÃ©s;
+     * Implanter les changements de faÃ§on progressive, en y allant par
+       phases entrecoupÃ©es de pÃ©riodes de stabilisation pour permettre la
+       rÃ©cupÃ©ration et le temps d'appropriation aux changements;
      * Favoriser la participation des travailleurs aux changements et
-       s'assurer de fournir la formation adéquate pour ajuster leur
-       travail aux nouvelles façons de faire;
-     * S'assurer d'une bonne adéquation entre la nature et la quantité de
-       travail et les capacités et les habiletés des travailleurs;
-     * Mettre en place un plan de développement des compétences en
-       permettant du coaching, du mentorat, du codéveloppement et des
-       activités de formation appropriées;
-     * Prendre en compte le temps d'apprentissage dans la répartition de
+       s'assurer de fournir la formation adÃ©quate pour ajuster leur
+       travail aux nouvelles faÃ§ons de faire;
+     * S'assurer d'une bonne adÃ©quation entre la nature et la quantitÃ© de
+       travail et les capacitÃ©s et les habiletÃ©s des travailleurs;
+     * Mettre en place un plan de dÃ©veloppement des compÃ©tences en
+       permettant du coaching, du mentorat, du codÃ©veloppement et des
+       activitÃ©s de formation appropriÃ©es;
+     * Prendre en compte le temps d'apprentissage dans la rÃ©partition de
        la charge de travail;
-     * Définir les plans d'action en fonction d'une planification de la
-       main-d'oeuvre basée sur une projection réaliste des besoins.
+     * DÃ©finir les plans d'action en fonction d'une planification de la
+       main-d'oeuvre basÃ©e sur une projection rÃ©aliste des besoins.
 
-Références et liens utiles
+RÃ©fÃ©rences et liens utiles
 
-    1. Fournier, P.-S., S. Montreuil, J. Villa, (2013). Contribution à un
-       modèle explicatif de la charge de travail : le cas du service à la
-       clientèle. Relations industrielles, vol. 68, no. 1, p. 46-70.
-    2. Vézina, M., R. Bourbonnais, C. Brisson, L. Trudel, (2006). Définir
-       les risques : sur la prévention des problèmes de santé mentale.
+    1. Fournier, P.-S., S. Montreuil, J. Villa, (2013). Contribution Ã  un
+       modÃ¨le explicatif de la charge de travail : le cas du service Ã  la
+       clientÃ¨le. Relations industrielles, vol. 68, no. 1, p. 46-70.
+    2. VÃ©zina, M., R. Bourbonnais, C. Brisson, L. Trudel, (2006). DÃ©finir
+       les risques : sur la prÃ©vention des problÃ¨mes de santÃ© mentale.
        Actes de la recherche en sciences sociales, vol. 3, no. 163, p.
        32-38.
-    3. Brun, J.-P. (2007). Les sept pièces manquantes du management, Les
-       éditions transcontinentales.
+    3. Brun, J.-P. (2007). Les sept piÃ¨ces manquantes du management, Les
+       Ã©ditions transcontinentales.
 
    Version PDF
 
 Liens transversaux de livre pour 11400
 
-     * < Composantes clés de l'organisation du travail
+     * < Composantes clÃ©s de l'organisation du travail
      * Haut
-     * Fiche 2-B : Indicateur « Reconnaissance au travail » >
+     * Fiche 2-B : Indicateur Â« Reconnaissance au travail Â» >
 
-     * Santé au travail
-          + Santé au travail
-          + Surveillance, recherche et évaluation en santé au travail
+     * SantÃ© au travail
+          + SantÃ© au travail
+          + Surveillance, recherche et Ã©valuation en santÃ© au travail
             (BUTTON)
-               o Surveillance, recherche et évaluation en santé au travail
+               o Surveillance, recherche et Ã©valuation en santÃ© au travail
                o EQCOTESST
-          Maladies respiratoires reliées au travail (BUTTON)
-               o Maladies respiratoires reliées au travail
+          Maladies respiratoires reliÃ©es au travail (BUTTON)
+               o Maladies respiratoires reliÃ©es au travail
                o Amiante (BUTTON)
                     # Amiante
-                    # Portrait général de l'exposition et des maladies
-                      reliées
+                    # Portrait gÃ©nÃ©ral de l'exposition et des maladies
+                      reliÃ©es
                     # Exposition de la population (BUTTON)
                          @ Exposition de la population
                          @ Concentrations dans l'air ambiant
-                         @ Concentration dans les résidus miniers
-                         @ Évaluation du risque dans la population de
+                         @ Concentration dans les rÃ©sidus miniers
+                         @ Ã‰valuation du risque dans la population de
                            Thetford Mines
                     Exposition des travailleurs (BUTTON)
                          @ Exposition des travailleurs
-                         @ Route avec enrobés bitumineux contenant de
+                         @ Route avec enrobÃ©s bitumineux contenant de
                            l'amiante
                          @ Chantiers de construction
-                         @ Établissements où l'on fabrique ou manipule des
-                           produits à base d'amiante
-                    Données les plus récentes
-                    Maladies dans la population générale (BUTTON)
-                         @ Maladies dans la population générale
+                         @ Ã‰tablissements oÃ¹ l'on fabrique ou manipule des
+                           produits Ã  base d'amiante
+                    DonnÃ©es les plus rÃ©centes
+                    Maladies dans la population gÃ©nÃ©rale (BUTTON)
+                         @ Maladies dans la population gÃ©nÃ©rale
                          @ Nombre de nouveaux cas
-                         @ Attribuables à une exposition à l'amiante
-                         @ Âge des nouveaux cas
-                         @ Nombre de décès par maladies reliées à
-                           l'exposition à l'amiante
-                         @ Taux annuels d'incidence et de mortalité et
+                         @ Attribuables Ã  une exposition Ã  l'amiante
+                         @ Ã‚ge des nouveaux cas
+                         @ Nombre de dÃ©cÃ¨s par maladies reliÃ©es Ã 
+                           l'exposition Ã  l'amiante
+                         @ Taux annuels d'incidence et de mortalitÃ© et
                            tendances temporelles (BUTTON)
-                              - Taux annuels d'incidence et de mortalité
+                              - Taux annuels d'incidence et de mortalitÃ©
                                 et tendances temporelles
                               - Amiantose
-                              - Mésothéliome de la plèvre
-                              - Mésothéliome du péritoine
-                              - Variation régionale de taux d'incidence
-                              - Comparaisons mésothéliome de la plèvre
-                                Québec/reste de Canada
+                              - MÃ©sothÃ©liome de la plÃ¨vre
+                              - MÃ©sothÃ©liome du pÃ©ritoine
+                              - Variation rÃ©gionale de taux d'incidence
+                              - Comparaisons mÃ©sothÃ©liome de la plÃ¨vre
+                                QuÃ©bec/reste de Canada
                               - Cancers du larynx et de l'ovaire
                               - Plaques pleurales
-                         Maladies selon les données du Système
+                         Maladies selon les donnÃ©es du SystÃ¨me
                            MADO-Chimique (BUTTON)
-                              - Maladies selon les données du Système
+                              - Maladies selon les donnÃ©es du SystÃ¨me
                                 MADO-Chimique
                               - Maladies d'origine environnementale
                               - Maladies d'origine professionnelle
                                 (BUTTON)
                                    = Maladies d'origine professionnelle
                                    = Nombre de nouveaux cas
-                                   = Âge des nouveaux cas
+                                   = Ã‚ge des nouveaux cas
                                    = Travail des nouveaux cas chez les
                                      femmes
                                    = Travail des nouveaux cas chez hommes
-                                     et femmes réunis
-                              Décès par maladies professionnelles selon
-                                les données de la CNESST
+                                     et femmes rÃ©unis
+                              DÃ©cÃ¨s par maladies professionnelles selon
+                                les donnÃ©es de la CNESST
                               Anomalies compatibles avec une amiantose et
                                 anomalies pleurales chez les travailleurs
                                 de la construction (BUTTON)
@@ -1041,48 +1041,48 @@ Liens transversaux de livre pour 11400
                                    = Anomalies compatibles avec une
                                      amiantose
                                    = Anomalies compatibles avec une
-                                     exposition à l'amiante
-                              Références
+                                     exposition Ã  l'amiante
+                              RÃ©fÃ©rences
                               Produits en amiante / fournisseurs
-                              Troubles musculo-squelettiques liés au
+                              Troubles musculo-squelettiques liÃ©s au
                                 travail (BUTTON)
-                                   = Troubles musculo-squelettiques liés
+                                   = Troubles musculo-squelettiques liÃ©s
                                      au travail
-                                   = Guide et outils d'évaluation des
+                                   = Guide et outils d'Ã©valuation des
                                      contraintes du travail
                                    = Guide et outils pour le maintien et
                                      le retour au travail
                                    = Ampleur des TMS
                                    = Facteurs de risque des TMS
-                                   = Sexe/genre et autres déterminants des
-                                     iniquités de santé
-                                   = Nouveautés
+                                   = Sexe/genre et autres dÃ©terminants des
+                                     iniquitÃ©s de santÃ©
+                                   = NouveautÃ©s
                                    = Groupe scientifique sur les troubles
-                                     musculo-squelettiques liés au travail
+                                     musculo-squelettiques liÃ©s au travail
                                      (BUTTON)
                                    * Groupe scientifique sur les troubles
-                                     musculo-squelettiques liés au travail
+                                     musculo-squelettiques liÃ©s au travail
                                    * Membres
                                    * Guides, livres et documents
-                                     vulgarisés
+                                     vulgarisÃ©s
                                    * Interventions
                                    * Pour en savoir plus
                                    Exposition au bruit et effets sur la
-                                     santé et la sécurité
+                                     santÃ© et la sÃ©curitÃ©
                                    Exposition aux vibrations et effets sur
-                                     la santé et la sécurité
+                                     la santÃ© et la sÃ©curitÃ©
                                    Risques psychosociaux du travail
                                      (BUTTON)
                                    * Risques psychosociaux du travail
-                                   * Carrefour de la prévention
+                                   * Carrefour de la prÃ©vention
                                      organisationnelle (BUTTON)
-                                   + Carrefour de la prévention
+                                   + Carrefour de la prÃ©vention
                                      organisationnelle
-                                   + Projet et équipe de recherche
-                                   + Répertoires de ressources interactifs
-                                   À vous de jouer!
+                                   + Projet et Ã©quipe de recherche
+                                   + RÃ©pertoires de ressources interactifs
+                                   Ã€ vous de jouer!
                                    Bulletin info-RPS
-                                   Harcèlement psychologique au travail
+                                   HarcÃ¨lement psychologique au travail
                                    Recueil de fiches portant sur les
                                      indicateurs de la Grille
                                      d'identification de risques
@@ -1091,55 +1091,55 @@ Liens transversaux de livre pour 11400
                                      indicateurs de la Grille
                                      d'identification de risques
                                      psychosociaux du travail
-                                   + Fiche synthèse de la démarche et des
+                                   + Fiche synthÃ¨se de la dÃ©marche et des
                                      indicateurs de la Grille
                                    + Contexte de travail et mesures de
-                                     prévention en place (BUTTON)
+                                     prÃ©vention en place (BUTTON)
                                    o Contexte de travail et mesures de
-                                     prévention en place
+                                     prÃ©vention en place
                                    o Fiche 1-A : Contexte de travail et
                                      d'emploi
-                                   o Fiche 1-B : Absentéisme maladie et
-                                     présentéisme
-                                   o Fiche 1-C : Activités ou politique de
-                                     santé au travail
-                                   o Fiche 1-D : Activités ou politique
-                                     contre la violence et le harcèlement
-                                   o Fiche 1-E : Activités ou politique de
+                                   o Fiche 1-B : AbsentÃ©isme maladie et
+                                     prÃ©sentÃ©isme
+                                   o Fiche 1-C : ActivitÃ©s ou politique de
+                                     santÃ© au travail
+                                   o Fiche 1-D : ActivitÃ©s ou politique
+                                     contre la violence et le harcÃ¨lement
+                                   o Fiche 1-E : ActivitÃ©s ou politique de
                                      retour au travail
-                                   o Fiche 1-F : Activités ou politique de
+                                   o Fiche 1-F : ActivitÃ©s ou politique de
                                      conciliation travail et vie
                                      personnelle
-                                   Composantes clés de l'organisation du
+                                   Composantes clÃ©s de l'organisation du
                                      travail (BUTTON)
-                                   o Composantes clés de l'organisation du
+                                   o Composantes clÃ©s de l'organisation du
                                      travail
                                    o Fiche 2-A : Charge de travail
                                    o Fiche 2-B : Reconnaissance au travail
                                    o Fiche 2-C : Soutien social du
-                                     supérieur immédiat
+                                     supÃ©rieur immÃ©diat
                                    o Fiche 2-D : Soutien social des
-                                     collègues
-                                   o Fiche 2-E : Autonomie décisionnelle
+                                     collÃ¨gues
+                                   o Fiche 2-E : Autonomie dÃ©cisionnelle
                                    o Fiche 2-F : Information et
                                      communication
-                                   Maternité et travail (BUTTON)
-                                   o Maternité et travail
-                                   o Comité Maternité et travail
+                                   MaternitÃ© et travail (BUTTON)
+                                   o MaternitÃ© et travail
+                                   o ComitÃ© MaternitÃ© et travail
                                    Adaptation du travail aux changements
                                      climatiques
                                      Accueil Logo INSPQ
 
-Les Résonances
+Les RÃ©sonances
                                      Le bulletin d'information de
                                      l'Institut
                                      Abonnez-vous
 
 Footer-First column
                                    o colonne 1
-                                   # Laboratoire de santé publique du
-                                     Québec
-                                   # Centre de toxicologie du Québec
+                                   # Laboratoire de santÃ© publique du
+                                     QuÃ©bec
+                                   # Centre de toxicologie du QuÃ©bec
                                    # Mieux vivre avec notre enfant
                                    # Centre de documentation
                                    o colonne 2
@@ -1157,9 +1157,9 @@ Suivez-nous sur :
 
 Footer-Legal
                                    o Plan du site
-                                   o Politique de confidentialité
-                                   o Témoins
-                                   o Accessibilité
+                                   o Politique de confidentialitÃ©
+                                   o TÃ©moins
+                                   o AccessibilitÃ©
                                    o Sondages
                                      Logo INSPQ
-                                     © Gouvernement du Québec, 2025
+                                     Â© Gouvernement du QuÃ©bec, 2025

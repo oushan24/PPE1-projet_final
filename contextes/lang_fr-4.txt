@@ -1,3 +1,37 @@
+     * Besoin d'aide
+     * Contact
+
+Procédures de prise en charge
+
+     * Procédures
+     * Critères
+--
+     * Contact
+
+    1. FIF PL
+    2. Procédures de prise en charge
+
+   Sommaire
+    1. Etes-vous éligible à une prise en charge de formation par le FIF
+       PL ?
+       Seul peut être éligible à une prise en charge de ses formations, le
+       professionnel installé en exercice libéral au moment de la
+       formation pour laquelle il présente une demande de financement par
+       le FIF PL.
+--
+       FIF PL figure bien comme Fonds d'Assurance Formation (FAF) rattaché
+       à son activité sur son attestation de versement URSSAF.
+       Dans le cas contraire, le professionnel libéral ne pourra prétendre
+       à une prise en charge de sa formation et devra s'adresser au fonds
+       d'assurance formation stipulé sur son attestation de versement
+       URSSAF.
+
+Cas du conjoint collaborateur
+       Le conjoint collaborateur peut prétendre à une prise en charge de
+       ses formations, dans les mêmes conditions que le professionnel
+       libéral.
+       Toutefois, le conjoint collaborateur doit être en mesure de
+--
 Cas particulier du micro-entrepreneur
        Un micro-entrepreneur dont le chiffre d'affaires est de 0 EUR sur
        une durée de 12 mois consécutifs ne peut pas bénéficier de la prise
@@ -61,6 +95,11 @@ Deux axes de prise en charge possibles :
             PL pour toute la durée de la formation concernée, et ce,
             quelle que soit la durée effective (sous réserve de
             l'acception du programme et des fonds disponibles de la
+            profession concernée).
+            3 étapes pour saisir votre demande de prise en charge :
+            Etape 1 : réunir les documents nécessaires à la saisie de
+            votre demande
+            Avant toute saisie, le professionnel libéral doit scanner et
 --
             Etape 2 : identifier les renseignements nécessaires à la
             saisie de votre demande
@@ -78,6 +117,11 @@ Deux axes de prise en charge possibles :
                o l'intitulé de la formation
                o les dates de formation ainsi que la durée totale d'heures
 --
+                 minimale de 6h00, soit une journée, soit par 3 modules
+                 successifs de 2h00 ou par 2 modules successifs de 3h00.
+                 Sont également éligibles les formations d'une durée
+                 minimale de 3h00 correspondant à une prise en charge
+                 d'une demi-journée.
                o le nom de l'organisme de formation et son numéro de
                  déclaration d'activité de formateur
                o le coût de la formation HT (et le cas échéant TTC)
@@ -106,6 +150,17 @@ Deux axes de prise en charge possibles :
          1. Programme de formation
             Pour être recevable, le programme doit comporter :
 --
+               o le type d'évaluations pratiqué
+         2. RIB (Relevé d'identité Bancaire)
+            Il est à noté que seul le RIB personnel du professionnel
+            libéral demandeur de prise en charge pourra être accepté par
+            le FIF PL. Pour être recevable, le RIB doit comporter :
+               o l'en-tête de la banque
+               o Le nom et le prénom du professionnel libéral, titulaire
+--
+
+     Depuis le 1^er janvier 2022, les organismes de formation doivent
+     être certifiés QUALIOPI pour que leurs formations soient
      susceptibles d'être prises en charge par le FIF PL.
        A noter que, dans le cas où l'organisme de formation concerné ne
        serait pas encore certifié QUALIOPI au moment de la demande de
@@ -114,3 +169,178 @@ Deux axes de prise en charge possibles :
        aux critères de la profession concernée.
        Toutefois, le règlement du montant de prise en charge
        éventuellement accordé sera conditionné, entre autres, à la
+       certification QUALIOPI effective de l'organisme de formation.
+
+     * Besoin d'aide
+     * Contact
+
+Procédures de prise en charge
+
+     * Procédures
+     * Critères
+--
+     * Contact
+
+    1. FIF PL
+    2. Procédures de prise en charge
+
+   Sommaire
+    1. Etes-vous éligible à une prise en charge de formation par le FIF
+       PL ?
+       Seul peut être éligible à une prise en charge de ses formations, le
+       professionnel installé en exercice libéral au moment de la
+       formation pour laquelle il présente une demande de financement par
+       le FIF PL.
+--
+       FIF PL figure bien comme Fonds d'Assurance Formation (FAF) rattaché
+       à son activité sur son attestation de versement URSSAF.
+       Dans le cas contraire, le professionnel libéral ne pourra prétendre
+       à une prise en charge de sa formation et devra s'adresser au fonds
+       d'assurance formation stipulé sur son attestation de versement
+       URSSAF.
+
+Cas du conjoint collaborateur
+       Le conjoint collaborateur peut prétendre à une prise en charge de
+       ses formations, dans les mêmes conditions que le professionnel
+       libéral.
+       Toutefois, le conjoint collaborateur doit être en mesure de
+--
+Cas particulier du micro-entrepreneur
+       Un micro-entrepreneur dont le chiffre d'affaires est de 0 EUR sur
+       une durée de 12 mois consécutifs ne peut pas bénéficier de la prise
+       en charge de ses dépenses de formation.
+    2. Possibilités de prise en charge
+       Des critères de prise en charge sont déterminés annuellement par
+       les Représentants Professionnels de chaque profession.
+       Ces Représentants Professionnels définissent pour la (les)
+       profession(s) qu'ils représentent une liste de thèmes de formation
+       susceptibles de faire l'objet d'une prise en charge par le FIF PL
+       ainsi que des modalités financières de prise en charge.
+       Ces critères de prise en charge, disponibles sur le site du FIF PL,
+       sont applicables du 1er janvier au 31 décembre de chaque année, et
+       peuvent, au regard des priorités du FIF PL et de chaque profession,
+       être modifiés d'une année à l'autre.
+
+Deux axes de prise en charge possibles :
+         1. Sur les fonds à gérer de chaque profession :
+            Ces fonds sont réservés principalement à la prise en charge de
+            formations liées au coeur métier de chaque profession ; la
+            prise en charge de formations transversales peut également
+            être envisageable.
+         2. Sur des fonds spécifiques :
+            La prise en charge des thèmes listés ci-dessous ne vient pas
+            en déduction du budget annuel du professionnel, dont il peut
+            prétendre dans le cadre des fonds à gérer de la profession, à
+            savoir :
+               o Formations de longue durée minimum 100 heures (une prise
+                 en charge tous les 3 ans)
+               o Participation à un jury d'examen ou de VAE
+       Pour vous informer sur les possibilités de prise en charge qui
+       s'offrent à vous, nous vous invitons à consulter les critères de
+       votre profession sur notre site.
+       Voir les critères de prise en charge
+    3. Demande de prise en charge de formation
+         1. A quel moment dois-je effectuer ma demande de prise en
+            charge ?
+            Toute demande préalable de prise en charge doit impérativement
+            être saisie en ligne, au plus tard, dans les 10 jours
+            calendaires suivant le 1er jour de formation.
+            Passé ce délai de 10 jours calendaires, la demande de prise en
+            charge sera refusée.
+         2. Par quelle voie dois-je effectuer ma demande de prise en
+            charge ?
+            Le professionnel libéral saisit personnellement sa demande de
+            prise en charge en ligne dans l'espace dédié.
+            Lors de sa première connexion, le professionnel libéral devra
+            faire une demande de codes d'accès (identifiant et mot de
+            passe) qui lui seront communiqués par mail.
+--
+            A noter que ces codes d'accès sont personnels et ne doivent
+            pas être communiquer à l'organisme de formation.
+         3. Comment dois-je procéder pour saisir ma demande de prise en
+            charge ?
+            Préambule :
+            Le professionnel libéral doit saisir sa demande de prise en
+            charge pour toute la durée de la formation, que cette
+            formation se déroule sur un ou sur plusieurs exercices, et ce,
+            quelle que soit la durée de la formation.
+            Une seule et unique prise en charge sera accordée par le FIF
+            PL pour toute la durée de la formation concernée, et ce,
+            quelle que soit la durée effective (sous réserve de
+            l'acception du programme et des fonds disponibles de la
+            profession concernée).
+            3 étapes pour saisir votre demande de prise en charge :
+            Etape 1 : réunir les documents nécessaires à la saisie de
+            votre demande
+            Avant toute saisie, le professionnel libéral doit scanner et
+--
+            Etape 2 : identifier les renseignements nécessaires à la
+            saisie de votre demande
+            Afin d'éviter toute recherche inutile au moment de la saisie
+            d'une demande de prise en charge, munissez-vous des
+            renseignements qui vous seront demandés, à savoir :
+            Pour une première connexion en vue de l'obtention des codes
+            d'accès :
+--
+                 attestation de versement URSSAF(remarque : ne pas
+                 utiliser le numéro siret de la structure)
+               o votre code NAF
+            Pour la saisie de la demande de prise en charge de la
+            formation :
+               o l'intitulé de la formation
+               o les dates de formation ainsi que la durée totale d'heures
+--
+                 minimale de 6h00, soit une journée, soit par 3 modules
+                 successifs de 2h00 ou par 2 modules successifs de 3h00.
+                 Sont également éligibles les formations d'une durée
+                 minimale de 3h00 correspondant à une prise en charge
+                 d'une demi-journée.
+               o le nom de l'organisme de formation et son numéro de
+                 déclaration d'activité de formateur
+               o le coût de la formation HT (et le cas échéant TTC)
+         Etape 3 : saisir sa demande de prise en charge et joindre les
+            pièces justificatives
+              1. Comment suis-je informé de la décision du FIF PL ?
+                 Le professionnel libéral reçoit un mail lui notifiant la
+--
+                 savoir « pour les professions de santé : l'organisme de
+                 formation atteste que la durée en jours de la formation
+                 stipulée sur ce présente document (et pour laquelle une
+                 demande de prise en charge est constituée auprès du FIF
+                 PL) correspond à une durée en jours non facturée à
+                 l'ANDPC ».
+                 Important : A noter que le FIF PL peut être amené à
+--
+                 Il est donc impératif que le professionnel libéral
+                 s'assure qu'il a bien fourni tous les documents réclamés
+                 par le FIF PL, documents listés dans le courrier d'accord
+                 de prise en charge émanant du FIF PL ("Comment suis-je
+                 informé de la décision du FIF PL ?")
+              3. Quel est le mode de règlement du FIF PL ?
+                 Le FIF PL procède au règlement du montant de prise en
+                 charge accordé à un professionnel par virement bancaire.
+    4. Formalisme rattaché aux pièces justificatives
+         1. Programme de formation
+            Pour être recevable, le programme doit comporter :
+--
+               o le type d'évaluations pratiqué
+         2. RIB (Relevé d'identité Bancaire)
+            Il est à noté que seul le RIB personnel du professionnel
+            libéral demandeur de prise en charge pourra être accepté par
+            le FIF PL. Pour être recevable, le RIB doit comporter :
+               o l'en-tête de la banque
+               o Le nom et le prénom du professionnel libéral, titulaire
+--
+
+     Depuis le 1^er janvier 2022, les organismes de formation doivent
+     être certifiés QUALIOPI pour que leurs formations soient
+     susceptibles d'être prises en charge par le FIF PL.
+       A noter que, dans le cas où l'organisme de formation concerné ne
+       serait pas encore certifié QUALIOPI au moment de la demande de
+       prise en charge faite par le professionnel libéral, le FIF PL
+       pourrait donner un accord de prise en charge si la formation répond
+       aux critères de la profession concernée.
+       Toutefois, le règlement du montant de prise en charge
+       éventuellement accordé sera conditionné, entre autres, à la
+       certification QUALIOPI effective de l'organisme de formation.
+

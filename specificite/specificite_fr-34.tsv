@@ -1,0 +1,11 @@
+token	corpus size	all contexts size	frequency	co-frequency	specificity
+prise	15277	620	33	30	38.36
+en	15277	620	227	37	12.50
+alzheimer	15277	620	42	15	10.43
+maladie	15277	620	50	15	9.21
+la	15277	620	536	49	7.26
+orientations	15277	620	6	4	4.43
+transformation	15277	620	3	3	4.18
+relations	15277	620	22	6	3.77
+familiales	15277	620	16	5	3.52
+gérontologie	15277	620	5	3	3.21

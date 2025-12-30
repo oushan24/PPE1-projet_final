@@ -4,184 +4,184 @@
 
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WQ36F24
 
-     * Fonctionnalités
-       Fonctionnalités
-       Découvrez les fonctionnalités de l'appli de la famille
-          + Voir toutes les fonctionnalités
-          + Agenda partagé
+     * FonctionnalitÃ©s
+       FonctionnalitÃ©s
+       DÃ©couvrez les fonctionnalitÃ©s de l'appli de la famille
+          + Voir toutes les fonctionnalitÃ©s
+          + Agenda partagÃ©
           + Planning de garde
           + Listes To-Do
           + Suivi du budget
           + Listes de courses
      * Abonnement
-     * À Propos
+     * Ã€ Propos
      * Blog
        Blog
-       Des témoignages de parents & des articles sur les questions de
-       parentalité
+       Des tÃ©moignages de parents & des articles sur les questions de
+       parentalitÃ©
           + Organiser
           + Partager
           + Respirer
           + L'appli
 
-   (BUTTON) Télécharger Share(d)
+   (BUTTON) TÃ©lÃ©charger Share(d)
    (BUTTON)
 
      * Accueil
      * Blog
      * Respirer
-     * Alléger ma charge mentale
-     * La charge émotionnelle, c'est quoi ?
+     * AllÃ©ger ma charge mentale
+     * La charge Ã©motionnelle, c'est quoi ?
 
-La charge émotionnelle, c'est quoi ?
+La charge Ã©motionnelle, c'est quoi ?
 
-     * Partager sur Facebook. Nouvelle fenêtre
-     * Partager sur Twitter. Nouvelle fenêtre
-     * Partager sur Linkedin. Nouvelle fenêtre
-     * Lien copié (BUTTON______________) Copier le lien.
+     * Partager sur Facebook. Nouvelle fenÃªtre
+     * Partager sur Twitter. Nouvelle fenÃªtre
+     * Partager sur Linkedin. Nouvelle fenÃªtre
+     * Lien copiÃ© (BUTTON______________) Copier le lien.
 
    Temps de lecture : 4 min
 
    Si son petit nom ne vous est pas familier, vous connaissez certainement
-   ses symptômes : une tendance à anticiper les moindres envies et besoins
-   de vos proches, tant sur le plan psychologique (« je t'ai préparé une
-   tisane, tu avais l'air fatigué ») que sur le plan matériel (« je t'ai
-   racheté des chaussettes, j'ai vu que les tiennes étaient trouées »).
-   Bien souvent, cette charge émotionnelle est portée par les femmes, qui
-   multiplient les attentions bienveillantes auprès de leurs familles,
-   collègues, amis et bien sûr conjoint... quitte à parfois s'oublier
-   elles-mêmes.
+   ses symptÃ´mes : une tendance Ã  anticiper les moindres envies et besoins
+   de vos proches, tant sur le plan psychologique (Â« je t'ai prÃ©parÃ© une
+   tisane, tu avais l'air fatiguÃ© Â») que sur le plan matÃ©riel (Â« je t'ai
+   rachetÃ© des chaussettes, j'ai vu que les tiennes Ã©taient trouÃ©es Â»).
+   Bien souvent, cette charge Ã©motionnelle est portÃ©e par les femmes, qui
+   multiplient les attentions bienveillantes auprÃ¨s de leurs familles,
+   collÃ¨gues, amis et bien sÃ»r conjoint... quitte Ã  parfois s'oublier
+   elles-mÃªmes.
 
-Charge émotionnelle ou charge affective : le poids des émotions
+Charge Ã©motionnelle ou charge affective : le poids des Ã©motions
 
-   Aussi appelée « la charge affective », on doit sa définition à la
-   sociologue américaine Arlie Russell Hochschild, qui définit cette
-   notion dans les années 1980 par « l'habitude de se préoccuper du
-   confort émotionnel des autres au détriment du sien ». On connait bien
+   Aussi appelÃ©e Â« la charge affective Â», on doit sa dÃ©finition Ã  la
+   sociologue amÃ©ricaine Arlie Russell Hochschild, qui dÃ©finit cette
+   notion dans les annÃ©es 1980 par Â« l'habitude de se prÃ©occuper du
+   confort Ã©motionnel des autres au dÃ©triment du sien Â». On connait bien
    aujourd'hui la fameuse charge mentale, celle qui englobe tout ce qu'une
-   femme ou un homme doit gérer au quotidien, devoir penser à tout, et
+   femme ou un homme doit gÃ©rer au quotidien, devoir penser Ã  tout, et
    surtout ne rien oublier ! La charge affective est son pendant
-   émotionnel. Elle peut toucher tout le monde (même les enfants), à tout
-   moment, aussi bien au bureau qu'à la maison, et impacte autant l'amitié
-   que l'amour. Lorsque le « réservoir affectif » est surchargé, le risque
-   de burnout émotionnel n'est pas loin. Pour Saverio Tomasella,
-   psychologue, psychanalyste et co-auteur de « La charge affective » (Ed.
-   Larousse), il s'agit de « la charge globale de tout ce qui se passe en
-   nous et qui nous occupe », comme des pensées, des sentiments, des
-   émotions, qui finissent par peser trop lourd sur le psychisme. Le poids
-   émotionnel de la relation se trouve alors porté par une seule personne,
+   Ã©motionnel. Elle peut toucher tout le monde (mÃªme les enfants), Ã  tout
+   moment, aussi bien au bureau qu'Ã  la maison, et impacte autant l'amitiÃ©
+   que l'amour. Lorsque le Â« rÃ©servoir affectif Â» est surchargÃ©, le risque
+   de burnout Ã©motionnel n'est pas loin. Pour Saverio Tomasella,
+   psychologue, psychanalyste et co-auteur de Â« La charge affective Â» (Ed.
+   Larousse), il s'agit de Â« la charge globale de tout ce qui se passe en
+   nous et qui nous occupe Â», comme des pensÃ©es, des sentiments, des
+   Ã©motions, qui finissent par peser trop lourd sur le psychisme. Le poids
+   Ã©motionnel de la relation se trouve alors portÃ© par une seule personne,
    le plus souvent, une femme. Au sein d'un couple, cela se traduit par la
-   volonté de ne jamais froisser l'autre, d'anticiper à outrance les
-   possibles émotions ressenties par sa moitié, etc.
+   volontÃ© de ne jamais froisser l'autre, d'anticiper Ã  outrance les
+   possibles Ã©motions ressenties par sa moitiÃ©, etc.
 
-Les femmes, plus impliquées que les hommes ?
+Les femmes, plus impliquÃ©es que les hommes ?
 
-   La dessinatrice Emma, après avoir mis en lumière la charge mentale dans
-   ses BD, s'est attaquée à la charge émotionnelle dans un autre
-   album, « La charge émotionnelle et autres trucs invisibles » (Ed.
-   Massot). Avec humour, elle y invite les femmes à prendre conscience des
-   injonctions sociétales et à faire évoluer les mentalités. Elle pointe
-   notamment du doigt l'éducation genrée, qui aurait un impact important
+   La dessinatrice Emma, aprÃ¨s avoir mis en lumiÃ¨re la charge mentale dans
+   ses BD, s'est attaquÃ©e Ã  la charge Ã©motionnelle dans un autre
+   album, Â« La charge Ã©motionnelle et autres trucs invisibles Â» (Ed.
+   Massot). Avec humour, elle y invite les femmes Ã  prendre conscience des
+   injonctions sociÃ©tales et Ã  faire Ã©voluer les mentalitÃ©s. Elle pointe
+   notamment du doigt l'Ã©ducation genrÃ©e, qui aurait un impact important
    sur la sociabilisation des femmes et des hommes. Selon les recherches,
-   on éduque traditionnellement les filles à être sensibles, à exprimer
-   leurs sentiments, à être tournées vers les autres. Alors que la
-   promotion de l'ambition, de la virilité ou de l'indépendance est
-   souvent privilégiée dans l'éducation des garçons. Même si ces
-   stéréotypes tendent à évoluer, les réflexes genrés sont encore bien
-   ancrés et ont un impact visible à l'âge adulte. Lorsque les femmes, en
-   particulier, consacrent trop d'énergie et de temps à anticiper le
-   bien-être psychologique de leurs proches, la charge émotionnelle est
-   disproportionnée. La dessinatrice milite pour que les hommes en
-   prennent conscience aussi. Il ne s'agit pas de renier cette faculté à
-   se soucier du bien-être d'autrui mais « il faut encourager les hommes à
-   faire pareil » dit-elle. Apprenons aux petits garçons à mieux exprimer
-   leurs sentiments et ils deviendront des adultes plus à l'écoute des
+   on Ã©duque traditionnellement les filles Ã  Ãªtre sensibles, Ã  exprimer
+   leurs sentiments, Ã  Ãªtre tournÃ©es vers les autres. Alors que la
+   promotion de l'ambition, de la virilitÃ© ou de l'indÃ©pendance est
+   souvent privilÃ©giÃ©e dans l'Ã©ducation des garÃ§ons. MÃªme si ces
+   stÃ©rÃ©otypes tendent Ã  Ã©voluer, les rÃ©flexes genrÃ©s sont encore bien
+   ancrÃ©s et ont un impact visible Ã  l'Ã¢ge adulte. Lorsque les femmes, en
+   particulier, consacrent trop d'Ã©nergie et de temps Ã  anticiper le
+   bien-Ãªtre psychologique de leurs proches, la charge Ã©motionnelle est
+   disproportionnÃ©e. La dessinatrice milite pour que les hommes en
+   prennent conscience aussi. Il ne s'agit pas de renier cette facultÃ© Ã 
+   se soucier du bien-Ãªtre d'autrui mais Â« il faut encourager les hommes Ã 
+   faire pareil Â» dit-elle. Apprenons aux petits garÃ§ons Ã  mieux exprimer
+   leurs sentiments et ils deviendront des adultes plus Ã  l'Ã©coute des
    autres.
 
-Eviter la surchauffe d'émotions
+Eviter la surchauffe d'Ã©motions
 
-   La charge émotionnelle peut entraîner une souffrance à la fois physique
+   La charge Ã©motionnelle peut entraÃ®ner une souffrance Ã  la fois physique
    (migraine, mal de dos), psychique (sentiment de grande fatigue) et
-   morale (stress, anxiété). Pour s'en prémunir et éviter l'effet
-   « cocotte-minute », il est important de reconnaître les signaux
+   morale (stress, anxiÃ©tÃ©). Pour s'en prÃ©munir et Ã©viter l'effet
+   Â« cocotte-minute Â», il est important de reconnaÃ®tre les signaux
    d'alerte et travailler sur ses ressorts intimes.
-     * Premier conseil : abandonner progressivement certains réflexes,
-       comme sourire et rire tout le temps, même aux mauvaises blagues de
-       collègues, ne rien dire dans une situation inconfortable face à un
-       ami, prendre en charge la santé du conjoint ou encore anticiper son
-       besoin vestimentaire avant que cela soit formulé !
-     * Deuxième conseil : s'occuper de soi ! Quand on prend soin des
-       autres en permanence, prendre soin de soi-même n'est plus si
-       évident ! Se faire aider et soutenir par un professionnel est très
-       utile pour prendre le recul nécessaire et modifier ses
+     * Premier conseil : abandonner progressivement certains rÃ©flexes,
+       comme sourire et rire tout le temps, mÃªme aux mauvaises blagues de
+       collÃ¨gues, ne rien dire dans une situation inconfortable face Ã  un
+       ami, prendre en charge la santÃ© du conjoint ou encore anticiper son
+       besoin vestimentaire avant que cela soit formulÃ© !
+     * DeuxiÃ¨me conseil : s'occuper de soi ! Quand on prend soin des
+       autres en permanence, prendre soin de soi-mÃªme n'est plus si
+       Ã©vident ! Se faire aider et soutenir par un professionnel est trÃ¨s
+       utile pour prendre le recul nÃ©cessaire et modifier ses
        comportements. Charlotte Wils, coach-psychopraticienne et
-       co-auteure de « La charge affective » (Ed. Larousse) recommande de
-       faire une vraie pause : prendre le temps de souffler et écouter son
-       intuition. S'accorder régulièrement un temps personnel, apprécier
-       de se faire du bien sont des moyens efficaces pour éviter la
-       surcharge émotionnelle. Méditation, marche dans la nature, lecture,
-       musique, pratique sportive, ... il existe mille et une méthodes, à
+       co-auteure de Â« La charge affective Â» (Ed. Larousse) recommande de
+       faire une vraie pause : prendre le temps de souffler et Ã©couter son
+       intuition. S'accorder rÃ©guliÃ¨rement un temps personnel, apprÃ©cier
+       de se faire du bien sont des moyens efficaces pour Ã©viter la
+       surcharge Ã©motionnelle. MÃ©ditation, marche dans la nature, lecture,
+       musique, pratique sportive, ... il existe mille et une mÃ©thodes, Ã 
        chacun de trouver celle qui lui convient.
-     * Enfin, n'oubliez pas de parler ! Apprendre à mieux communiquer,
-       échanger sur ses sentiments et ses émotions permet d'ouvrir un
+     * Enfin, n'oubliez pas de parler ! Apprendre Ã  mieux communiquer,
+       Ã©changer sur ses sentiments et ses Ã©motions permet d'ouvrir un
        dialogue avec ses proches.
 
-   Quel que soit l'environnement - personnel ou professionnel - l'idée est
-   de mieux répartir cette charge émotionnelle, pour partager les enjeux,
-   d'égal à égal.
+   Quel que soit l'environnement - personnel ou professionnel - l'idÃ©e est
+   de mieux rÃ©partir cette charge Ã©motionnelle, pour partager les enjeux,
+   d'Ã©gal Ã  Ã©gal.
 
-   @Publié le 19 mai
-   Publié par L'équipe Share(d)
+   @PubliÃ© le 19 mai
+   PubliÃ© par L'Ã©quipe Share(d)
 
-   Des mamans, des papas, des beaux-parents, des aidant.es ou même des
+   Des mamans, des papas, des beaux-parents, des aidant.es ou mÃªme des
    tontons et des tatas... Tou.tes hyper investi.es !
      * Charge mentale
      * Psychologie
 
-Articles recommandés
+Articles recommandÃ©s
 
-     * #Alléger ma charge mentale
+     * #AllÃ©ger ma charge mentale
 
-Burn Out Parental : comment s'en préserver ?
+Burn Out Parental : comment s'en prÃ©server ?
 
    29 juillet 2020
 
-   Être parent c'est un mélange de moments joyeux pimentés de moments
-   difficiles. La naissance est bien sûr une merveilleuse nouvelle, la
-   joie et l'émerveillement d'observer au quotidien nos enfants et leurs
-   progrès, de partager leurs éclats de rire et des discussions
-   agrémentées de pourquoi, pourquoi, pourquoi, cet amour inconditionnel
+   ÃŠtre parent c'est un mÃ©lange de moments joyeux pimentÃ©s de moments
+   difficiles. La naissance est bien sÃ»r une merveilleuse nouvelle, la
+   joie et l'Ã©merveillement d'observer au quotidien nos enfants et leurs
+   progrÃ¨s, de partager leurs Ã©clats de rire et des discussions
+   agrÃ©mentÃ©es de pourquoi, pourquoi, pourquoi, cet amour inconditionnel
    que nous leur portons et qui nous donne des ailes....
    Continuer la lecture
-     * #Équilibrer les temps de vie
+     * #Ã‰quilibrer les temps de vie
 
-Le burn-out, le mal du 21ème siècle ?
+Le burn-out, le mal du 21Ã¨me siÃ¨cle ?
 
    26 mai 2021
    Lire l'article
-     * #Alléger ma charge mentale
+     * #AllÃ©ger ma charge mentale
 
-5 outils pratiques de décharge mentale
+5 outils pratiques de dÃ©charge mentale
 
    15 juin 2021
    Lire l'article
 
-Découvrez Shared
+DÃ©couvrez Shared
 l'appli de toutes les familles
 
-   (BUTTON) Télécharger Share(d)
+   (BUTTON) TÃ©lÃ©charger Share(d)
 
 Je cherche un sujet
 
      * Calendrier
      * Charge mentale
      * Couple
-     * Éducation
-     * Famille recomposée
-     * Législation
+     * Ã‰ducation
+     * Famille recomposÃ©e
+     * LÃ©gislation
      * Listes
      * Management
-     * Parent séparé
+     * Parent sÃ©parÃ©
      * Parent solo
      * Psychologie
      * QVT
@@ -190,19 +190,19 @@ Je cherche un sujet
 
    (BUTTON) Remonter en haut de la page
 
-   Conçu avec amour à Paris ¤
+   ConÃ§u avec amour Ã  Paris Â¤
      * SHARED
-          + Fonctionnalités
+          + FonctionnalitÃ©s
           + Abonnement
           + Couples
-          + Parents séparés
-          + Familles recomposées
+          + Parents sÃ©parÃ©s
+          + Familles recomposÃ©es
      * Liens
-          + Mentions légales
+          + Mentions lÃ©gales
           + CGU
-          + Politique de confidentialité
+          + Politique de confidentialitÃ©
      * Contact
-          + À Propos
+          + Ã€ Propos
           + Blog
 
      * Instagram
@@ -213,11 +213,11 @@ Je cherche un sujet
    Gestion des cookies
 
    Un cookie est un fichier qui ne permet pas l'identification de
-   l'utilisateur, mais qui enregistre des informations relatives à la
-   navigation d'un appareil sur un site. Les données obtenues visent à
+   l'utilisateur, mais qui enregistre des informations relatives Ã  la
+   navigation d'un appareil sur un site. Les donnÃ©es obtenues visent Ã 
    faciliter la navigation et permettent diverses mesures de
-   fréquentation.
-   (BUTTON) Personnaliser les cookies Mentions légales
+   frÃ©quentation.
+   (BUTTON) Personnaliser les cookies Mentions lÃ©gales
    (BUTTON) Accepter (BUTTON) Refuser
 
    (BUTTON) Fermer
@@ -225,50 +225,50 @@ Je cherche un sujet
    Gestion des cookies
 
    Un cookie est un fichier qui ne permet pas l'identification de
-   l'utilisateur, mais qui enregistre des informations relatives à la
-   navigation d'un appareil sur un site. Les données obtenues visent à
+   l'utilisateur, mais qui enregistre des informations relatives Ã  la
+   navigation d'un appareil sur un site. Les donnÃ©es obtenues visent Ã 
    faciliter la navigation et permettent diverses mesures de
-   fréquentation.
-   Cookies nécessaires
+   frÃ©quentation.
+   Cookies nÃ©cessaires
 
-   Ils contribuent à rendre un site Web utilisable en activant des
-   fonctions de base comme la navigation de page et l'accès aux zones
-   sécurisées du site Web. Le site Web ne peut pas fonctionner
+   Ils contribuent Ã  rendre un site Web utilisable en activant des
+   fonctions de base comme la navigation de page et l'accÃ¨s aux zones
+   sÃ©curisÃ©es du site Web. Le site Web ne peut pas fonctionner
    correctement sans ces cookies.
-   (BUTTON) Afficher+de détails
+   (BUTTON) Afficher+de dÃ©tails
 
    accessibility (share-d.com)
-   Expiration des cookies à la clôture de la session.
+   Expiration des cookies Ã  la clÃ´ture de la session.
 
    rgpd (share-d.com)
    Expiration des cookies au bout de 30 jours.
    Cookies statistiques
 
-   Ils aident les propriétaires du site Web, par la collecte et la
-   communication d'information de manière anonyme, à comprendre comment
+   Ils aident les propriÃ©taires du site Web, par la collecte et la
+   communication d'information de maniÃ¨re anonyme, Ã  comprendre comment
    les visiteurs interagissent avec le site Web.
-   (BUTTON) Afficher+de détails
+   (BUTTON) Afficher+de dÃ©tails
 
    _ga (share-d.com)
-   Enregistre un identifiant unique utilisé pour générer des données
-   statistiques sur la façon dont le visiteur utilise le site.
+   Enregistre un identifiant unique utilisÃ© pour gÃ©nÃ©rer des donnÃ©es
+   statistiques sur la faÃ§on dont le visiteur utilise le site.
    Expiration des cookies au bout de 13 mois.
 
    _gid (share-d.com)
-   Enregistre un identifiant unique utilisé pour générer des données
-   statistiques sur la façon dont le visiteur utilise le site.
+   Enregistre un identifiant unique utilisÃ© pour gÃ©nÃ©rer des donnÃ©es
+   statistiques sur la faÃ§on dont le visiteur utilise le site.
    Expiration des cookies au bout de 1 jour.
 
    _ga_UA-110087602-1 (share-d.com)
-   Enregistre un identifiant unique utilisé pour générer des données
-   statistiques sur la façon dont le visiteur utilise le site.
+   Enregistre un identifiant unique utilisÃ© pour gÃ©nÃ©rer des donnÃ©es
+   statistiques sur la faÃ§on dont le visiteur utilise le site.
    Expiration des cookies au bout de 13 mois.
 
    _fbp (share-d.com)
-   Est utilisé pour distinguer et suivre les utilisateurs.
+   Est utilisÃ© pour distinguer et suivre les utilisateurs.
 
    _fbc (share-d.com)
-   N'est défini que lorsqu'un utilisateur arrive sur le site à partir
+   N'est dÃ©fini que lorsqu'un utilisateur arrive sur le site Ã  partir
    d'une annonce.
    [ ] Accepter Refuser
 
@@ -276,6 +276,6 @@ Je cherche un sujet
 
    (BUTTON) Fermer
 
-   Téléchargez Shared gratuitement !
+   TÃ©lÃ©chargez Shared gratuitement !
 
-   Scannez ce QR Code avec votre téléphone
+   Scannez ce QR Code avec votre tÃ©lÃ©phone

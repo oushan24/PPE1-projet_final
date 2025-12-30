@@ -6,6 +6,16 @@
    problème de santé majeur de nos organisations. Dans un environnement
    perçu comme de plus en plus compétitif et où chacun doit assumer les
 --
+
+   Concernant le harcèlement moral, les victimes ont tout intérêt à
+   choisir la voie prud'homale pour obtenir réparation de leur préjudice,
+   car elles bénéficient de l'inversion de la charge de la preuve. Il en
+   va tout autrement devant les juridictions pénales : il n'existe aucune
+   présomption de preuve pesant sur l'auteur du harcèlement, la charge de
+   la preuve revient à l'accusation. Aussi, le salarié qui agit devant les
+   juridictions pénales pour faire reconnaître une infraction devra-t-il
+   établir l'intention de nuire de son auteur (Cass. crim., 21 juin 2005,
+--
    inexcusable de l'employeur, lequel aurait dû avoir conscience du danger
    auquel était exposé le salarié mais n'a pas pris les mesures
    nécessaires pour l'en préserver. Pour cela, le salarié invoque une
@@ -13,7 +23,20 @@
    menée depuis plusieurs années par la direction. La Cour de cassation
    approuve cet argument relevant l'accroissement du travail du salarié
    sur les années précédant son accident. Cette politique de surcharge, de
+   pressions, et « d'objectifs inatteignables » a généré un stress. Par
+   conséquent, l'employeur a ignoré les données médicales et n'a pas
+   utilement pris la mesure des conséquences de son objectif de réduction
+   des coûts en termes de facteurs de risque pour la santé de ses
+   employés. Dès lors, les conditions de mise en oeuvre de la faute
+   inexcusable sont remplies. Désormais les employeurs devront donc faire
+   attention à ce que la charge de travail ne soit pas trop importante,
+   même si les salariés ne se plaignent pas.
+
+   Le jugement du TGI de Lyon du 4 septembre 2012, « fait défense » à la
 --
+
+   c. L'épuisement professionnel ou burn-out
+
    Après le harcèlement moral, agir sur la charge de travail pourrait bien
    être le grand chantier des prochaines années. En décembre 2012, le TGI
    de Créteil a fait suspendre le plan « Organisation 2012 » de la FNAC au
@@ -21,6 +44,35 @@
    travail sur les postes de travail conservés et induit par ce plan. En
    juin 2011, les conclusions du TGI de Versailles à l'encontre de Renault
    mettaient également en évidence l'absence de mesures prises par
+   l'entreprise pour évaluer la charge de travail d'un de ses salariés.
+   Dans un arrêt du 13 mars 2013 (n° 11-22.082), la Cour de cassation
+   vient préciser sa jurisprudence en affirmant que ce motif ne peut être
+   utilisé pour justifier un licenciement, lorsque les absences du salarié
+   ont été causées par un manquement de l'employeur à son obligation de
+   sécurité de résultat. En l'espèce, le salarié avait subi un épuisement
+   professionnel (burn-out) généré par une surcharge de travail.
+
+   La Cour de cassation affirme que « lorsque l'absence prolongée du
+   salarié pour cause de maladie résulte d'un manquement de l'employeur à
+   l'obligation de sécurité de résultat, ses conséquences sur le
+   fonctionnement de l'entreprise ne peuvent être invoquées pour justifier
+   un licenciement ». L'obligation du contrôle de la charge de travail des
+   salariés dans les entreprises recourant au forfait jour par exemple
+   (Cass. soc., n° 11-14540 du 26 septembre 2012), la multiplication et
+   l'intensité des réorganisations, les changements de paradigmes
+   socio-économiques que vivent nos sociétés modernes nécessitent d'agir
+   dès à présent sur la charge de travail au risque que celle-ci devienne
+   une bombe à retardement dont le tic-tac est déjà audible.
+
+   d. Dépressions et suicides
+--
+   Le tribunal de sécurité sociale des Yvelines, dans un arrêt du 9 mars
+   2010 (n° 07-01555), a considéré que le suicide d'un salarié, survenu en
+   raison du stress au travail, constituait un accident du travail, le
+   fait générateur de cet accident étant la surcharge de travail et la
+   dégradation des conditions de travail. Dans une autre affaire
+   concernant le suicide d'un ingénieur, la Cour d'appel rappelle que
+   lorsqu'un employeur ne fait pas preuve de réactivité devant la
 --
 
    Quant à Hervé Lanouzière, conseiller technique à la direction générale
@@ -40,6 +92,10 @@
    être réduites. Plus celles-ci sont faibles, plus les risques sont
    élevés. Il en est de même en cas d'absence de soutien social de la part
 --
+   travail.
+
+   Les questions que l'entreprise doit se poser pour éviter ces risques
+   peuvent être les suivantes : la charge de travail est-elle bien
    répartie ? Les responsabilités sont-elles clairement identifiées ? Les
    salariés ont-ils des marges de manoeuvre et des tâches variées ?
    Niveau de risque Définition de chaque niveau de risque Exemples
@@ -55,6 +111,29 @@
    les heures de travail
    - Travail respectant les aptitudes de chacun
    - Appel à des ressources temporaires en cas de surcharge de travail
+
+   Selon une étude du groupe Cegos de septembre 2012 (groupe de conseil et
+   formation), seuls 37 % des salariés du privé estiment que l'effectif de
+   leur service est adapté à la charge de travail. L'organisation du
+   travail est d'ailleurs citée par ces salariés comme le 1^er facteur de
+   stress.
+
+--
+   social, d'enregistrer les réalisations effectuées et de mesurer les
+   changements intervenus au cours de l'année écoulée et des deux années
+   précédentes. Le bilan social comporte des informations sur l'emploi,
+   les rémunérations et charges accessoires, les conditions de santé et de
+   sécurité, les autres conditions de travail, la formation, les relations
+   professionnelles ainsi que sur les conditions de vie des salariés et de
+   leurs familles dans la mesure où ces conditions dépendent de
+--
+       managers - coaching - promotion.
+     * La prévention tertiaire : les personnes sont déjà touchées par les
+       pathologies. On évite alors que l'état de santé de ces personnes ne
+       se détériore davantage. On tend vers une prise en charge médicale
+       et psychologique pour un retour au travail (tentative de suicide,
+       dépression nerveuse, absentéisme de longue durée...) Exemples :
+       gestion du stress - numéros verts - traitements - aide au retour
 --
    conflits [28]. Certains responsables des Ressources humaines, proposent
    de mêler prévention des RPS avec la gestion prévisionnelle des
@@ -63,3 +142,169 @@
    travail qui sont problématiques pour la santé des salariés mais la
    manière dont leur environnement socio psychologique va leur permettre
    de faire face à cette charge, de lui donner du sens et de se
+   l'approprier. Les différentes dimensions mises en avant pour
+   caractériser cet environnement convergent toutes vers la question
+   importante de la reconnaissance du travail du salarié. Cette
+--
+     * « Conditions de travail - La grande distribution commence à
+       craquer ». Agnès Chareton le Figaro le 01/06/2013
+
+   Pour télécharger cet article au format pdf, cliquer sur l'icône
+   ci-dessous :
+
+Notes
+   a. Le stress au travail
+
+   Il se caractérise par un déséquilibre entre les contraintes imposées en
+   situation de travail (temps, conflits, surcharge de travail...) et la
+   capacité des employés à faire face à celles-ci (AESST 2002). C'est le
+   problème de santé majeur de nos organisations. Dans un environnement
+   perçu comme de plus en plus compétitif et où chacun doit assumer les
+--
+
+   Concernant le harcèlement moral, les victimes ont tout intérêt à
+   choisir la voie prud'homale pour obtenir réparation de leur préjudice,
+   car elles bénéficient de l'inversion de la charge de la preuve. Il en
+   va tout autrement devant les juridictions pénales : il n'existe aucune
+   présomption de preuve pesant sur l'auteur du harcèlement, la charge de
+   la preuve revient à l'accusation. Aussi, le salarié qui agit devant les
+   juridictions pénales pour faire reconnaître une infraction devra-t-il
+   établir l'intention de nuire de son auteur (Cass. crim., 21 juin 2005,
+--
+   inexcusable de l'employeur, lequel aurait dû avoir conscience du danger
+   auquel était exposé le salarié mais n'a pas pris les mesures
+   nécessaires pour l'en préserver. Pour cela, le salarié invoque une
+   surcharge de travail provoquée par une politique de réduction des coûts
+   menée depuis plusieurs années par la direction. La Cour de cassation
+   approuve cet argument relevant l'accroissement du travail du salarié
+   sur les années précédant son accident. Cette politique de surcharge, de
+   pressions, et « d'objectifs inatteignables » a généré un stress. Par
+   conséquent, l'employeur a ignoré les données médicales et n'a pas
+   utilement pris la mesure des conséquences de son objectif de réduction
+   des coûts en termes de facteurs de risque pour la santé de ses
+   employés. Dès lors, les conditions de mise en oeuvre de la faute
+   inexcusable sont remplies. Désormais les employeurs devront donc faire
+   attention à ce que la charge de travail ne soit pas trop importante,
+   même si les salariés ne se plaignent pas.
+
+   Le jugement du TGI de Lyon du 4 septembre 2012, « fait défense » à la
+--
+
+   c. L'épuisement professionnel ou burn-out
+
+   Après le harcèlement moral, agir sur la charge de travail pourrait bien
+   être le grand chantier des prochaines années. En décembre 2012, le TGI
+   de Créteil a fait suspendre le plan « Organisation 2012 » de la FNAC au
+   motif notamment d'une analyse insuffisante du report de la charge de
+   travail sur les postes de travail conservés et induit par ce plan. En
+   juin 2011, les conclusions du TGI de Versailles à l'encontre de Renault
+   mettaient également en évidence l'absence de mesures prises par
+   l'entreprise pour évaluer la charge de travail d'un de ses salariés.
+   Dans un arrêt du 13 mars 2013 (n° 11-22.082), la Cour de cassation
+   vient préciser sa jurisprudence en affirmant que ce motif ne peut être
+   utilisé pour justifier un licenciement, lorsque les absences du salarié
+   ont été causées par un manquement de l'employeur à son obligation de
+   sécurité de résultat. En l'espèce, le salarié avait subi un épuisement
+   professionnel (burn-out) généré par une surcharge de travail.
+
+   La Cour de cassation affirme que « lorsque l'absence prolongée du
+   salarié pour cause de maladie résulte d'un manquement de l'employeur à
+   l'obligation de sécurité de résultat, ses conséquences sur le
+   fonctionnement de l'entreprise ne peuvent être invoquées pour justifier
+   un licenciement ». L'obligation du contrôle de la charge de travail des
+   salariés dans les entreprises recourant au forfait jour par exemple
+   (Cass. soc., n° 11-14540 du 26 septembre 2012), la multiplication et
+   l'intensité des réorganisations, les changements de paradigmes
+   socio-économiques que vivent nos sociétés modernes nécessitent d'agir
+   dès à présent sur la charge de travail au risque que celle-ci devienne
+   une bombe à retardement dont le tic-tac est déjà audible.
+
+   d. Dépressions et suicides
+--
+   Le tribunal de sécurité sociale des Yvelines, dans un arrêt du 9 mars
+   2010 (n° 07-01555), a considéré que le suicide d'un salarié, survenu en
+   raison du stress au travail, constituait un accident du travail, le
+   fait générateur de cet accident étant la surcharge de travail et la
+   dégradation des conditions de travail. Dans une autre affaire
+   concernant le suicide d'un ingénieur, la Cour d'appel rappelle que
+   lorsqu'un employeur ne fait pas preuve de réactivité devant la
+--
+
+   Quant à Hervé Lanouzière, conseiller technique à la direction générale
+   du travail, il définit quatre grandes familles de risques
+   psychosociaux : la charge de travail, la reconnaissance du travail, la
+   qualité du travail et les changements et restructuration, typologie
+   base de grilles d'analyse qui peut être également exploitée en
+   entreprise dans le cadre d'audit des RPS [19].
+
+   - La charge de travail :
+
+   On vise ici l'organisation même du travail. La charge de travail n'est
+   pas en elle-même facteur de risques psychosociaux. Il existe des
+   salariés qui peuvent très bien supporter une lourde charge de travail.
+   La charge de travail va être facteur de RPS lorsque les marges de
+   manoeuvres et d'autonomie dont dispose le salarié dans son travail vont
+   être réduites. Plus celles-ci sont faibles, plus les risques sont
+   élevés. Il en est de même en cas d'absence de soutien social de la part
+--
+   travail.
+
+   Les questions que l'entreprise doit se poser pour éviter ces risques
+   peuvent être les suivantes : la charge de travail est-elle bien
+   répartie ? Les responsabilités sont-elles clairement identifiées ? Les
+   salariés ont-ils des marges de manoeuvre et des tâches variées ?
+   Niveau de risque Définition de chaque niveau de risque Exemples
+   3 Surcharge constante de travail - Plusieurs tâches à effectuer en même
+   temps ou avec un temps insuffisant
+   - Non remplacement des personnes absentes
+   - Ajout de tâches sans vérifier la disponibilité du salarié
+   2 Surcharge fréquente de travail - Variation de la charge de travail en
+   fonction de la demande des clients
+   1 Surcharge ponctuelle de travail - Travail interrompu
+   - Travail urgent ou imprévu (exigence d'heures supplémentaires)
+   0 Charge de travail adéquate - Objectifs adéquats et réalisables dans
+   les heures de travail
+   - Travail respectant les aptitudes de chacun
+   - Appel à des ressources temporaires en cas de surcharge de travail
+
+   Selon une étude du groupe Cegos de septembre 2012 (groupe de conseil et
+   formation), seuls 37 % des salariés du privé estiment que l'effectif de
+   leur service est adapté à la charge de travail. L'organisation du
+   travail est d'ailleurs citée par ces salariés comme le 1^er facteur de
+   stress.
+
+--
+   social, d'enregistrer les réalisations effectuées et de mesurer les
+   changements intervenus au cours de l'année écoulée et des deux années
+   précédentes. Le bilan social comporte des informations sur l'emploi,
+   les rémunérations et charges accessoires, les conditions de santé et de
+   sécurité, les autres conditions de travail, la formation, les relations
+   professionnelles ainsi que sur les conditions de vie des salariés et de
+   leurs familles dans la mesure où ces conditions dépendent de
+--
+       managers - coaching - promotion.
+     * La prévention tertiaire : les personnes sont déjà touchées par les
+       pathologies. On évite alors que l'état de santé de ces personnes ne
+       se détériore davantage. On tend vers une prise en charge médicale
+       et psychologique pour un retour au travail (tentative de suicide,
+       dépression nerveuse, absentéisme de longue durée...) Exemples :
+       gestion du stress - numéros verts - traitements - aide au retour
+--
+   conflits [28]. Certains responsables des Ressources humaines, proposent
+   de mêler prévention des RPS avec la gestion prévisionnelle des
+   compétences. Pour Detchessahar, Le Loch, Minguet et Stimec [29], ce
+   n'est finalement pas la charge de travail ou le degré d'exigence du
+   travail qui sont problématiques pour la santé des salariés mais la
+   manière dont leur environnement socio psychologique va leur permettre
+   de faire face à cette charge, de lui donner du sens et de se
+   l'approprier. Les différentes dimensions mises en avant pour
+   caractériser cet environnement convergent toutes vers la question
+   importante de la reconnaissance du travail du salarié. Cette
+--
+     * « Conditions de travail - La grande distribution commence à
+       craquer ». Agnès Chareton le Figaro le 01/06/2013
+
+   Pour télécharger cet article au format pdf, cliquer sur l'icône
+   ci-dessous :
+
+Notes

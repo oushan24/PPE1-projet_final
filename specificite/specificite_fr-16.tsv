@@ -1,0 +1,11 @@
+token	corpus size	all contexts size	frequency	co-frequency	specificity
+mentale	1493	359	8	8	4.98
+émotionnelle	1493	359	10	9	4.72
+charge	1493	359	23	13	3.22
+affective	1493	359	5	5	3.10
+la	1493	359	44	19	2.65
+alléger	1493	359	3	3	1.86
+ma	1493	359	3	3	1.86
+ed	1493	359	3	3	1.86
+ou	1493	359	6	4	1.54
+tout	1493	359	6	4	1.54

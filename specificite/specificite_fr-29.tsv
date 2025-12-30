@@ -1,0 +1,11 @@
+token	corpus size	all contexts size	frequency	co-frequency	specificity
+qualitative	15133	231	19	6	6.58
+quantitative	15133	231	14	5	5.86
+la	15133	231	458	22	5.81
+physique	15133	231	7	3	3.94
+augmentation	15133	231	18	4	3.88
+compétences	15133	231	4	2	2.87
+lourde	15133	231	5	2	2.65
+si	15133	231	18	3	2.64
+de	15133	231	766	21	2.45
+tant	15133	231	9	2	2.12

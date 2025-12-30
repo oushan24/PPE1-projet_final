@@ -9,7 +9,7 @@
 
      * Trouver un job
      * Trouver une entreprise
-     * Média
+     * MÃ©dia
 
    (BUTTON)
    ____________________
@@ -17,20 +17,20 @@
 
    Candidatures
 
-   Opportunités
+   OpportunitÃ©s
    (BUTTON)
 
    Se connecter
      * Accueil
      * Trouver un job
      * Trouver une entreprise
-     * Média
+     * MÃ©dia
 
-    1. Bien-être psychique
+    1. Bien-Ãªtre psychique
     2. Workers
-    3. Média
+    3. MÃ©dia
 
-Charge mentale au travail : attention à la surchauffe
+Charge mentale au travail : attention Ã  la surchauffe
 
    10 sept. 2019
 
@@ -41,287 +41,287 @@ Charge mentale au travail : attention à la surchauffe
      * (BUTTON)
      * (BUTTON)
 
-   Charge mentale au travail : attention à la surchauffe
+   Charge mentale au travail : attention Ã  la surchauffe
    auteur.e
 
    ES
    Elsa Sayagh
 
-   La sonnette du bureau retentit. À votre gauche, 3 collègues font un
-   point sur un dossier. Derrière vous, quelqu'un est en pleine
-   conversation téléphonique. Vous recevez un message Whatsapp et tentez
-   tout en même temps de (re)lire un email sans parvenir à le comprendre.
+   La sonnette du bureau retentit. Ã€ votre gauche, 3 collÃ¨gues font un
+   point sur un dossier. DerriÃ¨re vous, quelqu'un est en pleine
+   conversation tÃ©lÃ©phonique. Vous recevez un message Whatsapp et tentez
+   tout en mÃªme temps de (re)lire un email sans parvenir Ã  le comprendre.
 
-   La situation vous semble familière ? Avec la dématérialisation des
-   échanges, l'émergence de nouvelles pratiques de travail, le règne de
-   l'instantanéité, les bureaux partagés et la profusion des médiums de
-   communication à notre disposition, le travail a connu, ces dernières
-   années, une véritable accélération et révolution. Nous devons désormais
-   évoluer quotidiennement dans un environnement excessivement stimulant
-   où il nous faut saisir, traiter et restituer un nombre infini
-   d'informations. Ce flux informationnel met notre attention à rude
-   épreuve et notre cerveau, pris dans ce flot continu de stimuli, doit
-   faire le tri. Parfois au prix d'un très gros effort mental bien nommé
+   La situation vous semble familiÃ¨re ? Avec la dÃ©matÃ©rialisation des
+   Ã©changes, l'Ã©mergence de nouvelles pratiques de travail, le rÃ¨gne de
+   l'instantanÃ©itÃ©, les bureaux partagÃ©s et la profusion des mÃ©diums de
+   communication Ã  notre disposition, le travail a connu, ces derniÃ¨res
+   annÃ©es, une vÃ©ritable accÃ©lÃ©ration et rÃ©volution. Nous devons dÃ©sormais
+   Ã©voluer quotidiennement dans un environnement excessivement stimulant
+   oÃ¹ il nous faut saisir, traiter et restituer un nombre infini
+   d'informations. Ce flux informationnel met notre attention Ã  rude
+   Ã©preuve et notre cerveau, pris dans ce flot continu de stimuli, doit
+   faire le tri. Parfois au prix d'un trÃ¨s gros effort mental bien nommÃ©
    par les scientifiques "surcharge cognitive". Comment, dans un tel
-   contexte, limiter la surchauffe et essayer de préserver un certain
-   équilibre cognitif ? Décryptage des mécanismes à l'oeuvre dans notre
+   contexte, limiter la surchauffe et essayer de prÃ©server un certain
+   Ã©quilibre cognitif ? DÃ©cryptage des mÃ©canismes Ã  l'oeuvre dans notre
    cerveau avec Marie Lacroix, docteure en neurosciences et co-fondatrice
-   de la société Cog'X.
+   de la sociÃ©tÃ© Cog'X.
 
-Définition scientifique...
+DÃ©finition scientifique...
 
-   Marie Lacroix définit la charge mentale ou charge cognitive comme « le
-   coût de traitement d'une information, pour un individu, dans une tâche
-   et dans un contexte donnés. » Contrairement à ce que l'on pourrait
-   penser, la charge cognitive est donc naturelle ; elle existe dès que
-   nous engageons nos capacités cognitives et n'est pas mauvaise en soi.
-   C'est la "surcharge cognitive" régulière qui peut être néfaste. Soit
-   quand au cours d'une journée, je manipule plus d'informations que ce
-   que ma mémoire de travail peut traiter. Cette mémoire, dite
-   "court-terme", est limitée dans le temps (à quelques secondes) et
-   limitée à un certain nombre d'informations (une dizaine). Pour
-   appréhender sa capacité, Marie Lacroix nous invite à un exercice :
-   résoudre mentalement les opérations 2x2+1 puis 22x15+3. « On voit bien
-   que l'effort mental est différent et la charge cognitive plus élevée
-   pour le second calcul. »
+   Marie Lacroix dÃ©finit la charge mentale ou charge cognitive comme Â« le
+   coÃ»t de traitement d'une information, pour un individu, dans une tÃ¢che
+   et dans un contexte donnÃ©s. Â» Contrairement Ã  ce que l'on pourrait
+   penser, la charge cognitive est donc naturelle ; elle existe dÃ¨s que
+   nous engageons nos capacitÃ©s cognitives et n'est pas mauvaise en soi.
+   C'est la "surcharge cognitive" rÃ©guliÃ¨re qui peut Ãªtre nÃ©faste. Soit
+   quand au cours d'une journÃ©e, je manipule plus d'informations que ce
+   que ma mÃ©moire de travail peut traiter. Cette mÃ©moire, dite
+   "court-terme", est limitÃ©e dans le temps (Ã  quelques secondes) et
+   limitÃ©e Ã  un certain nombre d'informations (une dizaine). Pour
+   apprÃ©hender sa capacitÃ©, Marie Lacroix nous invite Ã  un exercice :
+   rÃ©soudre mentalement les opÃ©rations 2x2+1 puis 22x15+3. Â« On voit bien
+   que l'effort mental est diffÃ©rent et la charge cognitive plus Ã©levÃ©e
+   pour le second calcul. Â»
 
-     « La charge mentale est le coût de traitement d'une information,
-     pour un individu, dans une tâche et dans un contexte donnés. »
+     Â« La charge mentale est le coÃ»t de traitement d'une information,
+     pour un individu, dans une tÃ¢che et dans un contexte donnÃ©s. Â»
 
 ... et abus de langage
 
-   La théorie de la charge cognitive a été formalisée par le psychologue
-   John Sweller à la fin des années 80. Celui-ci, dans le cadre de ses
-   recherches en matière de "design d'instruction ou design pédagogique",
-   a cherché à identifier différentes techniques pour faire baisser la
+   La thÃ©orie de la charge cognitive a Ã©tÃ© formalisÃ©e par le psychologue
+   John Sweller Ã  la fin des annÃ©es 80. Celui-ci, dans le cadre de ses
+   recherches en matiÃ¨re de "design d'instruction ou design pÃ©dagogique",
+   a cherchÃ© Ã  identifier diffÃ©rentes techniques pour faire baisser la
    charge cognitive et faciliter l'apprentissage.
 
-   La notion de charge mentale est ensuite sortie du périmètre
-   scientifique pour passer dans le langage courant. Elle est désormais
-   associée à l'idée de "penser à tout, tout le temps" et notamment à la
-   fameuse charge mentale "ménagère" que la chercheuse Nicole Brais
-   définit, dans cet article, comme le « travail de gestion,
-   d'organisation et de planification qui est à la fois intangible,
+   La notion de charge mentale est ensuite sortie du pÃ©rimÃ¨tre
+   scientifique pour passer dans le langage courant. Elle est dÃ©sormais
+   associÃ©e Ã  l'idÃ©e de "penser Ã  tout, tout le temps" et notamment Ã  la
+   fameuse charge mentale "mÃ©nagÃ¨re" que la chercheuse Nicole Brais
+   dÃ©finit, dans cet article, comme le Â« travail de gestion,
+   d'organisation et de planification qui est Ã  la fois intangible,
    incontournable et constant et qui a pour objectif la satisfaction des
-   besoins de chacun et la bonne marche de la résidence. » Ce sentiment de
+   besoins de chacun et la bonne marche de la rÃ©sidence. Â» Ce sentiment de
    devoir sans cesse s'organiser pour assurer le bon fonctionnement du
    foyer incombe encore souvent aux femmes. Le terme de "charge mentale" a
-   notamment été popularisé par la BD "Fallait demander" d'Emma Clit parue
-   en 2017, qui décortique avec humour les contraintes qui pèsent sur les
+   notamment Ã©tÃ© popularisÃ© par la BD "Fallait demander" d'Emma Clit parue
+   en 2017, qui dÃ©cortique avec humour les contraintes qui pÃ¨sent sur les
    femmes.
 
    Mais comme le souligne Marie Lacroix, il nous faut distinguer le sens
-   courant du terme soit « les préoccupations du quotidien et l'ensemble
-   des tâches auxquelles un individu doit penser au cours de sa journée »
-   de la définition scientifique de la charge cognitive. Pour elle, « une
-   façon de lier ces deux aspects est de considérer que nous avons des
-   ressources cognitives limitées qui ne peuvent que difficilement être
-   partagées sur plusieurs tâches à la fois. Ainsi nos préoccupations ou
+   courant du terme soit Â« les prÃ©occupations du quotidien et l'ensemble
+   des tÃ¢ches auxquelles un individu doit penser au cours de sa journÃ©e Â»
+   de la dÃ©finition scientifique de la charge cognitive. Pour elle, Â« une
+   faÃ§on de lier ces deux aspects est de considÃ©rer que nous avons des
+   ressources cognitives limitÃ©es qui ne peuvent que difficilement Ãªtre
+   partagÃ©es sur plusieurs tÃ¢ches Ã  la fois. Ainsi nos prÃ©occupations ou
    la multitude de choses que l'on ne doit surtout pas oublier et que l'on
-   doit faire rentrer dans le planning d'une seule journée, occupe
-   régulièrement de "l'espace mental" qui ne peut être alloué à autre
-   chose, sans compter le stress que cela peut engendrer. »
+   doit faire rentrer dans le planning d'une seule journÃ©e, occupe
+   rÃ©guliÃ¨rement de "l'espace mental" qui ne peut Ãªtre allouÃ© Ã  autre
+   chose, sans compter le stress que cela peut engendrer. Â»
 
-     « Nous avons des ressources cognitives limitées qui ne peuvent que
-     difficilement être partagées sur plusieurs tâches à la fois. »
+     Â« Nous avons des ressources cognitives limitÃ©es qui ne peuvent que
+     difficilement Ãªtre partagÃ©es sur plusieurs tÃ¢ches Ã  la fois. Â»
 
-Petite leçon de mécanique du cerveau
+Petite leÃ§on de mÃ©canique du cerveau
 
-   Si la charge cognitive est naturelle (dès lors que l'on mobilise notre
+   Si la charge cognitive est naturelle (dÃ¨s lors que l'on mobilise notre
    cerveau), la surcharge cognitive, et notamment professionnelle,
    intervient davantage en cas de surchauffe. Marie Lacroix recommande
-   d'analyser trois grands facteurs pour décrypter et réguler un état de
+   d'analyser trois grands facteurs pour dÃ©crypter et rÃ©guler un Ã©tat de
    surcharge cognitive :
 
-1. La nature de la tâche à réaliser et/ou mon niveau d'expertise face à
+1. La nature de la tÃ¢che Ã  rÃ©aliser et/ou mon niveau d'expertise face Ã 
 l'information
 
-   « La surcharge cognitive intervient par exemple quand la tâche est trop
-   complexe, soit parce que les informations elles-mêmes sont difficiles à
+   Â« La surcharge cognitive intervient par exemple quand la tÃ¢che est trop
+   complexe, soit parce que les informations elles-mÃªmes sont difficiles Ã 
    traiter, soit parce que nous n'avons pas les connaissances et
    savoir-faire pour les traiter. C'est le cas quand nous sommes novices
-   sur une tâche ou encore en phase d'apprentissage. »
+   sur une tÃ¢che ou encore en phase d'apprentissage. Â»
 
 2. L'environnement de travail physique ou digital
 
-   « La surcharge peut également survenir quand il y a trop d'informations
-   à prendre en compte, même si chacune d'elle n'est pas complexe en soi.
+   Â« La surcharge peut Ã©galement survenir quand il y a trop d'informations
+   Ã  prendre en compte, mÃªme si chacune d'elle n'est pas complexe en soi.
    C'est pour cela que la sur-sollicitation ou une organisation qui nous
-   pousse à faire "plusieurs choses à la fois" peut générer un état de
-   surcharge. » Ainsi, un environnement de travail trop stimulant (bruit,
-   conversations physiques ou téléphoniques, flux, objets divers...) comme
-   un open-space peut heurter notre équilibre cognitif.
+   pousse Ã  faire "plusieurs choses Ã  la fois" peut gÃ©nÃ©rer un Ã©tat de
+   surcharge. Â» Ainsi, un environnement de travail trop stimulant (bruit,
+   conversations physiques ou tÃ©lÃ©phoniques, flux, objets divers...) comme
+   un open-space peut heurter notre Ã©quilibre cognitif.
 
-3. L'état interne
+3. L'Ã©tat interne
 
-   « Aussi, notre état interne, comme notre niveau de fatigue, de stress
-   ou un manque de motivation peut augmenter l'effort nécessaire pour
-   résoudre une tâche. Après une mauvaise nuit, on voit bien combien il
-   est peut s'avérer difficile d'effectuer efficacement une tâche que l'on
-   opère pourtant bien habituellement. »
+   Â« Aussi, notre Ã©tat interne, comme notre niveau de fatigue, de stress
+   ou un manque de motivation peut augmenter l'effort nÃ©cessaire pour
+   rÃ©soudre une tÃ¢che. AprÃ¨s une mauvaise nuit, on voit bien combien il
+   est peut s'avÃ©rer difficile d'effectuer efficacement une tÃ¢che que l'on
+   opÃ¨re pourtant bien habituellement. Â»
 
-Les dommages collatéraux
+Les dommages collatÃ©raux
 
-   Concrètement, comment réagit notre cerveau en cas de surcharge ? « Ce
-   qu'il se passe dans le cerveau, c'est que l'état de surcharge est
-   associé à une modification de l'activité dans le cortex préfrontal,
-   siège de la mémoire de travail mais aussi de fonctions dites exécutives
-   : c'est un peu la "tour de contrôle" de notre cerveau. Ainsi en
+   ConcrÃ¨tement, comment rÃ©agit notre cerveau en cas de surcharge ? Â« Ce
+   qu'il se passe dans le cerveau, c'est que l'Ã©tat de surcharge est
+   associÃ© Ã  une modification de l'activitÃ© dans le cortex prÃ©frontal,
+   siÃ¨ge de la mÃ©moire de travail mais aussi de fonctions dites exÃ©cutives
+   : c'est un peu la "tour de contrÃ´le" de notre cerveau. Ainsi en
    surcharge cognitive, nous augmentons notre risque d'erreur, de
-   problèmes de mémorisation, et diminuons notre capacité de
-   planification, de gestion des émotions... Les signes de l'état de
-   surcharge cognitive peuvent donc être justement le fait de faire des
+   problÃ¨mes de mÃ©morisation, et diminuons notre capacitÃ© de
+   planification, de gestion des Ã©motions... Les signes de l'Ã©tat de
+   surcharge cognitive peuvent donc Ãªtre justement le fait de faire des
    erreurs, de devoir recommencer un raisonnement, de ne pas faire
-   attention aux autres ou oublier régulièrement des choses importantes. »
+   attention aux autres ou oublier rÃ©guliÃ¨rement des choses importantes. Â»
    Comme l'explicite Marie Lacroix, la surcharge cognitive peut donc
-   directement et indirectement diminuer le bien-être et l'efficacité au
+   directement et indirectement diminuer le bien-Ãªtre et l'efficacitÃ© au
    travail.
 
-     « En surcharge cognitive, nous augmentons notre risque d'erreur, de
-     problèmes de mémorisation, et diminuons notre capacité de
-     planification, de gestion des émotions... »
+     Â« En surcharge cognitive, nous augmentons notre risque d'erreur, de
+     problÃ¨mes de mÃ©morisation, et diminuons notre capacitÃ© de
+     planification, de gestion des Ã©motions... Â»
 
-« Débordement cognitif », la faute à l'époque ?
+Â« DÃ©bordement cognitif Â», la faute Ã  l'Ã©poque ?
 
-   La docteur en neurosciences insiste sur le fait que le problème de
-   surcharge cognitive n'est, en soi, pas nouveau. Il s'est néanmoins
-   intensifié avec l'expansion des technologies de l'information et de la
-   communication. Selon elle, « le risque de surcharge cognitive est plus
-   important car la rapidité des échanges et le flux informationnel qu'il
-   nous faut désormais gérer à l'ère digitale challenge nos capacités
-   cognitives. » Conserver l'esprit clair et avancer sereinement lorsque
-   l'on reçoit quelques dizaines d'emails par jour, des notifications à
-   tout va, des requêtes, messages et rappels sur de multiples canaux
-   (Slack, Whatsapp, chats divers, google agenda...) relève du sport de
+   La docteur en neurosciences insiste sur le fait que le problÃ¨me de
+   surcharge cognitive n'est, en soi, pas nouveau. Il s'est nÃ©anmoins
+   intensifiÃ© avec l'expansion des technologies de l'information et de la
+   communication. Selon elle, Â« le risque de surcharge cognitive est plus
+   important car la rapiditÃ© des Ã©changes et le flux informationnel qu'il
+   nous faut dÃ©sormais gÃ©rer Ã  l'Ã¨re digitale challenge nos capacitÃ©s
+   cognitives. Â» Conserver l'esprit clair et avancer sereinement lorsque
+   l'on reÃ§oit quelques dizaines d'emails par jour, des notifications Ã 
+   tout va, des requÃªtes, messages et rappels sur de multiples canaux
+   (Slack, Whatsapp, chats divers, google agenda...) relÃ¨ve du sport de
    combat. On peut convoquer une notion d'ergonomie et parler de
-   "débordement cognitif" pour qualifier ce trop-plein ; le « sentiment
-   d'être submergé par les informations, débordé », que « l'urgent passe
-   avant l'important. »
+   "dÃ©bordement cognitif" pour qualifier ce trop-plein ; le Â« sentiment
+   d'Ãªtre submergÃ© par les informations, dÃ©bordÃ© Â», que Â« l'urgent passe
+   avant l'important. Â»
 
-     « La rapidité des échanges et le flux informationnel qu'il nous faut
-     désormais gérer à l'ère digitale challenge nos capacités cognitives.
-     »
+     Â« La rapiditÃ© des Ã©changes et le flux informationnel qu'il nous faut
+     dÃ©sormais gÃ©rer Ã  l'Ã¨re digitale challenge nos capacitÃ©s cognitives.
+     Â»
 
-Tous égaux ?
+Tous Ã©gaux ?
 
-   Mais y-a-t-il des professions plus exposées que d'autres aux problèmes
+   Mais y-a-t-il des professions plus exposÃ©es que d'autres aux problÃ¨mes
    de surcharge cognitive ? Selon Marie Lacroix, ceux-ci ne sont pas
-   forcément liés à l'individu. Elle nous enjoint à ne pas confondre la
+   forcÃ©ment liÃ©s Ã  l'individu. Elle nous enjoint Ã  ne pas confondre la
    surcharge cognitive avec le syndrome du burn-out", qui arrive
    effectivement davantage dans certaines professions (police, pompiers,
    personnel hospitalier...) du fait notamment du surmenage, d'une charge
-   émotionnelle forte et du manque de reconnaissance. En revanche, il est
+   Ã©motionnelle forte et du manque de reconnaissance. En revanche, il est
    effectivement possible de diminuer le risque de surcharge cognitive
-   d'un agent en optant pour certaines mesures. « C'est d'ailleurs le cas
+   d'un agent en optant pour certaines mesures. Â« C'est d'ailleurs le cas
    pour les pilotes de ligne, les agents de circulation ou dans les
-   centrales, où les procédures sont pensées pour contourner les limites
-   naturelles de notre espace mental (checklists, double vérification) et
-   réduire le risque d'erreur », explique Marie.
+   centrales, oÃ¹ les procÃ©dures sont pensÃ©es pour contourner les limites
+   naturelles de notre espace mental (checklists, double vÃ©rification) et
+   rÃ©duire le risque d'erreur Â», explique Marie.
 
-Attention fragile, comment la préserver ?
+Attention fragile, comment la prÃ©server ?
 
-   Marie Lacroix nous appelle à prendre conscience du fonctionnement de
+   Marie Lacroix nous appelle Ã  prendre conscience du fonctionnement de
    notre cerveau pour identifier de meilleures pratiques individuelles et
-   collectives. « Notre attention est un filtre naturel contre la
-   surcharge cognitive. Elle nous permet de sélectionner les informations
-   pertinentes pour la tâche que nous souhaitons effectuer, et de laisser
-   les autres hors de notre mémoire de travail. Cependant cette attention
-   est fragile, elle peut être rapidement captée par des sollicitations
+   collectives. Â« Notre attention est un filtre naturel contre la
+   surcharge cognitive. Elle nous permet de sÃ©lectionner les informations
+   pertinentes pour la tÃ¢che que nous souhaitons effectuer, et de laisser
+   les autres hors de notre mÃ©moire de travail. Cependant cette attention
+   est fragile, elle peut Ãªtre rapidement captÃ©e par des sollicitations
    externes, qu'elles soient physiques dans l'open-space ou digitales par
-   les notifications. » L'espace de travail, nos pratiques de travail et
-   de connexion jouent donc un rôle important dans la régulation de notre
+   les notifications. Â» L'espace de travail, nos pratiques de travail et
+   de connexion jouent donc un rÃ´le important dans la rÃ©gulation de notre
    charge cognitive au quotidien.
 
-     « L'attention est fragile, elle peut être rapidement captée par des
-     sollicitations externes. »
+     Â« L'attention est fragile, elle peut Ãªtre rapidement captÃ©e par des
+     sollicitations externes. Â»
 
-   Comment, dès lors, travailler sur cette multitude de facteurs qui
-   agissent sur notre charge cognitive ? Selon Marie Lacroix, réduire sa
-   charge mentale consiste essentiellement à réduire la quantité ou la
-   complexité des informations à traiter. Tour d'horizon des bonnes
-   pratiques à adapter selon ses besoins :
+   Comment, dÃ¨s lors, travailler sur cette multitude de facteurs qui
+   agissent sur notre charge cognitive ? Selon Marie Lacroix, rÃ©duire sa
+   charge mentale consiste essentiellement Ã  rÃ©duire la quantitÃ© ou la
+   complexitÃ© des informations Ã  traiter. Tour d'horizon des bonnes
+   pratiques Ã  adapter selon ses besoins :
 
 Au niveau individuel
 
-     * Schématiser ou lister l'ensemble des tâches à accomplir.
-       Pour mieux les appréhender, les planifier, les hiérarchiser. C'est
-       le rôle d'une to do-list.
-     * Lâcher-prise sur des tâches non essentielles.
-       Pour limiter la frustration, il est essentiel de noter les tâches
-       accomplies et de connaître le temps que l'on y a passé : cela
+     * SchÃ©matiser ou lister l'ensemble des tÃ¢ches Ã  accomplir.
+       Pour mieux les apprÃ©hender, les planifier, les hiÃ©rarchiser. C'est
+       le rÃ´le d'une to do-list.
+     * LÃ¢cher-prise sur des tÃ¢ches non essentielles.
+       Pour limiter la frustration, il est essentiel de noter les tÃ¢ches
+       accomplies et de connaÃ®tre le temps que l'on y a passÃ© : cela
        permet de valoriser son propre travail (le temps ne s'est pas
-       volatilisé) et de pouvoir mieux ajuster la planification des tâches
-       à l'avenir.
-     * Aborder une tâche avec un objectif précis et surtout à court terme.
-       Pour cela il est plus efficace de découper une tâche en
+       volatilisÃ©) et de pouvoir mieux ajuster la planification des tÃ¢ches
+       Ã  l'avenir.
+     * Aborder une tÃ¢che avec un objectif prÃ©cis et surtout Ã  court terme.
+       Pour cela il est plus efficace de dÃ©couper une tÃ¢che en
        sous-objectifs de 15-20 minutes par exemple.
      * Bannir le multitasking.
-       Plutôt que d'alterner rapidement entre deux ou plusieurs tâches
-       (répondre à un email pendant que l'on est en réunion), il est plus
-       efficace de faire les choses séquentiellement (l'une après
+       PlutÃ´t que d'alterner rapidement entre deux ou plusieurs tÃ¢ches
+       (rÃ©pondre Ã  un email pendant que l'on est en rÃ©union), il est plus
+       efficace de faire les choses sÃ©quentiellement (l'une aprÃ¨s
        l'autre).
-     * Réduire le nombre d'interruptions pour gagner en efficacité et en
-       sérénité.
-       Mieux vaut par exemple regarder sa boite mail par créneau, cela
-       peut être une fois toutes les heures ou demi-heures si on a peur de
-       ne pas être assez réactif, mais éviter qu'elle soit visible en
-       continu. On peut également couper les diverses sollicitations
+     * RÃ©duire le nombre d'interruptions pour gagner en efficacitÃ© et en
+       sÃ©rÃ©nitÃ©.
+       Mieux vaut par exemple regarder sa boite mail par crÃ©neau, cela
+       peut Ãªtre une fois toutes les heures ou demi-heures si on a peur de
+       ne pas Ãªtre assez rÃ©actif, mais Ã©viter qu'elle soit visible en
+       continu. On peut Ã©galement couper les diverses sollicitations
        visuelles et sonores comme les pop-up et notifications et choisir
-       des moments précis pour les consulter.
+       des moments prÃ©cis pour les consulter.
      * Soigner ses pauses.
-       Pour réguler efficacement la charge mentale, la pause doit
-       permettre de changer la nature de la tâche ou de l'activité et
-       d'être actif autrement. Autrement dit, si je passe la journée à
-       animer un atelier et à être en interaction avec les gens, la bonne
-       pause consistera à me retrouver, lire, écouter quelque chose au
-       calme, ou à marcher. Si au contraire je suis derrière un ordinateur
-       tout seul toute la journée, la bonne pause devrait mobiliser mon
+       Pour rÃ©guler efficacement la charge mentale, la pause doit
+       permettre de changer la nature de la tÃ¢che ou de l'activitÃ© et
+       d'Ãªtre actif autrement. Autrement dit, si je passe la journÃ©e Ã 
+       animer un atelier et Ã  Ãªtre en interaction avec les gens, la bonne
+       pause consistera Ã  me retrouver, lire, Ã©couter quelque chose au
+       calme, ou Ã  marcher. Si au contraire je suis derriÃ¨re un ordinateur
+       tout seul toute la journÃ©e, la bonne pause devrait mobiliser mon
        corps, favoriser les interactions.
-     * S'octroyer des vrais temps de récupération.
-       (Sport, méditation, lecture, musique ou même rien du tout) pour
-       agir sur notre état interne. Si on accumule un besoin de
-       récupération trop important, on produit de l'adrénaline, du
+     * S'octroyer des vrais temps de rÃ©cupÃ©ration.
+       (Sport, mÃ©ditation, lecture, musique ou mÃªme rien du tout) pour
+       agir sur notre Ã©tat interne. Si on accumule un besoin de
+       rÃ©cupÃ©ration trop important, on produit de l'adrÃ©naline, du
        cortisol, soit un effort compensatoire qui peut avoir un impact sur
-       la santé.
+       la santÃ©.
 
 Au niveau organisationnel et collectif :
 
-     * Proposer des bureaux en "flex" permettant aux salariés de
-       s'installer dans un espace répondant aux besoins de la tâche du
-       moment, une pièce silencieuse, ou un espace collaboratif.
-     * Travailler sur les pratiques managériales, notamment « le culte de
-       l'urgence en invitant les managers à distinguer pour leurs équipe
-       "l'urgence" de "l'importance" des tâches pour les aider à
-       s'organiser, hiérarchiser », explique Marie.
-     * Prendre garde aux sollicitations que l'on émet pour les autres.
-       Faire attention à l'heure à laquelle on envoie un email, un texto,
-       un whatsapp ou aborde un gros sujet pour ne pas éveiller
-       l'agitation et le challenge dans l'esprit de son interlocuteur à un
+     * Proposer des bureaux en "flex" permettant aux salariÃ©s de
+       s'installer dans un espace rÃ©pondant aux besoins de la tÃ¢che du
+       moment, une piÃ¨ce silencieuse, ou un espace collaboratif.
+     * Travailler sur les pratiques managÃ©riales, notamment Â« le culte de
+       l'urgence en invitant les managers Ã  distinguer pour leurs Ã©quipe
+       "l'urgence" de "l'importance" des tÃ¢ches pour les aider Ã 
+       s'organiser, hiÃ©rarchiser Â», explique Marie.
+     * Prendre garde aux sollicitations que l'on Ã©met pour les autres.
+       Faire attention Ã  l'heure Ã  laquelle on envoie un email, un texto,
+       un whatsapp ou aborde un gros sujet pour ne pas Ã©veiller
+       l'agitation et le challenge dans l'esprit de son interlocuteur Ã  un
        moment inopportun et prendre soin de respecter ses temps de
-       récupération.
+       rÃ©cupÃ©ration.
 
    Si la charge cognitive est normale, un sentiment de surcharge mentale
-   régulier ne l'est pas. Comme le souligne Marie Lacroix, « il peut venir
+   rÃ©gulier ne l'est pas. Comme le souligne Marie Lacroix, Â« il peut venir
    nous indiquer que nous devons interroger nos pratiques individuelles et
-   collectives, modifier la façon de réaliser la tâche, faciliter certains
-   processus, réorganiser les étapes, agir sur les ressources à
-   disposition... » Même si le problème doit être compris et traité de
-   manière collective voire organisationnelle, nous disposons tous,
+   collectives, modifier la faÃ§on de rÃ©aliser la tÃ¢che, faciliter certains
+   processus, rÃ©organiser les Ã©tapes, agir sur les ressources Ã 
+   disposition... Â» MÃªme si le problÃ¨me doit Ãªtre compris et traitÃ© de
+   maniÃ¨re collective voire organisationnelle, nous disposons tous,
    individuellement, d'une certaine marge de manoeuvre pour travailler
-   différemment. Encore faut-il vouloir s'affranchir un tant soit peu de
-   la vitesse, de la quantité et de l'instantanéité, notions désormais
-   associées à celle de productivité. Et si pour être plus serein, plus
-   efficace et plus performant, il fallait finalement apprendre à dire
-   "non" et à (re)prendre le temps ?
+   diffÃ©remment. Encore faut-il vouloir s'affranchir un tant soit peu de
+   la vitesse, de la quantitÃ© et de l'instantanÃ©itÃ©, notions dÃ©sormais
+   associÃ©es Ã  celle de productivitÃ©. Et si pour Ãªtre plus serein, plus
+   efficace et plus performant, il fallait finalement apprendre Ã  dire
+   "non" et Ã  (re)prendre le temps ?
 
-     « Il peut venir nous indiquer que nous devons interroger nos
-     pratiques individuelles et collectives, modifier la façon de
-     réaliser la tâche, faciliter certains processus... »
+     Â« Il peut venir nous indiquer que nous devons interroger nos
+     pratiques individuelles et collectives, modifier la faÃ§on de
+     rÃ©aliser la tÃ¢che, faciliter certains processus... Â»
 
    Photo d'illustration par WTTJ
-   Les thématiques abordées
-   Bien-être psychique
-   Charge mentale au travail : attention à la surchauffe
+   Les thÃ©matiques abordÃ©es
+   Bien-Ãªtre psychique
+   Charge mentale au travail : attention Ã  la surchauffe
 
    auteur.e
 
@@ -329,58 +329,58 @@ Au niveau organisationnel et collectif :
    Elsa Sayagh
    Vous aimerez aussi
 
-   6 conseils pour (enfin) trouver votre collègue idéal
+   6 conseils pour (enfin) trouver votre collÃ¨gue idÃ©al
 
-   L'art d'être indulgent avec soi-même : 5 clés pour se voir avec douceur
+   L'art d'Ãªtre indulgent avec soi-mÃªme : 5 clÃ©s pour se voir avec douceur
 
-   Méthode 5S : la technique japonaise pour un bureau rangé
+   MÃ©thode 5S : la technique japonaise pour un bureau rangÃ©
 
    Travail et insomnie : comment briser le cercle vicieux
 
-   Et si votre petite voix intérieure était votre meilleure alliée
+   Et si votre petite voix intÃ©rieure Ã©tait votre meilleure alliÃ©e
    professionnelle ?
 
-Inspirez-vous davantage sur : Bien-être psychique
+Inspirez-vous davantage sur : Bien-Ãªtre psychique
 
-L'art d'être indulgent avec soi-même : 5 clés pour se voir avec douceur
+L'art d'Ãªtre indulgent avec soi-mÃªme : 5 clÃ©s pour se voir avec douceur
 
    Ruminations, auto-flagellation, remise en question... Et si, pour le
-   bien de tous, on apprenait à être plus indulgent envers nous-mêmes ?
+   bien de tous, on apprenait Ã  Ãªtre plus indulgent envers nous-mÃªmes ?
 
    21 mars 2025
    (BUTTON)
 
-Et si votre petite voix intérieure était votre meilleure alliée
+Et si votre petite voix intÃ©rieure Ã©tait votre meilleure alliÃ©e
 professionnelle ?
 
-   Puisque cette voix nous accompagne partout, à quoi nous sert-elle...
+   Puisque cette voix nous accompagne partout, Ã  quoi nous sert-elle...
    notamment au bureau ?
 
-   19 févr. 2025
+   19 fÃ©vr. 2025
    (BUTTON)
 
-Le syndrome de la grande soeur, gage de réussite ou fardeau pour la carrière
+Le syndrome de la grande soeur, gage de rÃ©ussite ou fardeau pour la carriÃ¨re
 ?
 
-   Entre charge mentale élevée, besoin de protéger les autres, et pression
-   constante de réussir, les ainées racontent.
+   Entre charge mentale Ã©levÃ©e, besoin de protÃ©ger les autres, et pression
+   constante de rÃ©ussir, les ainÃ©es racontent.
 
    06 nov. 2024
    (BUTTON)
 
-« Ce que j'ai appris de ma formation premier secours en santé mentale »
+Â« Ce que j'ai appris de ma formation premier secours en santÃ© mentale Â»
 
-   Comment identifier un collègue en détresse et avoir les bons mots pour
-   l'aider? Notre témoin s'est formé et nous raconte.
+   Comment identifier un collÃ¨gue en dÃ©tresse et avoir les bons mots pour
+   l'aider? Notre tÃ©moin s'est formÃ© et nous raconte.
 
    31 oct. 2024
    (BUTTON)
 
-Célibataires par choix : ils privilégient le taf à l'amour
+CÃ©libataires par choix : ils privilÃ©gient le taf Ã  l'amour
 
-   Pour certains salarié·es débutants dans la vie active, signer un CDI
-   comporte une clause personnelle tacite : rester célibataire pour
-   réussir.
+   Pour certains salariÃ©Â·es dÃ©butants dans la vie active, signer un CDI
+   comporte une clause personnelle tacite : rester cÃ©libataire pour
+   rÃ©ussir.
 
    16 oct. 2024
    (BUTTON)
@@ -393,9 +393,9 @@ La newsletter qui fait le taf
    ____________________
    (BUTTON) Je m'abonne
 
-Vous êtes à la recherche d'une nouvelle opportunité ?
+Vous Ãªtes Ã  la recherche d'une nouvelle opportunitÃ© ?
 
-   Plus de 200 000 candidats ont trouvé un emploi sur Welcome to the
+   Plus de 200 000 candidats ont trouvÃ© un emploi sur Welcome to the
    Jungle.
    Explorer les jobs
 
@@ -431,17 +431,17 @@ Vous êtes à la recherche d'une nouvelle opportunité ?
    votre boite mail.
    ____________________
    (BUTTON) Je m'abonne
-   Vous pouvez vous désabonner à tout moment. On n'est pas susceptibles,
+   Vous pouvez vous dÃ©sabonner Ã  tout moment. On n'est pas susceptibles,
    promis. Pour en savoir plus sur notre politique de protection des
-   données, cliquez-ici.
+   donnÃ©es, cliquez-ici.
    Welcome Solutions
    EmployeursMon espace employeur
-     * Mentions légales
+     * Mentions lÃ©gales
      * CGU
-     * Politique de confidentialité
+     * Politique de confidentialitÃ©
      * Chartes Welcome to the Jungle
      * Politique cookies
      * (BUTTON) Gestion des cookies
 
    (BUTTON) France (FR)
-   United States (US) France (FR) España (ES) Czechia (CZ) Slovakia (SVK)
+   United States (US) France (FR) EspaÃ±a (ES) Czechia (CZ) Slovakia (SVK)

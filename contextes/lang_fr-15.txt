@@ -23,6 +23,14 @@ una tipología a una comprensión sistemática
           + Conclusion
 --
 
+     *
+     * SauvegarderSupprimer
+     * PDFTélécharger
+     * Citer cet article
+     * Partager
+
+--
+
 Résumé
 
    La charge de travail des cadres est un phénomène bien documenté : la
@@ -43,6 +51,9 @@ Résumé
    place d'un système de reddition de compte contraignant, mais également
    à des stratégies mises en place par les différents acteurs afin de
 --
+
+   Une typologie nous a conduite à identifier quatre groupes de cadres
+   caractérisés par des perceptions et des stratégies homogènes relatives
    à la charge de travail. L'analyse systémique permet, ensuite, de
    comprendre ces stratégies à l'aune du système de l'établissement.
    Finalement, cette enquête souligne la structuration systémique de la
@@ -63,6 +74,17 @@ Résumé
    professionnel (burn-out) ont été déclarés au cours de l'année de
    l'étude et l'année précédente. De plus, quelques cadres étaient dans
 --
+   réunion, au téléphone).
+
+   La littérature mobilise des approches variées, et pluridisciplinaires,
+   comme on le verra, pour appréhender la notion de charge de travail.
+   Notre article vise à illustrer, grâce à cette étude de cas, la
+   possibilité d'appréhender la charge de travail en combinant une
+   approche qualitative et quantitative et en mobilisant l'analyse
+   systémique des organisations : nous partons donc du postulat d'une
+   structuration systémique de la charge de travail des cadres.
+
+   La première partie de cet article consiste en une synthèse de la
    littérature sur la charge de travail, appréhendée sous différents
    angles. La seconde partie présente le cadre théorique retenu, la
    troisième, le cas étudié, et la quatrième, les principaux résultats.
@@ -78,7 +100,10 @@ La charge de travail, une notion appréhendée sous différents angles
 
    Afin de positionner notre travail dans un cadre plus large, nous
    présentons, dans le cadre de cette revue de littérature, différentes
---
+   approches méthodologiques et disciplinaires de la charge de travail.
+   Nous sommes loin de prétendre dresser une liste exhaustive de la
+   littérature foisonnante et multidisciplinaire (sociologie, gestion,
+   psychologie, économie, ...) sur la charge de travail. Ici, nous nous
    intéressons plutôt à divers types de mesure de la charge de travail,
    puis aux différents angles théoriques relatifs à ce sujet.
 
@@ -86,6 +111,37 @@ Mesurer la charge de travail
 
    Les premières études sur la charge de travail sont apparues dans les
    années 1970 (Cazabat, Barthe et Cascino, 2008). Dès cette époque, des
+   mesures et enquêtes quantitatives sont régulièrement mobilisées pour
+   appréhender la charge de travail et les risques psycho-sociaux[1](RPS).
+   Les questionnaires NASA-TLX (National Aeronautics and Space
+   Administration - Task Load Index, voir Hart et Staveland, 1988, pour sa
+   construction, et DiDomenico et Nussbaum, 2008 pour son utilisation),
+   SWAT (Subjective Workload Assessment Technique), dédiés spécifiquement
+   à la mesure de la charge de travail perçue (Galy, Cariou et Mélan,
+   2012), Karasek (voir Machado, Desrumaux et Lancry, 2014, pour des
+   précisions sur ce modèle), ou encore Siegrist, en constituent un bon
+   exemple : il s'agit d'administrer un questionnaire construit ex-ante,
+--
+
+   En-dehors de ces grandes enquêtes, d'autres types de mesure sont
+   également possibles : Hobson et Beach (2000) ont, par exemple, bâti un
+   questionnaire spécifique dans une enquête sur la charge de travail des
+   managers, comme Bakker, Demerouti et Verbeke (2004) sur le burnout et
+   la performance.
+
+--
+   certains liens : par exemple, Coutrot et Wolff (2006) comparent des
+   modèles économétriques de complexité variée évaluant l'impact des
+   conditions de travail sur la santé; Zeytinoglu et al. (2007) mesurent
+   le lien entre satisfaction vis-à-vis du travail, charge de travail et
+   stress.
+
+   Dans cette étude, pour mesurer la charge de travail perçue, nous
+   mobilisons une enquête par questionnaire que nous présentons en
+   troisième partie. Cependant, au-delà de la façon de mesurer la charge
+   de travail, se pose la question de l'approche théorique adoptée pour
+   l'appréhender.
+
 --
    La psychologie du travail s'intéresse notamment aux psychopathologies
    du travail et à l'engagement d'une subjectivité dans l'activité de
@@ -94,7 +150,19 @@ Mesurer la charge de travail
    et pathologies de harcèlement. Selon lui, cela renvoie à une forme
    d'aliénation sociale, où l'aliénation, au sens psychopathologique du
    terme, implique un ensemble d'acteurs. Clot (2010) se penche sur les
---
+   freins au « travail bien fait » (conflits sur les critères de qualité,
+   management de la performance éloigné du réel...). Lhuilier (2010)
+   explique que les facteurs de pénibilité, surcharge ou stress au travail
+   proviennent en grande partie de « l'invisibilité croissante du travail
+   réel » (p. 32).
+
+   Cette notion de travail réel renvoie à la distinction entre travail
+   prescrit et travail réel, qui a irrigué de nombreux travaux en
+   ergonomie. L'ergonomie cherche à appréhender la charge de travail dans
+   sa globalité, en tenant compte à la fois de l'activité de l'individu
+   divisée en tâches et du contexte (Rusnock et Borghetti, 2018). Les
+   ergonomes s'intéressent surtout à la charge de travail perçue (Galy,
+   Cariou et Mélan, 2012), aux liens entre la charge perçue et les
    réponses physiologiques (Orlandi et Brooks, 2018), mais également à la
    différence entre la charge réelle et perçue. Ainsi, certains travaux en
    ergonomie modélisent la charge de travail sous forme de trois
@@ -102,6 +170,24 @@ Mesurer la charge de travail
    Barthe et Cascino, 2008), tout en intégrant les ressources du
    travailleur et les conséquences de la charge de travail (Fournier,
    Montreuil et Villa, 2013).
+
+   Linhart (2009) voit, quant à elle, dans ce décalage entre travail réel
+   et travail prescrit un espace de résistance pour les salariés, ce qui
+   renvoie à une approche organisationnelle. En effet, le niveau
+   organisationnel peut être mobilisé pour appréhender la charge de
+   travail, comme le préconisent Livian, Baret et Falcoz (2004). Ainsi,
+   Cadin et Pralong (2015), dans leur étude sur la charge cognitive,
+   expliquent que l'organisation nécessite de la part des travailleurs un
+   certain volume de ressources attentionnelles. Lallement, Lehndorff et
+   Voss-Dahm (2004), tout comme De Gaulejac (2011), soulignent aussi
+--
+   précisément, nous mobilisons le cadre théorique de l'analyse systémique
+   des organisations.
+
+Étudier la charge de travail comme un enjeu organisationnel
+
+   Si le modèle de Karasek se fonde sur une approche quantitative et ne
+   tient pas compte des spécificités des contextes organisationnels, il
 --
    dont ces derniers les mobilisent.
 
@@ -113,7 +199,28 @@ Mesurer la charge de travail
    travail, réelle ou perçue, serait alors le produit de la rencontre
    entre le contexte et l'organisation, qui définissent la charge de
    travail prescrite, mais également les ressources et les stratégies des
+   acteurs pour gérer et négocier cette charge de travail. On peut alors
+   parler d'une structuration systémique de la charge de travail, et
+   s'intéresser aux stratégies adoptées par les acteurs pour y faire face
+   (Gangloff et Malleh, 2017).
+
+   Finalement, l'enjeu de ce travail consiste à mobiliser, d'une part, une
+   enquête quantitative cherchant à mesurer la charge de travail perçue et
+   déclarée et à dresser une typologie des charges de travail perçues, et,
+   d'autre part, une analyse systémique à partir d'un matériau qualitatif
+   permettant de comprendre cette typologie à l'aune des stratégies
+   adoptées par les acteurs en fonction du système organisationnel.
+
+Cas étudié et méthodologie
+
+Le cas étudié : alerte sur la charge de travail des cadres dans la direction
+régionale d'une administration
+
+   DISTRI est une administration ayant une activité de distribution dans
 --
+   (DR). Pour l'entreprise, il s'agit de responsabiliser financièrement
+   les unités régionales, notamment en leur conférant une autonomie
+   budgétaire. L'établissement étudié est une de ces DR. En 2012, à la
    suite d'une alerte de la CFE-CGC[2] sur la « charge de travail des
    cadres », le Directeur régional (Directeur dans la suite du texte) a
    commandité une intervention d'un cabinet de conseil, sous la forme d'un
@@ -121,7 +228,9 @@ Mesurer la charge de travail
 
    Cette DR (voir Figure 1) est divisée en sites dirigés par des chefs de
    pôle (et leur adjoint). Les 49 chefs de pôle et adjoints sont des
---
+   managers de proximité, en charge des agents et de la planification de
+   leur travail. Ces sites sont regroupés en agences, dirigés par 16 chefs
+   d'agence (et adjoints), chargés du pilotage global de leur agence. La
    DR emploie également 23 chefs de projet, peu dépendants
    fonctionnellement de leur chef, car ils travaillent dans une grande
    autonomie. Enfin, les 10 cadres dirigeants, membres du Codir (Comité de
@@ -149,7 +258,7 @@ Mesurer la charge de travail
 
    Pour analyser ce matériau mixte, nous avons mobilisé plusieurs étapes
    et méthodes.
---
+
    Après des premières statistiques descriptives, nous avons réalisé une
    ACM (Analyse factorielle des correspondances multiples)[5] sur le
    matériau quantitatif pour caractériser l'espace de la charge de travail
@@ -157,7 +266,9 @@ Mesurer la charge de travail
    travail et les stratégies mises en place pour y faire face, alors que
    les 11 variables supplémentaires caractérisaient les individus
    (caractéristiques sociodémographiques et professionnelles). Cela a
---
+   permis de mettre au jour la façon dont différents facteurs
+   interagissent pour définir la perception de la « charge de travail » et
+   produire des situations où certains cadres se déclarent surchargés.
 
    Nous avons, ensuite, effectué une CAH (classification ascendante
    hiérarchique), cela afin d'identifier des « profils » de cadres ayant
@@ -181,7 +292,13 @@ La charge de travail perçue, une variable multidimensionnelle
 
    Les horaires de travail déclarés peuvent constituer un premier moyen
    pour appréhender la charge de travail perçue ou déclarée. Ainsi, 19 %
+   des répondants estiment leur présence quotidienne au bureau à 8 ou 9h,
+   56 % l'estiment à 10 ou 11h, et 25 % l'estiment à 12h et plus. Or, les
+   horaires de présence sont corrélés avec la position dans la hiérarchie
 --
+   (Graphique 1).
+
+   Cependant, les horaires et le travail les fins de semaine (weekend) ne
    suffisent pas à rendre compte d'une charge de travail
    multidimensionnelle. Par exemple, alors que les horaires sont liés à la
    variable de la fréquence perçue des moments de saturation (« Vous
@@ -195,6 +312,9 @@ La charge de travail perçue, une variable multidimensionnelle
    de travail, mais c'est normal vu mon poste = 67%; -J'ai du travail que
    j'ai le temps de mener à bien = 7%; -J'ai trop peu de travail et les
 --
+   le verra, tous les cadres n'ont pas la même liberté de laisser de côté
+   les urgences hiérarchiques.
+
    Face à cette notion multidimensionnelle de la charge de travail, nous
    avons mobilisé une ACM (analyse factorielle des correspondances
    multiples) afin de mieux comprendre comment est constituée la
@@ -207,7 +327,8 @@ La charge de travail perçue, une variable multidimensionnelle
        due à de « mauvaises raisons », renvoyant ainsi au « travail en
        plus » des entretiens;
      * à droite du plan factoriel, des cadres qui estiment que leur charge
---
+       de travail est satisfaisante, et qui se déclarent globalement plus
+       satisfaits, tant de leur hiérarchie que de l'utilité de leur
        travail.
 
    Il est intéressant de constater que cet axe se construit à partir de la
@@ -215,7 +336,8 @@ La charge de travail perçue, une variable multidimensionnelle
    effectués par les cadres (choisir de travailler « au-delà des limites »
    par exemple), et du sentiment du répondant sur des phénomènes connexes
    à la charge de travail (messagerie stressante, manque de méthode,
---
+   hiérarchie pas attentive notamment) : la perception de la charge de
+   travail est donc bien multidimensionnelle, avec à la fois un donné, un
    construit, et un ressenti.
 
    L'axe 2 oppose quant à lui des cadres qui ont une charge d'encadrement
@@ -223,7 +345,7 @@ La charge de travail perçue, une variable multidimensionnelle
    d'encadrement (en haut dans le plan factoriel).
 
 La répartition de la charge de travail et des strategies: une typologie
---
+
    La réalisation d'une CAH (classification ascendante hiérarchique) à
    partir des deux premiers axes de l'ACM permet, ensuite, de définir
    quatre groupes de cadres caractérisés par une perception homogène de la
@@ -233,6 +355,11 @@ La répartition de la charge de travail et des strategies: une typologie
    résistance) et envers les équipes (déléguer ou filtrer le travail).
    L'analyse systémique des organisations à partir du matériau qualitatif
 --
+Les « surchargés » : stratégie de docilité avec filtrage
+
+   Le premier groupe (cercle : 23 individus) est constitué par les
+   « surchargés », qui considèrent que leur charge de travail est très
+   importante, et que leur équilibre entre vie privée et vie
    professionnelle pose problème. Ils forment des « goulots
    d'étranglement » (Codir Gestion), car ils déclarent ne pas négocier
    avec leur hiérarchie et ne pas déléguer. Le cas de la déléguée à la
@@ -240,6 +367,17 @@ La répartition de la charge de travail et des strategies: une typologie
    travail déjà importante du fait de sa position spécifique dans le
    système de « reporting » et le suivi des budgets, elle fait attention à
    ses équipes, ce qu'elle relie directement à sa charge de travail.
+
+     Ma collaboratrice, quand elle travaille plus tard, je lui dis :
+     `Pars une heure avant'. [...] Le goulot d'étranglement, comme je
+--
+   Les membres du Codir sont surreprésentés dans ce groupe. Cela semble
+   contradictoire avec les représentations que l'on peut avoir d'acteurs
+   qui, situés en haut de la hiérarchie, disposent des ressources
+   nécessaires pour déléguer et se décharger d'une partie de leurs tâches
+   -- surtout les tâches perçues comme inintéressantes, à savoir le
+   « travail en plus » évoqué précédemment. Cependant, les réorganisations
+   ont induit, pour le Codir, une multiplication des réunions, et un
 --
    pour l'activité » de travailler beaucoup.
 
@@ -257,6 +395,26 @@ La répartition de la charge de travail et des strategies: une typologie
    qualité du travail (Davezies, 2004) ou le « travail bien fait » (Clot,
    2010) passent par une sélection et une hiérarchisation de leurs tâches.
 --
+
+   Le quatrième groupe (carré : 15 individus) est constitué par les
+   « protégés », qui considèrent qu'ils ont peu de travail et n'ont donc
+   pas besoin de négocier, soit parce que leur charge de travail
+   « donnée » n'est pas importante, soit parce que leur hiérarchie les
+   protège en formant justement un « goulot d'étranglement » -- on y
+   retrouve notamment la collaboratrice directe de la déléguée à la
+   Gestion. Ils sont donc dans une stratégie qualifiée de passivité, au
+   sens où ils n'ont pas besoin de stratégie particulière pour faire face
+   à leur charge de travail.
+
+   En résumé, les chefs de pôle sont donc majoritairement dans une
+   stratégie de résistance quand leur chef d'agence leur délègue du
+--
+Discussion
+
+   L'analyse quantitative a donc contribué à souligner la distribution
+   inégale de la charge de travail perçue, mais également à identifier
+   quatre profils de cadres ayant une perception homogène de cette charge.
+   L'analyse qualitative, fondée sur l'analyse systémique des
    organisations, a permis, quant à elle, de mieux comprendre le système
    de l'établissement et finalement, la structuration systémique des
    stratégies des cadres pour gérer leur charge de travail, et donc de
@@ -264,6 +422,16 @@ La répartition de la charge de travail et des strategies: une typologie
    comme nous l'avions pressenti, plus un acteur a de pouvoir (pouvoir
    réel et non officiel) dans l'organisation, plus il a de marges de
    manoeuvre pour négocier sa charge de travail, que ce soit en délégant à
+   ses équipes, voire même en refusant de fournir certains types de
+   tâches.
+
+   Ces différents éléments ouvrent des possibilités de discussion avec la
+   littérature.
+
+   Sur le plan théorique, les résultats obtenus montrent en quoi la charge
+   de travail est structurée systémiquement. Ils soulignent aussi la
+   nécessité, dans certains cas, de trier le travail et de laisser de côté
+   certains éléments (ici, les urgences hiérarchiques) pour se concentrer
 --
    mixte entre méthodologies qualitative et quantitative et, donc, dans un
    entre-deux entre une approche quantifiée (Brousse, 2015; DARES, 2015;
@@ -273,6 +441,10 @@ La répartition de la charge de travail et des strategies: une typologie
    mixte constitue une triangulation des données qui doit permettre
    d'appréhender un phénomène sous différents aspects (Groulx, 1997;
 --
+   les quatre segments de la classification ascendante hiérarchique à
+   l'aune des entretiens.
+
+   D'un point de vue managérial, montrer que la charge de travail dépend
    en grande partie des stratégies des acteurs en fonction du système
    organisationnel nous paraît enrichissant pour les Directions des
    ressources humaines souhaitant mieux comprendre la question de la
@@ -280,7 +452,9 @@ La répartition de la charge de travail et des strategies: une typologie
    profit d'une meilleure articulation entre vie professionnelle et vie
    privée. Ainsi, notre travail semble indiquer qu'une bonne compréhension
    du système relationnel d'un établissement s'avère utile pour
---
+   appréhender la charge de travail, ce qui rejoint des résultats de
+   travaux en ergonomie montrant l'importance des relations de travail
+   (Fournier, Montreuil et Villa, 2013). Par ailleurs, nos résultats
    invitent à ne pas considérer les cadres comme une catégorie homogène :
    au sein d'un même établissement, les cadres n'ont pas tous les mêmes
    enjeux, les mêmes ressources et, donc, les mêmes stratégies de gestion
@@ -291,6 +465,8 @@ La répartition de la charge de travail et des strategies: une typologie
    aussi l'importance de la prise en compte du contenu du travail et pas
    seulement de sa quantité pour évaluer la charge de travail d'une
    personne. Finalement, les seuls indicateurs d'horaires deviennent
+   insuffisants et, au-delà de « l'intensification du travail » (Gollac,
+   2011) et de sa « densité » (Hatzfeld, 2004), se pose aussi la question
 --
 Conclusion
 
@@ -299,7 +475,11 @@ Conclusion
    avons identifié quatre groupes de cadres ayant des perceptions
    homogènes de la charge de travail et des stratégies identiques pour y
    faire face. Cela contribue à souligner l'importance des relations de
---
+   pouvoir, mais aussi des stratégies et des marges de manoeuvre des
+   acteurs comme déterminants de la charge de travail perçue. Enfin, cela
+   montre que les cadres ne constituent pas une catégorie tout à fait
+   homogène en matière de charge de travail perçue.
+
    Cependant, ce travail présente des limites qui ouvrent sur de nouvelles
    perspectives de recherche. Ainsi, il s'agit d'une étude de cas unique,
    avec un potentiel de généralisation faible. De plus, ce travail se
@@ -308,6 +488,14 @@ Conclusion
    prescrite, ou réelle. Enfin, cette recherche ne s'intéresse pas au
    poids de variables individuelles telles que le genre ou l'âge sur les
    stratégies mises en oeuvre par les acteurs. Ce choix est dû au cadre
+--
+   caractéristiques individuelles (Friedberg, [1993] 1997). Pourtant,
+   comme le soulignent les travaux quantitatifs mentionnés précédemment
+   (notamment Brousse, 2015; Sautory et Zilloniz, 2015), des variables
+   individuelles comme le genre ou l'âge peuvent influer sur la charge de
+   travail ou, encore, sur la perception de l'équilibre vie privée -- vie
+   professionnelle (Gordon, 2014; Beghiti-Mahut, 2015; Wils et Rhnima,
+   2015). Cela nous semble constituer une perspective de recherche
 --
 Notes
 
@@ -320,10 +508,627 @@ Notes
        Contrairement au régime nord-américain, le régime de relations du
        travail français permet la syndicalisation des cadres. La CFE-CGC
 --
+       temps `libre' : quelques déterminants sociaux de la vie
+       quotidienne », Économie et Statistique, 478-480, 119-154.
+       10.3406/estat.2015.10560Google Scholar
+    7. Cadin, Loïc et Jean Pralong (2015) « Charge cognitive, confusion
+       des mandats et identités professionnelles : un modèle de
+       l'attention managériale », Gestion 2000, 5 (32), 99-119.
+       10.3917/g2000.325.0099Google Scholar
+    8. Cazabat, Sandrine, Béatrice Barthe et Nadine Cascino (2008)
+       « Charge de travail et stress professionnel : deux facettes d'une
+       même réalité ? Étude exploratoire dans un service de
+       gérontologie », Perspectives interdisciplinaires sur le travail et
+       la santé, [En ligne], 10 (1).
+--
+       Gestion, 4 (226-227), 157-163.
+       10.3917/rsg.226.0157Google Scholar
+   25. Fournier, Pierre-Sébastien, Sylvie Montreuil et Julie Villa (2013)
+       « Contribution à un modèle explicatif de la charge de travail : le
+       cas du service à la clientèle », Relations industrielles/Industrial
+       Relations, 68 (1), 46-70.
+       Icône pour les DOIs Érudit 10.7202/1014741arGoogle Scholar
+--
+       71-83.
+       10.3917/nrp.007.0071Google Scholar
+   43. Livian, Yves-Frédéric, Christophe Baret et Christophe Falcoz (2004)
+       « La gestion de la charge de travail dans les activités de
+       service », Revue française de gestion, 3 (150), 87-103.
+       10.3166/rfg.150.87-103Google Scholar
+   44. Loriol, Marc (2010) « La construction sociale du stress : entre
+--
+   54. Roupnel-Fuentes, Manuella (2011) Les Chômeurs de Moulinex, Paris :
+       PUF.
+       10.3917/puf.trat.2011.01Google Scholar
+   55. Rousseau, Thierry (2006) « La charge de travail : faire face aux
+       nouvelles exigences », dans « Mieux évaluer la charge de travail »,
+       Revue de la qualité de vie au travail, Anact, 307 (mars-avril),
+       2-3.
+       10.1016/j.soctra.2004.06.001Google Scholar
+--
+Citer cet article
+
+   MLA
+          Coron, Clotilde. « La charge de travail perçue des cadres :
+          d'une typologie à une compréhension systémique. » Relations
+          industrielles / Industrial Relations, volume 74, numéro 1, hiver
           2019, p. 117-140. https://doi.org/10.7202/1059467ar
 
    APA
           Coron, C. (2019). La charge de travail perçue des cadres : d'une
           typologie à une compréhension systémique. Relations
           industrielles / Industrial Relations, 74(1), 117-140.
+          https://doi.org/10.7202/1059467ar
+
+   Chicago
+          Coron, Clotilde « La charge de travail perçue des cadres : d'une
+          typologie à une compréhension systémique ». Relations
+          industrielles / Industrial Relations 74, n^o 1 (2019) : 117-140.
+          https://doi.org/10.7202/1059467ar
+     * Revues
+     * Relations industrielles / Industrial Relations
+     * Volume 74, numéro 1, hiver 2019, p. 3-204
+     * La charge de travail perçue des cadres : d'une typologie ...
+
+   ArticlesArticles
+
+La charge de travail perçue des cadres : d'une typologie à une compréhension
+systémiqueManagers' Perceived Workload: From a Typology to a Systemic
+UnderstandingLa carga de trabajo de los ejecutivos según su percepción: de
+una tipología a una comprensión sistemática
+--
+     * Résumé
+     *
+          + Introduction
+          + La charge de travail, une notion appréhendée sous différents
+            angles
+          + Étudier la charge de travail comme un enjeu organisationnel
+          + Cas étudié et méthodologie
+          + La charge de travail des cadres, reflet du système
+            organisationnel ?
+          + Discussion
+          + Conclusion
+--
+
+     *
+     * SauvegarderSupprimer
+     * PDFTélécharger
+     * Citer cet article
+     * Partager
+
+--
+
+Résumé
+
+   La charge de travail des cadres est un phénomène bien documenté : la
+   littérature sur le sujet souligne, entre autres, l'intensification du
+   travail des cadres, ainsi que les effets des réorganisations sur cette
+   intensification. Une étude de cas dans une administration ayant vécu
+--
+   l'analyse.
+
+   En effet, une première analyse quantitative descriptive révèle que la
+   charge de travail, et surtout le travail « inintéressant », vont
+   croissant quand on s'élève dans la hiérarchie, phénomène qui peut
+   sembler à prime abord étonnant. Une enquête approfondie, qui combine
+   approches quantitative et qualitative, et qui s'inscrit dans le cadre
+   théorique de l'analyse systémique des organisations, permet alors de
+   montrer en quoi la charge de travail est le fruit de facteurs variés.
+   Ceux-ci peuvent être liés à l'ouverture à la concurrence, à la mise en
+   place d'un système de reddition de compte contraignant, mais également
+   à des stratégies mises en place par les différents acteurs afin de
+--
+
+   Une typologie nous a conduite à identifier quatre groupes de cadres
+   caractérisés par des perceptions et des stratégies homogènes relatives
+   à la charge de travail. L'analyse systémique permet, ensuite, de
+   comprendre ces stratégies à l'aune du système de l'établissement.
+   Finalement, cette enquête souligne la structuration systémique de la
+   charge de travail des cadres, tout comme l'intérêt d'une méthodologie
+   mixte pour l'appréhender.
+
+   Mots-clés:
+     * charge de travail,
+     * cadres,
+     * typologie,
+     * méthodologie mixte,
+--
+   C'est une alerte syndicale chez DISTRI, un établissement public
+   confronté à des réorganisations importantes, qui a constitué le point
+   de départ de notre étude de cas (Yin, [1984] 1989). Ces réorganisations
+   constituent des facteurs externes d'augmentation de la charge de
+   travail des cadres : plusieurs cas (3 au moins) d'épuisement
+   professionnel (burn-out) ont été déclarés au cours de l'année de
+   l'étude et l'année précédente. De plus, quelques cadres étaient dans
+--
+   réunion, au téléphone).
+
+   La littérature mobilise des approches variées, et pluridisciplinaires,
+   comme on le verra, pour appréhender la notion de charge de travail.
+   Notre article vise à illustrer, grâce à cette étude de cas, la
+   possibilité d'appréhender la charge de travail en combinant une
+   approche qualitative et quantitative et en mobilisant l'analyse
+   systémique des organisations : nous partons donc du postulat d'une
+   structuration systémique de la charge de travail des cadres.
+
+   La première partie de cet article consiste en une synthèse de la
+   littérature sur la charge de travail, appréhendée sous différents
+   angles. La seconde partie présente le cadre théorique retenu, la
+   troisième, le cas étudié, et la quatrième, les principaux résultats.
+   Nous montrons ainsi en quoi la charge de travail est un reflet des
+   relations de pouvoir dans l'établissement : dans ce système
+   corporatiste, le poids de la charge de travail, notamment le travail
+   qualifié de « inintéressant », va croissant lorsque l'on s'élève dans
+   la hiérarchie; l'analyse quantitative conduit à identifier quatre
+   stratégies de gestion de cette charge de travail, que l'analyse
+   systémique permet de comprendre à l'aune du système organisationnel.
+
+La charge de travail, une notion appréhendée sous différents angles
+
+   Afin de positionner notre travail dans un cadre plus large, nous
+   présentons, dans le cadre de cette revue de littérature, différentes
+   approches méthodologiques et disciplinaires de la charge de travail.
+   Nous sommes loin de prétendre dresser une liste exhaustive de la
+   littérature foisonnante et multidisciplinaire (sociologie, gestion,
+   psychologie, économie, ...) sur la charge de travail. Ici, nous nous
+   intéressons plutôt à divers types de mesure de la charge de travail,
+   puis aux différents angles théoriques relatifs à ce sujet.
+
+Mesurer la charge de travail
+
+   Les premières études sur la charge de travail sont apparues dans les
+   années 1970 (Cazabat, Barthe et Cascino, 2008). Dès cette époque, des
+   mesures et enquêtes quantitatives sont régulièrement mobilisées pour
+   appréhender la charge de travail et les risques psycho-sociaux[1](RPS).
+   Les questionnaires NASA-TLX (National Aeronautics and Space
+   Administration - Task Load Index, voir Hart et Staveland, 1988, pour sa
+   construction, et DiDomenico et Nussbaum, 2008 pour son utilisation),
+   SWAT (Subjective Workload Assessment Technique), dédiés spécifiquement
+   à la mesure de la charge de travail perçue (Galy, Cariou et Mélan,
+   2012), Karasek (voir Machado, Desrumaux et Lancry, 2014, pour des
+   précisions sur ce modèle), ou encore Siegrist, en constituent un bon
+   exemple : il s'agit d'administrer un questionnaire construit ex-ante,
+--
+
+   En-dehors de ces grandes enquêtes, d'autres types de mesure sont
+   également possibles : Hobson et Beach (2000) ont, par exemple, bâti un
+   questionnaire spécifique dans une enquête sur la charge de travail des
+   managers, comme Bakker, Demerouti et Verbeke (2004) sur le burnout et
+   la performance.
+
+--
+   certains liens : par exemple, Coutrot et Wolff (2006) comparent des
+   modèles économétriques de complexité variée évaluant l'impact des
+   conditions de travail sur la santé; Zeytinoglu et al. (2007) mesurent
+   le lien entre satisfaction vis-à-vis du travail, charge de travail et
+   stress.
+
+   Dans cette étude, pour mesurer la charge de travail perçue, nous
+   mobilisons une enquête par questionnaire que nous présentons en
+   troisième partie. Cependant, au-delà de la façon de mesurer la charge
+   de travail, se pose la question de l'approche théorique adoptée pour
+   l'appréhender.
+
+--
+   La psychologie du travail s'intéresse notamment aux psychopathologies
+   du travail et à l'engagement d'une subjectivité dans l'activité de
+   travail (Molinier, 2011). Ainsi, Dejours (2006) identifie deux
+   principaux types de pathologies du travail : pathologies de surcharge
+   et pathologies de harcèlement. Selon lui, cela renvoie à une forme
+   d'aliénation sociale, où l'aliénation, au sens psychopathologique du
+   terme, implique un ensemble d'acteurs. Clot (2010) se penche sur les
+   freins au « travail bien fait » (conflits sur les critères de qualité,
+   management de la performance éloigné du réel...). Lhuilier (2010)
+   explique que les facteurs de pénibilité, surcharge ou stress au travail
+   proviennent en grande partie de « l'invisibilité croissante du travail
+   réel » (p. 32).
+
+   Cette notion de travail réel renvoie à la distinction entre travail
+   prescrit et travail réel, qui a irrigué de nombreux travaux en
+   ergonomie. L'ergonomie cherche à appréhender la charge de travail dans
+   sa globalité, en tenant compte à la fois de l'activité de l'individu
+   divisée en tâches et du contexte (Rusnock et Borghetti, 2018). Les
+   ergonomes s'intéressent surtout à la charge de travail perçue (Galy,
+   Cariou et Mélan, 2012), aux liens entre la charge perçue et les
+   réponses physiologiques (Orlandi et Brooks, 2018), mais également à la
+   différence entre la charge réelle et perçue. Ainsi, certains travaux en
+   ergonomie modélisent la charge de travail sous forme de trois
+   composantes : charge prescrite, charge réelle et charge vécue (Cazabat,
+   Barthe et Cascino, 2008), tout en intégrant les ressources du
+   travailleur et les conséquences de la charge de travail (Fournier,
+   Montreuil et Villa, 2013).
+
+   Linhart (2009) voit, quant à elle, dans ce décalage entre travail réel
+   et travail prescrit un espace de résistance pour les salariés, ce qui
+   renvoie à une approche organisationnelle. En effet, le niveau
+   organisationnel peut être mobilisé pour appréhender la charge de
+   travail, comme le préconisent Livian, Baret et Falcoz (2004). Ainsi,
+   Cadin et Pralong (2015), dans leur étude sur la charge cognitive,
+   expliquent que l'organisation nécessite de la part des travailleurs un
+   certain volume de ressources attentionnelles. Lallement, Lehndorff et
+   Voss-Dahm (2004), tout comme De Gaulejac (2011), soulignent aussi
+--
+   précisément, nous mobilisons le cadre théorique de l'analyse systémique
+   des organisations.
+
+Étudier la charge de travail comme un enjeu organisationnel
+
+   Si le modèle de Karasek se fonde sur une approche quantitative et ne
+   tient pas compte des spécificités des contextes organisationnels, il
+--
+   dont ces derniers les mobilisent.
+
+   Nous avons choisi de transposer ce cadre théorique à la question de la
+   charge de travail, comme le fait Tirmarche (2010). À partir de ce
+   cadre, on peut, en effet, supposer que plus un acteur a du pouvoir dans
+   l'organisation, plus il a de marges de manoeuvre pour négocier le
+   travail qu'il doit fournir, et ainsi sa charge de travail. La charge de
+   travail, réelle ou perçue, serait alors le produit de la rencontre
+   entre le contexte et l'organisation, qui définissent la charge de
+   travail prescrite, mais également les ressources et les stratégies des
+   acteurs pour gérer et négocier cette charge de travail. On peut alors
+   parler d'une structuration systémique de la charge de travail, et
+   s'intéresser aux stratégies adoptées par les acteurs pour y faire face
+   (Gangloff et Malleh, 2017).
+
+   Finalement, l'enjeu de ce travail consiste à mobiliser, d'une part, une
+   enquête quantitative cherchant à mesurer la charge de travail perçue et
+   déclarée et à dresser une typologie des charges de travail perçues, et,
+   d'autre part, une analyse systémique à partir d'un matériau qualitatif
+   permettant de comprendre cette typologie à l'aune des stratégies
+   adoptées par les acteurs en fonction du système organisationnel.
+
+Cas étudié et méthodologie
+
+Le cas étudié : alerte sur la charge de travail des cadres dans la direction
+régionale d'une administration
+
+   DISTRI est une administration ayant une activité de distribution dans
+--
+   (DR). Pour l'entreprise, il s'agit de responsabiliser financièrement
+   les unités régionales, notamment en leur conférant une autonomie
+   budgétaire. L'établissement étudié est une de ces DR. En 2012, à la
+   suite d'une alerte de la CFE-CGC[2] sur la « charge de travail des
+   cadres », le Directeur régional (Directeur dans la suite du texte) a
+   commandité une intervention d'un cabinet de conseil, sous la forme d'un
+   diagnostic sur la charge de travail[3].
+
+   Cette DR (voir Figure 1) est divisée en sites dirigés par des chefs de
+   pôle (et leur adjoint). Les 49 chefs de pôle et adjoints sont des
+   managers de proximité, en charge des agents et de la planification de
+   leur travail. Ces sites sont regroupés en agences, dirigés par 16 chefs
+   d'agence (et adjoints), chargés du pilotage global de leur agence. La
+   DR emploie également 23 chefs de projet, peu dépendants
+   fonctionnellement de leur chef, car ils travaillent dans une grande
+   autonomie. Enfin, les 10 cadres dirigeants, membres du Codir (Comité de
+   Direction), sont en charge chacun d'un univers métier (Exploitation,
+   Ingénierie, Patrimoine, Direction territoriale, État-major : Gestion,
+   RH, Communication).
+
+--
+   sociodémographiques des interviewés. Le guide d'entretien portait sur
+   le contenu du travail (de la personne et de ses équipes, le cas
+   échéant), les relations de travail, la vision du statut de cadre, le
+   rythme et la charge de travail et leurs éventuelles évolutions.
+
+   Tableau 1
+
+--
+   issue de l'administration du questionnaire, ainsi que les nombreux
+   commentaires émis par les répondants au moment de répondre au
+   questionnaire par téléphone. Ces différents matériaux nous renseignent
+   donc sur la charge de travail perçue, et pas sur la charge de travail
+   réelle, ou encore prescrite (Livian, Baret et Falcoz, 2004; Rousseau,
+   2006). À l'instar de Hatzfeld (2004), il nous semble, en effet, que les
+   perceptions sont intéressantes pour appréhender plus concrètement la
+   question de la charge de travail.
+
+   Pour analyser ce matériau mixte, nous avons mobilisé plusieurs étapes
+   et méthodes.
+
+   Après des premières statistiques descriptives, nous avons réalisé une
+   ACM (Analyse factorielle des correspondances multiples)[5] sur le
+   matériau quantitatif pour caractériser l'espace de la charge de travail
+   (Cibois, 2009). Les 12 variables actives concernaient la charge de
+   travail et les stratégies mises en place pour y faire face, alors que
+   les 11 variables supplémentaires caractérisaient les individus
+   (caractéristiques sociodémographiques et professionnelles). Cela a
+   permis de mettre au jour la façon dont différents facteurs
+   interagissent pour définir la perception de la « charge de travail » et
+   produire des situations où certains cadres se déclarent surchargés.
+
+   Nous avons, ensuite, effectué une CAH (classification ascendante
+   hiérarchique), cela afin d'identifier des « profils » de cadres ayant
+   une charge de travail à peu près homogène.
+
+   Enfin, nous avons cherché à expliquer ces profils et la répartition de
+   la charge de travail dans l'établissement grâce à l'analyse systémique
+   des organisations, menée à partir des entretiens semi-directifs. Pour
+   cette étape, nous avons mobilisé un codage thématique des entretiens et
+   effectué une analyse systémique par « grappe hiérarchique »,
+   c'est-à-dire en replaçant autant que possible les interviewés dans
+   leurs relations de travail, verticales comme horizontales (Friedberg,
+   1999). Cela implique, notamment, de mener une première analyse des
+   relations et, ici, de la charge de travail pour chaque équipe, puis de
+   confronter les différentes analyses ainsi produites afin d'en tirer une
+   analyse globale.
+
+La charge de travail des cadres, reflet du système organisationnel ?
+
+La charge de travail perçue, une variable multidimensionnelle
+
+   Les horaires de travail déclarés peuvent constituer un premier moyen
+   pour appréhender la charge de travail perçue ou déclarée. Ainsi, 19 %
+   des répondants estiment leur présence quotidienne au bureau à 8 ou 9h,
+   56 % l'estiment à 10 ou 11h, et 25 % l'estiment à 12h et plus. Or, les
+   horaires de présence sont corrélés avec la position dans la hiérarchie
+--
+   (Graphique 1).
+
+   Cependant, les horaires et le travail les fins de semaine (weekend) ne
+   suffisent pas à rendre compte d'une charge de travail
+   multidimensionnelle. Par exemple, alors que les horaires sont liés à la
+   variable de la fréquence perçue des moments de saturation (« Vous
+   arrive-t-il d'avoir des moments de surcharge ou de saturation de
+   l'activité ? » Résultats : -C'est permanent = 15%; -C'est régulier =
+   37%; -Cela arrive parfois = 41%; -Cela n'arrive jamais =7%), des tests
+   du chi carré montrent qu'ils ne sont pas liés à l'impression que le
+   répondant retire de sa charge de travail (« Globalement, sur votre
+   charge de travail, vous vous dites plutôt... ? » Résultats : -Je suis
+   débordé et c'est vrai que j'ai du mal à y arriver = 26%; -J'ai beaucoup
+   de travail, mais c'est normal vu mon poste = 67%; -J'ai du travail que
+   j'ai le temps de mener à bien = 7%; -J'ai trop peu de travail et les
+--
+   le verra, tous les cadres n'ont pas la même liberté de laisser de côté
+   les urgences hiérarchiques.
+
+   Face à cette notion multidimensionnelle de la charge de travail, nous
+   avons mobilisé une ACM (analyse factorielle des correspondances
+   multiples) afin de mieux comprendre comment est constituée la
+   perception de la charge de travail.
+
+   Le premier plan factoriel (axes 1 et 2[7]) permet de définir l'espace
+   de la perception de la charge de travail. Le premier axe oppose :
+     * à gauche du plan factoriel, les cadres qui déclarent avoir beaucoup
+       de travail, et qui ont l'impression que leur charge de travail est
+       due à de « mauvaises raisons », renvoyant ainsi au « travail en
+       plus » des entretiens;
+     * à droite du plan factoriel, des cadres qui estiment que leur charge
+       de travail est satisfaisante, et qui se déclarent globalement plus
+       satisfaits, tant de leur hiérarchie que de l'utilité de leur
+       travail.
+
+   Il est intéressant de constater que cet axe se construit à partir de la
+   charge de travail exogène (nombreux déplacements par exemple), de choix
+   effectués par les cadres (choisir de travailler « au-delà des limites »
+   par exemple), et du sentiment du répondant sur des phénomènes connexes
+   à la charge de travail (messagerie stressante, manque de méthode,
+   hiérarchie pas attentive notamment) : la perception de la charge de
+   travail est donc bien multidimensionnelle, avec à la fois un donné, un
+   construit, et un ressenti.
+
+   L'axe 2 oppose quant à lui des cadres qui ont une charge d'encadrement
+   (en bas dans le plan factoriel) aux cadres qui n'ont pas de charge
+   d'encadrement (en haut dans le plan factoriel).
+
+La répartition de la charge de travail et des strategies: une typologie
+
+   La réalisation d'une CAH (classification ascendante hiérarchique) à
+   partir des deux premiers axes de l'ACM permet, ensuite, de définir
+   quatre groupes de cadres caractérisés par une perception homogène de la
+   charge de travail et des stratégies identiques de gestion de cette
+   charge (Graphique 2). Ces stratégies se jouent envers la hiérarchie
+   (docilité envers la hiérarchie, c'est-à-dire acceptation du travail, ou
+   résistance) et envers les équipes (déléguer ou filtrer le travail).
+   L'analyse systémique des organisations à partir du matériau qualitatif
+--
+Les « surchargés » : stratégie de docilité avec filtrage
+
+   Le premier groupe (cercle : 23 individus) est constitué par les
+   « surchargés », qui considèrent que leur charge de travail est très
+   importante, et que leur équilibre entre vie privée et vie
+   professionnelle pose problème. Ils forment des « goulots
+   d'étranglement » (Codir Gestion), car ils déclarent ne pas négocier
+   avec leur hiérarchie et ne pas déléguer. Le cas de la déléguée à la
+   Gestion du Codir est un cas-type : alors qu'elle a une charge de
+   travail déjà importante du fait de sa position spécifique dans le
+   système de « reporting » et le suivi des budgets, elle fait attention à
+   ses équipes, ce qu'elle relie directement à sa charge de travail.
+
+     Ma collaboratrice, quand elle travaille plus tard, je lui dis :
+     `Pars une heure avant'. [...] Le goulot d'étranglement, comme je
+--
+   Les membres du Codir sont surreprésentés dans ce groupe. Cela semble
+   contradictoire avec les représentations que l'on peut avoir d'acteurs
+   qui, situés en haut de la hiérarchie, disposent des ressources
+   nécessaires pour déléguer et se décharger d'une partie de leurs tâches
+   -- surtout les tâches perçues comme inintéressantes, à savoir le
+   « travail en plus » évoqué précédemment. Cependant, les réorganisations
+   ont induit, pour le Codir, une multiplication des réunions, et un
+--
+   pour l'activité » de travailler beaucoup.
+
+   Les chefs d'agence sont surreprésentés dans ce groupe. Ils se plaignent
+   d'une charge de travail très importante, constituée notamment de
+   sollicitations venant de la hiérarchie et tout particulièrement du
+   Directeur. Les réorganisations évoquées précédemment ont touché
+   directement leur travail, en renforçant le poids des questions
+--
+   « négociateurs », qui négocient avec leur hiérarchie, ne se rendent pas
+   à toutes les réunions, ne répondent pas à tous les courriels, mais qui,
+   en retour, sont plutôt satisfaits de leur hiérarchie et de
+   l'organisation, et dont la charge de travail est limitée par cette
+   forme de négociation. Il s'agit donc de personnes qui estiment que la
+   qualité du travail (Davezies, 2004) ou le « travail bien fait » (Clot,
+   2010) passent par une sélection et une hiérarchisation de leurs tâches.
+--
+
+   Le quatrième groupe (carré : 15 individus) est constitué par les
+   « protégés », qui considèrent qu'ils ont peu de travail et n'ont donc
+   pas besoin de négocier, soit parce que leur charge de travail
+   « donnée » n'est pas importante, soit parce que leur hiérarchie les
+   protège en formant justement un « goulot d'étranglement » -- on y
+   retrouve notamment la collaboratrice directe de la déléguée à la
+   Gestion. Ils sont donc dans une stratégie qualifiée de passivité, au
+   sens où ils n'ont pas besoin de stratégie particulière pour faire face
+   à leur charge de travail.
+
+   En résumé, les chefs de pôle sont donc majoritairement dans une
+   stratégie de résistance quand leur chef d'agence leur délègue du
+--
+Discussion
+
+   L'analyse quantitative a donc contribué à souligner la distribution
+   inégale de la charge de travail perçue, mais également à identifier
+   quatre profils de cadres ayant une perception homogène de cette charge.
+   L'analyse qualitative, fondée sur l'analyse systémique des
+   organisations, a permis, quant à elle, de mieux comprendre le système
+   de l'établissement et finalement, la structuration systémique des
+   stratégies des cadres pour gérer leur charge de travail, et donc de
+   cerner la charge de travail perçue. Nous avons ainsi pu constater que,
+   comme nous l'avions pressenti, plus un acteur a de pouvoir (pouvoir
+   réel et non officiel) dans l'organisation, plus il a de marges de
+   manoeuvre pour négocier sa charge de travail, que ce soit en délégant à
+   ses équipes, voire même en refusant de fournir certains types de
+   tâches.
+
+   Ces différents éléments ouvrent des possibilités de discussion avec la
+   littérature.
+
+   Sur le plan théorique, les résultats obtenus montrent en quoi la charge
+   de travail est structurée systémiquement. Ils soulignent aussi la
+   nécessité, dans certains cas, de trier le travail et de laisser de côté
+   certains éléments (ici, les urgences hiérarchiques) pour se concentrer
+--
+   mixte entre méthodologies qualitative et quantitative et, donc, dans un
+   entre-deux entre une approche quantifiée (Brousse, 2015; DARES, 2015;
+   Sautory et Zilloniz, 2015) et une approche plus individualisée de la
+   charge de travail ou des RPS (Dumond, 2007; Molinier et Flottes, 2012;
+   Rossano, Abord de Chatillon et Desmarais, 2015). De plus, ce matériau
+   mixte constitue une triangulation des données qui doit permettre
+   d'appréhender un phénomène sous différents aspects (Groulx, 1997;
+--
+   les quatre segments de la classification ascendante hiérarchique à
+   l'aune des entretiens.
+
+   D'un point de vue managérial, montrer que la charge de travail dépend
+   en grande partie des stratégies des acteurs en fonction du système
+   organisationnel nous paraît enrichissant pour les Directions des
+   ressources humaines souhaitant mieux comprendre la question de la
+   charge de travail et les leviers permettant d'agir dans ce domaine, au
+   profit d'une meilleure articulation entre vie professionnelle et vie
+   privée. Ainsi, notre travail semble indiquer qu'une bonne compréhension
+   du système relationnel d'un établissement s'avère utile pour
+   appréhender la charge de travail, ce qui rejoint des résultats de
+   travaux en ergonomie montrant l'importance des relations de travail
+   (Fournier, Montreuil et Villa, 2013). Par ailleurs, nos résultats
+   invitent à ne pas considérer les cadres comme une catégorie homogène :
+   au sein d'un même établissement, les cadres n'ont pas tous les mêmes
+   enjeux, les mêmes ressources et, donc, les mêmes stratégies de gestion
+   de la charge de travail. Cela invite les entreprises à se détacher de
+   la segmentation usuelle entre cadres et non-cadres, au profit d'une
+   segmentation plus proche de la réalité du travail lors de la définition
+   de politiques sur la charge de travail. Enfin, notre recherche souligne
+   aussi l'importance de la prise en compte du contenu du travail et pas
+   seulement de sa quantité pour évaluer la charge de travail d'une
+   personne. Finalement, les seuls indicateurs d'horaires deviennent
+   insuffisants et, au-delà de « l'intensification du travail » (Gollac,
+   2011) et de sa « densité » (Hatzfeld, 2004), se pose aussi la question
+--
+Conclusion
+
+   Dans ce travail, nous avons cherché à analyser la répartition de la
+   charge de travail perçue à l'aune du système d'un établissement. Nous
+   avons identifié quatre groupes de cadres ayant des perceptions
+   homogènes de la charge de travail et des stratégies identiques pour y
+   faire face. Cela contribue à souligner l'importance des relations de
+   pouvoir, mais aussi des stratégies et des marges de manoeuvre des
+   acteurs comme déterminants de la charge de travail perçue. Enfin, cela
+   montre que les cadres ne constituent pas une catégorie tout à fait
+   homogène en matière de charge de travail perçue.
+
+   Cependant, ce travail présente des limites qui ouvrent sur de nouvelles
+   perspectives de recherche. Ainsi, il s'agit d'une étude de cas unique,
+   avec un potentiel de généralisation faible. De plus, ce travail se
+   concentre sur la charge de travail perçue et sur les déclarations des
+   acteurs, mais donne peu d'information sur la charge de travail
+   prescrite, ou réelle. Enfin, cette recherche ne s'intéresse pas au
+   poids de variables individuelles telles que le genre ou l'âge sur les
+   stratégies mises en oeuvre par les acteurs. Ce choix est dû au cadre
+--
+   caractéristiques individuelles (Friedberg, [1993] 1997). Pourtant,
+   comme le soulignent les travaux quantitatifs mentionnés précédemment
+   (notamment Brousse, 2015; Sautory et Zilloniz, 2015), des variables
+   individuelles comme le genre ou l'âge peuvent influer sur la charge de
+   travail ou, encore, sur la perception de l'équilibre vie privée -- vie
+   professionnelle (Gordon, 2014; Beghiti-Mahut, 2015; Wils et Rhnima,
+   2015). Cela nous semble constituer une perspective de recherche
+--
+Notes
+
+    1. [1]
+       Une charge de travail élevée fait partie des facteurs de RPS et de
+       stress au travail (Gautier et Husser, 2013) et est mesurée dans les
+       questionnaires Karasek et Siegrist. Les approches des RPS et de la
+       charge de travail sont donc souvent liées.
+    2. [2]
+       Contrairement au régime nord-américain, le régime de relations du
+       travail français permet la syndicalisation des cadres. La CFE-CGC
+--
+       temps `libre' : quelques déterminants sociaux de la vie
+       quotidienne », Économie et Statistique, 478-480, 119-154.
+       10.3406/estat.2015.10560Google Scholar
+    7. Cadin, Loïc et Jean Pralong (2015) « Charge cognitive, confusion
+       des mandats et identités professionnelles : un modèle de
+       l'attention managériale », Gestion 2000, 5 (32), 99-119.
+       10.3917/g2000.325.0099Google Scholar
+    8. Cazabat, Sandrine, Béatrice Barthe et Nadine Cascino (2008)
+       « Charge de travail et stress professionnel : deux facettes d'une
+       même réalité ? Étude exploratoire dans un service de
+       gérontologie », Perspectives interdisciplinaires sur le travail et
+       la santé, [En ligne], 10 (1).
+--
+       Gestion, 4 (226-227), 157-163.
+       10.3917/rsg.226.0157Google Scholar
+   25. Fournier, Pierre-Sébastien, Sylvie Montreuil et Julie Villa (2013)
+       « Contribution à un modèle explicatif de la charge de travail : le
+       cas du service à la clientèle », Relations industrielles/Industrial
+       Relations, 68 (1), 46-70.
+       Icône pour les DOIs Érudit 10.7202/1014741arGoogle Scholar
+--
+       71-83.
+       10.3917/nrp.007.0071Google Scholar
+   43. Livian, Yves-Frédéric, Christophe Baret et Christophe Falcoz (2004)
+       « La gestion de la charge de travail dans les activités de
+       service », Revue française de gestion, 3 (150), 87-103.
+       10.3166/rfg.150.87-103Google Scholar
+   44. Loriol, Marc (2010) « La construction sociale du stress : entre
+--
+   54. Roupnel-Fuentes, Manuella (2011) Les Chômeurs de Moulinex, Paris :
+       PUF.
+       10.3917/puf.trat.2011.01Google Scholar
+   55. Rousseau, Thierry (2006) « La charge de travail : faire face aux
+       nouvelles exigences », dans « Mieux évaluer la charge de travail »,
+       Revue de la qualité de vie au travail, Anact, 307 (mars-avril),
+       2-3.
+       10.1016/j.soctra.2004.06.001Google Scholar
+--
+Citer cet article
+
+   MLA
+          Coron, Clotilde. « La charge de travail perçue des cadres :
+          d'une typologie à une compréhension systémique. » Relations
+          industrielles / Industrial Relations, volume 74, numéro 1, hiver
+          2019, p. 117-140. https://doi.org/10.7202/1059467ar
+
+   APA
+          Coron, C. (2019). La charge de travail perçue des cadres : d'une
+          typologie à une compréhension systémique. Relations
+          industrielles / Industrial Relations, 74(1), 117-140.
+          https://doi.org/10.7202/1059467ar
+
+   Chicago
+          Coron, Clotilde « La charge de travail perçue des cadres : d'une
+          typologie à une compréhension systémique ». Relations
+          industrielles / Industrial Relations 74, n^o 1 (2019) : 117-140.
           https://doi.org/10.7202/1059467ar

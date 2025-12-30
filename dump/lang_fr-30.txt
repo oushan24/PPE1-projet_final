@@ -1,48 +1,48 @@
-   #Tous responsables ? Transformations du travail, métamorphoses de la
-   responsabilité Sociologie du travail, Numéros Sociologie du travail,
+   #Tous responsables ? Transformations du travail, mÃ©tamorphoses de la
+   responsabilitÃ© Sociologie du travail, NumÃ©ros Sociologie du travail,
    Documents
 
    Navigation - Plan du site
 
 Sociologie du travail Sociologie du travail
 
-   AccueilNumérosVol. 61 - n° 2Dossier-débat : le travail en quê...Tous
+   AccueilNumÃ©rosVol. 61 - nÂ° 2Dossier-dÃ©bat : le travail en quÃª...Tous
    responsables ? Transformatio...
 
    Recherche___________ (BUTTON) Chercher
    Sommaire - Document suivant
-   Vol. 61 - n° 2 | Avril-Juin 2019
-   Le travail en quête de responsabilité
-   Dossier-débat : le travail en quête de responsabilité
+   Vol. 61 - nÂ° 2 | Avril-Juin 2019
+   Le travail en quÃªte de responsabilitÃ©
+   Dossier-dÃ©bat : le travail en quÃªte de responsabilitÃ©
 
-Tous responsables ? Transformations du travail, métamorphoses de la
-responsabilité
+Tous responsables ? Transformations du travail, mÃ©tamorphoses de la
+responsabilitÃ©
 
    Introduction
    Is Everyone Responsible? Transformations of Work and Metamorphoses of
    Responsibility
-   Michel Lallement et Bénédicte Zimmermann
+   Michel Lallement et BÃ©nÃ©dicte Zimmermann
    https://doi.org/10.4000/sdt.17981
-   Résumé | Index | Plan | Texte | Bibliographie | Notes | Citation |
+   RÃ©sumÃ© | Index | Plan | Texte | Bibliographie | Notes | Citation |
    Auteurs
 
-Résumés
+RÃ©sumÃ©s
 
-   Français English
+   FranÃ§ais English
 
    Les mutations du travail s'accompagnent aujourd'hui d'une extension du
-   territoire des responsabilités tant en direction des travailleurs
+   territoire des responsabilitÃ©s tant en direction des travailleurs
    individuels que des collectifs, entreprises comprises. Il importe, pour
-   comprendre la portée de ce double mouvement et de ses expressions, de
-   clarifier les différentes acceptions de la notion de responsabilité. À
+   comprendre la portÃ©e de ce double mouvement et de ses expressions, de
+   clarifier les diffÃ©rentes acceptions de la notion de responsabilitÃ©. Ã€
    cette fin, nous proposons une grille d'analyse qui, partant des
-   principales composantes sémantiques de la responsabilité (rendre
-   compte, prendre en charge et être en capacité de), différencie trois
-   grands registres d'application : l'imputation, la responsabilité sans
-   faute et la responsabilité conséquentialiste. Outillés de cette grille,
-   nous analysons, en nous appuyant sur les contributions à ce dossier
-   interdisciplinaire, les formes du redéploiement contemporain et
-   l'entrelacs croissant des formes de la responsabilité au travail.
+   principales composantes sÃ©mantiques de la responsabilitÃ© (rendre
+   compte, prendre en charge et Ãªtre en capacitÃ© de), diffÃ©rencie trois
+   grands registres d'application : l'imputation, la responsabilitÃ© sans
+   faute et la responsabilitÃ© consÃ©quentialiste. OutillÃ©s de cette grille,
+   nous analysons, en nous appuyant sur les contributions Ã  ce dossier
+   interdisciplinaire, les formes du redÃ©ploiement contemporain et
+   l'entrelacs croissant des formes de la responsabilitÃ© au travail.
 
    Contemporary changes in work are associated with an expansion of the
    sphere of responsibilities assigned to individual workers as well as to
@@ -59,12 +59,12 @@ Résumés
    responsibility at work.
    Haut de page
 
-Entrées d'index
+EntrÃ©es d'index
 
-Mots-clés :
+Mots-clÃ©s :
 
-   Droit, Entreprise, Individualisation, Pouvoir d'agir, Prévention,
-   Responsabilité, Santé, Travail
+   Droit, Entreprise, Individualisation, Pouvoir d'agir, PrÃ©vention,
+   ResponsabilitÃ©, SantÃ©, Travail
 
 Keywords:
 
@@ -75,901 +75,901 @@ Keywords:
 Plan
 
    1. Un foisonnement conceptuel
-   1.1. Racines étymologiques
-   1.2. L'individuel et le collectif : en quête d'une sociologie de la
-   responsabilité
-   2. Une grille d'analyse de la responsabilité au travail
-   2.1. Trois composantes sémantiques
+   1.1. Racines Ã©tymologiques
+   1.2. L'individuel et le collectif : en quÃªte d'une sociologie de la
+   responsabilitÃ©
+   2. Une grille d'analyse de la responsabilitÃ© au travail
+   2.1. Trois composantes sÃ©mantiques
    2.2. Trois registres d'application
-   3. Travail et imputation : une responsabilité de plus en plus
-   individualisée ?
-   4. Travail et responsabilité sans faute : une redéfinition des droits
+   3. Travail et imputation : une responsabilitÃ© de plus en plus
+   individualisÃ©e ?
+   4. Travail et responsabilitÃ© sans faute : une redÃ©finition des droits
    et des devoirs ?
-   5. Travail et responsabilité conséquentialiste : jusqu'où et comment
+   5. Travail et responsabilitÃ© consÃ©quentialiste : jusqu'oÃ¹ et comment
    anticiper les implications de l'action productive ?
    6. Conclusion
    Haut de page
 
-Texte intégral
+Texte intÃ©gral
 
    PDF 276k Partager par e-mail
 
    1Les mutations contemporaines font surgir de multiples interrogations
-   sur la façon dont le travail d'aujourd'hui s'adosse à la responsabilité
+   sur la faÃ§on dont le travail d'aujourd'hui s'adosse Ã  la responsabilitÃ©
    de celles et ceux qui l'effectuent et/ou en sont comptables. Rendre
-   raison de ce mouvement n'est pas une opération aisée. En effet,
-   transformations du travail et faits de responsabilité ne se laissent
-   pas superposer de manière simpliste. Tandis qu'on observe une
-   individualisation du travail et de sa régulation, en même temps qu'une
-   extension du pouvoir normatif de l'entreprise, la responsabilité ne
-   cesse d'étendre son territoire pour engager sous les registres les plus
+   raison de ce mouvement n'est pas une opÃ©ration aisÃ©e. En effet,
+   transformations du travail et faits de responsabilitÃ© ne se laissent
+   pas superposer de maniÃ¨re simpliste. Tandis qu'on observe une
+   individualisation du travail et de sa rÃ©gulation, en mÃªme temps qu'une
+   extension du pouvoir normatif de l'entreprise, la responsabilitÃ© ne
+   cesse d'Ã©tendre son territoire pour engager sous les registres les plus
    divers non seulement les individus mais aussi des collectifs entiers.
 
-   2Dans le cas de la France et du travail salarié sur lesquels se
-   concentre ce dossier, de nombreux constats empiriques étayent la thèse
-   d'une individualisation du travail : le déclin des régulations de
-   contrôle d'inspiration taylorienne (Terssac, 1992), l'invention de
-   formes d'organisation (groupes projets, équipes auto-organisées,
-   travail au forfait, etc.) appelées à laisser plus de latitude aux
-   salariées et salariés pour atteindre les objectifs qui leur sont fixés,
-   l'individualisation des salaires, celle des modes d'évaluation des
-   performances, etc. D'un secteur d'activé à l'autre, l'ampleur des
-   mutations est certes inégale. En quelques décennies cependant,
-   l'autonomie individuelle a gagné dans le discours managérial des
-   lettres de noblesse qu'elle ne possédait pas auparavant. Or il n'y a
-   pas d'autonomie sans responsabilité.
+   2Dans le cas de la France et du travail salariÃ© sur lesquels se
+   concentre ce dossier, de nombreux constats empiriques Ã©tayent la thÃ¨se
+   d'une individualisation du travail : le dÃ©clin des rÃ©gulations de
+   contrÃ´le d'inspiration taylorienne (Terssac, 1992), l'invention de
+   formes d'organisation (groupes projets, Ã©quipes auto-organisÃ©es,
+   travail au forfait, etc.) appelÃ©es Ã  laisser plus de latitude aux
+   salariÃ©es et salariÃ©s pour atteindre les objectifs qui leur sont fixÃ©s,
+   l'individualisation des salaires, celle des modes d'Ã©valuation des
+   performances, etc. D'un secteur d'activÃ© Ã  l'autre, l'ampleur des
+   mutations est certes inÃ©gale. En quelques dÃ©cennies cependant,
+   l'autonomie individuelle a gagnÃ© dans le discours managÃ©rial des
+   lettres de noblesse qu'elle ne possÃ©dait pas auparavant. Or il n'y a
+   pas d'autonomie sans responsabilitÃ©.
 
-   3Il n'en va pas différemment lorsque l'on considère les mobilités
-   professionnelles. La montée en puissance du paradigme de la compétence
-   au détriment de celui de la qualification a fait couler beaucoup
-   d'encre au cours des années 1990. Quoi que l'on puisse penser de ce
-   nouveau modèle et bien qu'il importe d'en apprécier les multiples
-   déclinaisons empiriques, il ne fait guère de doute que la volonté de
-   transformer les salariés en entrepreneurs de leurs propres parcours
-   professionnels structure très concrètement l'action de nombreuses
+   3Il n'en va pas diffÃ©remment lorsque l'on considÃ¨re les mobilitÃ©s
+   professionnelles. La montÃ©e en puissance du paradigme de la compÃ©tence
+   au dÃ©triment de celui de la qualification a fait couler beaucoup
+   d'encre au cours des annÃ©es 1990. Quoi que l'on puisse penser de ce
+   nouveau modÃ¨le et bien qu'il importe d'en apprÃ©cier les multiples
+   dÃ©clinaisons empiriques, il ne fait guÃ¨re de doute que la volontÃ© de
+   transformer les salariÃ©s en entrepreneurs de leurs propres parcours
+   professionnels structure trÃ¨s concrÃ¨tement l'action de nombreuses
    directions des ressources humaines (Sigot et Vero, 2014). Tout indique,
-   en un mot, que nous assistons depuis trois décennies au moins à une
-   responsabilisation des salariés à qui l'on confie formellement, bien
+   en un mot, que nous assistons depuis trois dÃ©cennies au moins Ã  une
+   responsabilisation des salariÃ©s Ã  qui l'on confie formellement, bien
    plus qu'auparavant, les clefs de la gestion de leur destin
    professionnel (Zimmermann, 2011).
 
-   4Un constat de même nature peut être opéré s'agissant de l'entreprise.
-   Depuis 1982, les textes de loi se sont enchaînés afin de consacrer par
-   touches successives l'entreprise comme espace d'autoréglementation
-   (Supiot, 1989). À elle de définir ses propres règles de gestion du
+   4Un constat de mÃªme nature peut Ãªtre opÃ©rÃ© s'agissant de l'entreprise.
+   Depuis 1982, les textes de loi se sont enchaÃ®nÃ©s afin de consacrer par
+   touches successives l'entreprise comme espace d'autorÃ©glementation
+   (Supiot, 1989). Ã€ elle de dÃ©finir ses propres rÃ¨gles de gestion du
    travail. Tout n'est pas permis pour autant. Les employeurs sont par
-   exemple tenus à une obligation de prévention et de réaction pour ce qui
-   concerne la sécurité et la protection de la santé physique et mentale
-   de leurs employés. Leur responsabilité pénale est ici engagée, ils
-   peuvent être condamnés à une peine de prison pour « faute inexcusable »
-   s'ils manquent à une telle exigence. La montée en puissance du thème de
-   la responsabilité sociale d'entreprise, bien que juridiquement non
-   contraignante, va dans un sens similaire. Tout comme les salariés, les
-   entreprises sont appelées elles aussi à assumer toujours davantage de
-   responsabilités.
+   exemple tenus Ã  une obligation de prÃ©vention et de rÃ©action pour ce qui
+   concerne la sÃ©curitÃ© et la protection de la santÃ© physique et mentale
+   de leurs employÃ©s. Leur responsabilitÃ© pÃ©nale est ici engagÃ©e, ils
+   peuvent Ãªtre condamnÃ©s Ã  une peine de prison pour Â« faute inexcusable Â»
+   s'ils manquent Ã  une telle exigence. La montÃ©e en puissance du thÃ¨me de
+   la responsabilitÃ© sociale d'entreprise, bien que juridiquement non
+   contraignante, va dans un sens similaire. Tout comme les salariÃ©s, les
+   entreprises sont appelÃ©es elles aussi Ã  assumer toujours davantage de
+   responsabilitÃ©s.
 
-   5Cette extension tous azimuts des territoires de la responsabilité
-   n'est pas sans conséquences. Elle crée notamment une confusion entre
-   faute morale, erreur d'expertise, responsabilité politique, inculpation
-   pénale et péché métaphysique, comme le note à titre général Olivier
+   5Cette extension tous azimuts des territoires de la responsabilitÃ©
+   n'est pas sans consÃ©quences. Elle crÃ©e notamment une confusion entre
+   faute morale, erreur d'expertise, responsabilitÃ© politique, inculpation
+   pÃ©nale et pÃ©chÃ© mÃ©taphysique, comme le note Ã  titre gÃ©nÃ©ral Olivier
    Abel (1994). Dans le champ de l'action productive, qu'il s'agisse de
    savoir qui est responsable des fautes professionnelles (Chateauraynaud,
-   1991), de comprendre pourquoi et comment la santé est affectée par des
-   choix ou des non-choix relatifs aux conditions de l'activité productive
-   (Marichalar, 2018) ou encore de s'interroger sur les finalités et les
-   légitimités de l'action des entreprises (Segrestin et Hatchuel, 2012),
-   on ne peut donc éviter, si l'on veut prévenir les équivoques, de
-   croiser le travail avec les différentes dimensions de la
-   responsabilité. Ce dernier terme peut être défini dans un premier temps
-   comme « la capacité de répondre de ses propres actes devant ses
-   semblables », capacité qui suppose latitude de choix et pouvoir d'agir,
-   mais aussi comme « la faculté de décrire une action, avec ses tenants
+   1991), de comprendre pourquoi et comment la santÃ© est affectÃ©e par des
+   choix ou des non-choix relatifs aux conditions de l'activitÃ© productive
+   (Marichalar, 2018) ou encore de s'interroger sur les finalitÃ©s et les
+   lÃ©gitimitÃ©s de l'action des entreprises (Segrestin et Hatchuel, 2012),
+   on ne peut donc Ã©viter, si l'on veut prÃ©venir les Ã©quivoques, de
+   croiser le travail avec les diffÃ©rentes dimensions de la
+   responsabilitÃ©. Ce dernier terme peut Ãªtre dÃ©fini dans un premier temps
+   comme Â« la capacitÃ© de rÃ©pondre de ses propres actes devant ses
+   semblables Â», capacitÃ© qui suppose latitude de choix et pouvoir d'agir,
+   mais aussi comme Â« la facultÃ© de dÃ©crire une action, avec ses tenants
    et ses aboutissants, pour en rendre compte, permettant ainsi son
-   évaluation -- évaluation qui sera éventuellement déléguée à un tiers en
-   cas de conflit » (Puccio-Den, 2017, p. 8).
+   Ã©valuation -- Ã©valuation qui sera Ã©ventuellement dÃ©lÃ©guÃ©e Ã  un tiers en
+   cas de conflit Â» (Puccio-Den, 2017, p. 8).
 
-   6Tous responsables désormais ? Le présent dossier a pour ambition
-   d'apporter des éléments de réponse à cette question en distinguant deux
-   types d'enjeux. Le premier consiste à repérer la pluralité des formes
-   de responsabilité qui traversent actuellement l'action productive, le
-   sens qu'elles véhiculent, leurs importances respectives ainsi que leurs
+   6Tous responsables dÃ©sormais ? Le prÃ©sent dossier a pour ambition
+   d'apporter des Ã©lÃ©ments de rÃ©ponse Ã  cette question en distinguant deux
+   types d'enjeux. Le premier consiste Ã  repÃ©rer la pluralitÃ© des formes
+   de responsabilitÃ© qui traversent actuellement l'action productive, le
+   sens qu'elles vÃ©hiculent, leurs importances respectives ainsi que leurs
 
-   7territoires d'application. Le deuxième enjeu est une clarification des
+   7territoires d'application. Le deuxiÃ¨me enjeu est une clarification des
    implications de ce mouvement de responsabilisation sur l'organisation
    du travail et la gestion des risques professionnels. Pour ce faire, le
-   parti-pris est d'examiner à travers des prismes variés -- ceux de la
-   psychologie, des sciences de gestion, de l'économie, du droit, de la
-   sociologie et de l'épidémiologie -- la réalité de l'injonction à la
-   responsabilité.
+   parti-pris est d'examiner Ã  travers des prismes variÃ©s -- ceux de la
+   psychologie, des sciences de gestion, de l'Ã©conomie, du droit, de la
+   sociologie et de l'Ã©pidÃ©miologie -- la rÃ©alitÃ© de l'injonction Ã  la
+   responsabilitÃ©.
 
-   8Avant de nous atteler à démêler l'écheveau complexe qui lie travail et
-   responsabilité, il importe de nous frayer un chemin dans le
-   foisonnement conceptuel de la responsabilité et d'en préciser
-   l'acception. C'est là l'ambition de notre première partie, rédigée dans
+   8Avant de nous atteler Ã  dÃ©mÃªler l'Ã©cheveau complexe qui lie travail et
+   responsabilitÃ©, il importe de nous frayer un chemin dans le
+   foisonnement conceptuel de la responsabilitÃ© et d'en prÃ©ciser
+   l'acception. C'est lÃ  l'ambition de notre premiÃ¨re partie, rÃ©digÃ©e dans
    un esprit qui doit directement aux travaux de Reinhart Koselleck
-   (2006). Dans un deuxième temps, nous tirons profit de ce défrichage
-   pour élaborer une grille d'analyse à partir de laquelle, dans les
-   parties qui suivent, nous ferons dialoguer les contributions au présent
+   (2006). Dans un deuxiÃ¨me temps, nous tirons profit de ce dÃ©frichage
+   pour Ã©laborer une grille d'analyse Ã  partir de laquelle, dans les
+   parties qui suivent, nous ferons dialoguer les contributions au prÃ©sent
    dossier. Partant de l'identification des principales composantes
-   sémantiques de la responsabilité -- rendre compte, prendre en charge et
-   être en capacité de --, cette grille différencie trois grands registres
-   d'interprétation et d'application de la responsabilité : l'imputation
-   liée à un devoir de réparation d'un acte passé ; la responsabilité sans
-   faute qui renvoie à une socialisation des risques de l'existence ou au
-   devoir de prendre soin d'autrui ; enfin, la responsabilité
-   conséquentialiste qui se saisit des conséquences futures de nos actes
-   présents.
+   sÃ©mantiques de la responsabilitÃ© -- rendre compte, prendre en charge et
+   Ãªtre en capacitÃ© de --, cette grille diffÃ©rencie trois grands registres
+   d'interprÃ©tation et d'application de la responsabilitÃ© : l'imputation
+   liÃ©e Ã  un devoir de rÃ©paration d'un acte passÃ© ; la responsabilitÃ© sans
+   faute qui renvoie Ã  une socialisation des risques de l'existence ou au
+   devoir de prendre soin d'autrui ; enfin, la responsabilitÃ©
+   consÃ©quentialiste qui se saisit des consÃ©quences futures de nos actes
+   prÃ©sents.
 
-   9Nous montrerons ainsi que, si d'une discipline à l'autre ou d'une
-   sensibilité théorique à l'autre, la manière de lier travail et
-   responsabilité peut différer, les entrelacs s'avèrent néanmoins
-   nombreux. De factures disciplinaires multiples, les différentes
-   contributions attestent, chacune à sa manière, d'une dynamique de
-   réarticulation des composantes et registres de la responsabilité au
-   fondement de notre grille d'analyse. Elles appellent par ailleurs à
+   9Nous montrerons ainsi que, si d'une discipline Ã  l'autre ou d'une
+   sensibilitÃ© thÃ©orique Ã  l'autre, la maniÃ¨re de lier travail et
+   responsabilitÃ© peut diffÃ©rer, les entrelacs s'avÃ¨rent nÃ©anmoins
+   nombreux. De factures disciplinaires multiples, les diffÃ©rentes
+   contributions attestent, chacune Ã  sa maniÃ¨re, d'une dynamique de
+   rÃ©articulation des composantes et registres de la responsabilitÃ© au
+   fondement de notre grille d'analyse. Elles appellent par ailleurs Ã 
    d'autres extensions, en direction par exemple de ce que l'on pourrait
-   nommer une responsabilité savante ou académique des savoirs sur le
-   travail à l'endroit des personnes et des organisations qui en sont les
-   objets d'étude.
+   nommer une responsabilitÃ© savante ou acadÃ©mique des savoirs sur le
+   travail Ã  l'endroit des personnes et des organisations qui en sont les
+   objets d'Ã©tude.
 
 1. Un foisonnement conceptuel
 
-1.1. Racines étymologiques
+1.1. Racines Ã©tymologiques
 
-   10Le terme de « responsabilité » a pour origines étymologiques les mots
+   10Le terme de Â« responsabilitÃ© Â» a pour origines Ã©tymologiques les mots
    latins spondeo et re-spondeo. Dans son Vocabulaire des institutions
-   indo-européennes (1969), Émile Benveniste note que spondeo a une
-   tonalité juridique. Il signifie « se porter garant en justice, donner
-   sa caution personnelle pour quelqu'un ». Le mariage porte la marque de
+   indo-europÃ©ennes (1969), Ã‰mile Benveniste note que spondeo a une
+   tonalitÃ© juridique. Il signifie Â« se porter garant en justice, donner
+   sa caution personnelle pour quelqu'un Â». Le mariage porte la marque de
    cette terminologie qui appelle l'engagement. De spondeo viennent
-   sponsus (l'époux) et sponsa (l'épouse). Re-spondeo fait symétrie : il
-   désigne la réponse (une promesse de sécurité en l'occurrence) que
-   fournissent les dieux ou les prêtres en échange d'une offrande. Pour
-   Eirick Prairat (2012), l'association première entre responsabilité et
-   réponse à un appel ou une sommation ouvre la voie à une définition
-   classique qui met l'accent sur trois caractéristiques liées. La
-   responsabilité est à la fois un état (je suis responsable de telle ou
-   telle personne), une capacité (je possède des ressources comme la
-   volonté ou le discernement) et une obligation (je dois assumer mes
+   sponsus (l'Ã©poux) et sponsa (l'Ã©pouse). Re-spondeo fait symÃ©trie : il
+   dÃ©signe la rÃ©ponse (une promesse de sÃ©curitÃ© en l'occurrence) que
+   fournissent les dieux ou les prÃªtres en Ã©change d'une offrande. Pour
+   Eirick Prairat (2012), l'association premiÃ¨re entre responsabilitÃ© et
+   rÃ©ponse Ã  un appel ou une sommation ouvre la voie Ã  une dÃ©finition
+   classique qui met l'accent sur trois caractÃ©ristiques liÃ©es. La
+   responsabilitÃ© est Ã  la fois un Ã©tat (je suis responsable de telle ou
+   telle personne), une capacitÃ© (je possÃ¨de des ressources comme la
+   volontÃ© ou le discernement) et une obligation (je dois assumer mes
    actions).
 
-   11Dans son analyse de la responsabilité, P. Ricoeur (1994) s'émancipe
-   du champ sémantique de la réponse pour lui préférer celui de
+   11Dans son analyse de la responsabilitÃ©, P. Ricoeur (1994) s'Ã©mancipe
+   du champ sÃ©mantique de la rÃ©ponse pour lui prÃ©fÃ©rer celui de
    l'imputation et du compte. Rendre responsable, c'est imputer ou,
-   autrement dit, attribuer une action à celui que l'on considère comme
-   son auteur. Plus encore, le mot « imputation », qui vient du latin
-   putare, porte avec lui l'idée de calcul des mérites et des défaillances
-   et donc de la responsabilité comme exigence de reddition des comptes.
+   autrement dit, attribuer une action Ã  celui que l'on considÃ¨re comme
+   son auteur. Plus encore, le mot Â« imputation Â», qui vient du latin
+   putare, porte avec lui l'idÃ©e de calcul des mÃ©rites et des dÃ©faillances
+   et donc de la responsabilitÃ© comme exigence de reddition des comptes.
 
    12Il n'est pas certain cependant que l'on doive lier aussi directement
-   que ne le suggère Paul Ricoeur l'acte d'attribuer et celui de rendre
+   que ne le suggÃ¨re Paul Ricoeur l'acte d'attribuer et celui de rendre
    compte. Selon Richard Niebuhr (1963) en effet, il a fallu attendre le
-   XVIII^e siècle pour enregistrer la convergence des notions d'imputation
+   XVIII^e siÃ¨cle pour enregistrer la convergence des notions d'imputation
    et de reddition des comptes. Ce constat conforte le diagnostic de
    Jacques Henriot (1977). Celui-ci observe que le substantif
-   « responsabilité » fait son entrée assez tardivement dans la langue
-   française. On n'en repère les premières occurrences que dans les années
-   1780, lorsque les juristes réfléchissent sur le lien à établir entre
-   une faute et les contreparties que cette dernière commande.
+   Â« responsabilitÃ© Â» fait son entrÃ©e assez tardivement dans la langue
+   franÃ§aise. On n'en repÃ¨re les premiÃ¨res occurrences que dans les annÃ©es
+   1780, lorsque les juristes rÃ©flÃ©chissent sur le lien Ã  Ã©tablir entre
+   une faute et les contreparties que cette derniÃ¨re commande.
 
-1.2. L'individuel et le collectif : en quête d'une sociologie de la
-responsabilité
+1.2. L'individuel et le collectif : en quÃªte d'une sociologie de la
+responsabilitÃ©
 
    13Comme bien d'autres disciplines, la sociologie s'est longtemps
-   révélée discrète sur la question de la responsabilité. Les travaux de
-   Paul Fauconnet font cependant exception. Sa thèse s'appuie pour partie
-   sur les quatre leçons sur la responsabilité données en 1894 par Émile
-   Durkheim à la faculté des lettres de Bordeaux. Dans La responsabilité.
-   Études de sociologie, le jeune durkheimien propose de penser les faits
-   de responsabilité comme des faits sociaux à part entière (Fauconnet,
-   1920). Ce faisant, il estime, à la façon d'Émile Durkheim, que la
-   responsabilité est un produit de la pensée religieuse et que c'est
-   avant tout la société qui est blessée lorsqu'une faute est commise, si
-   bien qu'à travers la figure du criminel, c'est en fait l'acte criminel
-   qui est visé. Chaque groupement humain, ajoute-t-il, édicte des
-   principes de justice qui n'ont rien d'universel : d'une période et
-   d'une société à l'autre, les personnes susceptibles d'être punies ne
-   sont pas nécessairement les mêmes. Conformément à la loi de gravitation
-   du monde social édictée par l'auteur de la Division du travail social,
-   « la responsabilité, au cours de l'évolution, s'individualise.
-   Collective et communicable dans les sociétés inférieures, elle est, en
-   principe, strictement personnelle dans les sociétés plus civilisées »
+   rÃ©vÃ©lÃ©e discrÃ¨te sur la question de la responsabilitÃ©. Les travaux de
+   Paul Fauconnet font cependant exception. Sa thÃ¨se s'appuie pour partie
+   sur les quatre leÃ§ons sur la responsabilitÃ© donnÃ©es en 1894 par Ã‰mile
+   Durkheim Ã  la facultÃ© des lettres de Bordeaux. Dans La responsabilitÃ©.
+   Ã‰tudes de sociologie, le jeune durkheimien propose de penser les faits
+   de responsabilitÃ© comme des faits sociaux Ã  part entiÃ¨re (Fauconnet,
+   1920). Ce faisant, il estime, Ã  la faÃ§on d'Ã‰mile Durkheim, que la
+   responsabilitÃ© est un produit de la pensÃ©e religieuse et que c'est
+   avant tout la sociÃ©tÃ© qui est blessÃ©e lorsqu'une faute est commise, si
+   bien qu'Ã  travers la figure du criminel, c'est en fait l'acte criminel
+   qui est visÃ©. Chaque groupement humain, ajoute-t-il, Ã©dicte des
+   principes de justice qui n'ont rien d'universel : d'une pÃ©riode et
+   d'une sociÃ©tÃ© Ã  l'autre, les personnes susceptibles d'Ãªtre punies ne
+   sont pas nÃ©cessairement les mÃªmes. ConformÃ©ment Ã  la loi de gravitation
+   du monde social Ã©dictÃ©e par l'auteur de la Division du travail social,
+   Â« la responsabilitÃ©, au cours de l'Ã©volution, s'individualise.
+   Collective et communicable dans les sociÃ©tÃ©s infÃ©rieures, elle est, en
+   principe, strictement personnelle dans les sociÃ©tÃ©s plus civilisÃ©es Â»
    (Fauconnet, 1920, p. 330). Dans le monde contemporain, ensuite, la
-   personne que l'on tient responsable doit pouvoir tenir « le rôle de
-   patient de la peine. Juridiquement, la responsabilité est un cas
-   particulier de "capacité" : l'homme adulte et normal, en principe, est
-   "habile" à être puni » (Fauconnet, 1920, p. 26).
+   personne que l'on tient responsable doit pouvoir tenir Â« le rÃ´le de
+   patient de la peine. Juridiquement, la responsabilitÃ© est un cas
+   particulier de "capacitÃ©" : l'homme adulte et normal, en principe, est
+   "habile" Ã  Ãªtre puni Â» (Fauconnet, 1920, p. 26).
 
-   14En distinguant différents types de responsabilités (subjective et
-   objective, active et passive, directe et indirecte, par contiguïté et
-   par ressemblance), P. Fauconnet fraye par ailleurs la voie à des débats
-   toujours d'actualité, comme celui sur la responsabilité collective
-   (May, 1992). Le fait d'appartenir à un groupe moralement responsable
-   d'une action répréhensible (dans le cadre d'une vendetta par exemple)
-   engage-t-il la responsabilité individuelle de toutes celles et tous
-   ceux qui composent le collectif ? Si certains répondent par
+   14En distinguant diffÃ©rents types de responsabilitÃ©s (subjective et
+   objective, active et passive, directe et indirecte, par contiguÃ¯tÃ© et
+   par ressemblance), P. Fauconnet fraye par ailleurs la voie Ã  des dÃ©bats
+   toujours d'actualitÃ©, comme celui sur la responsabilitÃ© collective
+   (May, 1992). Le fait d'appartenir Ã  un groupe moralement responsable
+   d'une action rÃ©prÃ©hensible (dans le cadre d'une vendetta par exemple)
+   engage-t-il la responsabilitÃ© individuelle de toutes celles et tous
+   ceux qui composent le collectif ? Si certains rÃ©pondent par
    l'affirmative, pour Margaret Gilbert (2008) il ne fait aucun doute que
    le co-engagement d'un individu dans un sujet pluriel ne permet pas de
-   lui imputer les conséquences fautives d'une action collective à
-   laquelle il n'a pas participé. Les débats sur le sang contaminé, les
+   lui imputer les consÃ©quences fautives d'une action collective Ã 
+   laquelle il n'a pas participÃ©. Les dÃ©bats sur le sang contaminÃ©, les
    suicides au travail, les fautes et les maladies professionnelles
-   rappellent à quel point cette question demeure brûlante et
-   controversée.
+   rappellent Ã  quel point cette question demeure brÃ»lante et
+   controversÃ©e.
 
-   15P. Fauconnet souligne enfin l'importance des modalités d'institution
-   de la responsabilité. À ses yeux, le droit et la morale y concourent au
+   15P. Fauconnet souligne enfin l'importance des modalitÃ©s d'institution
+   de la responsabilitÃ©. Ã€ ses yeux, le droit et la morale y concourent au
    premier chef. Lorsque l'on tire librement un tel fil, deux autres
-   institutions appellent immédiatement l'attention. La science d'abord.
-   Les contributions à ce dossier en témoignent de façon inégale : les
+   institutions appellent immÃ©diatement l'attention. La science d'abord.
+   Les contributions Ã  ce dossier en tÃ©moignent de faÃ§on inÃ©gale : les
    savoirs produits sur le travail et les interventions que certaines
    pratiquent en entreprise ont des effets dont, pour le meilleur comme
-   pour le pire, les chercheurs peuvent difficilement s'exonérer. Le
+   pour le pire, les chercheurs peuvent difficilement s'exonÃ©rer. Le
    langage ensuite. Pour imputer une faute ou entrer en dialogue avec
-   autrui, il faut pouvoir dire « je » ou « tu ». Or, toutes les langues
+   autrui, il faut pouvoir dire Â« je Â» ou Â« tu Â». Or, toutes les langues
    ne le permettent pas. Partant d'un tel constat, Jean-Louis Genard
-   (1999, 2005) propose une lecture stimulante de la responsabilité comme
-   « modèle d'interprétation de l'action » qui rompt avec les prémisses
+   (1999, 2005) propose une lecture stimulante de la responsabilitÃ© comme
+   Â« modÃ¨le d'interprÃ©tation de l'action Â» qui rompt avec les prÃ©misses
    durkheimiennes de P. Fauconnet.
 
-   16Pour J.-L. Genard, plus exactement, l'abandon des modèles
-   d'explication du monde qui attribuent à des forces extérieures (comme
-   la grâce, le destin...) la survenue des événements va de pair, entre
-   les XII^e et XV^e siècles, avec la mutation des structures
-   linguistiques. L'invention du « je » et du « tu » procède d'un tournant
-   qui affecte directement le droit. Celui-ci se subjectivise en s'étayant
-   sur une sémantique de l'action, caractéristique du modèle de la
-   responsabilité juridique. L'invention d'une grammaire formelle composée
+   16Pour J.-L. Genard, plus exactement, l'abandon des modÃ¨les
+   d'explication du monde qui attribuent Ã  des forces extÃ©rieures (comme
+   la grÃ¢ce, le destin...) la survenue des Ã©vÃ©nements va de pair, entre
+   les XII^e et XV^e siÃ¨cles, avec la mutation des structures
+   linguistiques. L'invention du Â« je Â» et du Â« tu Â» procÃ¨de d'un tournant
+   qui affecte directement le droit. Celui-ci se subjectivise en s'Ã©tayant
+   sur une sÃ©mantique de l'action, caractÃ©ristique du modÃ¨le de la
+   responsabilitÃ© juridique. L'invention d'une grammaire formelle composÃ©e
    de verbes modaux (devoir, vouloir, savoir, pouvoir) permet alors de
-   mettre en mots et en interrogation ce qu'être responsable veut dire :
+   mettre en mots et en interrogation ce qu'Ãªtre responsable veut dire :
    cette personne devait-elle faire ce qu'elle a fait ou n'a pas fait ?
    A-t-elle voulu le faire ? Le pouvait-elle ? Etc. Cette grille
-   d'interprétation est utile pour formaliser des phénomènes dont ce
-   dossier rend compte, comme l'hypertrophie du « je » par le biais de la
-   propension à transformer tout un chacun en auteur de sa propre vie ou
-   l'épuisement de certaines modalités anciennes (l'ignorance,
-   l'impuissance...) comme facteurs d'exonération d'une faute au profit
-   par exemple d'un manque collectif de prévoyance ou d'une imputation
-   indirecte (« responsable mais non coupable »).
+   d'interprÃ©tation est utile pour formaliser des phÃ©nomÃ¨nes dont ce
+   dossier rend compte, comme l'hypertrophie du Â« je Â» par le biais de la
+   propension Ã  transformer tout un chacun en auteur de sa propre vie ou
+   l'Ã©puisement de certaines modalitÃ©s anciennes (l'ignorance,
+   l'impuissance...) comme facteurs d'exonÃ©ration d'une faute au profit
+   par exemple d'un manque collectif de prÃ©voyance ou d'une imputation
+   indirecte (Â« responsable mais non coupable Â»).
 
-2. Une grille d'analyse de la responsabilité au travail
+2. Une grille d'analyse de la responsabilitÃ© au travail
 
    17Tout comme les travaux de P. Ricoeur, ceux de P. Fauconnet, dont les
-   thèses ont été récemment redécouvertes (Combessie, 2008 ; Sapiro, 2008)
-   et ceux de J.-L. Genard offrent, dans des esprits bien différents,
-   matière à forger une grille d'analyse de la responsabilité originale et
-   stimulante. Nous en retiendrons des exigences d'historicité et
-   d'attention portée aux conditions de l'action, de même que l'intérêt de
-   différencier les composantes sémantiques de la responsabilité et leurs
+   thÃ¨ses ont Ã©tÃ© rÃ©cemment redÃ©couvertes (Combessie, 2008 ; Sapiro, 2008)
+   et ceux de J.-L. Genard offrent, dans des esprits bien diffÃ©rents,
+   matiÃ¨re Ã  forger une grille d'analyse de la responsabilitÃ© originale et
+   stimulante. Nous en retiendrons des exigences d'historicitÃ© et
+   d'attention portÃ©e aux conditions de l'action, de mÃªme que l'intÃ©rÃªt de
+   diffÃ©rencier les composantes sÃ©mantiques de la responsabilitÃ© et leurs
    registres d'application.
 
-2.1. Trois composantes sémantiques
+2.1. Trois composantes sÃ©mantiques
 
-   18Dans la plupart des cas, les analystes associent la définition
-   moderne de la responsabilité à une double exigence.
-   Individuelle d'abord : une personne à laquelle il est loisible
-   d'imputer la survenance d'un événement est responsable si elle est
-   capable de répondre de son action et d'en rendre compte. Le mot
-   allemand Zurechnungsfähigkeit dit clairement l'importance de la
+   18Dans la plupart des cas, les analystes associent la dÃ©finition
+   moderne de la responsabilitÃ© Ã  une double exigence.
+   Individuelle d'abord : une personne Ã  laquelle il est loisible
+   d'imputer la survenance d'un Ã©vÃ©nement est responsable si elle est
+   capable de rÃ©pondre de son action et d'en rendre compte. Le mot
+   allemand ZurechnungsfÃ¤higkeit dit clairement l'importance de la
    reddition des comptes (Rechnungen) comme condition de la
-   responsabilité. Il indique en outre la nécessité pour être responsable
-   d'en avoir la capacité (Fähigkeit). L'exigence est également
+   responsabilitÃ©. Il indique en outre la nÃ©cessitÃ© pour Ãªtre responsable
+   d'en avoir la capacitÃ© (FÃ¤higkeit). L'exigence est Ã©galement
    collective : toutes les formes d'organisation ne permettent pas ce
    travail de restitution qui engage un individu ou un groupe. Sur le plan
-   politique, par exemple, seules les démocraties modernes ont érigé le
+   politique, par exemple, seules les dÃ©mocraties modernes ont Ã©rigÃ© le
    fait de rendre compte au titre de devoir auquel doivent se plier aussi
-   bien les citoyens que l'État (Arendt, 1961 [1958]). Comme l'indique
-   pour sa part Max Weber dans sa conférence de 1919, l'honneur de celui
-   ou celle qui vit de la politique consiste, à la différence des
-   fonctionnaires, à savoir être personnellement responsable de tout ce
+   bien les citoyens que l'Ã‰tat (Arendt, 1961 [1958]). Comme l'indique
+   pour sa part Max Weber dans sa confÃ©rence de 1919, l'honneur de celui
+   ou celle qui vit de la politique consiste, Ã  la diffÃ©rence des
+   fonctionnaires, Ã  savoir Ãªtre personnellement responsable de tout ce
    qu'il fait (Weber, 1959 ; Duran, 2009).
 
-   19À ce stade de l'enquête, on peut donc retenir que la responsabilité
-   s'est construite sur le plan sémantique à travers deux composantes
-   majeures : l'appel à la reddition des comptes et la capacité
-   (psychique, morale...) à assumer l'imputation d'une action et ses
-   conséquences. Une troisième composante se dégage si l'on considère,
-   outre son historicité, la polymorphie (Passeron, 1991) du concept :
-   apparaît alors la capacité à prendre en charge, soi-même mais aussi et
-   surtout autrui. Analyser les conditions d'émergence de cette troisième
-   composante -- la prise en charge -- amène à faire d'autrui un autre
-   trait constitutif de la responsabilité.
+   19Ã€ ce stade de l'enquÃªte, on peut donc retenir que la responsabilitÃ©
+   s'est construite sur le plan sÃ©mantique Ã  travers deux composantes
+   majeures : l'appel Ã  la reddition des comptes et la capacitÃ©
+   (psychique, morale...) Ã  assumer l'imputation d'une action et ses
+   consÃ©quences. Une troisiÃ¨me composante se dÃ©gage si l'on considÃ¨re,
+   outre son historicitÃ©, la polymorphie (Passeron, 1991) du concept :
+   apparaÃ®t alors la capacitÃ© Ã  prendre en charge, soi-mÃªme mais aussi et
+   surtout autrui. Analyser les conditions d'Ã©mergence de cette troisiÃ¨me
+   composante -- la prise en charge -- amÃ¨ne Ã  faire d'autrui un autre
+   trait constitutif de la responsabilitÃ©.
 
 2.2. Trois registres d'application
 
-   20Le droit est le premier terrain où le terme « responsabilité » a été
-   éprouvé dans son association à autrui. Dans ce champ, initialement, la
-   responsabilité est soit de nature civile, auquel cas elle appelle
-   réparation, soit de nature pénale, la sanction s'imposant alors comme
-   contrepartie aux méfaits et aux souffrances imputables aux sujets
+   20Le droit est le premier terrain oÃ¹ le terme Â« responsabilitÃ© Â» a Ã©tÃ©
+   Ã©prouvÃ© dans son association Ã  autrui. Dans ce champ, initialement, la
+   responsabilitÃ© est soit de nature civile, auquel cas elle appelle
+   rÃ©paration, soit de nature pÃ©nale, la sanction s'imposant alors comme
+   contrepartie aux mÃ©faits et aux souffrances imputables aux sujets
    fautifs. Historiquement, l'imputation est donc constitutive du premier
-   registre d'application de la responsabilité.
+   registre d'application de la responsabilitÃ©.
 
-   21Quand elle a cessé d'être mobilisée en des termes exclusivement
-   kantiens, qui associent une libre volonté à une obligation morale, la
-   responsabilité a conquis des territoires qui ont pour caractéristique
-   d'ouvrir leur horizon à un autrui vulnérable. On quitte de la sorte le
-   registre de l'imputation pour gagner un deuxième espace
-   d'interprétation et d'application. Dans cette nouvelle perspective,
-   abondamment théorisée par Emmanuel Levinas (1979), « c'est de l'autre
-   dont j'ai la charge que je suis responsable. La responsabilité ne se
-   réduit plus au jugement porté sur le rapport entre l'auteur de l'action
-   et les effets de celle-ci dans le monde ; elle s'étend au rapport entre
-   l'auteur de l'action et celui qui la subit » (Ricoeur, 1994, p. 43). La
+   21Quand elle a cessÃ© d'Ãªtre mobilisÃ©e en des termes exclusivement
+   kantiens, qui associent une libre volontÃ© Ã  une obligation morale, la
+   responsabilitÃ© a conquis des territoires qui ont pour caractÃ©ristique
+   d'ouvrir leur horizon Ã  un autrui vulnÃ©rable. On quitte de la sorte le
+   registre de l'imputation pour gagner un deuxiÃ¨me espace
+   d'interprÃ©tation et d'application. Dans cette nouvelle perspective,
+   abondamment thÃ©orisÃ©e par Emmanuel Levinas (1979), Â« c'est de l'autre
+   dont j'ai la charge que je suis responsable. La responsabilitÃ© ne se
+   rÃ©duit plus au jugement portÃ© sur le rapport entre l'auteur de l'action
+   et les effets de celle-ci dans le monde ; elle s'Ã©tend au rapport entre
+   l'auteur de l'action et celui qui la subit Â» (Ricoeur, 1994, p. 43). La
    loi du 9 avril 1898 sur les accidents du travail constitue un moment de
-   bascule historique qui symbolise à lui seul une telle rupture. Les
-   premières lignes de cette loi sont sans équivoque :
+   bascule historique qui symbolise Ã  lui seul une telle rupture. Les
+   premiÃ¨res lignes de cette loi sont sans Ã©quivoque :
 
-     * 1 L'examen historique révèle que les pratiques sont loin d'avoir
-       été à la hauteur des ambitions affic (...)
+     * 1 L'examen historique rÃ©vÃ¨le que les pratiques sont loin d'avoir
+       Ã©tÃ© Ã  la hauteur des ambitions affic (...)
 
-   « Les accidents survenus par le fait du travail, ou à l'occasion du
-   travail, aux ouvriers et employés occupés dans l'industrie du bâtiment,
+   Â« Les accidents survenus par le fait du travail, ou Ã  l'occasion du
+   travail, aux ouvriers et employÃ©s occupÃ©s dans l'industrie du bÃ¢timent,
    les usines, manufactures, chantiers [...] donnent droit, au profit de
-   la victime ou de ses représentants, à une indemnité à la charge du chef
-   d'entreprise, à la condition que l'interruption de travail ait duré
-   plus de quatre jours » (Titre premier de la loi du 9 avril 1898 sur les
-   accidents de travail mise en vigueur le 1^er juillet 1899 et modifiée
-   le 16 mai 1899 par la chambre des députés)1.
+   la victime ou de ses reprÃ©sentants, Ã  une indemnitÃ© Ã  la charge du chef
+   d'entreprise, Ã  la condition que l'interruption de travail ait durÃ©
+   plus de quatre jours Â» (Titre premier de la loi du 9 avril 1898 sur les
+   accidents de travail mise en vigueur le 1^er juillet 1899 et modifiÃ©e
+   le 16 mai 1899 par la chambre des dÃ©putÃ©s)1.
 
-     * 2 Dans son article de 1994, P. Ricoeur associe ce registre à celui
+     * 2 Dans son article de 1994, P. Ricoeur associe ce registre Ã  celui
        de l'ascription afin de signifier q (...)
 
-   22En se déportant de l'imputation individuelle de la faute vers la
-   gestion socialisée des risques, une telle loi participe à la confection
-   d'un nouveau registre : celui de la responsabilité sans faute2.
+   22En se dÃ©portant de l'imputation individuelle de la faute vers la
+   gestion socialisÃ©e des risques, une telle loi participe Ã  la confection
+   d'un nouveau registre : celui de la responsabilitÃ© sans faute2.
 
-   23Un troisième registre encore doit être évoqué, qui se différencie lui
-   aussi de l'imputation. En opposant le juridique et la morale à la suite
-   du civiliste J. Carbonnier, O. Abel (1994) en éclaire la singularité.
-   Parce qu'elle a partie liée avec la responsabilité juridique,
-   l'imputation est tournée vers le passé. La responsabilité morale
-   regarde quant à elle vers le futur. Elle invite à anticiper les
-   multiples conséquences que nos actions d'aujourd'hui pourront avoir
-   demain. Plutôt que de clore le cycle des enchaînements causaux comme le
-   fait le droit, elle laisse ouvert l'espace des possibles. En plaçant
-   les individus face à une histoire qui n'est pas encore écrite, elle
-   fait peser sur leurs épaules une responsabilité aussi floue
-   qu'illimitée. La posture adoptée par Hans Jonas en est la parfaite
-   illustration. Pour le philosophe allemand, en effet, la responsabilité
-   est « la sollicitude, reconnue comme un devoir, d'un autre être qui,
-   lorsque sa vulnérabilité est menacée, devient un "se faire du souci" »
-   (Jonas, 1990 [1979], p. 301). Garantir l'existence de l'être humain
-   devient de ce fait un impératif de nature ontologique. Il appartient à
-   la génération présente d'anticiper les implications possibles de ses
-   choix, en matière technique au premier chef, et de se prémunir des
+   23Un troisiÃ¨me registre encore doit Ãªtre Ã©voquÃ©, qui se diffÃ©rencie lui
+   aussi de l'imputation. En opposant le juridique et la morale Ã  la suite
+   du civiliste J. Carbonnier, O. Abel (1994) en Ã©claire la singularitÃ©.
+   Parce qu'elle a partie liÃ©e avec la responsabilitÃ© juridique,
+   l'imputation est tournÃ©e vers le passÃ©. La responsabilitÃ© morale
+   regarde quant Ã  elle vers le futur. Elle invite Ã  anticiper les
+   multiples consÃ©quences que nos actions d'aujourd'hui pourront avoir
+   demain. PlutÃ´t que de clore le cycle des enchaÃ®nements causaux comme le
+   fait le droit, elle laisse ouvert l'espace des possibles. En plaÃ§ant
+   les individus face Ã  une histoire qui n'est pas encore Ã©crite, elle
+   fait peser sur leurs Ã©paules une responsabilitÃ© aussi floue
+   qu'illimitÃ©e. La posture adoptÃ©e par Hans Jonas en est la parfaite
+   illustration. Pour le philosophe allemand, en effet, la responsabilitÃ©
+   est Â« la sollicitude, reconnue comme un devoir, d'un autre Ãªtre qui,
+   lorsque sa vulnÃ©rabilitÃ© est menacÃ©e, devient un "se faire du souci" Â»
+   (Jonas, 1990 [1979], p. 301). Garantir l'existence de l'Ãªtre humain
+   devient de ce fait un impÃ©ratif de nature ontologique. Il appartient Ã 
+   la gÃ©nÃ©ration prÃ©sente d'anticiper les implications possibles de ses
+   choix, en matiÃ¨re technique au premier chef, et de se prÃ©munir des
    risques de catastrophe que ceux-ci pourraient provoquer dessinant ainsi
-   un troisième registre : celui de la responsabilité conséquentialiste.
+   un troisiÃ¨me registre : celui de la responsabilitÃ© consÃ©quentialiste.
 
-   24Trois registres de responsabilité -- imputation, responsabilité sans
-   faute et responsabilité conséquentialiste -- peuvent ainsi être
-   distingués. À un titre ou à un autre, toutes les contributions qui
-   suivent s'y confrontent en considérant, depuis différentes fenêtres
-   disciplinaires, la façon dont travail et responsabilité s'articulent.
-   Équipés de cette grille, entrons maintenant dans le vif des thèses
-   défendues par les auteurs qui ont accepté de participer à ce
-   dossier-débat.
+   24Trois registres de responsabilitÃ© -- imputation, responsabilitÃ© sans
+   faute et responsabilitÃ© consÃ©quentialiste -- peuvent ainsi Ãªtre
+   distinguÃ©s. Ã€ un titre ou Ã  un autre, toutes les contributions qui
+   suivent s'y confrontent en considÃ©rant, depuis diffÃ©rentes fenÃªtres
+   disciplinaires, la faÃ§on dont travail et responsabilitÃ© s'articulent.
+   Ã‰quipÃ©s de cette grille, entrons maintenant dans le vif des thÃ¨ses
+   dÃ©fendues par les auteurs qui ont acceptÃ© de participer Ã  ce
+   dossier-dÃ©bat.
 
-3. Travail et imputation : une responsabilité de plus en plus
-individualisée ?
+3. Travail et imputation : une responsabilitÃ© de plus en plus
+individualisÃ©e ?
 
-   25Dans la tradition juridique, la responsabilité renvoie au registre de
-   l'imputation. Imputer équivaut d'abord à assigner une action à un
-   individu et ensuite à tirer les conséquences, en termes de sanction et
-   de réparation, de la faute qui a pu être commise par celui-ci. La
-   responsabilité exige, autrement dit, la présence conjointe d'une
-   liberté d'action, condition de l'homme capable (Ricoeur, 2001), et d'un
-   corpus normatif à l'aune duquel on peut qualifier le caractère fautif
-   d'une action. Même si un cosmos de règles spécifiques informe les
-   activités de travail, le schéma semble a priori plutôt pertinent pour
-   enquêter sur la responsabilité dans les mondes professionnels. De fait,
-   plusieurs contributions font référence à l'imputation. Elles mettent en
-   évidence, chacune à sa manière, la transformation du volet normatif qui
-   en est constitutif. En matière salariale par exemple, les politiques
-   d'individualisation du travail et des relations de travail développées
-   au cours de ces dernières décennies ont eu pour objectif de lier plus
-   étroitement implication individuelle, prise de responsabilité et formes
-   de reconnaissance, comme l'illustre le management par les compétences
+   25Dans la tradition juridique, la responsabilitÃ© renvoie au registre de
+   l'imputation. Imputer Ã©quivaut d'abord Ã  assigner une action Ã  un
+   individu et ensuite Ã  tirer les consÃ©quences, en termes de sanction et
+   de rÃ©paration, de la faute qui a pu Ãªtre commise par celui-ci. La
+   responsabilitÃ© exige, autrement dit, la prÃ©sence conjointe d'une
+   libertÃ© d'action, condition de l'homme capable (Ricoeur, 2001), et d'un
+   corpus normatif Ã  l'aune duquel on peut qualifier le caractÃ¨re fautif
+   d'une action. MÃªme si un cosmos de rÃ¨gles spÃ©cifiques informe les
+   activitÃ©s de travail, le schÃ©ma semble a priori plutÃ´t pertinent pour
+   enquÃªter sur la responsabilitÃ© dans les mondes professionnels. De fait,
+   plusieurs contributions font rÃ©fÃ©rence Ã  l'imputation. Elles mettent en
+   Ã©vidence, chacune Ã  sa maniÃ¨re, la transformation du volet normatif qui
+   en est constitutif. En matiÃ¨re salariale par exemple, les politiques
+   d'individualisation du travail et des relations de travail dÃ©veloppÃ©es
+   au cours de ces derniÃ¨res dÃ©cennies ont eu pour objectif de lier plus
+   Ã©troitement implication individuelle, prise de responsabilitÃ© et formes
+   de reconnaissance, comme l'illustre le management par les compÃ©tences
    (Reynaud, 2001). Dans ce cas, il s'agit moins de sanctionner ou de
-   réparer que de stigmatiser (celles et ceux qui sont jugés les moins
-   performants) et de récompenser (les plus efficients).
-     * 3 Loi n° 2018-771 du 5 septembre 2018 pour la liberté de choisir
+   rÃ©parer que de stigmatiser (celles et ceux qui sont jugÃ©s les moins
+   performants) et de rÃ©compenser (les plus efficients).
+     * 3 Loi nÂ° 2018-771 du 5 septembre 2018 pour la libertÃ© de choisir
        son avenir professionnel.
 
-   26La contribution de Nicole Maggi-Germain retrace la façon dont
-   l'individualisation en vient à s'installer dans le droit du travail,
-   pourtant historiquement destiné à pallier, à travers la régulation
-   collective, le déséquilibre de la relation contractuelle entre le
-   salarié individuel et son employeur. Elle montre en quoi l'accentuation
-   de l'autonomie et de la liberté individuelles tend à réintroduire dans
+   26La contribution de Nicole Maggi-Germain retrace la faÃ§on dont
+   l'individualisation en vient Ã  s'installer dans le droit du travail,
+   pourtant historiquement destinÃ© Ã  pallier, Ã  travers la rÃ©gulation
+   collective, le dÃ©sÃ©quilibre de la relation contractuelle entre le
+   salariÃ© individuel et son employeur. Elle montre en quoi l'accentuation
+   de l'autonomie et de la libertÃ© individuelles tend Ã  rÃ©introduire dans
    le droit du travail des droits subjectifs contre lesquels ce dernier
-   s'était précisément forgé en se dissociant du droit civil des contrats.
-   À travers la logique du compte notamment -- compte d'activité, compte
-   personnel de formation, compte professionnel de prévention --, le droit
-   du travail mobilise désormais la personne dans la définition de droits
-   associés non plus à un statut, mais à une personne singulière tout au
-   long de sa vie. Destinés à sécuriser les parcours et renforcer la
-   liberté de choisir -- comme le suggère l'intitulé de la dernière
-   réforme de la formation professionnelle3 --, les droits subjectifs ont
-   aussi pour contrepartie d'accentuer la responsabilité individuelle.
-   N. Maggi-Germain insiste sur cette tension qui caractérise la
-   subjectivation des droits sociaux, tiraillée entre le renforcement des
-   logiques de responsabilisation et d'imputation individuelle d'un côté,
-   la promesse d'émancipation de l'autre. Faire effectivement advenir
-   cette dernière supposerait que la subjectivation ne signifie pas
-   seulement une imputation individuelle de responsabilité, au double sens
-   de prendre en charge et de rendre compte, mais encore l'égal accès aux
-   moyens d'exercer cette responsabilité (être en capacité de).
+   s'Ã©tait prÃ©cisÃ©ment forgÃ© en se dissociant du droit civil des contrats.
+   Ã€ travers la logique du compte notamment -- compte d'activitÃ©, compte
+   personnel de formation, compte professionnel de prÃ©vention --, le droit
+   du travail mobilise dÃ©sormais la personne dans la dÃ©finition de droits
+   associÃ©s non plus Ã  un statut, mais Ã  une personne singuliÃ¨re tout au
+   long de sa vie. DestinÃ©s Ã  sÃ©curiser les parcours et renforcer la
+   libertÃ© de choisir -- comme le suggÃ¨re l'intitulÃ© de la derniÃ¨re
+   rÃ©forme de la formation professionnelle3 --, les droits subjectifs ont
+   aussi pour contrepartie d'accentuer la responsabilitÃ© individuelle.
+   N. Maggi-Germain insiste sur cette tension qui caractÃ©rise la
+   subjectivation des droits sociaux, tiraillÃ©e entre le renforcement des
+   logiques de responsabilisation et d'imputation individuelle d'un cÃ´tÃ©,
+   la promesse d'Ã©mancipation de l'autre. Faire effectivement advenir
+   cette derniÃ¨re supposerait que la subjectivation ne signifie pas
+   seulement une imputation individuelle de responsabilitÃ©, au double sens
+   de prendre en charge et de rendre compte, mais encore l'Ã©gal accÃ¨s aux
+   moyens d'exercer cette responsabilitÃ© (Ãªtre en capacitÃ© de).
 
    27Emmanuelle Auriol montre, pour sa part, comment l'individualisation
-   du travail a servi de levier intellectuel afin de réformer le paradigme
-   néo-classique en économie. Dans sa version initiale, celle qu'incarne
+   du travail a servi de levier intellectuel afin de rÃ©former le paradigme
+   nÃ©o-classique en Ã©conomie. Dans sa version initiale, celle qu'incarne
    la figure de l'homo oeconomicus standard, l'action humaine est
-   gouvernée par un intérêt matériel bien compris tandis que l'agrégation
-   de comportements réputés rationnels produit mécaniquement l'intérêt de
-   tous. La question de la responsabilité ne se pose donc pas. Mais dès
-   lors que, pour gagner en réalisme, l'on relâche ces deux hypothèses
-   fondatrices, la donne est toute différente. Les économistes qui
-   s'inscrivent dans une tradition néo-classique, ce qui est le cas de
-   l'école comportementale, n'ignorent pas les différences de performances
-   au travail ni les dysfonctionnements du marché du travail. Pour parer
-   les difficultés et optimiser les ressources, la solution proposée
-   consiste à peser sur les comportements par le truchement d'incitations
-   sélectives. Cette façon de responsabiliser les agents joue sur toute la
-   gamme qui va du positif (récompenses) au négatif (sanctions). Les
-   supports d'une telle politique sont les institutions, les règles de
+   gouvernÃ©e par un intÃ©rÃªt matÃ©riel bien compris tandis que l'agrÃ©gation
+   de comportements rÃ©putÃ©s rationnels produit mÃ©caniquement l'intÃ©rÃªt de
+   tous. La question de la responsabilitÃ© ne se pose donc pas. Mais dÃ¨s
+   lors que, pour gagner en rÃ©alisme, l'on relÃ¢che ces deux hypothÃ¨ses
+   fondatrices, la donne est toute diffÃ©rente. Les Ã©conomistes qui
+   s'inscrivent dans une tradition nÃ©o-classique, ce qui est le cas de
+   l'Ã©cole comportementale, n'ignorent pas les diffÃ©rences de performances
+   au travail ni les dysfonctionnements du marchÃ© du travail. Pour parer
+   les difficultÃ©s et optimiser les ressources, la solution proposÃ©e
+   consiste Ã  peser sur les comportements par le truchement d'incitations
+   sÃ©lectives. Cette faÃ§on de responsabiliser les agents joue sur toute la
+   gamme qui va du positif (rÃ©compenses) au nÃ©gatif (sanctions). Les
+   supports d'une telle politique sont les institutions, les rÃ¨gles de
    droit et les contrats.
 
-   28Lorsqu'il considère cette solution depuis la fenêtre de l'entreprise,
-   Mathieu Detchessahar s'avère plutôt sceptique. Le monde des
-   organisations étant tissé d'interdépendances, il est difficile de
-   dissocier l'origine, la part et la portée des actions des uns et des
-   autres, et donc de prétendre responsabiliser les individus par la voie
-   des incitations sélectives. Un même scepticisme perce les propos
-   consacrés au mouvement récent de « libération » des entreprises qui
-   prétend, lui aussi, responsabiliser les salariés mais par un biais
-   différent. Il s'agit dans ce cas d'étoffer l'autonomie d'action des
-   individus, de débrider leur capacité d'initiative et d'innovation. Il
-   faut noter ici le glissement qui s'est opéré. En dotant les salariés
-   d'un pouvoir de régulation individuel, on n'agit plus tant sur le volet
-   de l'imputation (le cadrage normatif) que sur celui de la liberté
-   d'action. L'ambition peut paraître louable. Le problème d'une telle
-   option est qu'elle fait fi des conditions concrètes de réalisation du
-   travail, à commencer par les modalités de coopération qui lient les uns
+   28Lorsqu'il considÃ¨re cette solution depuis la fenÃªtre de l'entreprise,
+   Mathieu Detchessahar s'avÃ¨re plutÃ´t sceptique. Le monde des
+   organisations Ã©tant tissÃ© d'interdÃ©pendances, il est difficile de
+   dissocier l'origine, la part et la portÃ©e des actions des uns et des
+   autres, et donc de prÃ©tendre responsabiliser les individus par la voie
+   des incitations sÃ©lectives. Un mÃªme scepticisme perce les propos
+   consacrÃ©s au mouvement rÃ©cent de Â« libÃ©ration Â» des entreprises qui
+   prÃ©tend, lui aussi, responsabiliser les salariÃ©s mais par un biais
+   diffÃ©rent. Il s'agit dans ce cas d'Ã©toffer l'autonomie d'action des
+   individus, de dÃ©brider leur capacitÃ© d'initiative et d'innovation. Il
+   faut noter ici le glissement qui s'est opÃ©rÃ©. En dotant les salariÃ©s
+   d'un pouvoir de rÃ©gulation individuel, on n'agit plus tant sur le volet
+   de l'imputation (le cadrage normatif) que sur celui de la libertÃ©
+   d'action. L'ambition peut paraÃ®tre louable. Le problÃ¨me d'une telle
+   option est qu'elle fait fi des conditions concrÃ¨tes de rÃ©alisation du
+   travail, Ã  commencer par les modalitÃ©s de coopÃ©ration qui lient les uns
    et les autres. Selon M. Detchessahar, l'instauration d'espaces de
    discussion sur le travail, par le biais du dialogue social mais pas
-   seulement, permet en revanche aux opérateurs de parler de leurs
-   pratiques réelles, d'agir sur celles-ci, de leur donner un sens, bref
-   d'être en capacité d'agir et donc d'exercer leurs responsabilités.
+   seulement, permet en revanche aux opÃ©rateurs de parler de leurs
+   pratiques rÃ©elles, d'agir sur celles-ci, de leur donner un sens, bref
+   d'Ãªtre en capacitÃ© d'agir et donc d'exercer leurs responsabilitÃ©s.
 
    29En raisonnant de la sorte, Mathieu Detchessahar pose explicitement
    ses pas dans ceux d'Yves Clot. Dans sa contribution, ce dernier prend
-   également au sérieux l'idée de responsabilité comme imputation mais en
-   l'élaguant bien plus résolument que les économistes « comportementaux »
-   de la dimension fautive qui en était initialement constitutive. Le
-   monde du travail n'est bien sûr pas exempt d'erreurs blâmables ou de
+   Ã©galement au sÃ©rieux l'idÃ©e de responsabilitÃ© comme imputation mais en
+   l'Ã©laguant bien plus rÃ©solument que les Ã©conomistes Â« comportementaux Â»
+   de la dimension fautive qui en Ã©tait initialement constitutive. Le
+   monde du travail n'est bien sÃ»r pas exempt d'erreurs blÃ¢mables ou de
    comportements discutables. Tout aussi soucieux de performance que les
-   économistes, Y. Clot n'en fait cependant pas un argument en faveur
-   d'une responsabilisation par incitation sélective. La démarche est tout
-   autre : la clinique de l'activité associe en effet la responsabilité au
-   pouvoir d'agir, celui de collectifs de travailleurs à même de peser sur
-   les situations de travail et capables de ce fait d'être comptables du
-   monde qu'ils et elles contribuent à fabriquer. Être responsable, c'est
-   pouvoir agir sur le monde, y imprimer des traces, être pleinement
-   impliqué dans la production de son milieu de vie. L'enjeu de
+   Ã©conomistes, Y. Clot n'en fait cependant pas un argument en faveur
+   d'une responsabilisation par incitation sÃ©lective. La dÃ©marche est tout
+   autre : la clinique de l'activitÃ© associe en effet la responsabilitÃ© au
+   pouvoir d'agir, celui de collectifs de travailleurs Ã  mÃªme de peser sur
+   les situations de travail et capables de ce fait d'Ãªtre comptables du
+   monde qu'ils et elles contribuent Ã  fabriquer. ÃŠtre responsable, c'est
+   pouvoir agir sur le monde, y imprimer des traces, Ãªtre pleinement
+   impliquÃ© dans la production de son milieu de vie. L'enjeu de
    l'imputation en ce cas n'est pas tant d'optimiser ce facteur de
-   production spécifique qu'est le travail que de garantir la santé et le
+   production spÃ©cifique qu'est le travail que de garantir la santÃ© et le
    pouvoir d'agir de celles et ceux qui travaillent.
 
-   30Dans la perspective ouverte par la clinique de l'activité, la
-   responsabilité n'est pas qu'une affaire individuelle et encore moins le
-   produit d'une « relation principal/agent ». Elle engage des collectifs
-   de pairs qui, grâce à des disputes professionnelles, construisent et
-   s'accordent sur les critères de qualité du travail. La dimension morale
-   de la responsabilité pensée sur le mode de l'imputation n'est donc pas
-   évacuée, mais la place réservée à la régulation autonome n'est en rien
-   comparable à la portion congrue que lui réservent les modèles
-   juridiques et économiques dominants. Last but not least, cette
-   conception active de la responsabilité invite à mettre en débat les
-   fondements du contrat de travail, à commencer par le principe de
-   subordination peu compatible avec l'idéal régulateur d'une organisation
-   collectivement délibérée du travail que propose Y. Clot.
+   30Dans la perspective ouverte par la clinique de l'activitÃ©, la
+   responsabilitÃ© n'est pas qu'une affaire individuelle et encore moins le
+   produit d'une Â« relation principal/agent Â». Elle engage des collectifs
+   de pairs qui, grÃ¢ce Ã  des disputes professionnelles, construisent et
+   s'accordent sur les critÃ¨res de qualitÃ© du travail. La dimension morale
+   de la responsabilitÃ© pensÃ©e sur le mode de l'imputation n'est donc pas
+   Ã©vacuÃ©e, mais la place rÃ©servÃ©e Ã  la rÃ©gulation autonome n'est en rien
+   comparable Ã  la portion congrue que lui rÃ©servent les modÃ¨les
+   juridiques et Ã©conomiques dominants. Last but not least, cette
+   conception active de la responsabilitÃ© invite Ã  mettre en dÃ©bat les
+   fondements du contrat de travail, Ã  commencer par le principe de
+   subordination peu compatible avec l'idÃ©al rÃ©gulateur d'une organisation
+   collectivement dÃ©libÃ©rÃ©e du travail que propose Y. Clot.
 
-   31Également dédiées à la santé au travail, les contributions d'Emmanuel
-   Henry et d'Émilie Counil prennent la question par un autre bout, à
-   partir de la sociologie politique pour la première, de l'épidémiologie
-   pour la seconde. Faisant du scandale de l'amiante un cas d'école,
-   E. Henry s'attache à rendre compte de la spécificité des logiques
-   d'imputation en matière de santé au travail. Il développe la thèse de
-   la production institutionnelle d'une irresponsabilité patronale et
-   industrielle dont il s'attache à identifier les ressorts. Pour ce
+   31Ã‰galement dÃ©diÃ©es Ã  la santÃ© au travail, les contributions d'Emmanuel
+   Henry et d'Ã‰milie Counil prennent la question par un autre bout, Ã 
+   partir de la sociologie politique pour la premiÃ¨re, de l'Ã©pidÃ©miologie
+   pour la seconde. Faisant du scandale de l'amiante un cas d'Ã©cole,
+   E. Henry s'attache Ã  rendre compte de la spÃ©cificitÃ© des logiques
+   d'imputation en matiÃ¨re de santÃ© au travail. Il dÃ©veloppe la thÃ¨se de
+   la production institutionnelle d'une irresponsabilitÃ© patronale et
+   industrielle dont il s'attache Ã  identifier les ressorts. Pour ce
    faire, il part d'une analyse des dispositifs d'action publique et des
-   formes de responsabilisation qu'ils autorisent ou empêchent, pour
-   montrer le grippage des mécanismes d'imputation. Il relève plus
-   particulièrement trois facteurs qui rendent difficile, voire
-   impossible, l'imputation à un employeur d'une atteinte à la santé d'un
-   ou une salariée : le manque de connaissances pour établir une
-   causalité ; l'extension insidieuse aux maladies professionnelles de la
-   « responsabilité sans faute » introduite par la loi de 1898 sur les
-   accidents du travail ; enfin, la limitation de la responsabilité pénale
-   de l'employeur renforcée par la loi du 10 juillet 2000 tendant à
-   préciser la définition des délits non intentionnels. Dans le même
-   temps, le développement de la prévention en matière de santé au travail
-   rend désormais l'employeur susceptible d'une condamnation pénale pour
-   « faute inexcusable ». Mais encore faut-il pouvoir apporter la preuve
-   d'une telle faute et disposer des connaissances nécessaires pour
-   soutenir des politiques de prévention en la matière. Or c'est là que le
-   bât blesse, comme le montre É. Counil en revenant sur les conditions de
-   production des connaissances sur les rapports entre santé et travail.
+   formes de responsabilisation qu'ils autorisent ou empÃªchent, pour
+   montrer le grippage des mÃ©canismes d'imputation. Il relÃ¨ve plus
+   particuliÃ¨rement trois facteurs qui rendent difficile, voire
+   impossible, l'imputation Ã  un employeur d'une atteinte Ã  la santÃ© d'un
+   ou une salariÃ©e : le manque de connaissances pour Ã©tablir une
+   causalitÃ© ; l'extension insidieuse aux maladies professionnelles de la
+   Â« responsabilitÃ© sans faute Â» introduite par la loi de 1898 sur les
+   accidents du travail ; enfin, la limitation de la responsabilitÃ© pÃ©nale
+   de l'employeur renforcÃ©e par la loi du 10 juillet 2000 tendant Ã 
+   prÃ©ciser la dÃ©finition des dÃ©lits non intentionnels. Dans le mÃªme
+   temps, le dÃ©veloppement de la prÃ©vention en matiÃ¨re de santÃ© au travail
+   rend dÃ©sormais l'employeur susceptible d'une condamnation pÃ©nale pour
+   Â« faute inexcusable Â». Mais encore faut-il pouvoir apporter la preuve
+   d'une telle faute et disposer des connaissances nÃ©cessaires pour
+   soutenir des politiques de prÃ©vention en la matiÃ¨re. Or c'est lÃ  que le
+   bÃ¢t blesse, comme le montre Ã‰. Counil en revenant sur les conditions de
+   production des connaissances sur les rapports entre santÃ© et travail.
 
-   32É. Counil tire le fil cognitif de cette imputation empêchée en
-   analysant comment l'épidémiologie, dont c'est pourtant la vocation que
-   d'étudier les facteurs susceptibles d'exercer une influence sur la
-   survenue et la distribution des maladies, contribue à produire
-   l'irresponsabilité des employeurs en matière de santé au travail. De
-   quelle manière ? Tout simplement en ne produisant que peu, sinon pas,
+   32Ã‰. Counil tire le fil cognitif de cette imputation empÃªchÃ©e en
+   analysant comment l'Ã©pidÃ©miologie, dont c'est pourtant la vocation que
+   d'Ã©tudier les facteurs susceptibles d'exercer une influence sur la
+   survenue et la distribution des maladies, contribue Ã  produire
+   l'irresponsabilitÃ© des employeurs en matiÃ¨re de santÃ© au travail. De
+   quelle maniÃ¨re ? Tout simplement en ne produisant que peu, sinon pas,
    de connaissances sur les risques que le travail fait peser sur la
-   santé. C'est plus exactement la production de connaissances validées
+   santÃ©. C'est plus exactement la production de connaissances validÃ©es
    comme fiables selon les canons de la discipline qui est ici en jeu. En
-   revenant sur l'histoire des critères d'administration de la preuve,
-   É. Counil montre comment ceux-ci se sont durcis au détriment de la
-   reconnaissance du rôle du travail dans la santé. Elle met en évidence
-   par la même occasion les tensions et les controverses que suscite ce
-   durcissement, voire le dilemme moral qui peut en résulter pour les
-   chercheurs qui considèrent que, dans ce processus, leur propre
-   responsabilité est aussi en jeu. De fait, l'absence de données
-   scientifiques établissant un lien de causalité entre conditions ou
-   organisation du travail et atteinte à la santé, ne met pas seulement
-   les salariés et leur famille dans l'incapacité de demander réparation,
-   elle cautionne aussi la perpétuation des catastrophes sanitaires liées
+   revenant sur l'histoire des critÃ¨res d'administration de la preuve,
+   Ã‰. Counil montre comment ceux-ci se sont durcis au dÃ©triment de la
+   reconnaissance du rÃ´le du travail dans la santÃ©. Elle met en Ã©vidence
+   par la mÃªme occasion les tensions et les controverses que suscite ce
+   durcissement, voire le dilemme moral qui peut en rÃ©sulter pour les
+   chercheurs qui considÃ¨rent que, dans ce processus, leur propre
+   responsabilitÃ© est aussi en jeu. De fait, l'absence de donnÃ©es
+   scientifiques Ã©tablissant un lien de causalitÃ© entre conditions ou
+   organisation du travail et atteinte Ã  la santÃ©, ne met pas seulement
+   les salariÃ©s et leur famille dans l'incapacitÃ© de demander rÃ©paration,
+   elle cautionne aussi la perpÃ©tuation des catastrophes sanitaires liÃ©es
    au travail.
 
-4. Travail et responsabilité sans faute : une redéfinition des droits et des
+4. Travail et responsabilitÃ© sans faute : une redÃ©finition des droits et des
 devoirs ?
 
-   33Plusieurs contributions le montrent : on observe dans différents
+   33Plusieurs contributions le montrent : on observe dans diffÃ©rents
    domaines un glissement du registre de l'imputation vers celui de la
-   responsabilité sans faute. Dans ce cas, d'autres référentiels que celui
-   de l'action blâmable et sanctionnable donnent sens à ce qu'être
-   responsable signifie. L'attention qu'impose la responsabilité se
+   responsabilitÃ© sans faute. Dans ce cas, d'autres rÃ©fÃ©rentiels que celui
+   de l'action blÃ¢mable et sanctionnable donnent sens Ã  ce qu'Ãªtre
+   responsable signifie. L'attention qu'impose la responsabilitÃ© se
    focalise alors non plus sur l'auteur d'un dommage mais sur celui ou
-   celle qui en subit les conséquences. P. Ricoeur (1994) s'appuie sur la
+   celle qui en subit les consÃ©quences. P. Ricoeur (1994) s'appuie sur la
    loi de 1898 sur les accidents du travail pour illustrer ce basculement
-   de la responsabilité en direction du risque, de la sécurité ou encore
-   de la solidarité. Avec cette loi, le travailleur est exonéré de toute
+   de la responsabilitÃ© en direction du risque, de la sÃ©curitÃ© ou encore
+   de la solidaritÃ©. Avec cette loi, le travailleur est exonÃ©rÃ© de toute
    imputation qui pourrait le rendre coupable d'une erreur ou d'une faute
-   dommageable à son endroit. La socialisation du risque rend caduque la
-   recherche d'attribution d'une action à un agent afin d'en qualifier
-   moralement le comportement. La responsabilité est en somme déportée
+   dommageable Ã  son endroit. La socialisation du risque rend caduque la
+   recherche d'attribution d'une action Ã  un agent afin d'en qualifier
+   moralement le comportement. La responsabilitÃ© est en somme dÃ©portÃ©e
    hors de la relation acteur-action.
 
-   34Historiquement, ce mouvement qui affecte notre compréhension de la
-   responsabilité s'opère au moment où la société industrielle invente de
-   nouveaux mécanismes de solidarité qui rompent avec les principes et les
-   représentations individualistes antérieures. À ce titre,
+   34Historiquement, ce mouvement qui affecte notre comprÃ©hension de la
+   responsabilitÃ© s'opÃ¨re au moment oÃ¹ la sociÃ©tÃ© industrielle invente de
+   nouveaux mÃ©canismes de solidaritÃ© qui rompent avec les principes et les
+   reprÃ©sentations individualistes antÃ©rieures. Ã€ ce titre,
    N. Maggi-Germain nous rappelle que la constitution du droit du travail
-   en une branche spécifique a contribué à refonder tout un pan du droit
-   de la responsabilité civile, en reconnaissant la possibilité d'une
-   responsabilité sans faute fondée sur la notion de risque. Du « rendre
-   compte individuel », l'accent se déplace alors vers la prise en charge
-   collective et, dans un même mouvement, des droits subjectifs vers le
-   droit objectif. N. Maggi-Germain suggère que cette idée de prise en
-   charge, constitutive du droit du travail et fondée sur une
-   socialisation des risques, tend aujourd'hui à s'étendre au risque
-   économique. Prenant exemple de l'assouplissement des conditions de
-   rupture du contrat de travail pour les salariés ou du statut des
-   travailleurs de plate-forme pour les indépendants, elle constate que le
-   risque économique est désormais plus fortement que par le passé porté
-   par les travailleurs. Mais la thèse que défend N. Maggi-Germain ne
-   prend toute son ampleur qu'en considérant ce mouvement d'extension de
-   la responsabilité sans faute dans son lien avec le processus
-   d'individualisation de l'imputation précédemment analysé.
+   en une branche spÃ©cifique a contribuÃ© Ã  refonder tout un pan du droit
+   de la responsabilitÃ© civile, en reconnaissant la possibilitÃ© d'une
+   responsabilitÃ© sans faute fondÃ©e sur la notion de risque. Du Â« rendre
+   compte individuel Â», l'accent se dÃ©place alors vers la prise en charge
+   collective et, dans un mÃªme mouvement, des droits subjectifs vers le
+   droit objectif. N. Maggi-Germain suggÃ¨re que cette idÃ©e de prise en
+   charge, constitutive du droit du travail et fondÃ©e sur une
+   socialisation des risques, tend aujourd'hui Ã  s'Ã©tendre au risque
+   Ã©conomique. Prenant exemple de l'assouplissement des conditions de
+   rupture du contrat de travail pour les salariÃ©s ou du statut des
+   travailleurs de plate-forme pour les indÃ©pendants, elle constate que le
+   risque Ã©conomique est dÃ©sormais plus fortement que par le passÃ© portÃ©
+   par les travailleurs. Mais la thÃ¨se que dÃ©fend N. Maggi-Germain ne
+   prend toute son ampleur qu'en considÃ©rant ce mouvement d'extension de
+   la responsabilitÃ© sans faute dans son lien avec le processus
+   d'individualisation de l'imputation prÃ©cÃ©demment analysÃ©.
 
-   35D'un côté, la subjectivation des droits sociaux induit une extension
+   35D'un cÃ´tÃ©, la subjectivation des droits sociaux induit une extension
    des domaines dans lesquels le travailleur peut faire l'objet d'une
-   imputation de responsabilité et être sommé de rendre des comptes ; de
-   l'autre, l'élargissement du champ de la responsabilité sans faute
+   imputation de responsabilitÃ© et Ãªtre sommÃ© de rendre des comptes ; de
+   l'autre, l'Ã©largissement du champ de la responsabilitÃ© sans faute
    signifie une plus grande implication des travailleurs dans la prise en
-   charge du risque économique. Or, le fait est que ces derniers ne sont
-   pas forcément en capacité d'assumer une telle charge, fut-ce en raison
-   de leur situation de subordination juridique (dans le cas des salariés)
-   ou de dépendance économique (pour toute une fraction d'indépendants).
+   charge du risque Ã©conomique. Or, le fait est que ces derniers ne sont
+   pas forcÃ©ment en capacitÃ© d'assumer une telle charge, fut-ce en raison
+   de leur situation de subordination juridique (dans le cas des salariÃ©s)
+   ou de dÃ©pendance Ã©conomique (pour toute une fraction d'indÃ©pendants).
    Ce double mouvement d'individualisation des droits sociaux et de
-   socialisation du risque économique induit un nouvel agencement entre
-   imputation individuelle et responsabilité sans faute. Il appelle
-   également une réarticulation des composantes du « rendre compte », du
-   « prendre en charge » et du « être en capacité ». N. Maggi-Germain voit
-   là les prémisses de l'évolution du droit du travail vers le droit
-   commun, et plus largement de la transformation de l'État social vers un
-   État régulateur.
+   socialisation du risque Ã©conomique induit un nouvel agencement entre
+   imputation individuelle et responsabilitÃ© sans faute. Il appelle
+   Ã©galement une rÃ©articulation des composantes du Â« rendre compte Â», du
+   Â« prendre en charge Â» et du Â« Ãªtre en capacitÃ© Â». N. Maggi-Germain voit
+   lÃ  les prÃ©misses de l'Ã©volution du droit du travail vers le droit
+   commun, et plus largement de la transformation de l'Ã‰tat social vers un
+   Ã‰tat rÃ©gulateur.
 
-   36La contribution d'E. Henry conforte cette thèse en montrant comment
-   l'extension de la responsabilité sans faute aux maladies
-   professionnelles protège les employeurs contre l'imputation pour faute,
-   au détriment des salariés mais aussi des caisses d'assurance maladie.
-   Dans la recherche d'un nouveau compromis entre protection des salariés
-   et non-entrave au développement des entreprises, c'est le second
-   objectif qui prime aujourd'hui selon lui. En même temps, comme nous
-   l'avons déjà souligné, le développement de la prévention tend à poser
-   des limites à la responsabilité sans faute de l'employeur en
-   réaffirmant le principe de l'imputation. Le droit de la formation
+   36La contribution d'E. Henry conforte cette thÃ¨se en montrant comment
+   l'extension de la responsabilitÃ© sans faute aux maladies
+   professionnelles protÃ¨ge les employeurs contre l'imputation pour faute,
+   au dÃ©triment des salariÃ©s mais aussi des caisses d'assurance maladie.
+   Dans la recherche d'un nouveau compromis entre protection des salariÃ©s
+   et non-entrave au dÃ©veloppement des entreprises, c'est le second
+   objectif qui prime aujourd'hui selon lui. En mÃªme temps, comme nous
+   l'avons dÃ©jÃ  soulignÃ©, le dÃ©veloppement de la prÃ©vention tend Ã  poser
+   des limites Ã  la responsabilitÃ© sans faute de l'employeur en
+   rÃ©affirmant le principe de l'imputation. Le droit de la formation
    continue dans l'entreprise est un autre domaine dans lequel on constate
-   une affirmation de la responsabilité contractuelle imputable à
-   l'employeur et donc sanctionnable, là où régnait souverainement
-   jusqu'au début des années 2000 le principe de la responsabilité sans
-   faute (Luttringer, 2019). Si redistribution des responsabilités il y a,
-   et ce mouvement est indéniable aujourd'hui, elle ne s'opère donc pas à
+   une affirmation de la responsabilitÃ© contractuelle imputable Ã 
+   l'employeur et donc sanctionnable, lÃ  oÃ¹ rÃ©gnait souverainement
+   jusqu'au dÃ©but des annÃ©es 2000 le principe de la responsabilitÃ© sans
+   faute (Luttringer, 2019). Si redistribution des responsabilitÃ©s il y a,
+   et ce mouvement est indÃ©niable aujourd'hui, elle ne s'opÃ¨re donc pas Ã 
    sens unique, tout du moins d'un point de vue juridique. Mais comme le
-   suggèrent les contributions de N. Maggi-Germain et E. Henry, il importe
-   de se pencher sur l'effectivité du droit, sur les conditions du passage
-   des droits formels aux droits réels, pour pouvoir pleinement apprécier
-   les formes concrètes de cette redistribution.
+   suggÃ¨rent les contributions de N. Maggi-Germain et E. Henry, il importe
+   de se pencher sur l'effectivitÃ© du droit, sur les conditions du passage
+   des droits formels aux droits rÃ©els, pour pouvoir pleinement apprÃ©cier
+   les formes concrÃ¨tes de cette redistribution.
 
-   37L'invention de la responsabilité sociale des entreprises (RSE) peut
-   être considérée comme une autre expression de cette façon de rebattre
+   37L'invention de la responsabilitÃ© sociale des entreprises (RSE) peut
+   Ãªtre considÃ©rÃ©e comme une autre expression de cette faÃ§on de rebattre
    les cartes. E. Auriol range un tel dispositif dans l'arsenal des outils
-   utiles pour corriger les défaillances du marché mais doute, à la fin de
-   sa contribution, de sa réelle efficacité. Dans une perspective
-   d'économie institutionnaliste, Nicolas Postel prend plus au sérieux une
-   telle option, tout en en pointant les limites. Après avoir rappelé le
-   rôle de l'État dans la régulation fordienne (au sens économique du
-   terme), il insiste sur la nécessité d'historiciser les liens entre
-   travail et responsabilité et d'inscrire ces derniers dans des
-   configurations macroéconomiques et sociales évolutives. À ce titre, si
-   l'entreprise est devenue un acteur que l'on juge responsable à part
-   entière, en tout cas sur la base de la grille de lecture que propose la
-   RSE, c'est paradoxalement pour, dans le même temps, mieux reporter sur
-   l'individu les charges et les risques immanents aux activités
-   économiques.
+   utiles pour corriger les dÃ©faillances du marchÃ© mais doute, Ã  la fin de
+   sa contribution, de sa rÃ©elle efficacitÃ©. Dans une perspective
+   d'Ã©conomie institutionnaliste, Nicolas Postel prend plus au sÃ©rieux une
+   telle option, tout en en pointant les limites. AprÃ¨s avoir rappelÃ© le
+   rÃ´le de l'Ã‰tat dans la rÃ©gulation fordienne (au sens Ã©conomique du
+   terme), il insiste sur la nÃ©cessitÃ© d'historiciser les liens entre
+   travail et responsabilitÃ© et d'inscrire ces derniers dans des
+   configurations macroÃ©conomiques et sociales Ã©volutives. Ã€ ce titre, si
+   l'entreprise est devenue un acteur que l'on juge responsable Ã  part
+   entiÃ¨re, en tout cas sur la base de la grille de lecture que propose la
+   RSE, c'est paradoxalement pour, dans le mÃªme temps, mieux reporter sur
+   l'individu les charges et les risques immanents aux activitÃ©s
+   Ã©conomiques.
 
-   38Pour N. Postel, la RSE est moins une solution qu'un problème. Elle
-   l'est précisément parce que son mécanisme dont R.E. Freeman a théorisé
+   38Pour N. Postel, la RSE est moins une solution qu'un problÃ¨me. Elle
+   l'est prÃ©cisÃ©ment parce que son mÃ©canisme dont R.E. Freeman a thÃ©orisÃ©
    les fondements ne fait que reproduire celui de la main invisible sur
-   lequel repose la théorie néo-classique standard. Il n'est nul besoin,
+   lequel repose la thÃ©orie nÃ©o-classique standard. Il n'est nul besoin,
    dans de telles conditions, de rendre compte de son action puisque
-   l'intérêt suffit à la légitimer. Cette approche dilue plus encore les
-   responsabilités en faisant le pari d'une symétrie des parties prenantes
-   (une même capacité à agir) et d'une sommation toujours vertueuse des
-   intérêts et des comportements de ces dernières. Par ailleurs -- c'est
-   du moins une autre hypothèse que suscite la lecture du texte de N.
-   Postel --, en tant que machine à produire des parties prenantes de
-   toutes natures, la RSE participe à l'extension du domaine des risques
+   l'intÃ©rÃªt suffit Ã  la lÃ©gitimer. Cette approche dilue plus encore les
+   responsabilitÃ©s en faisant le pari d'une symÃ©trie des parties prenantes
+   (une mÃªme capacitÃ© Ã  agir) et d'une sommation toujours vertueuse des
+   intÃ©rÃªts et des comportements de ces derniÃ¨res. Par ailleurs -- c'est
+   du moins une autre hypothÃ¨se que suscite la lecture du texte de N.
+   Postel --, en tant que machine Ã  produire des parties prenantes de
+   toutes natures, la RSE participe Ã  l'extension du domaine des risques
    et de leur prise en charge. Elle alimente de ce fait une demande sans
-   cesse croissante de responsabilités à l'égard de tous et donc de
+   cesse croissante de responsabilitÃ©s Ã  l'Ã©gard de tous et donc de
    personne. M. Detchessahar n'est pas loin de soutenir un point de vue
-   similaire lorsque, en des termes un peu différents, il évoque les
-   multiples contraintes externes -- celles que véhiculent les
+   similaire lorsque, en des termes un peu diffÃ©rents, il Ã©voque les
+   multiples contraintes externes -- celles que vÃ©hiculent les
    actionnaires, les analystes, les clients, les tutelles, les
-   certificateurs, le législateur, les notateurs... -- qui pèsent toujours
+   certificateurs, le lÃ©gislateur, les notateurs... -- qui pÃ¨sent toujours
    davantage sur les entreprises et qui, plus que d'une dilution de la
-   responsabilité, sont source d'empêchement. Pour les managers, autrement
-   dit, il est de plus en plus difficile de « bien » manager. Ces analyses
-   rejoignent l'appréciation juridique de la RSE par Alain Supiot qui y
-   voit un « reflux de la loi au profit des liens ». « Au lieu d'être
-   peuplée de sujets agissants librement sous l'égide d'une loi commune
-   qui fixe les responsabilités de chacun, la scène juridique se peuple
-   donc de sujets inscrits dans de multiples liens d'allégeance »,
+   responsabilitÃ©, sont source d'empÃªchement. Pour les managers, autrement
+   dit, il est de plus en plus difficile de Â« bien Â» manager. Ces analyses
+   rejoignent l'apprÃ©ciation juridique de la RSE par Alain Supiot qui y
+   voit un Â« reflux de la loi au profit des liens Â». Â« Au lieu d'Ãªtre
+   peuplÃ©e de sujets agissants librement sous l'Ã©gide d'une loi commune
+   qui fixe les responsabilitÃ©s de chacun, la scÃ¨ne juridique se peuple
+   donc de sujets inscrits dans de multiples liens d'allÃ©geance Â»,
    conclut-il (Supiot, 2015, p. 25, c'est l'auteur qui souligne).
 
-5. Travail et responsabilité conséquentialiste : jusqu'où et comment
+5. Travail et responsabilitÃ© consÃ©quentialiste : jusqu'oÃ¹ et comment
 anticiper les implications de l'action productive ?
 
-   39Lorsque la responsabilité est associée aux effets seconds et
-   inattendus de nos actions, les questions et les problèmes changent
+   39Lorsque la responsabilitÃ© est associÃ©e aux effets seconds et
+   inattendus de nos actions, les questions et les problÃ¨mes changent
    encore de nature. Cette dimension, sur laquelle Max Weber (1959) a
-   mûrement réfléchi à propos de l'action politique notamment, est
-   inégalement prise en compte par les différentes contributions.
-   L'attention portée par E. Auriol aux conséquences de la division
+   mÃ»rement rÃ©flÃ©chi Ã  propos de l'action politique notamment, est
+   inÃ©galement prise en compte par les diffÃ©rentes contributions.
+   L'attention portÃ©e par E. Auriol aux consÃ©quences de la division
    internationale du travail indique que cette dimension n'est pas absente
-   du corpus « comportementaliste ». Les économistes qui oeuvrent avec une
+   du corpus Â« comportementaliste Â». Les Ã©conomistes qui oeuvrent avec une
    telle orientation ont conscience de l'existence d'effets non voulus
-   et/ou non contrôlés imputables à des configurations au sein desquelles
-   les actions ne peuvent être encadrées par la régulation marchande, que
-   celle-ci soit défaillante ou trop coûteuse à mettre en place (comme
-   dans le cas des marchés de la certification). La position retenue par
-   le paradigme néo-classique pour solutionner le problème consiste à
+   et/ou non contrÃ´lÃ©s imputables Ã  des configurations au sein desquelles
+   les actions ne peuvent Ãªtre encadrÃ©es par la rÃ©gulation marchande, que
+   celle-ci soit dÃ©faillante ou trop coÃ»teuse Ã  mettre en place (comme
+   dans le cas des marchÃ©s de la certification). La position retenue par
+   le paradigme nÃ©o-classique pour solutionner le problÃ¨me consiste Ã 
    anticiper de tels effets en attribuant aux institutions, aux contrats
-   et aux règles de droit la mission d'infléchir le comportement des
-   individus. Mais si l'on étoffe de la sorte la responsabilité
+   et aux rÃ¨gles de droit la mission d'inflÃ©chir le comportement des
+   individus. Mais si l'on Ã©toffe de la sorte la responsabilitÃ©
    collective, ne risque-t-on pas paradoxalement d'appauvrir le pouvoir
-   d'action individuel, et donc la responsabilité de chacun, en incitant
-   et en contraignant plutôt qu'en fortifiant les capacités des uns et des
-   autres ? L'approche institutionnaliste dont N. Postel défend les vertus
-   heuristiques échappe à ce type de difficulté en imputant aux
-   institutions non un statut de mal nécessaire destiné à remédier aux
-   défaillances du marché et à leurs conséquences, mais plutôt de
-   condition sine qua non à défaut de laquelle les responsabilités
-   assignées aux individus dans un cadre post-taylorien provoqueraient des
-   situations pathologiques encore plus détestables, sur le plan de la
-   santé notamment, que celles que nous pouvons déjà enregistrer
+   d'action individuel, et donc la responsabilitÃ© de chacun, en incitant
+   et en contraignant plutÃ´t qu'en fortifiant les capacitÃ©s des uns et des
+   autres ? L'approche institutionnaliste dont N. Postel dÃ©fend les vertus
+   heuristiques Ã©chappe Ã  ce type de difficultÃ© en imputant aux
+   institutions non un statut de mal nÃ©cessaire destinÃ© Ã  remÃ©dier aux
+   dÃ©faillances du marchÃ© et Ã  leurs consÃ©quences, mais plutÃ´t de
+   condition sine qua non Ã  dÃ©faut de laquelle les responsabilitÃ©s
+   assignÃ©es aux individus dans un cadre post-taylorien provoqueraient des
+   situations pathologiques encore plus dÃ©testables, sur le plan de la
+   santÃ© notamment, que celles que nous pouvons dÃ©jÃ  enregistrer
    aujourd'hui.
 
-   40Jusqu'où est-on responsable de son action en général, de son travail
-   et son activité en particulier ? Qui doit rendre compte -- et de quoi ?
-   --, et qui doit prendre en charge ? Ce sont là les questions que pose
-   in fine la perspective conséquentialiste. Les réponses, on le sait, ne
-   sont pas aisées. Jusqu'où faut-il remonter la chaîne des dépendances et
-   des interactions ? Les dissymétries statutaires doivent-elles être
-   prises en compte dans les jugements ? Les responsabilités ne sont-elles
-   pas avant tout systémiques plus qu'individuelles ? Les auteurs des
-   contributions de ce dossier n'apportent pas de réponse tranchée à ce
-   sujet, y compris N. Postel dont l'article nous mène pourtant
+   40Jusqu'oÃ¹ est-on responsable de son action en gÃ©nÃ©ral, de son travail
+   et son activitÃ© en particulier ? Qui doit rendre compte -- et de quoi ?
+   --, et qui doit prendre en charge ? Ce sont lÃ  les questions que pose
+   in fine la perspective consÃ©quentialiste. Les rÃ©ponses, on le sait, ne
+   sont pas aisÃ©es. Jusqu'oÃ¹ faut-il remonter la chaÃ®ne des dÃ©pendances et
+   des interactions ? Les dissymÃ©tries statutaires doivent-elles Ãªtre
+   prises en compte dans les jugements ? Les responsabilitÃ©s ne sont-elles
+   pas avant tout systÃ©miques plus qu'individuelles ? Les auteurs des
+   contributions de ce dossier n'apportent pas de rÃ©ponse tranchÃ©e Ã  ce
+   sujet, y compris N. Postel dont l'article nous mÃ¨ne pourtant
    directement en direction d'un tel espace d'interrogations. Les termes
-   de l'économie politique de la responsabilité qui permettraient d'y
-   répondre restent largement, l'auteur en convient le premier, à
+   de l'Ã©conomie politique de la responsabilitÃ© qui permettraient d'y
+   rÃ©pondre restent largement, l'auteur en convient le premier, Ã 
    inventer.
 
-   41À défaut d'appuis stables, il est une certitude qui apparaît
+   41Ã€ dÃ©faut d'appuis stables, il est une certitude qui apparaÃ®t
    clairement dans l'article d'Y. Clot et, dans une moindre mesure, dans
-   celui de M. Detchessahar. Il faut se défier des effets pathologiques
+   celui de M. Detchessahar. Il faut se dÃ©fier des effets pathologiques
    des pratiques qui, en visant formellement la responsabilisation,
-   aboutissent à l'effet contraire parce qu'elles font fi de la composante
-   d'« être en capacité » de la responsabilité. Tel est le cas par exemple
-   de certains dispositifs qui, au nom de la démocratie dans le travail,
+   aboutissent Ã  l'effet contraire parce qu'elles font fi de la composante
+   d'Â« Ãªtre en capacitÃ© Â» de la responsabilitÃ©. Tel est le cas par exemple
+   de certains dispositifs qui, au nom de la dÃ©mocratie dans le travail,
    donnent la parole aux uns et aux autres. Mais si cette parole n'est pas
-   suivie d'effet, si elle est « inutile », si elle n'est qu'un prétexte à
-   un faux débat, alors la conséquence est potentiellement encore pire que
-   le problème que l'on cherche à traiter. Le drame d'aujourd'hui, note
-   plus généralement Y. Clot, est que les salariés sont sommés de prendre
-   des responsabilités sans en avoir vraiment les moyens, autrement dit
+   suivie d'effet, si elle est Â« inutile Â», si elle n'est qu'un prÃ©texte Ã 
+   un faux dÃ©bat, alors la consÃ©quence est potentiellement encore pire que
+   le problÃ¨me que l'on cherche Ã  traiter. Le drame d'aujourd'hui, note
+   plus gÃ©nÃ©ralement Y. Clot, est que les salariÃ©s sont sommÃ©s de prendre
+   des responsabilitÃ©s sans en avoir vraiment les moyens, autrement dit
    sans pouvoir disposer des ressources dignes de ce nom pour agir sur les
-   conditions de leur activité. M. Detchessahar ne dit guère autre chose
+   conditions de leur activitÃ©. M. Detchessahar ne dit guÃ¨re autre chose
    quand il pointe la limite de ces politiques de communication normatives
-   qui ne fournissent pas aux principaux intéressés les moyens de dire ce
-   qu'ils font, ni de dialoguer pour, collectivement, définir les critères
+   qui ne fournissent pas aux principaux intÃ©ressÃ©s les moyens de dire ce
+   qu'ils font, ni de dialoguer pour, collectivement, dÃ©finir les critÃ¨res
    du bien travailler.
 
-   42À ce sujet, une certitude d'un autre type anime la contribution
-   d'É. Counil. Le déficit de connaissances sur les liens entre travail et
-   atteinte à la santé, dont elle rend compte, tend à invisibiliser les
-   travailleurs les plus vulnérables. En conséquence, l'enjeu de la
-   responsabilisation dépasse, dans sa perspective, la seule question de
-   la santé publique pour englober celle des inégalités sociales face à la
-   vie et la mort. É. Counil en conclut que ce ne sont pas seulement les
-   entreprises, mais aussi l'épidémiologie en tant que discipline, qui
-   devraient sur ce point être appelées à rendre compte. Au-delà des
-   disciplines, le conséquentialisme engage alors également la
-   responsabilité du chercheur quant aux conséquences des connaissances
-   qu'il produit ou ne produit pas et des positions qu'il défend.
+   42Ã€ ce sujet, une certitude d'un autre type anime la contribution
+   d'Ã‰. Counil. Le dÃ©ficit de connaissances sur les liens entre travail et
+   atteinte Ã  la santÃ©, dont elle rend compte, tend Ã  invisibiliser les
+   travailleurs les plus vulnÃ©rables. En consÃ©quence, l'enjeu de la
+   responsabilisation dÃ©passe, dans sa perspective, la seule question de
+   la santÃ© publique pour englober celle des inÃ©galitÃ©s sociales face Ã  la
+   vie et la mort. Ã‰. Counil en conclut que ce ne sont pas seulement les
+   entreprises, mais aussi l'Ã©pidÃ©miologie en tant que discipline, qui
+   devraient sur ce point Ãªtre appelÃ©es Ã  rendre compte. Au-delÃ  des
+   disciplines, le consÃ©quentialisme engage alors Ã©galement la
+   responsabilitÃ© du chercheur quant aux consÃ©quences des connaissances
+   qu'il produit ou ne produit pas et des positions qu'il dÃ©fend.
 
 6. Conclusion
 
-   43Ce parcours de la responsabilité à travers différentes disciplines
-   montre combien, en matière de travail, les trois registres de
-   l'imputation, de la responsabilité sans faute et du conséquentialisme
-   s'enchevêtrent et peuvent difficilement être pensés l'un sans l'autre.
-   La redéfinition des responsabilités au travail que l'on constate en
-   France depuis les années 1990 ne se laisse en aucun cas analyser selon
-   un schéma simpliste de substitution d'un registre à un autre. La
-   situation est plutôt celle d'un redéploiement de ces registres, tout
-   comme des composantes du « rendre compte », « prendre en charge » et
-   « être en capacité » qui les sous-tendent, mais sans que l'on puisse
+   43Ce parcours de la responsabilitÃ© Ã  travers diffÃ©rentes disciplines
+   montre combien, en matiÃ¨re de travail, les trois registres de
+   l'imputation, de la responsabilitÃ© sans faute et du consÃ©quentialisme
+   s'enchevÃªtrent et peuvent difficilement Ãªtre pensÃ©s l'un sans l'autre.
+   La redÃ©finition des responsabilitÃ©s au travail que l'on constate en
+   France depuis les annÃ©es 1990 ne se laisse en aucun cas analyser selon
+   un schÃ©ma simpliste de substitution d'un registre Ã  un autre. La
+   situation est plutÃ´t celle d'un redÃ©ploiement de ces registres, tout
+   comme des composantes du Â« rendre compte Â», Â« prendre en charge Â» et
+   Â« Ãªtre en capacitÃ© Â» qui les sous-tendent, mais sans que l'on puisse
    entrevoir pour l'heure un point de stabilisation. Comme le mettent en
-   évidence les contributions réunies dans ce dossier, les facteurs de
+   Ã©vidence les contributions rÃ©unies dans ce dossier, les facteurs de
    transformation sont multiples et leurs effets ambivalents.
 
-   44Un double constat s'impose cependant : d'un côté, une dilution des
-   responsabilités des employeurs qui se traduit, dans la pratique, par un
-   glissement du registre de l'imputation vers celui de la responsabilité
-   sans faute et du conséquentialisme ; de l'autre, une extension des
-   responsabilités des travailleurs sur les trois registres à la fois.
-   Corollaire de la valorisation de la personne singulière et de son
+   44Un double constat s'impose cependant : d'un cÃ´tÃ©, une dilution des
+   responsabilitÃ©s des employeurs qui se traduit, dans la pratique, par un
+   glissement du registre de l'imputation vers celui de la responsabilitÃ©
+   sans faute et du consÃ©quentialisme ; de l'autre, une extension des
+   responsabilitÃ©s des travailleurs sur les trois registres Ã  la fois.
+   Corollaire de la valorisation de la personne singuliÃ¨re et de son
    autonomie qui inspire autant les politiques publiques que les
-   politiques d'entreprises, cette extension du champ de la responsabilité
-   individuelle est en quête d'un modèle renouvelé de la responsabilité
-   collective. La question se pose de savoir comment un tel modèle peut
-   intégrer la triple injonction qui pèse aujourd'hui sur le travail, à
-   savoir libérer les capacités individuelles et collectives d'action,
-   rendre chacun comptable de ses oeuvres et associer tout un chacun à la
-   prévention des risques les plus variés. La question se pose avec
-   d'autant plus d'acuité que les relations de travail restent de manière
-   dominante régies par le salariat, c'est-à-dire par la subordination du
-   salarié à l'employeur dont découle une forte asymétrie des pouvoirs.
+   politiques d'entreprises, cette extension du champ de la responsabilitÃ©
+   individuelle est en quÃªte d'un modÃ¨le renouvelÃ© de la responsabilitÃ©
+   collective. La question se pose de savoir comment un tel modÃ¨le peut
+   intÃ©grer la triple injonction qui pÃ¨se aujourd'hui sur le travail, Ã 
+   savoir libÃ©rer les capacitÃ©s individuelles et collectives d'action,
+   rendre chacun comptable de ses oeuvres et associer tout un chacun Ã  la
+   prÃ©vention des risques les plus variÃ©s. La question se pose avec
+   d'autant plus d'acuitÃ© que les relations de travail restent de maniÃ¨re
+   dominante rÃ©gies par le salariat, c'est-Ã -dire par la subordination du
+   salariÃ© Ã  l'employeur dont dÃ©coule une forte asymÃ©trie des pouvoirs.
    Haut de page
 
 Bibliographie
 
-   Abel, O., 1994, « La responsabilité incertaine », Esprit, n° 206,
+   Abel, O., 1994, Â« La responsabilitÃ© incertaine Â», Esprit, nÂ° 206,
    p. 20-27.
 
-   Arendt, H., 1961 [1958], Condition de l'homme moderne, Calmann-Lévy,
+   Arendt, H., 1961 [1958], Condition de l'homme moderne, Calmann-LÃ©vy,
    Paris.
 
-   Benveniste, É., 1969, Le vocabulaire des institutions indo-européennes.
-   2. Pouvoir, droit, religion, Les Éditions de Minuit, Paris.
+   Benveniste, Ã‰., 1969, Le vocabulaire des institutions indo-europÃ©ennes.
+   2. Pouvoir, droit, religion, Les Ã‰ditions de Minuit, Paris.
 
    Chateauraynaud, F., 1991, La faute professionnelle. Une sociologie des
-   conflits de responsabilité, Métailié, Paris.
+   conflits de responsabilitÃ©, MÃ©tailiÃ©, Paris.
 
-   Combessie, P., 2008, « Paul Fauconnet et l'imputation pénale de la
-   responsabilité : une analyse méconnue mais aujourd'hui pertinente pour
-   peu qu'on la situe dans le contexte adéquat », Anamnèse, n° 3,
+   Combessie, P., 2008, Â« Paul Fauconnet et l'imputation pÃ©nale de la
+   responsabilitÃ© : une analyse mÃ©connue mais aujourd'hui pertinente pour
+   peu qu'on la situe dans le contexte adÃ©quat Â», AnamnÃ¨se, nÂ° 3,
    p. 221-246.
 
-   Duran, P., 2009, « Max Weber et la fabrique des hommes politiques. Une
-   sociologie de la responsabilité politique », in Bruhns, H., Duran, P.
+   Duran, P., 2009, Â« Max Weber et la fabrique des hommes politiques. Une
+   sociologie de la responsabilitÃ© politique Â», in Bruhns, H., Duran, P.
    (dir.), Max Weber et le politique, L.G.D.J., Paris, p. 73-105.
 
-   Fauconnet, P., 1920, La responsabilité. Études de sociologie, Alcan,
+   Fauconnet, P., 1920, La responsabilitÃ©. Ã‰tudes de sociologie, Alcan,
    Paris.
 
-   Henriot, J., 1977, « Notes sur la date et le sens de l'apparition du
-   mot responsabilité », Archives de philosophie du droit, tome XXII,
+   Henriot, J., 1977, Â« Notes sur la date et le sens de l'apparition du
+   mot responsabilitÃ© Â», Archives de philosophie du droit, tome XXII,
    p. 59-62.
 
-   Genard, J.-L., 1999, La grammaire de la responsabilité, Les Éditions du
+   Genard, J.-L., 1999, La grammaire de la responsabilitÃ©, Les Ã‰ditions du
    Cerf, Paris.
 
-   Genard, J.-L., 2005, « Ce que la sociologie peut dire de la
-   responsabilité », in Guillaume, J.-F. (dir.), Aventuriers solitaires en
-   quête d'utopie. Les formes contemporaines de l'engagement, Éditions de
-   l'Université de Liège, Liège, p. 191-200.
+   Genard, J.-L., 2005, Â« Ce que la sociologie peut dire de la
+   responsabilitÃ© Â», in Guillaume, J.-F. (dir.), Aventuriers solitaires en
+   quÃªte d'utopie. Les formes contemporaines de l'engagement, Ã‰ditions de
+   l'UniversitÃ© de LiÃ¨ge, LiÃ¨ge, p. 191-200.
 
-   Gilbert, M., 2008, « La responsabilité collective et ses
-   implications », Revue française de science politique, vol. 58, n° 6,
+   Gilbert, M., 2008, Â« La responsabilitÃ© collective et ses
+   implications Â», Revue franÃ§aise de science politique, vol. 58, nÂ° 6,
    p. 899-913.
 
-   Jonas, H., 1990 [1979], Le principe responsabilité. Une éthique pour la
-   civilisation technologique, Les Éditions du Cerf, Paris.
+   Jonas, H., 1990 [1979], Le principe responsabilitÃ©. Une Ã©thique pour la
+   civilisation technologique, Les Ã‰ditions du Cerf, Paris.
 
    Koselleck, R., 2006, Begriffsgeschichte. Studien zur Semantik und
    Pragmatik der politischen und sozialen Sprache, Suhrkamp, Francfort sur
    le Main.
 
-   Levinas, E., 1979, Le temps et l'autre, Fata Morgana, Saint Clément de
-   Rivière.
+   Levinas, E., 1979, Le temps et l'autre, Fata Morgana, Saint ClÃ©ment de
+   RiviÃ¨re.
 
-   Luttringer, J.-M., 2019, « L'extension du droit de la responsabilité
-   dans le domaine de la formation continue », Savoirs, n° 50 (à
-   paraître).
+   Luttringer, J.-M., 2019, Â« L'extension du droit de la responsabilitÃ©
+   dans le domaine de la formation continue Â», Savoirs, nÂ° 50 (Ã 
+   paraÃ®tre).
 
    May, L., 1992, Sharing Responsibility, The University of Chicago Press,
    Chicago et Londres.
 
-   Marichalar, P., 2018, Qui a tué les verriers de Gisors ? Une enquête de
-   sciences sociales, La Découverte, Paris.
+   Marichalar, P., 2018, Qui a tuÃ© les verriers de Gisors ? Une enquÃªte de
+   sciences sociales, La DÃ©couverte, Paris.
 
    Niebuhr, R., 1963, The Responsible Self. An Essay in Christian Moral
    Philosophy, Harper & Row, New York.
 
-   Omnès, C., 2009, « De la perception du risque professionnel aux
-   pratiques de prévention : la construction du risque acceptable », Revue
-   d'histoire moderne et contemporaine, vol. 56, n° 1, p. 61-82.
+   OmnÃ¨s, C., 2009, Â« De la perception du risque professionnel aux
+   pratiques de prÃ©vention : la construction du risque acceptable Â», Revue
+   d'histoire moderne et contemporaine, vol. 56, nÂ° 1, p. 61-82.
 
    Passeron, J.-C., 1991, Le raisonnement sociologique. L'espace
-   non-poppérien du raisonnement naturel, Nathan, Paris.
+   non-poppÃ©rien du raisonnement naturel, Nathan, Paris.
 
-   Puccio-Den, D., 2017, « De la responsabilité », L'Homme, n° 223-224,
-   juillet-décembre, p. 5-32.
+   Puccio-Den, D., 2017, Â« De la responsabilitÃ© Â», L'Homme, nÂ° 223-224,
+   juillet-dÃ©cembre, p. 5-32.
 
-   Prairat, E., 2012, « La responsabilité », Le Télémaque, vol. 42, n° 2,
+   Prairat, E., 2012, Â« La responsabilitÃ© Â», Le TÃ©lÃ©maque, vol. 42, nÂ° 2,
    p. 19-34.
 
-   Reynaud, J.-D., 2001, « Le management par les compétences : un essai
-   d'analyse », Sociologie du travail, n° 43, p. 7-31.
+   Reynaud, J.-D., 2001, Â« Le management par les compÃ©tences : un essai
+   d'analyse Â», Sociologie du travail, nÂ° 43, p. 7-31.
 
-   Ricoeur, P., 1994, « Le concept de responsabilité. Essai d'analyse
-   sémantique », Esprit, n° 206, p. 28-48.
+   Ricoeur, P., 1994, Â« Le concept de responsabilitÃ©. Essai d'analyse
+   sÃ©mantique Â», Esprit, nÂ° 206, p. 28-48.
 
-   Ricoeur, P., 2001, « Autonomie et vulnérabilité », in Ricoeur, P., Le
-   juste 2, Éditions Esprit, Paris, p. 85-106.
+   Ricoeur, P., 2001, Â« Autonomie et vulnÃ©rabilitÃ© Â», in Ricoeur, P., Le
+   juste 2, Ã‰ditions Esprit, Paris, p. 85-106.
 
-   Sapiro, G., 2008, « De la responsabilité pénale à l'éthique de
-   responsabilité. Le cas des écrivains », Revue française de science
-   politique, vol. 48, n° 6, p. 877-898.
+   Sapiro, G., 2008, Â« De la responsabilitÃ© pÃ©nale Ã  l'Ã©thique de
+   responsabilitÃ©. Le cas des Ã©crivains Â», Revue franÃ§aise de science
+   politique, vol. 48, nÂ° 6, p. 877-898.
 
    Segrestin, B., Hatchuel, A., 2012, Refonder l'entreprise, Le Seuil,
    Paris.
 
-   Sigot, J.-C., Vero, J., 2014, « Politiques d'entreprises et
-   sécurisation des parcours : un lien à explorer », Bref Céreq, n° 138,
+   Sigot, J.-C., Vero, J., 2014, Â« Politiques d'entreprises et
+   sÃ©curisation des parcours : un lien Ã  explorer Â», Bref CÃ©req, nÂ° 138,
    janvier.
 
-   Supiot, A., 1989, « Déréglementation des relations de travail et
-   autoréglementation de l'entreprise », Droit social, n° 3, p. 195-205.
+   Supiot, A., 1989, Â« DÃ©rÃ©glementation des relations de travail et
+   autorÃ©glementation de l'entreprise Â», Droit social, nÂ° 3, p. 195-205.
 
-   Supiot, A., 2015, « Face à l'insoutenable : les ressources du droit et
-   de la responsabilité », in Supiot, A., Delmas-Marty M. (dir.), Prendre
-   la responsabilité au sérieux, Presses universitaires de France, Paris,
+   Supiot, A., 2015, Â« Face Ã  l'insoutenable : les ressources du droit et
+   de la responsabilitÃ© Â», in Supiot, A., Delmas-Marty M. (dir.), Prendre
+   la responsabilitÃ© au sÃ©rieux, Presses universitaires de France, Paris,
    p. 9-35.
 
    Terssac, G. de, 1992, Autonomie dans le travail, Presses universitaires
@@ -978,39 +978,39 @@ Bibliographie
    Weber, M., 1959, Le savant et le politique, Plon, Paris.
 
    Zimmermann, B., 2011, Ce que travailler veut dire. Une sociologie des
-   capacités et des parcours professionnels, Economica, Paris.
+   capacitÃ©s et des parcours professionnels, Economica, Paris.
    Haut de page
 
 Notes
 
-   1 L'examen historique révèle que les pratiques sont loin d'avoir été à
-   la hauteur des ambitions affichées (Omnès, 2009). Au début du XX^e
-   siècle, l'Union des Industries et des Métiers de la Métallurgie en
-   particulier a fait pression pour tempérer les obligations des
-   employeurs et diminuer ce faisant le coût réel des réparations qui leur
+   1 L'examen historique rÃ©vÃ¨le que les pratiques sont loin d'avoir Ã©tÃ© Ã 
+   la hauteur des ambitions affichÃ©es (OmnÃ¨s, 2009). Au dÃ©but du XX^e
+   siÃ¨cle, l'Union des Industries et des MÃ©tiers de la MÃ©tallurgie en
+   particulier a fait pression pour tempÃ©rer les obligations des
+   employeurs et diminuer ce faisant le coÃ»t rÃ©el des rÃ©parations qui leur
    incombaient.
 
-   2 Dans son article de 1994, P. Ricoeur associe ce registre à celui de
-   l'ascription afin de signifier que, dans ce domaine, la responsabilité
-   est détachée de l'obligation morale qui permet de définir une faute. Il
-   nous a semblé plus pertinent, du point de vue qui est le nôtre ici, de
-   mettre avant tout l'accent sur le fait que cette responsabilité se
-   défait de l'idée de faute et sert d'étai à une gestion socialisée de la
-   solidarité.
+   2 Dans son article de 1994, P. Ricoeur associe ce registre Ã  celui de
+   l'ascription afin de signifier que, dans ce domaine, la responsabilitÃ©
+   est dÃ©tachÃ©e de l'obligation morale qui permet de dÃ©finir une faute. Il
+   nous a semblÃ© plus pertinent, du point de vue qui est le nÃ´tre ici, de
+   mettre avant tout l'accent sur le fait que cette responsabilitÃ© se
+   dÃ©fait de l'idÃ©e de faute et sert d'Ã©tai Ã  une gestion socialisÃ©e de la
+   solidaritÃ©.
 
-   3 Loi n° 2018-771 du 5 septembre 2018 pour la liberté de choisir son
+   3 Loi nÂ° 2018-771 du 5 septembre 2018 pour la libertÃ© de choisir son
    avenir professionnel.
    Haut de page
 
 Pour citer cet article
 
-Référence électronique
+RÃ©fÃ©rence Ã©lectronique
 
-   Michel Lallement et Bénédicte Zimmermann, « Tous responsables ?
-   Transformations du travail, métamorphoses de la
-   responsabilité », Sociologie du travail [En ligne], Vol. 61 - n°
-   2 | Avril-Juin 2019, mis en ligne le 05 juin 2019, consulté le 28
-   décembre 2025. URL : http://journals.openedition.org/sdt/17981 ; DOI :
+   Michel Lallement et BÃ©nÃ©dicte Zimmermann, Â« Tous responsables ?
+   Transformations du travail, mÃ©tamorphoses de la
+   responsabilitÃ© Â», Sociologie du travail [En ligne], Vol. 61 - nÂ°
+   2 | Avril-Juin 2019, mis en ligne le 05 juin 2019, consultÃ© le 30
+   dÃ©cembre 2025. URL : http://journals.openedition.org/sdt/17981 ; DOI :
    https://doi.org/10.4000/sdt.17981
    Haut de page
 
@@ -1024,90 +1024,90 @@ Michel Lallement
      * [logo_bnf.svg] BNF : http://data.bnf.fr/ark:/12148/cb12282092d
 
    (auteur correspondant)
-   Laboratoire interdisciplinaire pour la sociologie économique, UMR 3320
-   CNRS, Conservatoire national des Arts et Métiers, 2, rue Conté, 75003
+   Laboratoire interdisciplinaire pour la sociologie Ã©conomique, UMR 3320
+   CNRS, Conservatoire national des Arts et MÃ©tiers, 2, rue ContÃ©, 75003
    Paris, France.
    michel.lallement[at]lecnam.net
 
-Articles du même auteur
+Articles du mÃªme auteur
 
-     * La barrière et le niveau, Étude sociologique sur la bourgeoisie
-       française moderne, E. Goblot [Texte intégral]
-       Presses universitaires de France, Paris (2010). 90 pp. [préface de
-       B. Lahire ; première édition 1925, Félix Alcan, Paris]
-       Paru dans Sociologie du travail, Vol. 53 - n° 4 | Octobre-Décembre
+     * La barriÃ¨re et le niveau, Ã‰tude sociologique sur la bourgeoisie
+       franÃ§aise moderne, E. Goblot [Texte intÃ©gral]
+       Presses universitaires de France, Paris (2010). 90 pp. [prÃ©face de
+       B. Lahire ; premiÃ¨re Ã©dition 1925, FÃ©lix Alcan, Paris]
+       Paru dans Sociologie du travail, Vol. 53 - nÂ° 4 | Octobre-DÃ©cembre
        2011
-     * Maux du travail : dégradation, recomposition ou illusion ? [Texte
-       intégral]
+     * Maux du travail : dÃ©gradation, recomposition ou illusion ? [Texte
+       intÃ©gral]
        The ills of work: A change for the worse, a reconstruction or an
        illusion?
-       Paru dans Sociologie du travail, Vol. 53 - n° 1 | Janvier-Mars 2011
+       Paru dans Sociologie du travail, Vol. 53 - nÂ° 1 | Janvier-Mars 2011
      * Comparer. Options et inflexions d'une pratique de recherche [Texte
-       intégral]
+       intÃ©gral]
        Introduction
        Comparing. Options and inflexions in ways of doing research.
        Introduction
-       Paru dans Sociologie du travail, Vol. 55 - n° 2 | Avril-Juin 2013
-     * Militants de l'utopie ? Les Fouriéristes dans la seconde moitié du
-       XIX^e siècle, B. Desmars [Texte intégral]
-       Les Presses du réel, Dijon (2010), 424 p.
-       Paru dans Sociologie du travail, Vol. 55 - n° 1 | Janvier-Mars 2013
-     * Au-delà du conflit et de la négociation ? [Texte intégral]
+       Paru dans Sociologie du travail, Vol. 55 - nÂ° 2 | Avril-Juin 2013
+     * Militants de l'utopie ? Les FouriÃ©ristes dans la seconde moitiÃ© du
+       XIX^e siÃ¨cle, B. Desmars [Texte intÃ©gral]
+       Les Presses du rÃ©el, Dijon (2010), 424 p.
+       Paru dans Sociologie du travail, Vol. 55 - nÂ° 1 | Janvier-Mars 2013
+     * Au-delÃ  du conflit et de la nÃ©gociation ? [Texte intÃ©gral]
        Beyond conflict and negotiations?
-       Paru dans Sociologie du travail, Vol. 53 - n° 2 | Avril-Juin 2011
+       Paru dans Sociologie du travail, Vol. 53 - nÂ° 2 | Avril-Juin 2011
      * Symposium sur l'ouvrage Le travail. Une sociologie contemporaine de
-       Michel Lallement [Texte intégral]
-       Paru dans Sociologie du travail, Vol. 51 - n° 1 | Janvier-Mars 2009
+       Michel Lallement [Texte intÃ©gral]
+       Paru dans Sociologie du travail, Vol. 51 - nÂ° 1 | Janvier-Mars 2009
      * Tous les textes...
 
-Bénédicte Zimmermann
+BÃ©nÃ©dicte Zimmermann
 
      * [logo_idref.svg] IDREF : https://idref.fr/050431919
      * [logo_viaf.svg] VIAF : http://viaf.org/viaf/34617868
      * [logo_isni.svg] ISNI : https://isni.org/isni/0000000043542978
      * [logo_bnf.svg] BNF : http://data.bnf.fr/ark:/12148/cb135295263
 
-   Centre Georg Simmel, UMR 8131 CNRS, École des hautes études en sciences
+   Centre Georg Simmel, UMR 8131 CNRS, Ã‰cole des hautes Ã©tudes en sciences
    sociales, 54, boulevard Raspail, Paris, France.
    Wissenschaftskolleg, Berlin.
 
-Articles du même auteur
+Articles du mÃªme auteur
 
-     * Se former tout au long de la vie. À la recherche des appuis
-       collectifs de l'engagement individuel [Texte intégral]
+     * Se former tout au long de la vie. Ã€ la recherche des appuis
+       collectifs de l'engagement individuel [Texte intÃ©gral]
        Introduction
        Lifelong learning. In search of collective supports for individual
        commitment
-       Paru dans Sociologie du travail, Vol. 63 - n° 4 | Octobre-Décembre
+       Paru dans Sociologie du travail, Vol. 63 - nÂ° 4 | Octobre-DÃ©cembre
        2021
-     * Formation tout au long de la vie et capacité d'agir des salarié·es.
-       Une comparaison franco-allemande [Texte intégral]
+     * Formation tout au long de la vie et capacitÃ© d'agir des salariÃ©Â·es.
+       Une comparaison franco-allemande [Texte intÃ©gral]
        Employee Voice and Lifelong Education Capabilities: a French-German
        comparison
-       Paru dans Sociologie du travail, Vol. 63 - n° 4 | Octobre-Décembre
+       Paru dans Sociologie du travail, Vol. 63 - nÂ° 4 | Octobre-DÃ©cembre
        2021
-     * Sabine Rudischhauser, Geregelte Verhältnisse. Eine Geschichte des
+     * Sabine Rudischhauser, Geregelte VerhÃ¤ltnisse. Eine Geschichte des
        Tarifvertragsrechts in Deutschland und Frankreich (1890-1918/19)
-       [Texte intégral]
-       Böhlau Verlag, Cologne, Weimar et Vienne, 2017, 888 p.
-       Paru dans Sociologie du travail, Vol. 61 - n° 4 | Octobre-Décembre
+       [Texte intÃ©gral]
+       BÃ¶hlau Verlag, Cologne, Weimar et Vienne, 2017, 888 p.
+       Paru dans Sociologie du travail, Vol. 61 - nÂ° 4 | Octobre-DÃ©cembre
        2019
-     * La création sociale des normes, De la socio-économie des
-       conventions à la philosophie de l'action de Paul Ricoeur, A. Loute
-       [Texte intégral]
-       Georg Olms Verlag, Hildesheim/Zürich/New York (2008). 321 p.
-       Paru dans Sociologie du travail, Vol. 53 - n° 3 | Juillet-Septembre
+     * La crÃ©ation sociale des normes, De la socio-Ã©conomie des
+       conventions Ã  la philosophie de l'action de Paul Ricoeur, A. Loute
+       [Texte intÃ©gral]
+       Georg Olms Verlag, Hildesheim/ZÃ¼rich/New York (2008). 321 p.
+       Paru dans Sociologie du travail, Vol. 53 - nÂ° 3 | Juillet-Septembre
        2011
-     * Réinventer le travail par la participation. Actualité nouvelle d'un
-       vieux débat [Texte intégral]
+     * RÃ©inventer le travail par la participation. ActualitÃ© nouvelle d'un
+       vieux dÃ©bat [Texte intÃ©gral]
        Introduction
        Reinventing Work through Participation. Old Debates, New
        Perspectives
-       Paru dans Sociologie du travail, Vol. 57 - n° 1 | Janvier-Mars 2015
-     * Bénédicte Berthe (dir.), Travailler dans un groupement d'employeurs
-       [Texte intégral]
+       Paru dans Sociologie du travail, Vol. 57 - nÂ° 1 | Janvier-Mars 2015
+     * BÃ©nÃ©dicte Berthe (dir.), Travailler dans un groupement d'employeurs
+       [Texte intÃ©gral]
        Pur, Rennes, 2006 (142 p.)
-       Paru dans Sociologie du travail, Vol. 50 - n° 1 | Janvier-Mars 2008
+       Paru dans Sociologie du travail, Vol. 50 - nÂ° 1 | Janvier-Mars 2008
      * Tous les textes...
 
    Haut de page
@@ -1117,8 +1117,8 @@ Droits d'auteur
    CC-BY-NC-ND-4.0
 
    Le texte seul est utilisable sous licence CC BY-NC-ND 4.0. Les autres
-   éléments (illustrations, fichiers annexes importés) sont susceptibles
-   d'être soumis à des autorisations d'usage spécifiques.
+   Ã©lÃ©ments (illustrations, fichiers annexes importÃ©s) sont susceptibles
+   d'Ãªtre soumis Ã  des autorisations d'usage spÃ©cifiques.
    Haut de page
    Sommaire - Document suivant
 
@@ -1127,9 +1127,9 @@ Navigation
 Index
 
      * Auteurs
-     * Mots-clés
+     * Mots-clÃ©s
 
-Numéros en texte intégral
+NumÃ©ros en texte intÃ©gral
 
      * 67 (2025)1 | 2
      * 66 (2024)1 | 2 | 3 | 4
@@ -1159,25 +1159,25 @@ Numéros en texte intégral
      * 42 (2000)1 | 2 | 3 | 4
      * 41 (1999)1 | 2 | 3 | 4
 
-Tous les numéros
+Tous les numÃ©ros
 
 La Revue
 
-     * Présentation
+     * PrÃ©sentation
      * Diffusion
-     * Comités
-     * Charte éthique et déontologique
+     * ComitÃ©s
+     * Charte Ã©thique et dÃ©ontologique
      * Soumettre un manuscrit
-     * Écriture inclusive
-     * Note sur la mise en forme des textes antérieurs à 2017
+     * Ã‰criture inclusive
+     * Note sur la mise en forme des textes antÃ©rieurs Ã  2017
 
 Informations
 
      * Contacts
-     * Crédits
+     * CrÃ©dits
      * Politiques de publication
 
-Appels à contributions
+Appels Ã  contributions
 
      * Appels en cours
      * Appels clos
@@ -1190,7 +1190,7 @@ Lettres d'information
 
      * La Lettre d'OpenEdition
 
-   Accès membres
+   AccÃ¨s membres
 
    Login ____________________
    Mot de passe ____________________
@@ -1198,33 +1198,33 @@ Lettres d'information
 
 Affiliations/partenaires
 
-     * Logo Association pour le développement de la sociologie du travail
+     * Logo Association pour le dÃ©veloppement de la sociologie du travail
      * Revue soutenue par l'Institut des sciences humaines et sociales
        (InSHS) du CNRS, 2023-2025
      * OpenEdition Journals
 
-   ISSN électronique 1777-5701
+   ISSN Ã©lectronique 1777-5701
 
    Voir la notice dans le catalogue OpenEdition
 
-   Plan du site - Contacts - Crédits - Flux de syndication
+   Plan du site - Contacts - CrÃ©dits - Flux de syndication
 
-   CGU d'OpenEdition Journals - Politique de confidentialité - Gestion des
-   cookies - Signaler un problème
+   CGU d'OpenEdition Journals - Politique de confidentialitÃ© - Gestion des
+   cookies - Signaler un problÃ¨me
 
-   Nous adhérons à OpenEdition Journals - Édité avec Lodel - Accès réservé
+   Nous adhÃ©rons Ã  OpenEdition Journals - Ã‰ditÃ© avec Lodel - AccÃ¨s rÃ©servÃ©
 
    (BUTTON)
 
    Rechercher dans OpenEdition Search
 
-   Vous allez être redirigé vers OpenEdition Search
+   Vous allez Ãªtre redirigÃ© vers OpenEdition Search
    ____________________
    ( ) Dans tout OpenEdition
    (*) Dans Sociologie du travail
    (BUTTON) Rechercher
 
-     * Français
+     * FranÃ§ais
           + English
 
      * Partager
@@ -1240,14 +1240,14 @@ Affiliations/partenaires
    OpenEdition Search
    (BUTTON) Tout OpenEdition
 
-   (BUTTON) Français
+   (BUTTON) FranÃ§ais
      * English
 
-   Portail de ressources électroniques en sciences humaines et sociales
+   Portail de ressources Ã©lectroniques en sciences humaines et sociales
    OpenEdition
    Nos plateformes
    OpenEdition Books OpenEdition Journals Hypotheses Calenda
-   Bibliothèques et institutions
+   BibliothÃ¨ques et institutions
    OpenEdition Freemium
    Nos services
    OpenEdition Search La lettre d'OpenEdition

@@ -14,7 +14,10 @@ Qu'est-ce que la charge de travail?
    façon globale en tenant compte de la complexité du travail réel, des
    demandes formelles et informelles qui sont faites aux travailleurs, des
    ressources et des outils mis à la disposition de chacun pour réaliser
---
+   le travail, du temps disponible et des imprévus que l'on ne peut pas
+   toujours prévoir et qui ont un impact sur la charge de travail.
+
+   En matière de risques psychosociaux, la charge de travail réfère à la
    quantité de travail à accomplir, aux exigences intellectuelles requises
    et aux contraintes de temps à respecter dans la réalisation du travail.
    Ces dimensions peuvent être évaluées en questionnant les travailleurs
@@ -44,6 +47,7 @@ Qu'est-ce que la charge de travail?
    l'initiative et la créativité des travailleurs. Aussi, une charge de
    travail élevée chez les gestionnaires nuirait à la mise en place de
    pratiques de gestion qui favorisent le soutien et la disponibilité du
+   supérieur immédiat.
 --
 Quelles pratiques privilégier?
 
@@ -60,6 +64,14 @@ Quelles pratiques privilégier?
        imprévus qui surviennent. Par exemple :
           + faire des réunions d'équipe hebdomadaires,
 --
+     * Remplacer les personnes qui quittent pour des raisons de maladie ou
+       pour la retraite;
+     * Ajouter des ressources ou faire appel à des ressources d'appoint en
+       période de surcharge;
+     * Redéfinir les priorités en laissant de côté certaines tâches après
+       avoir consulté les travailleurs concernés;
+     * Implanter les changements de façon progressive, en y allant par
+--
        permettant du coaching, du mentorat, du codéveloppement et des
        activités de formation appropriées;
      * Prendre en compte le temps d'apprentissage dans la répartition de
@@ -67,6 +79,109 @@ Quelles pratiques privilégier?
      * Définir les plans d'action en fonction d'une planification de la
        main-d'oeuvre basée sur une projection réaliste des besoins.
 
+Références et liens utiles
+
+    1. Fournier, P.-S., S. Montreuil, J. Villa, (2013). Contribution à un
+       modèle explicatif de la charge de travail : le cas du service à la
+       clientèle. Relations industrielles, vol. 68, no. 1, p. 46-70.
+    2. Vézina, M., R. Bourbonnais, C. Brisson, L. Trudel, (2006). Définir
+       les risques : sur la prévention des problèmes de santé mentale.
+--
+                                     travail (BUTTON)
+                                   o Composantes clés de l'organisation du
+                                     travail
+                                   o Fiche 2-A : Charge de travail
+                                   o Fiche 2-B : Reconnaissance au travail
+                                   o Fiche 2-C : Soutien social du
+                                     supérieur immédiat
+     * Recueil de fiches portant sur les indicateurs de la Grille
+       d'identification de risques psychosociaux du travail
+     * Composantes clés de l'organisation du travail
+     * Fiche 2-A : Charge de travail
+
+Fiche 2-A : Indicateur « Charge de travail »
+
+Qu'est-ce que la charge de travail?
+
+   La charge de travail est un concept complexe à définir et va au-delà de
+   la quantité de travail prescrite par l'employeur. Elle comporte une
+   dimension subjective : la charge de travail ressentie est aussi
+   importante que la charge de travail demandée. Elle doit être abordée de
+   façon globale en tenant compte de la complexité du travail réel, des
+   demandes formelles et informelles qui sont faites aux travailleurs, des
+   ressources et des outils mis à la disposition de chacun pour réaliser
+   le travail, du temps disponible et des imprévus que l'on ne peut pas
+   toujours prévoir et qui ont un impact sur la charge de travail.
+
+   En matière de risques psychosociaux, la charge de travail réfère à la
+   quantité de travail à accomplir, aux exigences intellectuelles requises
+   et aux contraintes de temps à respecter dans la réalisation du travail.
+   Ces dimensions peuvent être évaluées en questionnant les travailleurs
+   sur leurs perceptions de leur charge réelle de travail.
+
+   Exemples de questions posées aux travailleurs pour évaluer la charge de
+   travail
+     * Votre charge de travail vous apparait-elle excessivement élevée?
+     * Avez-vous l'impression que vous devez travailler très fort?
+     * Votre travail est-il très mouvementé?
+     * Votre travail exige-t-il de vous concentrer intensément durant de
+--
+   L'intensification du travail est un phénomène de plus en plus présent
+   qui découle des grands changements des formes d'organisation du
+   travail. Ce phénomène se traduit par une augmentation constante de la
+   charge de travail et une mobilisation accrue des capacités
+   intellectuelles, psychologiques et physiques des travailleurs.
+
+   La charge de travail est un facteur de risque important pour la santé.
+   Plusieurs études ont montré des liens entre une combinaison d'une
+   charge de travail élevée et une faible autonomie décisionnelle et les
+   maladies mentales, musculo-squelettiques et cardiovasculaires.
+
+   En plus de la hausse de l'absentéisme et du présentéisme, une charge de
+   travail élevée peut avoir des impacts négatifs sur les organisations.
+   Par exemple, l'augmentation de la charge de travail freinerait
+   l'initiative et la créativité des travailleurs. Aussi, une charge de
+   travail élevée chez les gestionnaires nuirait à la mise en place de
+   pratiques de gestion qui favorisent le soutien et la disponibilité du
+   supérieur immédiat.
+--
+Quelles pratiques privilégier?
+
+   Voici des exemples de pratiques organisationnelles et de gestion
+   susceptibles d'avoir des effets positifs sur l'indicateur : charge de
+   travail.
+     * Définir les rôles et les responsabilités de chacun en favorisant la
+       participation des travailleurs concernés et en effectuant des
+       révisions régulièrement. S'assurer que les tâches établies sont
+       réalisables à l'intérieur des heures régulières de travail;
+     * Mettre en place des moyens pour permettre de bien connaître la
+       charge de travail réelle de façon régulière et de la réajuster en
+       fonction des nouvelles demandes, des capacités des personnes et des
+       imprévus qui surviennent. Par exemple :
+          + faire des réunions d'équipe hebdomadaires,
+--
+     * Remplacer les personnes qui quittent pour des raisons de maladie ou
+       pour la retraite;
+     * Ajouter des ressources ou faire appel à des ressources d'appoint en
+       période de surcharge;
+     * Redéfinir les priorités en laissant de côté certaines tâches après
+       avoir consulté les travailleurs concernés;
+     * Implanter les changements de façon progressive, en y allant par
+--
+       permettant du coaching, du mentorat, du codéveloppement et des
+       activités de formation appropriées;
+     * Prendre en compte le temps d'apprentissage dans la répartition de
+       la charge de travail;
+     * Définir les plans d'action en fonction d'une planification de la
+       main-d'oeuvre basée sur une projection réaliste des besoins.
+
+Références et liens utiles
+
+    1. Fournier, P.-S., S. Montreuil, J. Villa, (2013). Contribution à un
+       modèle explicatif de la charge de travail : le cas du service à la
+       clientèle. Relations industrielles, vol. 68, no. 1, p. 46-70.
+    2. Vézina, M., R. Bourbonnais, C. Brisson, L. Trudel, (2006). Définir
+       les risques : sur la prévention des problèmes de santé mentale.
 --
                                      travail (BUTTON)
                                    o Composantes clés de l'organisation du

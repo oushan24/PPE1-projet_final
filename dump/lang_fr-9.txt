@@ -2,8 +2,8 @@
 
      * Marques
           + Business Case
-          + Étude et Baromètre
-          + Stratégie de marque
+          + Ã‰tude et BaromÃ¨tre
+          + StratÃ©gie de marque
           + Veille et Tribune
           + Voir tous les articles Marques
      * Marketing
@@ -14,41 +14,41 @@
           + Voir tous les articles Marketing
      * Retail
           + Business Case
-          + Etude & Baromètre
-          + Stratégie Retail
+          + Etude & BaromÃ¨tre
+          + StratÃ©gie Retail
           + Veille & Tribune
           + Voir tous les articles Retail
-     * Média
-          + Événement
-          + Hors Média
+     * MÃ©dia
+          + Ã‰vÃ©nement
+          + Hors MÃ©dia
           + Mobile
           + Presse
           + Programmatique
           + Radio
           + TV
           + Veille et Tribune
-          + Voir tous les articles Média
+          + Voir tous les articles MÃ©dia
      * Influences
           + Business Case
-          + Étude et Baromètre
-          + Réseaux Sociaux
-          + Stratégie d'influence
+          + Ã‰tude et BaromÃ¨tre
+          + RÃ©seaux Sociaux
+          + StratÃ©gie d'influence
           + Veille et Tribune
           + Voir tous les articles Influences
      * Data
           + Big Data
           + Business Case
           + CRM
-          + Étude et Baromètre
+          + Ã‰tude et BaromÃ¨tre
           + IA
-          + Stratégie Data
+          + StratÃ©gie Data
           + Transformation digitale
           + Veille et Tribune
           + Voir tous les articles Data
      * Search
           + Business Case
           + Contenu
-          + Étude et Baromètre
+          + Ã‰tude et BaromÃ¨tre
           + SEA
           + SEO
           + Veille et Tribune
@@ -58,54 +58,54 @@
           + Appels d'offres
           + Budgets
           + Business Case
-          + Étude et Baromètre
+          + Ã‰tude et BaromÃ¨tre
           + Veille et Tribune
           + Voir tous les articles Agences
-     * Expérience
+     * ExpÃ©rience
           + Business Case
-          + Étude et Baromètre
-          + Expérience client
-          + Expérience utilisateur
+          + Ã‰tude et BaromÃ¨tre
+          + ExpÃ©rience client
+          + ExpÃ©rience utilisateur
           + Service client
           + Veille et Tribune
-          + Voir tous les articles Expérience
+          + Voir tous les articles ExpÃ©rience
 
      * Emarketing.TV
      * Fiches pratiques
      * Glossaire
-     * Méthodologie
-     * Événements
+     * MÃ©thodologie
+     * Ã‰vÃ©nements
      * Livres blancs
      * Webinars
      * Espaces partenaires
-          + L'expérience client à l'ère de l'IA
-          + La bonne méthode par E-Marketing.fr
+          + L'expÃ©rience client Ã  l'Ã¨re de l'IA
+          + La bonne mÃ©thode par E-Marketing.fr
           + Pub-Audit : construisez des solutions de communication locale
             performantes
-          + L'Expérience client par Isoskele
+          + L'ExpÃ©rience client par Isoskele
 
      * Emarketing.TV
      * Fiches pratiques
      * Glossaire
-     * Méthodologie
-     * Événements
+     * MÃ©thodologie
+     * Ã‰vÃ©nements
      * Livres blancs
      * Webinars
      * Espaces partenaires
-          + L'expérience client à l'ère de l'IA
-          + La bonne méthode par E-Marketing.fr
+          + L'expÃ©rience client Ã  l'Ã¨re de l'IA
+          + La bonne mÃ©thode par E-Marketing.fr
           + Pub-Audit : construisez des solutions de communication locale
             performantes
-          + L'Expérience client par Isoskele
+          + L'ExpÃ©rience client par Isoskele
 
-   E-marketing.fr Le média de référence des marketeurs
+   E-marketing.fr Le mÃ©dia de rÃ©fÃ©rence des marketeurs
    ____________________ Rechercher
      * S'abonner
 
      * Marques
           + Business Case
-          + Étude et Baromètre
-          + Stratégie de marque
+          + Ã‰tude et BaromÃ¨tre
+          + StratÃ©gie de marque
           + Veille et Tribune
           + Voir tous les articles Marques
      * Marketing
@@ -116,41 +116,41 @@
           + Voir tous les articles Marketing
      * Retail
           + Business Case
-          + Etude & Baromètre
-          + Stratégie Retail
+          + Etude & BaromÃ¨tre
+          + StratÃ©gie Retail
           + Veille & Tribune
           + Voir tous les articles Retail
-     * Média
-          + Événement
-          + Hors Média
+     * MÃ©dia
+          + Ã‰vÃ©nement
+          + Hors MÃ©dia
           + Mobile
           + Presse
           + Programmatique
           + Radio
           + TV
           + Veille et Tribune
-          + Voir tous les articles Média
+          + Voir tous les articles MÃ©dia
      * Influences
           + Business Case
-          + Étude et Baromètre
-          + Réseaux Sociaux
-          + Stratégie d'influence
+          + Ã‰tude et BaromÃ¨tre
+          + RÃ©seaux Sociaux
+          + StratÃ©gie d'influence
           + Veille et Tribune
           + Voir tous les articles Influences
      * Data
           + Big Data
           + Business Case
           + CRM
-          + Étude et Baromètre
+          + Ã‰tude et BaromÃ¨tre
           + IA
-          + Stratégie Data
+          + StratÃ©gie Data
           + Transformation digitale
           + Veille et Tribune
           + Voir tous les articles Data
      * Search
           + Business Case
           + Contenu
-          + Étude et Baromètre
+          + Ã‰tude et BaromÃ¨tre
           + SEA
           + SEO
           + Veille et Tribune
@@ -160,205 +160,205 @@
           + Appels d'offres
           + Budgets
           + Business Case
-          + Étude et Baromètre
+          + Ã‰tude et BaromÃ¨tre
           + Veille et Tribune
           + Voir tous les articles Agences
-     * Expérience
+     * ExpÃ©rience
           + Business Case
-          + Étude et Baromètre
-          + Expérience client
-          + Expérience utilisateur
+          + Ã‰tude et BaromÃ¨tre
+          + ExpÃ©rience client
+          + ExpÃ©rience utilisateur
           + Service client
           + Veille et Tribune
-          + Voir tous les articles Expérience
+          + Voir tous les articles ExpÃ©rience
 
-   Accueil / #Académie / #Méthodologie
+   Accueil / #AcadÃ©mie / #MÃ©thodologie
 
-La charge émotionnelle
+La charge Ã©motionnelle
 
-   Par Sylvie Labouesse, Nathalie Van Laethem, Le 1 décembre 2017, 0h00
+   Par Sylvie Labouesse, Nathalie Van Laethem, Le 1 dÃ©cembre 2017, 0h00
    7 min
 
-   Reconnaître le poids et l'influence de nos émotions dans nos activités
+   ReconnaÃ®tre le poids et l'influence de nos Ã©motions dans nos activitÃ©s
 
-En résumé
+En rÃ©sumÃ©
 
-   Nous appelons charge émotionnelle le poids et l'influence que certaines
-   de nos émotions apportent à nos réactions, nos attitudes, nos idées et
-   convictions. Ce poids et cette influence sont généralement de très
-   forte intensité, voire disproportionnés, par exemple, quand nous
+   Nous appelons charge Ã©motionnelle le poids et l'influence que certaines
+   de nos Ã©motions apportent Ã  nos rÃ©actions, nos attitudes, nos idÃ©es et
+   convictions. Ce poids et cette influence sont gÃ©nÃ©ralement de trÃ¨s
+   forte intensitÃ©, voire disproportionnÃ©s, par exemple, quand nous
    observons que nous mettons beaucoup d'emphase en regard d'une
-   situation. Mettre de l'emphase n'est ni bien ou mal, mais ce  »
-   trop-plein  » a un impact sur nos activités : nous ne raisonnons plus
-   objectivement car nous sommes emportés ou débordés par nos émotions.
+   situation. Mettre de l'emphase n'est ni bien ou mal, mais ce  Â»
+   trop-plein  Â» a un impact sur nos activitÃ©s : nous ne raisonnons plus
+   objectivement car nous sommes emportÃ©s ou dÃ©bordÃ©s par nos Ã©motions.
 
 Pourquoi l'utiliser ?
 
 Objectif
 
-   Prêter attention à la charge émotionnelle liée à nos réactions,
-   attitudes, idées, nous permet d'observer les stimulations internes ou
-   externes qui en sont à l'origine. Nous pouvons ainsi équilibrer les
-   émotions qui nous font  » grimper dans les tours « , celles qui
-   produisent une emphase disproportionnée ou gênante dans nos relations
-   avec les autres. Nous renforçons ainsi notre efficience
+   PrÃªter attention Ã  la charge Ã©motionnelle liÃ©e Ã  nos rÃ©actions,
+   attitudes, idÃ©es, nous permet d'observer les stimulations internes ou
+   externes qui en sont Ã  l'origine. Nous pouvons ainsi Ã©quilibrer les
+   Ã©motions qui nous font  Â» grimper dans les tours Â« , celles qui
+   produisent une emphase disproportionnÃ©e ou gÃªnante dans nos relations
+   avec les autres. Nous renforÃ§ons ainsi notre efficience
    professionnelle.
 
 Contexte
 
    Nous pouvons utiliser cet outil dans toute situation dans laquelle nous
-   ressentons une forte émotion. Prenons comme exemple cette personne
-   invitée à la dernière minute à une réunion, alors que sa participation
-   y est incontournable : elle arrive à la réunion en colère,  » ruminant
-    » le fait que l'organisateur aurait pu anticiper, qu'il était évident
-   que sa présence y était nécessaire... Envahie par ce surplus
-   émotionnel, elle vit toute la palette des couleurs émotionnelles telles
-   que vexation, rancune... Son énergie est absorbée par ses émotions et
-   son raisonnement s'altère, ses interventions en réunion présentent une
-   teinte émotionnelle décalée.
+   ressentons une forte Ã©motion. Prenons comme exemple cette personne
+   invitÃ©e Ã  la derniÃ¨re minute Ã  une rÃ©union, alors que sa participation
+   y est incontournable : elle arrive Ã  la rÃ©union en colÃ¨re,  Â» ruminant
+    Â» le fait que l'organisateur aurait pu anticiper, qu'il Ã©tait Ã©vident
+   que sa prÃ©sence y Ã©tait nÃ©cessaire... Envahie par ce surplus
+   Ã©motionnel, elle vit toute la palette des couleurs Ã©motionnelles telles
+   que vexation, rancune... Son Ã©nergie est absorbÃ©e par ses Ã©motions et
+   son raisonnement s'altÃ¨re, ses interventions en rÃ©union prÃ©sentent une
+   teinte Ã©motionnelle dÃ©calÃ©e.
 
-   Il en est de même avec les émotions positives. Prenons l'exemple de
-   cette personne qui apprend une excellente nouvelle avant la réunion,
-   elle est extrêmement joyeuse et s'exprime avec exaltation, alors que le
-   thème et le déroulement de la réunion ne le justifient pas. Là encore,
-   notre comportement peut paraître décalé.
+   Il en est de mÃªme avec les Ã©motions positives. Prenons l'exemple de
+   cette personne qui apprend une excellente nouvelle avant la rÃ©union,
+   elle est extrÃªmement joyeuse et s'exprime avec exaltation, alors que le
+   thÃ¨me et le dÃ©roulement de la rÃ©union ne le justifient pas. LÃ  encore,
+   notre comportement peut paraÃ®tre dÃ©calÃ©.
 
 Comment l'utiliser ?
 
-Étapes
+Ã‰tapes
 
-   En présence attentive, notez vos observations :
+   En prÃ©sence attentive, notez vos observations :
 
-     Prêtez attention à votre état émotionnel : identifiez votre émotion,
-   nommez-la en vous aidant de la Roue des émotions.
+     PrÃªtez attention Ã  votre Ã©tat Ã©motionnel : identifiez votre Ã©motion,
+   nommez-la en vous aidant de la Roue des Ã©motions.
 
-     Qualifiez votre émotion : + pour une émotion positive, - pour une
-   émotion négative.
+     Qualifiez votre Ã©motion : + pour une Ã©motion positive, - pour une
+   Ã©motion nÃ©gative.
 
-     Observez l'intensité de la charge émotionnelle sur une échelle de 1 à
-   10 ; 1 correspondant à une charge faible, 10 représentant un
-   débordement émotionnel quasi immaîtrisable.
+     Observez l'intensitÃ© de la charge Ã©motionnelle sur une Ã©chelle de 1 Ã 
+   10 ; 1 correspondant Ã  une charge faible, 10 reprÃ©sentant un
+   dÃ©bordement Ã©motionnel quasi immaÃ®trisable.
 
-     Identifiez et décrivez la situation, la personne, l'objet, l'image,
-   etc. à l'origine de cette émotion.
+     Identifiez et dÃ©crivez la situation, la personne, l'objet, l'image,
+   etc. Ã  l'origine de cette Ã©motion.
 
-     Repérez quelle en est son origine : externe (situation, personne,
+     RepÃ©rez quelle en est son origine : externe (situation, personne,
    parole...) ou interne (imagination, souvenir...) ?
 
-Méthodologie et conseils
+MÃ©thodologie et conseils
 
-   Cette première approche de la charge émotionnelle doit rester
-   factuelle, l'objectif consistant à l'observer dans notre vie
-   quotidienne. Outre la dimension inadaptée de la charge émotionnelle,
-   celle-ci produit un mal-être, car elle est souvent source de
-   contradiction intérieure : nous voulons travailler ou discuter avec
-   discernement, mais un trop plein émotionnel nous envahit.
+   Cette premiÃ¨re approche de la charge Ã©motionnelle doit rester
+   factuelle, l'objectif consistant Ã  l'observer dans notre vie
+   quotidienne. Outre la dimension inadaptÃ©e de la charge Ã©motionnelle,
+   celle-ci produit un mal-Ãªtre, car elle est souvent source de
+   contradiction intÃ©rieure : nous voulons travailler ou discuter avec
+   discernement, mais un trop plein Ã©motionnel nous envahit.
 
    Noter nos observations est une forme d'expression qui permet de
-   décharger le trop-plein de nos émotions et d'en prendre conscience.x
+   dÃ©charger le trop-plein de nos Ã©motions et d'en prendre conscience.x
 
 Avantages
 
-     * Reconnaître la charge émotionnelle liée à nos attitudes et idées
+     * ReconnaÃ®tre la charge Ã©motionnelle liÃ©e Ã  nos attitudes et idÃ©es
        nous fait prendre du recul.
 
-Précautions à prendre
+PrÃ©cautions Ã  prendre
 
      * Il s'agit juste d'une observation, sans aucun jugement de valeur,
-       du poids et de l'influence de nos émotions les plus intenses.
+       du poids et de l'influence de nos Ã©motions les plus intenses.
 
-Comment être plus efficace ?
+Comment Ãªtre plus efficace ?
 
-Approfondir l'observation sur la charge émotionnelle
+Approfondir l'observation sur la charge Ã©motionnelle
 
-   La charge de nos émotions est polluante quand notre comportement
-   devient ambigu ou que nous expérimentons une contradiction intérieure.
-   Pour aller encore plus loin dans la pleine conscience de nos émotions
+   La charge de nos Ã©motions est polluante quand notre comportement
+   devient ambigu ou que nous expÃ©rimentons une contradiction intÃ©rieure.
+   Pour aller encore plus loin dans la pleine conscience de nos Ã©motions
    et de la charge qu'elles portent, repartons de l'exemple de la personne
-   convoquée au dernier moment à une réunion à laquelle elle est
+   convoquÃ©e au dernier moment Ã  une rÃ©union Ã  laquelle elle est
    indispensable :
 
-   1. Reconnaître et nommer l'émotion : la colère.
+   1. ReconnaÃ®tre et nommer l'Ã©motion : la colÃ¨re.
 
-   2. Qualifier l'émotion : négative.
+   2. Qualifier l'Ã©motion : nÃ©gative.
 
    3. Mesurer la charge : 8/10.
 
-   4. Identifier le déclencheur : être prévenu de cette réunion au dernier
-   moment alors qu'il était évident d'y participer, vu son importance.
+   4. Identifier le dÃ©clencheur : Ãªtre prÃ©venu de cette rÃ©union au dernier
+   moment alors qu'il Ã©tait Ã©vident d'y participer, vu son importance.
 
-   5. Origine de l'émotion : stimulus externe.
+   5. Origine de l'Ã©motion : stimulus externe.
 
-   Pour aller plus loin sur cette émotion polluante et disproportionnée
-   qu'est la colère dans cette situation, nous pouvons compléter les cinq
-   premières observations par les quatre suivantes, et les noter :
+   Pour aller plus loin sur cette Ã©motion polluante et disproportionnÃ©e
+   qu'est la colÃ¨re dans cette situation, nous pouvons complÃ©ter les cinq
+   premiÃ¨res observations par les quatre suivantes, et les noter :
 
-   6.Décrivez les conséquences de cette charge émotionnelle sur vos
-   activités, sur la situation, sur les personnes alentour, sur votre
-   environnement, et surtout pour vous-même. Ainsi, par exemple : " Je
-   n'arrive pas à me concentrer sur le sujet de la réunion, je n'ai pas
+   6.DÃ©crivez les consÃ©quences de cette charge Ã©motionnelle sur vos
+   activitÃ©s, sur la situation, sur les personnes alentour, sur votre
+   environnement, et surtout pour vous-mÃªme. Ainsi, par exemple : " Je
+   n'arrive pas Ã  me concentrer sur le sujet de la rÃ©union, je n'ai pas
    l'esprit clair. "
 
-   7.Appréciez ce que cette charge émotionnelle apporte, en quoi elle est
-   bénéfique pour vous. Qu'est-ce qui fait qu'on l'accepte et qu'on
-   justifie son émotion, même très forte ? Ainsi, par exemple : " Ma
-   colère est légitime, car il n'est pas normal d'être prévenu au dernier
+   7.ApprÃ©ciez ce que cette charge Ã©motionnelle apporte, en quoi elle est
+   bÃ©nÃ©fique pour vous. Qu'est-ce qui fait qu'on l'accepte et qu'on
+   justifie son Ã©motion, mÃªme trÃ¨s forte ? Ainsi, par exemple : " Ma
+   colÃ¨re est lÃ©gitime, car il n'est pas normal d'Ãªtre prÃ©venu au dernier
    moment pour un sujet aussi important. "
 
    8.Analysez par quelle valeur ou croyance profonde cette charge
-   émotionnelle est-elle justifiée. Ainsi, dans l'exemple : " Tout le
-   monde sait que je suis LE spécialiste du sujet de cette réunion, et on
+   Ã©motionnelle est-elle justifiÃ©e. Ainsi, dans l'exemple : " Tout le
+   monde sait que je suis LE spÃ©cialiste du sujet de cette rÃ©union, et on
    trouve le moyen de m'y inviter au dernier moment ! "
 
-Posséder son point de vue ou le lâcher ?
+PossÃ©der son point de vue ou le lÃ¢cher ?
 
-   Quand nous sommes persuadés d'avoir raison, nous sommes en train de
-   justifier la force de notre émotion. Nous sommes coupables et victimes
-   à la fois, laissant une personne, une situation, entrer en nous et nous
-   déstabiliser. Il ne s'agit pas de ne plus avoir d'émotions, mais de ne
-   pas en laisser une charge exagérée entamer notre bien-être. Alors
-   posons-nous cette dernière question :
+   Quand nous sommes persuadÃ©s d'avoir raison, nous sommes en train de
+   justifier la force de notre Ã©motion. Nous sommes coupables et victimes
+   Ã  la fois, laissant une personne, une situation, entrer en nous et nous
+   dÃ©stabiliser. Il ne s'agit pas de ne plus avoir d'Ã©motions, mais de ne
+   pas en laisser une charge exagÃ©rÃ©e entamer notre bien-Ãªtre. Alors
+   posons-nous cette derniÃ¨re question :
 
    9." Et si... ? ", " Et si je faisais autrement ? ", " Et si je me
-   trompais ? ", " Et si les choses n'étaient pas aussi importantes
+   trompais ? ", " Et si les choses n'Ã©taient pas aussi importantes
    qu'elles y paraissent ? ". Ainsi, dans l'exemple : " Finalement, j'ai
-   peut-être une trop haute estime de moi-même. Je vais faire un point
+   peut-Ãªtre une trop haute estime de moi-mÃªme. Je vais faire un point
    avec l'organisateur et lui proposerai d'anticiper pour la prochaine
-   fois. Les deux bénéfices seront : pour moi, l'organisation de mon
-   agenda et la préparation de la réunion, pour lui, l'efficacité de la
-   réunion ".
+   fois. Les deux bÃ©nÃ©fices seront : pour moi, l'organisation de mon
+   agenda et la prÃ©paration de la rÃ©union, pour lui, l'efficacitÃ© de la
+   rÃ©union ".
 
-   Cela ne nous empêche pas d'avoir une opinion sur les choses, ni
-   d'exprimer notre désaccord à l'autre personne. Mais le dialogue ne
-   pourra s'établir sereinement que si nous lâchons prise.
+   Cela ne nous empÃªche pas d'avoir une opinion sur les choses, ni
+   d'exprimer notre dÃ©saccord Ã  l'autre personne. Mais le dialogue ne
+   pourra s'Ã©tablir sereinement que si nous lÃ¢chons prise.
 
-   À chaque situation, prenez des notes pour apprendre à mieux vous
-   connaître.
+   Ã€ chaque situation, prenez des notes pour apprendre Ã  mieux vous
+   connaÃ®tre.
 
-   " La charge émotionnelle que je vis à l'instant est-elle adaptée à mon
-   intention de sérénité et d'efficience ? " Nous devons trouver une
-   variante apaisée à notre réaction, avec pour principal objectif de
-   préserver notre bien-être.
+   " La charge Ã©motionnelle que je vis Ã  l'instant est-elle adaptÃ©e Ã  mon
+   intention de sÃ©rÃ©nitÃ© et d'efficience ? " Nous devons trouver une
+   variante apaisÃ©e Ã  notre rÃ©action, avec pour principal objectif de
+   prÃ©server notre bien-Ãªtre.
 
-TÉMOIGNAGE Kevin C.
+TÃ‰MOIGNAGE Kevin C.
 
-   Kevin a utilisé l'outil et nous livre le fruit de son observation :
+   Kevin a utilisÃ© l'outil et nous livre le fruit de son observation :
 
-   " J'ai tout d'abord procédé aux étapes 1 à 5 dès le jour même, à chaud.
-   Aujourd'hui, j'ai ressenti une grande satisfaction, d'une intensité 8
-   sur une échelle de 10, émotion très positive, après qu'on m'ait
-   félicité pour la réussite de mon projet (stimulus externe). "
+   " J'ai tout d'abord procÃ©dÃ© aux Ã©tapes 1 Ã  5 dÃ¨s le jour mÃªme, Ã  chaud.
+   Aujourd'hui, j'ai ressenti une grande satisfaction, d'une intensitÃ© 8
+   sur une Ã©chelle de 10, Ã©motion trÃ¨s positive, aprÃ¨s qu'on m'ait
+   fÃ©licitÃ© pour la rÃ©ussite de mon projet (stimulus externe). "
 
-   " J'ai appliqué les étapes supplémentaires :
+   " J'ai appliquÃ© les Ã©tapes supplÃ©mentaires :
 
-   Je me suis rendu compte que je cherchais à " faire durer le plaisir "
-   de cette émotion très positive, et assez intense ; mais, je voyais bien
-   que j'en faisais un peu trop. J'ai observé que je considérais légitime
-   d'être félicité pour une réussite. En réfléchissant bien, quand j'étais
-   petit, mes parents me blâmaient quand je ne ramenais pas la note qu'ils
+   Je me suis rendu compte que je cherchais Ã  " faire durer le plaisir "
+   de cette Ã©motion trÃ¨s positive, et assez intense ; mais, je voyais bien
+   que j'en faisais un peu trop. J'ai observÃ© que je considÃ©rais lÃ©gitime
+   d'Ãªtre fÃ©licitÃ© pour une rÃ©ussite. En rÃ©flÃ©chissant bien, quand j'Ã©tais
+   petit, mes parents me blÃ¢maient quand je ne ramenais pas la note qu'ils
    attendaient. Et quand j'avais de bonnes notes, ils trouvaient cela
    normal, ils restaient neutres. Je comprends mieux aujourd'hui l'emphase
-   que je porte à la reconnaissance. L'important pour moi est de le voir.
+   que je porte Ã  la reconnaissance. L'important pour moi est de le voir.
    "
 
    Recommander cet article :
@@ -368,161 +368,161 @@ TÉMOIGNAGE Kevin C.
      * Sommaire
      * I - En pleine conscience, ici et maintenant
           + L'attention en pleine conscience
-          + Le rappel à soi
+          + Le rappel Ã  soi
           + Le Stop interne
-          + Les neuf moments de présence attentive
-          + La méditation
+          + Les neuf moments de prÃ©sence attentive
+          + La mÃ©ditation
           + L'auto-observation
      * II - En Pleine conscience de ses sensations
-          + La détente des tensions
+          + La dÃ©tente des tensions
           + La relaxation
           + Le relax flash
           + La respiration
           + Les sensations
-          + Le maître du  » Je «
-     * III - En Pleine conscience de ses émotions
-          + La Roue des émotions : Définition, schéma et utilisation
-          + La charge émotionnelle
+          + Le maÃ®tre du  Â» Je Â«
+     * III - En Pleine conscience de ses Ã©motions
+          + La Roue des Ã©motions : DÃ©finition, schÃ©ma et utilisation
+          + La charge Ã©motionnelle
           + L'intuition
-          + Les climats intérieurs
+          + Les climats intÃ©rieurs
           + La confiance en soi
           + Les PIBA (Purs Instants de Bonheur Absolu)
-          + L'adhésion émotionnelle
-          + L'intégration des émotions
+          + L'adhÃ©sion Ã©motionnelle
+          + L'intÃ©gration des Ã©motions
      * IV - En Pleine conscience de ses mouvements
           + Le geste Design
-          + L'exercice de la main opposée
-          + La décharge motrice
-          + Le réveil moteur
+          + L'exercice de la main opposÃ©e
+          + La dÃ©charge motrice
+          + Le rÃ©veil moteur
           + La slow attitude
           + La posture corporelle
      * V - En Pleine conscience de son mental
-          + L'interprétation
-          + L'échelle de valeurs
-          + Les pensées involontaires
-          + L'image de soi : définition et explications
-          + L'imagination créatrice
-          + La mémoire
+          + L'interprÃ©tation
+          + L'Ã©chelle de valeurs
+          + Les pensÃ©es involontaires
+          + L'image de soi : dÃ©finition et explications
+          + L'imagination crÃ©atrice
+          + La mÃ©moire
           + La visualisation
-          + La réalisation unitive
-     * VI - En pleine conscience dans ses activités
+          + La rÃ©alisation unitive
+     * VI - En pleine conscience dans ses activitÃ©s
           + La relation au temps
           + La planification souple
           + Le biorythme personnel
           + Trois comportements bloquants
-          + Le centre de gravité interne
-          + La matrice Gestion de ses activités
-          + L'équilibre objectifs perso / objectifs pro
+          + Le centre de gravitÃ© interne
+          + La matrice Gestion de ses activitÃ©s
+          + L'Ã©quilibre objectifs perso / objectifs pro
           + La proportion
-     * VII - En pleine conscience même en situation de stress
-          + Le fonctionnement stimuli-réponse
+     * VII - En pleine conscience mÃªme en situation de stress
+          + Le fonctionnement stimuli-rÃ©ponse
           + Les signes du stress
-          + Les manifestations de notre insécurité interne
+          + Les manifestations de notre insÃ©curitÃ© interne
           + La pression d'autrui
           + Les aspirations positives
-          + Le lâcher-prise
-     * VIII - En pleine conscience de Son équilibre perso/pro
+          + Le lÃ¢cher-prise
+     * VIII - En pleine conscience de Son Ã©quilibre perso/pro
           + La recharge de ses batteries
-          + La déconnexion/reconnexion
-          + Les sphères de vie
+          + La dÃ©connexion/reconnexion
+          + Les sphÃ¨res de vie
           + Les cercles de prestige
-          + La cartographie des moments clés
+          + La cartographie des moments clÃ©s
           + L'auto-coaching
-          + La démarche de progrès intérieur
+          + La dÃ©marche de progrÃ¨s intÃ©rieur
 
-   Abonnez-vous à Marketing Magazine !
+   Abonnez-vous Ã  Marketing Magazine !
 
-   Recevez votre magazine en papier + format PDF (4 numéros) et accédez
+   Recevez votre magazine en papier + format PDF (4 numÃ©ros) et accÃ©dez
    aux contenus premium
    [ecrans.png] [MM250_Couv-5.jpg] [MM250_Couv-5.jpg]
 
-   à partir de
+   Ã  partir de
    190 EUR
    par an
    pour 1 an d'abonnement
    j'en profite
 
-Recevez la newsletter de la rédaction
+Recevez la newsletter de la rÃ©daction
 
    ____________________ (BUTTON) OK
 
    X Brand Voice
 
-   Brand Voice marques l'opportunité de s'adresser directement aux
-   internautes, grâce à un format s'intégrant parfaitement dans le fond et
-   la forme du site. Les internautes ont accès à du contenu produit par
-   les marques, en lien avec leurs problématiques professionnelles. Ils
-   peuvent facilement en identifier la provenance grâce à la mention
+   Brand Voice marques l'opportunitÃ© de s'adresser directement aux
+   internautes, grÃ¢ce Ã  un format s'intÃ©grant parfaitement dans le fond et
+   la forme du site. Les internautes ont accÃ¨s Ã  du contenu produit par
+   les marques, en lien avec leurs problÃ©matiques professionnelles. Ils
+   peuvent facilement en identifier la provenance grÃ¢ce Ã  la mention
    "Brand Voice", ce format permet de valoriser leur expertise en
-   partageant du contenu à forte valeur ajoutée. Pour toute demande de
-   renseignements complémentaires, contactez-nous à l'adresse suivante :
+   partageant du contenu Ã  forte valeur ajoutÃ©e. Pour toute demande de
+   renseignements complÃ©mentaires, contactez-nous Ã  l'adresse suivante :
    [email protected]
 
-Sur le même thème
+Sur le mÃªme thÃ¨me
 
 Studio IA : La Poste Solutions Business booste le courrier marketing...
 
    Par La Poste Business Solutions 5 min
 
-Conférence MKG Day 2017 - Bots / Intelligence Artificielle 1/4,...
+ConfÃ©rence MKG Day 2017 - Bots / Intelligence Artificielle 1/4,...
 
    Par Richard Mathey min
 
-   Thèmatiques associées
+   ThÃ¨matiques associÃ©es
      * #Livre Dunod
 
-Inscrivez-vous à la Newsletter
+Inscrivez-vous Ã  la Newsletter
 
-   pour recevoir les dernières actualités
+   pour recevoir les derniÃ¨res actualitÃ©s
    ____________________ (BUTTON) OK
    Magazine Action Commerciale
 
    Abonnez-vous au magazine Marketing et profitez de contenus exclusifs !
 
-   Boostez votre expertise professionnelle en accédant aux informations
-   clés de votre domaine.
+   Boostez votre expertise professionnelle en accÃ©dant aux informations
+   clÃ©s de votre domaine.
    PASS 1 AN
 
-   Recevez votre magazine en papier + format PDF (4 numéros) et accédez
+   Recevez votre magazine en papier + format PDF (4 numÃ©ros) et accÃ©dez
    aux contenus premium
 
    210EUR/an 190EUR/an
 
-   Bénéficiez du premier mois offert
-   pour un règlement immédiat
+   BÃ©nÃ©ficiez du premier mois offert
+   pour un rÃ¨glement immÃ©diat
    J'EN PROFITE
    PASS 2 ANS
 
-   Abonnement papier + format PDF (8 numéros) et accédez aux contenus
+   Abonnement papier + format PDF (8 numÃ©ros) et accÃ©dez aux contenus
    premium
 
    420EUR/2 ans 378EUR/2 ans
 
-   Bénéficiez du -10% de réduction
-   pour un règlement immédiat
+   BÃ©nÃ©ficiez du -10% de rÃ©duction
+   pour un rÃ¨glement immÃ©diat
    J'EN PROFITE
 
    About
-   E-marketing.fr et le magazine Marketing sont les médias leader en
-   France de l'information B2B et de l'animation de la communauté
-   professionnelle constituée par les décideurs Marketing. Deux outils
-   indispensables pour les pros du business développement et pour les
-   prestataires de la filière marketing
-     * Actualités
+   E-marketing.fr et le magazine Marketing sont les mÃ©dias leader en
+   France de l'information B2B et de l'animation de la communautÃ©
+   professionnelle constituÃ©e par les dÃ©cideurs Marketing. Deux outils
+   indispensables pour les pros du business dÃ©veloppement et pour les
+   prestataires de la filiÃ¨re marketing
+     * ActualitÃ©s
      * Emarketing TV
      * Glossaire
-     * Méthodologie
+     * MÃ©thodologie
      * Fiches pratiques
-     * Événements
+     * Ã‰vÃ©nements
 
      * Livres blancs
      * Webinars
      * Espaces partenaires
 
    Contacts
-     * La rédaction
-     * La régie
-     * Les équipes
+     * La rÃ©daction
+     * La rÃ©gie
+     * Les Ã©quipes
 
    Nous suivre
      * LinkedIn
@@ -545,8 +545,8 @@ Inscrivez-vous à la Newsletter
      * Silicon.es Silicon.es
      * Silicon.de Silicon.de
 
-     * Politique de confidentialité
-     * Conditions Générales d'Utilisation
-     * Mentions Légales
+     * Politique de confidentialitÃ©
+     * Conditions GÃ©nÃ©rales d'Utilisation
+     * Mentions LÃ©gales
 
    ^|

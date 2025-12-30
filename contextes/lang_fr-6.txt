@@ -36,6 +36,14 @@ La pression : un phénomène multidimensionnel
    physiologique (fatigue, troubles du sommeil, tensions musculaires).
    Selon une étude publiée dans le Journal of Occupational Health
 --
+   réunion. Elle décrit une « peur permanente de l'erreur », une
+   difficulté à déléguer et un sommeil fractionné. L'évaluation révèle un
+   syndrome d'épuisement professionnel (burnout) associé à un trouble
+   anxieux généralisé. La prise en charge combine une thérapie
+   cognitivo-comportementale (TCC) et un aménagement temporaire de ses
+   responsabilités.
+
+--
 
    Les principales sources de pression identifiées dans la littérature
    sont :
@@ -43,6 +51,14 @@ La pression : un phénomène multidimensionnel
        équipes ou des budgets peut générer une anxiété de performance,
        surtout en contexte d'incertitude.
      * La gestion des conflits : Arbitrer entre des intérêts divergents
+--
+   douleurs thoraciques et une consommation accrue d'alcool. Il explique
+   ressentir une « pression constante » depuis la crise économique, avec
+   la crainte de devoir licencier. L'évaluation met en évidence un trouble
+   de l'adaptation avec humeur dépressive. La prise en charge associe une
+   psychothérapie de soutien et un travail sur la gestion des émotions.
+
+Les mécanismes psychologiques et neurobiologiques de la pression
 --
    Exemple clinique : Thomas, 38 ans, chef de projet IT, présente des
    troubles de la concentration et des oubli fréquents. Les bilans
@@ -52,6 +68,14 @@ La pression : un phénomène multidimensionnel
    temps.
 
 --
+La gestion du temps et des priorités
+
+   La méthode Eisenhower (urgent/important) ou la technique Pomodoro
+   (travail par intervalles) aident à structurer la charge de travail. Une
+   étude de Harvard Business Review souligne que les managers utilisant
+   ces méthodes voient leur productivité augmenter de 25% (Covey, 2020).
+
+--
    à un groupe de parole de maires. Il y trouve un espace pour exprimer
    ses doutes et partager des solutions, ce qui améliore son bien-être.
 
@@ -59,6 +83,115 @@ Quand consulter ? Signes d'alerte et prise en charge
 
 Les signes d'alerte
 
+--
+
+   Exemple clinique : Anne, 40 ans, directrice d'école, consulte pour un
+   épuisement total et des idées suicidaires passagères. L'évaluation
+   révèle un épisode dépressif majeur. Une prise en charge combinant
+   antidépresseurs et psychothérapie est mise en place.
+
+Les professionnels à consulter
+--
+     * Médecin généraliste : Pour un premier bilan et une orientation.
+     * Psychiatre : En cas de symptômes sévères (dépression, anxiété
+       généralisée).
+     * Psychologue clinicien : Pour une prise en charge
+       psychothérapeutique (TCC, TIP).
+     * Coach professionnel : Pour un accompagnement sur les compétences
+       managériales.
+                    # Abus sexuels: comment réagir?
+                    # Addiction au portable
+                    # Angoisse ou anxiété de performance
+                    # Charge mentale ou cognitive: de quoi s'agit-il?
+                    # Culpabilité
+                    # EDC (épisode dépressif caractérisé) ou dépression :
+                      dossier détaillé
+--
+                    # Manque de confiance ou d'estime de soi : comment le
+                      soigner ?
+                    # Obésité: comment la reconnaître et la prendre en
+                      charge
+                    # Problème de comportement
+                    # Procrastination: de quoi s'agit-il? Qu'est-ce que ça
+                      cache?
+--
+   mail: dr.neveux@gmail.com
+
+   Sources: Pratiquer la Thérapie Interpersonnelle (TIP), Dunod; Prendre
+   en charge la dépression avec la thérapie interpersonnelle, Dunod.
+
+     L'essentiel:
+     * Peut être un symptôme de pathologies graves (troubles anxieux,
+       dépression...)
+     * Un médecin/psychiatre doit faire le diagnostic et coordonner la
+       prise en charge
+     * La TCC est le traitement indiqué en première intention
+
+Gérer la pression quand on est dans une position de responsabilité : enjeux
+--
+La pression : un phénomène multidimensionnel
+
+   La pression en position de responsabilité se manifeste à plusieurs
+   niveaux : cognitif (surcharge mentale, difficulté à prioriser),
+   émotionnel (anxiété, irritabilité, sentiment d'imposture), et
+   physiologique (fatigue, troubles du sommeil, tensions musculaires).
+   Selon une étude publiée dans le Journal of Occupational Health
+--
+   réunion. Elle décrit une « peur permanente de l'erreur », une
+   difficulté à déléguer et un sommeil fractionné. L'évaluation révèle un
+   syndrome d'épuisement professionnel (burnout) associé à un trouble
+   anxieux généralisé. La prise en charge combine une thérapie
+   cognitivo-comportementale (TCC) et un aménagement temporaire de ses
+   responsabilités.
+
+--
+
+   Les principales sources de pression identifiées dans la littérature
+   sont :
+     * La charge décisionnelle : Prendre des décisions impactant des
+       équipes ou des budgets peut générer une anxiété de performance,
+       surtout en contexte d'incertitude.
+     * La gestion des conflits : Arbitrer entre des intérêts divergents
+--
+   douleurs thoraciques et une consommation accrue d'alcool. Il explique
+   ressentir une « pression constante » depuis la crise économique, avec
+   la crainte de devoir licencier. L'évaluation met en évidence un trouble
+   de l'adaptation avec humeur dépressive. La prise en charge associe une
+   psychothérapie de soutien et un travail sur la gestion des émotions.
+
+Les mécanismes psychologiques et neurobiologiques de la pression
+--
+   Exemple clinique : Thomas, 38 ans, chef de projet IT, présente des
+   troubles de la concentration et des oubli fréquents. Les bilans
+   biologiques révèlent un taux de cortisol matinal élevé, compatible avec
+   un stress chronique. La prise en charge inclut des techniques de
+   relaxation (cohérence cardiaque) et une réorganisation de son emploi du
+   temps.
+
+--
+La gestion du temps et des priorités
+
+   La méthode Eisenhower (urgent/important) ou la technique Pomodoro
+   (travail par intervalles) aident à structurer la charge de travail. Une
+   étude de Harvard Business Review souligne que les managers utilisant
+   ces méthodes voient leur productivité augmenter de 25% (Covey, 2020).
+
+--
+   à un groupe de parole de maires. Il y trouve un espace pour exprimer
+   ses doutes et partager des solutions, ce qui améliore son bien-être.
+
+Quand consulter ? Signes d'alerte et prise en charge
+
+Les signes d'alerte
+
+--
+
+   Exemple clinique : Anne, 40 ans, directrice d'école, consulte pour un
+   épuisement total et des idées suicidaires passagères. L'évaluation
+   révèle un épisode dépressif majeur. Une prise en charge combinant
+   antidépresseurs et psychothérapie est mise en place.
+
+Les professionnels à consulter
 --
      * Médecin généraliste : Pour un premier bilan et une orientation.
      * Psychiatre : En cas de symptômes sévères (dépression, anxiété

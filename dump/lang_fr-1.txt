@@ -19,272 +19,273 @@
    X
    Facebook
    Pinterest
-     * Actualités (BUTTON) Toggle submenu
+     * ActualitÃ©s (BUTTON) Toggle submenu
        tetoscope
-       Actualités
+       ActualitÃ©s
 
-Santé 2025 : urgences, pénuries, prévention
-       Le système de santé français fait face à de grands défis : pénurie
-       de soignants, urgences saturées, retards de dépistages... et un
-       effort accru pour la prévention.
-     * Santé pratique (BUTTON) Toggle submenu
+SantÃ© 2025 : urgences, pÃ©nuries, prÃ©vention
+       Le systÃ¨me de santÃ© franÃ§ais fait face Ã  de grands dÃ©fis : pÃ©nurie
+       de soignants, urgences saturÃ©es, retards de dÃ©pistages... et un
+       effort accru pour la prÃ©vention.
+     * SantÃ© pratique (BUTTON) Toggle submenu
           + Coeur, circulation et digestion
           + Douleurs et troubles musculo-squelettiques
           + Les maux du quotidien
-          + Médecines douces
-          + Prévention et environnement
-          + Santé de la femme
-          + Santé par zone du corps
-          + Santé senior
-          + Sommeil et anxiété
-          + Système de santé
-       Scène de vie quotidienne dans un café moderne et lumineux. Un homme
-       d'une trentaine d'années, vêtu d
-       Beauté
+          + MÃ©decines douces
+          + PrÃ©vention et environnement
+          + SantÃ© de la femme
+          + SantÃ© par zone du corps
+          + SantÃ© senior
+          + Sommeil et anxiÃ©tÃ©
+          + SystÃ¨me de santÃ©
+       ScÃ¨ne de vie quotidienne dans un cafÃ© moderne et lumineux. Un homme
+       d'une trentaine d'annÃ©es, vÃªtu d
+       BeautÃ©
 
-Attractivité masculine : au-delà des fesses, voici les zones qui captivent
-réellement les femmes
-       Oubliez les clichés sur les biceps démesurés. Des études récentes
-       révèlent que l'oeil féminin scanne des indicateurs précis de santé
-       et de force. Du ratio épaules-taille à la gestuelle, découvrez
-       quelles parties du corps suscitent véritablement l'intérêt et
-       pourquoi la posture reste votre meilleure alliée.
+AttractivitÃ© masculine : au-delÃ  des fesses, voici les zones qui captivent
+rÃ©ellement les femmes
+       Oubliez les clichÃ©s sur les biceps dÃ©mesurÃ©s. Des Ã©tudes rÃ©centes
+       rÃ©vÃ¨lent que l'oeil fÃ©minin scanne des indicateurs prÃ©cis de santÃ©
+       et de force. Du ratio Ã©paules-taille Ã  la gestuelle, dÃ©couvrez
+       quelles parties du corps suscitent vÃ©ritablement l'intÃ©rÃªt et
+       pourquoi la posture reste votre meilleure alliÃ©e.
      * Maladies (BUTTON) Toggle submenu
           + Addictions
           + Cancers
-          + Diabète et maladies métaboliques
+          + DiabÃ¨te et maladies mÃ©taboliques
           + Douleurs chroniques et rhumatismes
-          + Maladies digestives et rénales
+          + Maladies digestives et rÃ©nales
           + Maladies neurologiques
           + Maladies respiratoires et infectieuses
-          + Santé cardiovasculaire
-          + Santé mentale et troubles psy
-          + Sujets de santé publique
-       famille à table au restaurant en train de partager un plateau de
-       sushis
-       Sujets de santé publique
+          + SantÃ© cardiovasculaire
+          + SantÃ© mentale et troubles psy
+          + Sujets de santÃ© publique
+       Un couple de trentenaires souriants et rayonnants dans une cuisine
+       lumineuse et moderne, prÃ©parant e
+       Addictions
 
-Mercure, Plomb : 5 réflexes quotidiens pour aider votre corps à éliminer les
-métaux lourds
-       Soumis à une exposition quasi-permanente, notamment au mercure, au
-       plomb, au cadmium et à l'arsenic, notre organisme accumule
-       progressivement ces substances. Au-delà d'un certain seuil, cette
-       charge corporelle peut engendrer des symptômes diffus comme une
-       fatigue inexpliquée ou des troubles neurologiques. Découvrez les
-       faits incontournables, les principales sources de contamination et
-       les leviers pour soutenir vos organes d'élimination dès
-       aujourd'hui.
-     * Médicaments (BUTTON) Toggle submenu
-          + Médicaments en pratique
-          + Médicaments et maladies
-          + Médicaments sans ordonnance
+Le sucre est-il vraiment une drogue ? Ce que la science dit de sa
+ressemblance frappante avec la cocaÃ¯ne
+       Le sucre active le mÃªme circuit cÃ©rÃ©bral que la cocaÃ¯ne, relanÃ§ant
+       sans cesse le dÃ©bat : est-il une drogue douce ou une simple
+       gourmandise ? Cet article dÃ©cortique la controverse scientifique,
+       des Ã©tudes chocs sur les rongeurs aux nuances neurobiologiques du
+       signal de la dopamine, pour distinguer l'addiction alimentaire de
+       la dÃ©pendance aux substances.
+     * MÃ©dicaments (BUTTON) Toggle submenu
+          + MÃ©dicaments en pratique
+          + MÃ©dicaments et maladies
+          + MÃ©dicaments sans ordonnance
           + Risques et effets secondaires
-       Une scène de vie quotidienne lumineuse et chaleureuse dans une
+       Une scÃ¨ne de vie quotidienne lumineuse et chaleureuse dans une
        cuisine moderne. Un couple d'une cinq
-       Médicaments et maladies
+       MÃ©dicaments et maladies
 
-Paracétamol, thé vert, plantes : ces produits courants qui peuvent détruire
-votre foie sans prévenir
+ParacÃ©tamol, thÃ© vert, plantes : ces produits courants qui peuvent dÃ©truire
+votre foie sans prÃ©venir
        Si le foie agit comme le filtre purificateur de notre organisme, il
-       n'est pas indestructible. Certains médicaments très courants et des
-       suppléments d'apparence inoffensive peuvent gravement l'endommager.
-       Cet article fait le point sur l'hépatotoxicité iatrogène, listant
-       les substances à risque et les facteurs individuels qui augmentent
-       votre vulnérabilité.
-     * Bien-être (BUTTON) Toggle submenu
-          + Activité physique et sport
+       n'est pas indestructible. Certains mÃ©dicaments trÃ¨s courants et des
+       supplÃ©ments d'apparence inoffensive peuvent gravement l'endommager.
+       Cet article fait le point sur l'hÃ©patotoxicitÃ© iatrogÃ¨ne, listant
+       les substances Ã  risque et les facteurs individuels qui augmentent
+       votre vulnÃ©rabilitÃ©.
+     * Bien-Ãªtre (BUTTON) Toggle submenu
+          + ActivitÃ© physique et sport
           + Bien vieillir
-          + Forme et vitalité saisonnière
-          + Santé mentale et épanouissement
-          + Santé sexuelle
-       gros plan sur le corps d'une femme sportive qui transpire. Son
-       ventre nu montre des abdominaux saill
-       Bien vieillir
+          + Forme et vitalitÃ© saisonniÃ¨re
+          + SantÃ© mentale et Ã©panouissement
+          + SantÃ© sexuelle
+       Une femme souriante, trentenaire, assise Ã  une table de cuisine
+       lumineuse le matin, tenant un stylo SantÃ© mentale et Ã©panouissement
 
-Ventre plat après 40 ans : ce n'est pas qu'une question de calories (et voici
-pourquoi vos hormones décident tout)
-       Le stockage de la graisse abdominale évolue inévitablement avec
-       l'âge sous l'influence de facteurs hormonaux et métaboliques
-       complexes. Loin d'être une fatalité, cette modification de la
-       silhouette s'explique par la fluctuation des oestrogènes et la
-       gestion du cortisol.
-     * Diététique (BUTTON) Toggle submenu
-          + Gérer son poids et sa silhouette
+SantÃ© mentale : comment 10 minutes d'Ã©criture peuvent protÃ©ger votre cerveau
+du stress
+       Souffrez-vous de stress ou d'anxiÃ©tÃ© ? Une mÃ©ta-analyse majeure
+       publiÃ©e en octobre 2025 confirme les bÃ©nÃ©fices d'un exercice de
+       seulement dix minutes : l'auto-affirmation par l'Ã©criture des
+       valeurs. DÃ©couvrez comment cette pratique simple, loin des pensÃ©es
+       magiques, amÃ©liore durablement votre bien-Ãªtre et votre perception
+       de soi
+     * DiÃ©tÃ©tique (BUTTON) Toggle submenu
+          + GÃ©rer son poids et sa silhouette
           + Les bases de l'alimentation saine
-          + Sécurité alimentaire
-          + Vitamines, minéraux et compléments
-       Prompt 2: photographie chaleureuse d'un dîner familial. Deux
-       adultes et un enfant sont assis autour Diététique
+          + SÃ©curitÃ© alimentaire
+          + Vitamines, minÃ©raux et complÃ©ments
+       Une scÃ¨ne de petit-dÃ©jeuner joyeuse et lumineuse dans une cuisine
+       moderne. Un couple d'une trentaine
+       Les bases de l'alimentation saine
 
-Saumon sauvage, bio ou élevage : lequel choisir réellement pour votre santé
-en 2024 ?
-       Le saumon, star des poissons gras, est essentiel pour ses oméga-3
-       mais soulève des questions de santé et d'éthique. Entre saumon
-       sauvage, d'élevage ou certifié bio, les différences nutritionnelles
-       et les risques de contaminants (PCB, mercure) sont réels.
+Fatigue, chute de cheveux, oedÃ¨mes : souffrez-vous d'une carence en protÃ©ines
+sans le savoir ?
+       Au-delÃ  de la perte musculaire, votre corps envoie des signaux
+       silencieux d'un manque de protÃ©ines. Des ongles cassants Ã  la
+       rÃ©tention d'eau au niveau des pieds et du visage, apprenez Ã 
+       dÃ©crypter ces alertes subtiles. DÃ©couvrez comment Ã©valuer
+       facilement vos besoins quotidiens (0,83g/kg pour les sÃ©dentaires)
+       pour un bien-Ãªtre optimal.
      * Recettes (BUTTON) Toggle submenu
-          + Apéritifs et entrées
+          + ApÃ©ritifs et entrÃ©es
           + Boissons et smoothies
-          + Desserts et gâteaux
+          + Desserts et gÃ¢teaux
           + Plats de poisson et fruits de mer
           + Plats de viande
-          + Pâtes, riz et accompagnements
-          + Recettes de fêtes
+          + PÃ¢tes, riz et accompagnements
+          + Recettes de fÃªtes
           + Salades, tartes et quiches
-          + Soupes, veloutés et bouillons
+          + Soupes, veloutÃ©s et bouillons
        une femme de 30 ans dans une belle cuisine rustique emplie de
-       lumière en train de préparer la recett
+       lumiÃ¨re en train de prÃ©parer la recett
        Recettes
 
-Ce bouillon zéro déchet qui renforce naturellement votre microbiote
-       Face aux bouillons industriels souvent trop salés et bourrés
-       d'additifs, le bouillon concentré maison à base d'épluchures et de
-       fanes s'impose comme une alternative bien-être incontournable.
-     * Beauté (BUTTON) Toggle submenu
-          + Beauté au masculin
+Ce bouillon zÃ©ro dÃ©chet qui renforce naturellement votre microbiote
+       Face aux bouillons industriels souvent trop salÃ©s et bourrÃ©s
+       d'additifs, le bouillon concentrÃ© maison Ã  base d'Ã©pluchures et de
+       fanes s'impose comme une alternative bien-Ãªtre incontournable.
+     * BeautÃ© (BUTTON) Toggle submenu
+          + BeautÃ© au masculin
           + Mains, pieds et ongles
           + Soins des cheveux
           + Soins du corps et silhouette
           + Solaires et bronzage
-       Scène de vie quotidienne dans un café moderne et lumineux. Un homme
-       d'une trentaine d'années, vêtu d
-       Beauté
+       ScÃ¨ne de vie quotidienne dans un cafÃ© moderne et lumineux. Un homme
+       d'une trentaine d'annÃ©es, vÃªtu d
+       BeautÃ©
 
-Attractivité masculine : au-delà des fesses, voici les zones qui captivent
-réellement les femmes
-       Oubliez les clichés sur les biceps démesurés. Des études récentes
-       révèlent que l'oeil féminin scanne des indicateurs précis de santé
-       et de force. Du ratio épaules-taille à la gestuelle, découvrez
-       quelles parties du corps suscitent véritablement l'intérêt et
-       pourquoi la posture reste votre meilleure alliée.
+AttractivitÃ© masculine : au-delÃ  des fesses, voici les zones qui captivent
+rÃ©ellement les femmes
+       Oubliez les clichÃ©s sur les biceps dÃ©mesurÃ©s. Des Ã©tudes rÃ©centes
+       rÃ©vÃ¨lent que l'oeil fÃ©minin scanne des indicateurs prÃ©cis de santÃ©
+       et de force. Du ratio Ã©paules-taille Ã  la gestuelle, dÃ©couvrez
+       quelles parties du corps suscitent vÃ©ritablement l'intÃ©rÃªt et
+       pourquoi la posture reste votre meilleure alliÃ©e.
      * Maman (BUTTON) Toggle submenu
           + Adolescence
-          + Désir d'enfant et fertilité
+          + DÃ©sir d'enfant et fertilitÃ©
           + Grossesse et accouchement
-          + Santé de bébé (0-3 ans)
-          + Santé de l'enfant (3-11 ans)
-       Un grand plan américain capturant une scène de sécurité familiale
+          + SantÃ© de bÃ©bÃ© (0-3 ans)
+          + SantÃ© de l'enfant (3-11 ans)
+       Un grand plan amÃ©ricain capturant une scÃ¨ne de sÃ©curitÃ© familiale
        dans une cuisine lumineuse. Une je
        Maman
 
-Huiles essentielles : les 5 erreurs à ne pas commettre en présence d'enfants
+Huiles essentielles : les 5 erreurs Ã  ne pas commettre en prÃ©sence d'enfants
 ou d'animaux
-       L'aromathérapie familiale exige rigueur et prudence. Souvent
-       considérées comme anodines, les huiles essentielles (HE) peuvent
-       être toxiques pour les populations vulnérables. Découvrez les 5
-       erreurs de sécurité les plus critiques, de la grossesse aux animaux
+       L'aromathÃ©rapie familiale exige rigueur et prudence. Souvent
+       considÃ©rÃ©es comme anodines, les huiles essentielles (HE) peuvent
+       Ãªtre toxiques pour les populations vulnÃ©rables. DÃ©couvrez les 5
+       erreurs de sÃ©curitÃ© les plus critiques, de la grossesse aux animaux
        domestiques, pour garantir une utilisation sereine et un
-       environnement zéro risque à la maison.
+       environnement zÃ©ro risque Ã  la maison.
 
    (BUTTON)
 
      * Accueil
      * Maladies
-     * Santé mentale et troubles psy
+     * SantÃ© mentale et troubles psy
 
-Charge mentale : désamorcez l'épuisement numérique avec la pleine conscience
+Charge mentale : dÃ©samorcez l'Ã©puisement numÃ©rique avec la pleine conscience
 
-   Publié par Stéphane Leduc
+   PubliÃ© par StÃ©phane Leduc
    le 02/12/2025
    4 minutes
    une femme assise en tailleur sur un ponton au bord d'un lac. on la voit
    de dos. On est au canada
    Autre
    Entre notifications incessantes et urgence permanente, l'hyperconnexion
-   fait exploser la charge mentale, créant un véritable épuisement
-   cognitif, ou "technostress". Découvrez comment l'info-obésité affecte
-   votre cerveau et, surtout, apprenez des techniques de déconnexion et de
-   digital detox basées sur la pleine conscience pour transformer vos
-   outils numériques d'adversaires en alliés.
+   fait exploser la charge mentale, crÃ©ant un vÃ©ritable Ã©puisement
+   cognitif, ou "technostress". DÃ©couvrez comment l'info-obÃ©sitÃ© affecte
+   votre cerveau et, surtout, apprenez des techniques de dÃ©connexion et de
+   digital detox basÃ©es sur la pleine conscience pour transformer vos
+   outils numÃ©riques d'adversaires en alliÃ©s.
 
-   Ce sentiment d'épuisement porte un nom : le technostress, une fatigue
-   mentale et physique née de la pression à être constamment disponible.
-   Il est nourri par un autre mal de notre époque, l'infobésité, cette
-   sensation d'être submergé par un flux d'informations continu. Le
-   phénomène est loin d'être anecdotique : un Français sur deux se dit
-   victime de cette surcharge cognitive qui paralyse la pensée. Les
-   chiffres illustrent l'ampleur des dégâts sur nos capacités d'attention
-   : notre temps de concentration moyen face à un écran est passé de 3
-   minutes en 2004 à seulement 45 secondes aujourd'hui.
+   Ce sentiment d'Ã©puisement porte un nom : le technostress, une fatigue
+   mentale et physique nÃ©e de la pression Ã  Ãªtre constamment disponible.
+   Il est nourri par un autre mal de notre Ã©poque, l'infobÃ©sitÃ©, cette
+   sensation d'Ãªtre submergÃ© par un flux d'informations continu. Le
+   phÃ©nomÃ¨ne est loin d'Ãªtre anecdotique : un FranÃ§ais sur deux se dit
+   victime de cette surcharge cognitive qui paralyse la pensÃ©e. Les
+   chiffres illustrent l'ampleur des dÃ©gÃ¢ts sur nos capacitÃ©s d'attention
+   : notre temps de concentration moyen face Ã  un Ã©cran est passÃ© de 3
+   minutes en 2004 Ã  seulement 45 secondes aujourd'hui.
 
    L'impact de cette interruption permanente est profond. Chaque
    notification, chaque alerte, active dans notre cerveau le circuit de la
-   récompense en libérant de la dopamine. Ce mécanisme crée une forme
-   d'addiction à l'instantanéité, nous poussant à vérifier nos appareils
-   de manière compulsive. En parallèle, nous nous réfugions dans
-   l'illusion du multitâche, pensant gagner en efficacité. Or, les études
-   démontrent le contraire : jongler entre plusieurs tâches est une source
-   majeure de stress qui sature nos capacités cognitives et diminue la
-   qualité de notre travail. Cet épuisement cognitif lié à
-   l'hyperconnexion n'est pas une fatalité, mais la conséquence
+   rÃ©compense en libÃ©rant de la dopamine. Ce mÃ©canisme crÃ©e une forme
+   d'addiction Ã  l'instantanÃ©itÃ©, nous poussant Ã  vÃ©rifier nos appareils
+   de maniÃ¨re compulsive. En parallÃ¨le, nous nous rÃ©fugions dans
+   l'illusion du multitÃ¢che, pensant gagner en efficacitÃ©. Or, les Ã©tudes
+   dÃ©montrent le contraire : jongler entre plusieurs tÃ¢ches est une source
+   majeure de stress qui sature nos capacitÃ©s cognitives et diminue la
+   qualitÃ© de notre travail. Cet Ã©puisement cognitif liÃ© Ã 
+   l'hyperconnexion n'est pas une fatalitÃ©, mais la consÃ©quence
    d'habitudes qu'il est possible de modifier.
 
-Comment l'hyperconnexion brouille-t-elle les frontières mentales ?
+Comment l'hyperconnexion brouille-t-elle les frontiÃ¨res mentales ?
 
-   L'un des principaux vecteurs de stress est la culture de l'immédiateté,
-   notamment dans la gestion des e-mails. La pression de la réponse
-   instantanée installe une anxiété permanente, renforcée par la "peur de
-   rater quelque chose" (FOMO), ce sentiment d'angoisse à l'idée de passer
-   à côté d'une information ou d'un événement. Cette anxiété numérique
-   s'infiltre bien au-delà de la sphère professionnelle. Avec la
-   généralisation du télétravail, les frontières entre vie privée et vie
-   professionnelle sont devenues poreuses, nous soumettant à une attente
-   de disponibilité quasi ininterrompue.
+   L'un des principaux vecteurs de stress est la culture de l'immÃ©diatetÃ©,
+   notamment dans la gestion des e-mails. La pression de la rÃ©ponse
+   instantanÃ©e installe une anxiÃ©tÃ© permanente, renforcÃ©e par la "peur de
+   rater quelque chose" (FOMO), ce sentiment d'angoisse Ã  l'idÃ©e de passer
+   Ã  cÃ´tÃ© d'une information ou d'un Ã©vÃ©nement. Cette anxiÃ©tÃ© numÃ©rique
+   s'infiltre bien au-delÃ  de la sphÃ¨re professionnelle. Avec la
+   gÃ©nÃ©ralisation du tÃ©lÃ©travail, les frontiÃ¨res entre vie privÃ©e et vie
+   professionnelle sont devenues poreuses, nous soumettant Ã  une attente
+   de disponibilitÃ© quasi ininterrompue.
 
-   Cette situation fait émerger le concept de charge mentale digitale. Il
-   ne s'agit plus seulement de penser à la logistique du foyer, mais de
-   devoir gérer en permanence un flux de sollicitations cognitives et
-   émotionnelles issues de nos écrans. Cette double peine est souvent plus
-   marquée chez les femmes, qui cumulent les responsabilités
+   Cette situation fait Ã©merger le concept de charge mentale digitale. Il
+   ne s'agit plus seulement de penser Ã  la logistique du foyer, mais de
+   devoir gÃ©rer en permanence un flux de sollicitations cognitives et
+   Ã©motionnelles issues de nos Ã©crans. Cette double peine est souvent plus
+   marquÃ©e chez les femmes, qui cumulent les responsabilitÃ©s
    professionnelles et domestiques. Le technostress et la charge mentale
-   s'alimentent mutuellement, créant un cercle vicieux d'épuisement
-   difficile à briser sans une prise de conscience active.
+   s'alimentent mutuellement, crÃ©ant un cercle vicieux d'Ã©puisement
+   difficile Ã  briser sans une prise de conscience active.
 
-La pleine conscience peut-elle être la solution ?
+La pleine conscience peut-elle Ãªtre la solution ?
 
-   Face à ce "pilotage automatique" numérique, la pleine conscience, ou
-   mindfulness, offre une voie pour reprendre le contrôle. Cette pratique
-   consiste à porter son attention sur le moment présent, de manière
+   Face Ã  ce "pilotage automatique" numÃ©rique, la pleine conscience, ou
+   mindfulness, offre une voie pour reprendre le contrÃ´le. Cette pratique
+   consiste Ã  porter son attention sur le moment prÃ©sent, de maniÃ¨re
    intentionnelle et sans jugement. Il ne s'agit pas de faire le vide,
-   mais d'observer ses pensées et ses impulsions sans s'y laisser
+   mais d'observer ses pensÃ©es et ses impulsions sans s'y laisser
    emporter. En musclant ainsi notre "muscle" attentionnel, nous devenons
-   plus à même de résister aux distractions et de choisir consciemment nos
-   actions, plutôt que de réagir aux sollicitations extérieures.
+   plus Ã  mÃªme de rÃ©sister aux distractions et de choisir consciemment nos
+   actions, plutÃ´t que de rÃ©agir aux sollicitations extÃ©rieures.
 
-   Concrètement, une démarche de digital detox guidée par la pleine
+   ConcrÃ¨tement, une dÃ©marche de digital detox guidÃ©e par la pleine
    conscience peut transformer notre rapport aux technologies. Une
    technique simple est celle de l'"urge surfing" : lorsque l'envie
-   irrépressible de consulter son téléphone apparaît, il s'agit de la
-   reconnaître, de l'observer comme une vague, puis de la laisser passer
-   sans y céder. Apprendre à gérer ses notifications est une autre étape
-   clé pour réduire l'anxiété numérique. Plutôt que de subir un flux
-   continu, il est conseillé de définir des créneaux de consultation
-   spécifiques pour les e-mails ou les réseaux sociaux.
+   irrÃ©pressible de consulter son tÃ©lÃ©phone apparaÃ®t, il s'agit de la
+   reconnaÃ®tre, de l'observer comme une vague, puis de la laisser passer
+   sans y cÃ©der. Apprendre Ã  gÃ©rer ses notifications est une autre Ã©tape
+   clÃ© pour rÃ©duire l'anxiÃ©tÃ© numÃ©rique. PlutÃ´t que de subir un flux
+   continu, il est conseillÃ© de dÃ©finir des crÃ©neaux de consultation
+   spÃ©cifiques pour les e-mails ou les rÃ©seaux sociaux.
 
-Comment instaurer une déconnexion active au quotidien ?
+Comment instaurer une dÃ©connexion active au quotidien ?
 
-   Mettre en place une déconnexion saine ne signifie pas renoncer aux
-   outils numériques, mais en redevenir le maître. Cela passe par
-   l'instauration de rituels et de frontières claires. Bannir les écrans
-   au moins une heure avant de dormir améliore la qualité du sommeil,
-   tandis que des repas sans téléphone favorisent la reconnexion sociale
+   Mettre en place une dÃ©connexion saine ne signifie pas renoncer aux
+   outils numÃ©riques, mais en redevenir le maÃ®tre. Cela passe par
+   l'instauration de rituels et de frontiÃ¨res claires. Bannir les Ã©crans
+   au moins une heure avant de dormir amÃ©liore la qualitÃ© du sommeil,
+   tandis que des repas sans tÃ©lÃ©phone favorisent la reconnexion sociale
    et le plaisir de l'instant. Pour retrouver une concentration profonde,
-   des méthodes comme la technique Pomodoro, qui alterne 25 minutes de
-   travail intense et sans distraction avec de courtes pauses, ont prouvé
-   leur efficacité pour favoriser le monotâche. Ces différentes solutions
-   contre l'infobésité sont de véritables outils de bien-être, permettant
+   des mÃ©thodes comme la technique Pomodoro, qui alterne 25 minutes de
+   travail intense et sans distraction avec de courtes pauses, ont prouvÃ©
+   leur efficacitÃ© pour favoriser le monotÃ¢che. Ces diffÃ©rentes solutions
+   contre l'infobÃ©sitÃ© sont de vÃ©ritables outils de bien-Ãªtre, permettant
    de transformer une relation subie avec la technologie en une
-   utilisation choisie et apaisée.
+   utilisation choisie et apaisÃ©e.
 
    View the discussion thread.
 
 Pourquoi accepter nos cookies ?
 
-   Vous avez choisi de refuser nos cookies mais ils contribuent au modèle
-   économique de notre site. C'est grâce à eux que nous pouvons vous
-   proposer des articles personnalisés et gratuits ainsi que des
-   publicités adaptées à vos centres d'intérêt. Aidez-nous à continuer de
-   créer des contenus de qualité et variés en acceptant nos cookies grâce
+   Vous avez choisi de refuser nos cookies mais ils contribuent au modÃ¨le
+   Ã©conomique de notre site. C'est grÃ¢ce Ã  eux que nous pouvons vous
+   proposer des articles personnalisÃ©s et gratuits ainsi que des
+   publicitÃ©s adaptÃ©es Ã  vos centres d'intÃ©rÃªt. Aidez-nous Ã  continuer de
+   crÃ©er des contenus de qualitÃ© et variÃ©s en acceptant nos cookies grÃ¢ce
    au bouton "Accepter et fermer".
    (BUTTON) En savoir plus (BUTTON) Accepter et fermer
 
@@ -292,18 +293,18 @@ Pourquoi accepter nos cookies ?
 
 Sites du Groupe
 
-   Medisite.fr E-santé.fr Planet.fr New Planet Media
+   Medisite.fr E-santÃ©.fr Planet.fr New Planet Media
 
 Pratique
 
-   CGU CGV Contact Newsletters Protection des données Préférences cookies
+   CGU CGV Contact Newsletters Protection des donnÃ©es PrÃ©fÃ©rences cookies
    Qui sommes-nous ? Archives
 
-Catégories
+CatÃ©gories
 
-   Médicaments Diététique Maman Recettes Maladies Santé pratique Bien-être
-   Actualités
+   MÃ©dicaments DiÃ©tÃ©tique Maman Recettes Maladies SantÃ© pratique Bien-Ãªtre
+   ActualitÃ©s
 
-   Tous droits réservés - New Planet Media 2025
-   New Planet Media, Entreprise de presse en ligne, numéro d'agrément
+   Tous droits rÃ©servÃ©s - New Planet Media 2025
+   New Planet Media, Entreprise de presse en ligne, numÃ©ro d'agrÃ©ment
    CPPAP 0526 W 93940

@@ -1,0 +1,11 @@
+token	corpus size	all contexts size	frequency	co-frequency	specificity
+charge	1894	296	23	16	8.15
+mentale	1894	296	10	10	8.12
+émotionnelle	1894	296	7	7	5.67
+morale	1894	296	5	5	4.04
+flux	1894	296	3	3	2.42
+commentaires	1894	296	3	3	2.42
+féminisme	1894	296	14	6	1.96
+causons	1894	296	11	5	1.81
+la	1894	296	60	15	1.70
+alternate	1894	296	2	2	1.61

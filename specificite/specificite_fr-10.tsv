@@ -1,0 +1,11 @@
+token	corpus size	all contexts size	frequency	co-frequency	specificity
+mentale	1448	328	16	16	10.44
+émotionnelle	1448	328	16	16	10.44
+et	1448	328	50	22	3.45
+management	1448	328	4	4	2.59
+cocktail	1448	328	4	4	2.59
+explosif	1448	328	4	4	2.59
+forte	1448	328	4	4	2.59
+une	1448	328	10	6	2.00
+flux	1448	328	3	3	1.94
+un	1448	328	23	10	1.85

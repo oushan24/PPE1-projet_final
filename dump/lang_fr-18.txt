@@ -1,24 +1,24 @@
-   #Modifier Wikipédia (fr) Flux Atom de Wikipédia
+   #Modifier WikipÃ©dia (fr) Flux Atom de WikipÃ©dia
 
    Aller au contenu
 
    [ ] Menu principal
    Menu principal
-   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   (BUTTON) dÃ©placer vers la barre latÃ©rale (BUTTON) masquer
    Navigation
      * Page d'accueil
-     * Portails thématiques
+     * Portails thÃ©matiques
      * Article au hasard
      * Contact
 
    Contribuer
-     * Débuter sur Wikipédia
+     * DÃ©buter sur WikipÃ©dia
      * Aide
-     * Communauté
-     * Pages spéciales
-     * Modifications récentes
+     * CommunautÃ©
+     * Pages spÃ©ciales
+     * Modifications rÃ©centes
 
-   Wikipédia l'encyclopédie libre
+   WikipÃ©dia l'encyclopÃ©die libre
    Rechercher
    ____________________
    (BUTTON) Rechercher
@@ -26,40 +26,40 @@
    [ ] Apparence
 
      * Faire un don
-     * Créer un compte
+     * CrÃ©er un compte
      * Se connecter
 
    [ ] Outils personnels
      * Faire un don
-     * Créer un compte
+     * CrÃ©er un compte
      * Se connecter
 
 Sommaire
 
-   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
-     * Début
+   (BUTTON) dÃ©placer vers la barre latÃ©rale (BUTTON) masquer
+     * DÃ©but
      * 1 Charge physique globale de travail
      * 2 Charge mentale de travail
-     * 3 Références
+     * 3 RÃ©fÃ©rences
 
-   [ ] Basculer la table des matières
+   [ ] Basculer la table des matiÃ¨res
 
 Charge de travail
 
    [ ] 6 langues
-     * Català
+     * CatalÃ 
      * Deutsch
      * English
-     * Español
+     * EspaÃ±ol
      * f+a+r+s+
-     * Português
+     * PortuguÃªs
 
    Modifier les liens
 
      * Article
      * Discussion
 
-   [ ] français
+   [ ] franÃ§ais
 
      * Lire
      * Modifier
@@ -68,124 +68,124 @@ Charge de travail
 
    [ ] Outils
    Outils
-   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   (BUTTON) dÃ©placer vers la barre latÃ©rale (BUTTON) masquer
    Actions
      * Lire
      * Modifier
      * Modifier le code
      * Voir l'historique
 
-   Général
-     * Pages liées
-     * Suivi des pages liées
-     * Téléverser un fichier
+   GÃ©nÃ©ral
+     * Pages liÃ©es
+     * Suivi des pages liÃ©es
+     * TÃ©lÃ©verser un fichier
      * Lien permanent
      * Informations sur la page
      * Citer cette page
      * Obtenir l'URL raccourcie
-     * Télécharger le code QR
+     * TÃ©lÃ©charger le code QR
 
    Imprimer/exporter
-     * Créer un livre
-     * Télécharger comme PDF
+     * CrÃ©er un livre
+     * TÃ©lÃ©charger comme PDF
      * Version imprimable
 
    Dans d'autres projets
-     * Élément Wikidata
+     * Ã‰lÃ©ment Wikidata
 
    Apparence
-   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
-   Un article de Wikipédia, l'encyclopédie libre.
+   (BUTTON) dÃ©placer vers la barre latÃ©rale (BUTTON) masquer
+   Un article de WikipÃ©dia, l'encyclopÃ©die libre.
    Page d'aide sur l'homonymie
 
    Pour les articles homonymes, voir Charge.
    Page d'aide sur l'homonymie
 
-   Ne doit pas être confondu avec le terme informatique workload qui peut
-   désigner une capacité informatique (calcul, stockage...) située dans le
+   Ne doit pas Ãªtre confondu avec le terme informatique workload qui peut
+   dÃ©signer une capacitÃ© informatique (calcul, stockage...) situÃ©e dans le
    Cloud
 
-   En ergonomie, la charge de travail est le coût d'une activité.
+   En ergonomie, la charge de travail est le coÃ»t d'une activitÃ©.
 
    On distingue classiquement la charge physique et la charge mentale de
    travail. Ainsi, c'est le niveau de sollicitation des ressources
-   cognitives lors de la réalisation d'une tâche qui a été conceptualisé
-   par la notion de charge cognitive. Une définition a minima de cette
-   charge mentale est, selon Cegarra et Chevalier, « le rapport entre la
-   demande de la tâche et les ressources disponibles »^[1].
+   cognitives lors de la rÃ©alisation d'une tÃ¢che qui a Ã©tÃ© conceptualisÃ©
+   par la notion de charge cognitive. Une dÃ©finition a minima de cette
+   charge mentale est, selon Cegarra et Chevalier, Â« le rapport entre la
+   demande de la tÃ¢che et les ressources disponibles Â»^[1].
 
-   Selon Jacques Leplat, « le travail est une activité et la charge de
-   travail représente ce que coûte cette activité à celui qui la
-   pratique. » Leplat définit donc la charge mentale comme les ressources
-   cognitives mobilisées par l'opérateur lui permettant de répondre aux
-   exigences de la tâche.
+   Selon Jacques Leplat, Â« le travail est une activitÃ© et la charge de
+   travail reprÃ©sente ce que coÃ»te cette activitÃ© Ã  celui qui la
+   pratique. Â» Leplat dÃ©finit donc la charge mentale comme les ressources
+   cognitives mobilisÃ©es par l'opÃ©rateur lui permettant de rÃ©pondre aux
+   exigences de la tÃ¢che.
 
-   Par la suite, Meshkati (1988, p. 309) considère qu'elle reflète
-   « l'interaction d'éléments tels que les demandes des tâches et du
-   système, les capacités de traitement et d'effort de l'opérateur, les
-   critères de performance subjectifs, le comportement de traitement de
-   l'information, les stratégies de l'opérateur et, la formation ainsi que
-   l'expérience antérieure des opérateurs »^[2].
+   Par la suite, Meshkati (1988, p. 309) considÃ¨re qu'elle reflÃ¨te
+   Â« l'interaction d'Ã©lÃ©ments tels que les demandes des tÃ¢ches et du
+   systÃ¨me, les capacitÃ©s de traitement et d'effort de l'opÃ©rateur, les
+   critÃ¨res de performance subjectifs, le comportement de traitement de
+   l'information, les stratÃ©gies de l'opÃ©rateur et, la formation ainsi que
+   l'expÃ©rience antÃ©rieure des opÃ©rateurs Â»^[2].
 
-   Dans les années 2000, Wickens (2000) dit qu'il faut considérer les
+   Dans les annÃ©es 2000, Wickens (2000) dit qu'il faut considÃ©rer les
    relations entre l'offre (ressources disponibles) et la demande
    (exigences). Cela implique d'admettre l'importance des variations de
-   charge mentale ressentie par l'opérateur au cours de l'exécution d'une
-   même tâche. Le concept, s'il gagne en clarté, n'en devient pas moins
+   charge mentale ressentie par l'opÃ©rateur au cours de l'exÃ©cution d'une
+   mÃªme tÃ¢che. Le concept, s'il gagne en clartÃ©, n'en devient pas moins
    labile selon Martin et al.^[2]
 
    On parle de surcharge de travail et de sous-charge de travail.
 
-   Il y a surcharge de travail lorsque les ressources de l'opérateur sont
-   dépassées par le coût que nécessite le travail. Ce coût peut être
-   influencé par les limites propres à l'opérateur.
+   Il y a surcharge de travail lorsque les ressources de l'opÃ©rateur sont
+   dÃ©passÃ©es par le coÃ»t que nÃ©cessite le travail. Ce coÃ»t peut Ãªtre
+   influencÃ© par les limites propres Ã  l'opÃ©rateur.
 
-   Il y a sous-charge de travail lorsque l'opérateur ne dispose pas de
+   Il y a sous-charge de travail lorsque l'opÃ©rateur ne dispose pas de
    suffisamment de travail pour maintenir son attention.
 
 Charge physique globale de travail
 
    [modifier | modifier le code]
 
-   Selon l'INRS, trois catégories de méthodes peuvent être déployées pour
+   Selon l'INRS, trois catÃ©gories de mÃ©thodes peuvent Ãªtre dÃ©ployÃ©es pour
    mesurer la charge de travail^[3]^,^[4].
-     * Les évaluations par observation
-     * Les évaluations subjectives, faisant appel au jugement du
+     * Les Ã©valuations par observation
+     * Les Ã©valuations subjectives, faisant appel au jugement du
        travailleur
-     * Les évaluations métrologiques, qui s'appuient sur de mesures
+     * Les Ã©valuations mÃ©trologiques, qui s'appuient sur de mesures
        physiologiques.
 
-   La charge physique peut être mesurée objectivement (évaluation
-   métrologique) par exemple en analysant la fréquence cardiaque ou la
-   consommation d'oxygène^[3].
+   La charge physique peut Ãªtre mesurÃ©e objectivement (Ã©valuation
+   mÃ©trologique) par exemple en analysant la frÃ©quence cardiaque ou la
+   consommation d'oxygÃ¨ne^[3].
 
 Charge mentale de travail
 
    [modifier | modifier le code]
 
-   Martin considère que la charge mentale peut être définie comme la
-   résultante de l'ajustement entre ressources cognitives et exigences de
-   la tâche pour un objectif fixé^[2].
+   Martin considÃ¨re que la charge mentale peut Ãªtre dÃ©finie comme la
+   rÃ©sultante de l'ajustement entre ressources cognitives et exigences de
+   la tÃ¢che pour un objectif fixÃ©^[2].
 
-   Pour mesurer la charge mentale, différentes méthodes ont été
-   classiquement mobilisées. On peut les classer en trois catégories :
-     * les méthodes basées sur les corrélations ;
-     * les méthodes basées sur la double tâche ;
-     * les méthodes d'évaluation subjective.
+   Pour mesurer la charge mentale, diffÃ©rentes mÃ©thodes ont Ã©tÃ©
+   classiquement mobilisÃ©es. On peut les classer en trois catÃ©gories :
+     * les mÃ©thodes basÃ©es sur les corrÃ©lations ;
+     * les mÃ©thodes basÃ©es sur la double tÃ¢che ;
+     * les mÃ©thodes d'Ã©valuation subjective.
 
-   Selon Michel Gendrier, en ergomotricité, on évalue le niveau d'exigence
-   énergétique de la tâche par rapport à la capacité énergétique du sujet.
-   En fonction des résultats, on diminue les exigences énergétiques de la
-   tâche par une organisation du poste de travail et on augmente les
-   capacités énergétiques du sujet par des savoir-faire.
+   Selon Michel Gendrier, en ergomotricitÃ©, on Ã©value le niveau d'exigence
+   Ã©nergÃ©tique de la tÃ¢che par rapport Ã  la capacitÃ© Ã©nergÃ©tique du sujet.
+   En fonction des rÃ©sultats, on diminue les exigences Ã©nergÃ©tiques de la
+   tÃ¢che par une organisation du poste de travail et on augmente les
+   capacitÃ©s Ã©nergÃ©tiques du sujet par des savoir-faire.
 
-   Il y a de nombreux déterminants de la charge de travail : l'activité,
-   les conditions de sa réalisation, mais également les formes d'autonomie
-   ou encore le poids du hors-travail. La qualité des moyens d'expression,
-   d'en débattre, est aussi déterminant dans la régulation de la
+   Il y a de nombreux dÃ©terminants de la charge de travail : l'activitÃ©,
+   les conditions de sa rÃ©alisation, mais Ã©galement les formes d'autonomie
+   ou encore le poids du hors-travail. La qualitÃ© des moyens d'expression,
+   d'en dÃ©battre, est aussi dÃ©terminant dans la rÃ©gulation de la
    charge^[5].
 
-Références
+RÃ©fÃ©rences
 
    [modifier | modifier le code]
     1. ^| Cegarra, J., & Chevalier, A. (2008). The use of software for
@@ -194,59 +194,59 @@ Références
        988-1000
     2. ^| ^a b et c Martin, C., Hourlier, S. & Cegarra, J. (2013). La
        charge mentale de travail : un concept qui reste indispensable,
-       l'exemple de l'aéronautique. Le travail humain, 76, 285-308.
+       l'exemple de l'aÃ©ronautique. Le travail humain, 76, 285-308.
        https://doi.org/10.3917/th.764.0285
-    3. ^| ^a et b Nathalie Judon, « La charge physique et son influence
+    3. ^| ^a et b Nathalie Judon, Â« La charge physique et son influence
        sur les effets de l'exposition aux substances chimiques
-       volatiles », hygiène et Sécurité du Travail, décembre 2021,
+       volatiles Â», hygiÃ¨ne et SÃ©curitÃ© du Travail, dÃ©cembre 2021,
        p. 32-39 (lire en ligne)
-    4. ^| « Méthode d'analyse de la charge physique de travail - Brochure
-       - INRS », sur www.inrs.fr (consulté le 1^er février 2022)
+    4. ^| Â« MÃ©thode d'analyse de la charge physique de travail - Brochure
+       - INRS Â», sur www.inrs.fr (consultÃ© le 1^er fÃ©vrier 2022)
     5. ^| Laurent Tertrais, Ecouter la charge de travail, Lyon, Chronique
-       sociale, février 2021, 69 p. (ISBN 978-2-36717-738-0)
+       sociale, fÃ©vrier 2021, 69 p. (ISBN 978-2-36717-738-0)
 
-     * icône décorative Portail de la psychologie
-     * icône décorative Portail du travail et des métiers
+     * icÃ´ne dÃ©corative Portail de la psychologie
+     * icÃ´ne dÃ©corative Portail du travail et des mÃ©tiers
 
    Ce document provient de
-   « https://fr.wikipedia.org/w/index.php?title=Charge_de_travail&oldid=23
-   1374968 ».
-   Catégories:
+   Â« https://fr.wikipedia.org/w/index.php?title=Charge_de_travail&oldid=23
+   1374968 Â».
+   CatÃ©gories:
      * Ergonomie
      * Psychologie du travail
      * Gestion des ressources humaines
      * Travail
      * Management
 
-   Catégories cachées:
-     * Portail:Psychologie/Articles liés
-     * Portail:Sciences humaines et sociales/Articles liés
-     * Portail:Sciences/Articles liés
-     * Portail:Travail et métiers/Articles liés
-     * Portail:Économie/Articles liés
-     * Portail:Société/Articles liés
+   CatÃ©gories cachÃ©es:
+     * Portail:Psychologie/Articles liÃ©s
+     * Portail:Sciences humaines et sociales/Articles liÃ©s
+     * Portail:Sciences/Articles liÃ©s
+     * Portail:Travail et mÃ©tiers/Articles liÃ©s
+     * Portail:Ã‰conomie/Articles liÃ©s
+     * Portail:SociÃ©tÃ©/Articles liÃ©s
 
-     * La dernière modification de cette page a été faite le 11 décembre
-       2025 à 16:58.
+     * La derniÃ¨re modification de cette page a Ã©tÃ© faite le 11 dÃ©cembre
+       2025 Ã  16:58.
      * Droit d'auteur : les textes sont disponibles sous licence Creative
-       Commons attribution, partage dans les mêmes conditions ; d'autres
+       Commons attribution, partage dans les mÃªmes conditions ; d'autres
        conditions peuvent s'appliquer. Voyez les conditions d'utilisation
-       pour plus de détails, ainsi que les crédits graphiques. En cas de
-       réutilisation des textes de cette page, voyez comment citer les
+       pour plus de dÃ©tails, ainsi que les crÃ©dits graphiques. En cas de
+       rÃ©utilisation des textes de cette page, voyez comment citer les
        auteurs et mentionner la licence.
-       Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc.,
-       organisation de bienfaisance régie par le paragraphe 501(c)(3) du
-       code fiscal des États-Unis.
+       WikipediaÂ® est une marque dÃ©posÃ©e de la Wikimedia Foundation, Inc.,
+       organisation de bienfaisance rÃ©gie par le paragraphe 501(c)(3) du
+       code fiscal des Ã‰tats-Unis.
 
-     * Politique de confidentialité
-     * À propos de Wikipédia
+     * Politique de confidentialitÃ©
+     * Ã€ propos de WikipÃ©dia
      * Avertissements
      * Contact
-     * Contacts juridiques & sécurité
+     * Contacts juridiques & sÃ©curitÃ©
      * Code de conduite
-     * Développeurs
+     * DÃ©veloppeurs
      * Statistiques
-     * Déclaration sur les témoins (cookies)
+     * DÃ©claration sur les tÃ©moins (cookies)
      * Version mobile
 
      * Wikimedia Foundation
@@ -256,6 +256,6 @@ Références
    ____________________
    (BUTTON) Rechercher
 
-   [ ] Basculer la table des matières
+   [ ] Basculer la table des matiÃ¨res
    Charge de travail
    (BUTTON) 6 langues Ajouter un sujet

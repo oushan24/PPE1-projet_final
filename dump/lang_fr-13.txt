@@ -1,37 +1,37 @@
      * Aller au contenu
      * Aller au menu
 
-   Santé et sécurité Provence-Alpes-Côte d'Azur
-   Prévenir les risques professionnels en Provence-Alpes-Côte d'Azur
+   SantÃ© et sÃ©curitÃ© Provence-Alpes-CÃ´te d'Azur
+   PrÃ©venir les risques professionnels en Provence-Alpes-CÃ´te d'Azur
    [ ]
      * Accueil
      * Qui sommes-nous ?
-     * Risques et prévention (BUTTON) Risques et prévention
+     * Risques et prÃ©vention (BUTTON) Risques et prÃ©vention
           + Agents physiques
           + Conception des locaux de travail
-          + Déchets et environnement
-          + Évaluer et prévenir les risques
+          + DÃ©chets et environnement
+          + Ã‰valuer et prÃ©venir les risques
           + Incendie et ATEX
-          + Maintien Dans l'Emploi / Prévention de la Désinsertion
+          + Maintien Dans l'Emploi / PrÃ©vention de la DÃ©sinsertion
             Professionnelle
-          + Mesures de prévention spécifiques liées à certains types de
+          + Mesures de prÃ©vention spÃ©cifiques liÃ©es Ã  certains types de
             personnels
           + Organisation du Travail
-          + Pandémie et gestion de crise
+          + PandÃ©mie et gestion de crise
           + Risques biologiques
           + Risques chimiques et CMR
-          + Risques liés à l'utilisation de machines et équipements de
+          + Risques liÃ©s Ã  l'utilisation de machines et Ã©quipements de
             travail
-          + Risques par métier
+          + Risques par mÃ©tier
           + Risques psychosociaux
           + Risque routier
           + Troubles Musculo-Squelettiques (TMS)
-     * Ressources régionales (BUTTON) Ressources régionales
-          + Acteurs de la politique régionale
+     * Ressources rÃ©gionales (BUTTON) Ressources rÃ©gionales
+          + Acteurs de la politique rÃ©gionale
           + Guides pratiques et Sites internet
-          + Tableaux de bord et indicateurs régionaux
+          + Tableaux de bord et indicateurs rÃ©gionaux
           + Etudes et recherches
-          + Appui aux représentants du personnel
+          + Appui aux reprÃ©sentants du personnel
      * PRST 4 Paca
      * Nous contacter
      * Lettre d'informations (BUTTON) Lettre d'informations
@@ -43,211 +43,211 @@
    Rechercher sur le site
      * Agents physiques
      * Conception des locaux de travail
-     * Déchets et environnement
-     * Évaluer et prévenir les risques
+     * DÃ©chets et environnement
+     * Ã‰valuer et prÃ©venir les risques
      * Incendie et ATEX
-     * Maintien Dans l'Emploi / Prévention de la Désinsertion
+     * Maintien Dans l'Emploi / PrÃ©vention de la DÃ©sinsertion
        Professionnelle
-     * Mesures de prévention spécifiques liées à certains types de
+     * Mesures de prÃ©vention spÃ©cifiques liÃ©es Ã  certains types de
        personnels
      * Organisation du Travail
-     * Pandémie et gestion de crise
+     * PandÃ©mie et gestion de crise
      * Risques biologiques
      * Risques chimiques et CMR
-     * Risques liés à l'utilisation de machines et équipements de travail
-     * Risques par métier
+     * Risques liÃ©s Ã  l'utilisation de machines et Ã©quipements de travail
+     * Risques par mÃ©tier
      * Risques psychosociaux
-          + Chiffres clés et données régionales sur les RPS
+          + Chiffres clÃ©s et donnÃ©es rÃ©gionales sur les RPS
           + Matinales RPS/QVCT
-          + Les comités départementaux sur les RPS
-          + Réseau de consultants I3R en PACA
-          + Documentation régionale sur les RPS
+          + Les comitÃ©s dÃ©partementaux sur les RPS
+          + RÃ©seau de consultants I3R en PACA
+          + Documentation rÃ©gionale sur les RPS
           + Dispositifs d'aide et d'accompagnement des entreprises
           + De nouvelles approches en lien avec les RPS
-          + Dispositifs de reconnaissance des MP liées à la souffrance au
+          + Dispositifs de reconnaissance des MP liÃ©es Ã  la souffrance au
             travail
-          + Travaux étudiants tutorés
-               o Prise en compte de l'aspect lié à la charge de travail
-                 dans la démarche d'évaluation des risques
+          + Travaux Ã©tudiants tutorÃ©s
+               o Prise en compte de l'aspect liÃ© Ã  la charge de travail
+                 dans la dÃ©marche d'Ã©valuation des risques
           + Pour en savoir plus sur les RPS : quelques liens utiles
      * Risque routier
      * Troubles Musculo-Squelettiques (TMS)
 
     1. Accueil
-    2. Risques et prévention
+    2. Risques et prÃ©vention
     3. Risques psychosociaux
-    4. Travaux étudiants tutorés
-    5. Prise en compte de l'aspect lié à la charge de travail dans la
-       démarche d'évaluation des risques
+    4. Travaux Ã©tudiants tutorÃ©s
+    5. Prise en compte de l'aspect liÃ© Ã  la charge de travail dans la
+       dÃ©marche d'Ã©valuation des risques
 
-Prise en compte de l'aspect lié à la charge de travail dans la démarche
-d'évaluation des risques
+Prise en compte de l'aspect liÃ© Ã  la charge de travail dans la dÃ©marche
+d'Ã©valuation des risques
 
-   Dernière modification : 29 juin 2018
+   DerniÃ¨re modification : 29 juin 2018
 
-     Les RPS sont définis comme les risques pour la santé mentale,
-     physique et sociale, engendrés par les conditions d'emploi et les
+     Les RPS sont dÃ©finis comme les risques pour la santÃ© mentale,
+     physique et sociale, engendrÃ©s par les conditions d'emploi et les
      facteurs organisationnels et relationnels, susceptibles d'interagir
      avec le fonctionnement mental .
 
-     Définition Larousse
+     DÃ©finition Larousse
 
-   Prise en compte de l'aspect lié à la charge de travail dans la démarche
-   d'évaluation des risques
+   Prise en compte de l'aspect liÃ© Ã  la charge de travail dans la dÃ©marche
+   d'Ã©valuation des risques
 
-Travaux encadrés d'alternants réalisés dans le cadre du module « Facteurs de
-risque et prévention » Master IS-PRNT - Année 2017/2018
+Travaux encadrÃ©s d'alternants rÃ©alisÃ©s dans le cadre du module Â« Facteurs de
+risque et prÃ©vention Â» Master IS-PRNT - AnnÃ©e 2017/2018
 
-   Composition du Groupe de travail : VOISINNE Rémy BAILLE Alexandre
+   Composition du Groupe de travail : VOISINNE RÃ©my BAILLE Alexandre
    PANIER Jean-Baptiste
-   Travaux coordonnés par : Madame MOCAER référente de la DIRECCTE PACA
-   Olivier BATAILLE et Cyril PUJOL Avec alternants Laurène DANIELE et
+   Travaux coordonnÃ©s par : Madame MOCAER rÃ©fÃ©rente de la DIRECCTE PACA
+   Olivier BATAILLE et Cyril PUJOL Avec alternants LaurÃ¨ne DANIELE et
    Victoria FELIX, de M2 IS-PRNT en conduite de projet
 
-   Toute entreprise est confrontée à la nécessité d'ajuster finement les
-   effectifs à ses besoins de production ou de réalisation de services. En
+   Toute entreprise est confrontÃ©e Ã  la nÃ©cessitÃ© d'ajuster finement les
+   effectifs Ã  ses besoins de production ou de rÃ©alisation de services. En
    l'absence d'un tel effort, les risques encourus pour la charge de
-   travail sont de deux ordres : individuel (la santé et le bien-être des
-   salariés) et collectif (la qualité du service et la performance de
+   travail sont de deux ordres : individuel (la santÃ© et le bien-Ãªtre des
+   salariÃ©s) et collectif (la qualitÃ© du service et la performance de
    l'entreprise).
 
-Récapitulatif des conséquences des RPS dans le monde du travail
+RÃ©capitulatif des consÃ©quences des RPS dans le monde du travail
 
-Salariés
+SalariÃ©s
 
-     * Troubles émotionnels
+     * Troubles Ã©motionnels
      * Troubles du sommeil
      * Troubles digestifs
      * Hypertension
-     * Problèmes cardio-vasculaires et lipidiques
-     * Troubles métaboliques
+     * ProblÃ¨mes cardio-vasculaires et lipidiques
+     * Troubles mÃ©taboliques
      * Troubles Musculo-Squelettiques
-     * Troubles anxio-dépressifs
+     * Troubles anxio-dÃ©pressifs
      * Suicide ou tentative de suicide
      * Impact sur l'entourage
 
 Entreprise
 
-     * Absentéisme
-     * Productivité en baisse
-     * Grèves, mouvements sociaux, procédures judiciaires
+     * AbsentÃ©isme
+     * ProductivitÃ© en baisse
+     * GrÃ¨ves, mouvements sociaux, procÃ©dures judiciaires
      * Augmentation du turn-over
      * Actes de malveillance ou de violence au travail
 
-Méthode d'analyse d'une charge de travail
+MÃ©thode d'analyse d'une charge de travail
 
-Préparation de la démarche d'évaluation des risques
+PrÃ©paration de la dÃ©marche d'Ã©valuation des risques
 
-     * Constitution d'un Groupe de travail (direction, agent référent,
-       représentant du personnel, salariés volontaires)
-     * Déterminer des unités de travail
+     * Constitution d'un Groupe de travail (direction, agent rÃ©fÃ©rent,
+       reprÃ©sentant du personnel, salariÃ©s volontaires)
+     * DÃ©terminer des unitÃ©s de travail
      * Information du personnel
 
-Pré-diagnostic
+PrÃ©-diagnostic
 
    Mettre en place des indicateurs les plus pertinents en fonction de
-   l'activité.
+   l'activitÃ©.
 
-Choix de la méthode
+Choix de la mÃ©thode
 
      * Entretiens collectifs puis Observations en Situation de Travail.
-     * Enquête par questionnaire puis Observations en Situation de
+     * EnquÃªte par questionnaire puis Observations en Situation de
        Travail.
 
-Identifier les facteurs de RPS dans les unités de travail
+Identifier les facteurs de RPS dans les unitÃ©s de travail
 
    Cette analyse permet d'identifier sept grandes familles de facteurs de
-   risque à l'origine de l'apparition de RPS afin de les analyser et
-   procéder à l'évaluation des risques
+   risque Ã  l'origine de l'apparition de RPS afin de les analyser et
+   procÃ©der Ã  l'Ã©valuation des risques
 
-Classement des facteurs de risques et intégration dans le document unique.
+Classement des facteurs de risques et intÃ©gration dans le document unique.
 
    La grille d'analyse des RPS recense les 7 grandes familles de risque et
-   les facteurs de risques associés. Les résultats de cette évaluation
-   permettent de comparer les RPS aux autres risques identifiés.
-   C'est donc une synthèse des résultats qui est reporté dans le document
+   les facteurs de risques associÃ©s. Les rÃ©sultats de cette Ã©valuation
+   permettent de comparer les RPS aux autres risques identifiÃ©s.
+   C'est donc une synthÃ¨se des rÃ©sultats qui est reportÃ© dans le document
    unique.
 
-Détermination des mesures de prévention, réalisation d'un plan d'actions et
+DÃ©termination des mesures de prÃ©vention, rÃ©alisation d'un plan d'actions et
 suivi.
 
-   Ces mesures de prévention doivent respecter les neuf principes généraux
-   de la prévention. La prise en compte des sept familles de facteur de
-   risque permet notamment de répondre à ces exigences.
+   Ces mesures de prÃ©vention doivent respecter les neuf principes gÃ©nÃ©raux
+   de la prÃ©vention. La prise en compte des sept familles de facteur de
+   risque permet notamment de rÃ©pondre Ã  ces exigences.
 
 La charge de travail
 
-Les différentes charges de travail
+Les diffÃ©rentes charges de travail
 
-     * La charge de travail Prescrite (P), est la tâche au sens
+     * La charge de travail Prescrite (P), est la tÃ¢che au sens
        ergonomique ;
-     * La charge de travail Réelle (R), est l'astreinte au sens
-       ergonomique, le « coût » que le salarié «défraye» pour réaliser
-       l'activité ;
+     * La charge de travail RÃ©elle (R), est l'astreinte au sens
+       ergonomique, le Â« coÃ»t Â» que le salariÃ© Â«dÃ©frayeÂ» pour rÃ©aliser
+       l'activitÃ© ;
      * La charge de travail Subjective (S), est la charge de travail
-       ressentie par le salarié.
+       ressentie par le salariÃ©.
 
-Les travailleurs les plus exposés
+Les travailleurs les plus exposÃ©s
 
-     * Le travailleur nomade, qui travaillent à d'autres postes que son
+     * Le travailleur nomade, qui travaillent Ã  d'autres postes que son
        poste habituel.
-     * Les télétravailleurs, les salariés qui peuvent réaliser leurs
-       activités depuis leur domicile.
+     * Les tÃ©lÃ©travailleurs, les salariÃ©s qui peuvent rÃ©aliser leurs
+       activitÃ©s depuis leur domicile.
 
-La prise en compte de la charge de travail dans l'évaluation des RPS
+La prise en compte de la charge de travail dans l'Ã©valuation des RPS
 
-   Lors de l'évaluation la prise en compte de la charge de travail est
+   Lors de l'Ã©valuation la prise en compte de la charge de travail est
    souvent absente.
-   Afin de réaliser une bonne étude de la charge de travail, de plus en
-   plus d'organismes tels que l'ANACT propose des modèles, des concepts
+   Afin de rÃ©aliser une bonne Ã©tude de la charge de travail, de plus en
+   plus d'organismes tels que l'ANACT propose des modÃ¨les, des concepts
    afin d'obtenir la meilleure visualisation de la charge de travail
-   imposée sur les différents travailleurs d'une entreprise.
+   imposÃ©e sur les diffÃ©rents travailleurs d'une entreprise.
    Pour terminer, ce facteur concernant la prise en compte de la charge de
-   travail, ne doit en aucun cas être biaisé, sinon une mauvaise
-   évaluation des RPS pourrait en découler.
+   travail, ne doit en aucun cas Ãªtre biaisÃ©, sinon une mauvaise
+   Ã©valuation des RPS pourrait en dÃ©couler.
 
-Focus sur les nouvelles technologies/innovations pour pallier à ceci
+Focus sur les nouvelles technologies/innovations pour pallier Ã  ceci
 
-     * Les NTIC ont tendance à accélérer le rythme de la vie quotidienne
+     * Les NTIC ont tendance Ã  accÃ©lÃ©rer le rythme de la vie quotidienne
        et introduire davantage de stress ;
      * L'informatisation de nombreux emplois dans l'industrie ainsi que la
-       robotisation des usines, conduit à une augmentation notable du
-       chômage ;
-     * Les NTIC nécessitent des niveaux de compétences et/ou de
-       qualifications assez élevés, et ne sont pas facilement accessibles
-       aux travailleurs âgés ou à ceux dont les connaissances en TIC sont
-       assez limitées ;
-     * Les NTIC ont augmenté la quantité de travail de certaines personnes
+       robotisation des usines, conduit Ã  une augmentation notable du
+       chÃ´mage ;
+     * Les NTIC nÃ©cessitent des niveaux de compÃ©tences et/ou de
+       qualifications assez Ã©levÃ©s, et ne sont pas facilement accessibles
+       aux travailleurs Ã¢gÃ©s ou Ã  ceux dont les connaissances en TIC sont
+       assez limitÃ©es ;
+     * Les NTIC ont augmentÃ© la quantitÃ© de travail de certaines personnes
        qui doivent souvent travailler durant de longues heures ;
-     * Le stockage des données personnelles sur de systèmes informatiques
-       a rendu vulnérable la vie privée des gens ;
+     * Le stockage des donnÃ©es personnelles sur de systÃ¨mes informatiques
+       a rendu vulnÃ©rable la vie privÃ©e des gens ;
      * Il est rare que les gens travaillant dans les NTIC restent dans le
-       même poste pendant plusieurs années, la technologie évoluant.
+       mÃªme poste pendant plusieurs annÃ©es, la technologie Ã©voluant.
 
-Reconnaissance de RPS en tant qu'AT ou MP par la Sécurité Sociale
+Reconnaissance de RPS en tant qu'AT ou MP par la SÃ©curitÃ© Sociale
 
-   Auparavant les RPS n'étaient pas pris en compte comme AT ou MP par la
-   Sécurité Sociale.
-   Cependant de nos jours la reconnaissance à tendance à se développer en
-   raison du nombre de contentieux en perpétuelle augmentation.
-   Téléchargement
+   Auparavant les RPS n'Ã©taient pas pris en compte comme AT ou MP par la
+   SÃ©curitÃ© Sociale.
+   Cependant de nos jours la reconnaissance Ã  tendance Ã  se dÃ©velopper en
+   raison du nombre de contentieux en perpÃ©tuelle augmentation.
+   TÃ©lÃ©chargement
 
-   Travail encadré d'étudiant (1.1 Mo)
+   Travail encadrÃ© d'Ã©tudiant (1.1 Mo)
 
-   NOTA : Cette page a été réalisée par les étudiants du Master PRNT.
-   Malgré l'encadrement de leur travail, des anomalies peuvent subsister.
-   Ils ne sont supposés exacts qu'à leur date de parution et ne tiennent
-   pas compte de l'évolution de la réglementation. N'hésitez pas à nous
-   signaler toute coquille. Avec nos remerciements anticipés.
-     * Évaluation des risques professionnels
+   NOTA : Cette page a Ã©tÃ© rÃ©alisÃ©e par les Ã©tudiants du Master PRNT.
+   MalgrÃ© l'encadrement de leur travail, des anomalies peuvent subsister.
+   Ils ne sont supposÃ©s exacts qu'Ã  leur date de parution et ne tiennent
+   pas compte de l'Ã©volution de la rÃ©glementation. N'hÃ©sitez pas Ã  nous
+   signaler toute coquille. Avec nos remerciements anticipÃ©s.
+     * Ã‰valuation des risques professionnels
      * Risques psychosociaux ou RPS
 
    Partager la page Partager sur Facebook Partager sur X Partager sur
    LinkedIn
-   Ministère du travail, de l'emploi, de la formation professionnelle et
-   du dialogue social Faculté de Pharmacie Aix-Marseille Université Master
+   MinistÃ¨re du travail, de l'emploi, de la formation professionnelle et
+   du dialogue social FacultÃ© de Pharmacie Aix-Marseille UniversitÃ© Master
    IS-PRNT
    PRST Paca
 
-   © Santé et sécurité au travail en Provence-Alpes-Côte d'Azur - Plan du
-   site - Qui sommes-nous ? - Nous contacter - Mentions légales - Crédits
+   Â© SantÃ© et sÃ©curitÃ© au travail en Provence-Alpes-CÃ´te d'Azur - Plan du
+   site - Qui sommes-nous ? - Nous contacter - Mentions lÃ©gales - CrÃ©dits
