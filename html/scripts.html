@@ -7,6 +7,9 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css"/>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <link rel="stylesheet" href="../fiche_css/site.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/github-dark.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
+    <script>hljs.highlightAll();</script>
 </head>
 <!--Menu-->
  <nav class="navbar" role="navigation" aria-label="main navigation">
@@ -25,7 +28,14 @@
                 <a class="navbar-item sub" href="https://oushan24.github.io/PPE1-projet_final/index.html#Choix">Choix du mot</a>
               </div>
             </div>
-            <a class="navbar-item" href="scripts.html">Scripts</a>
+            <div class="navbar-item has-dropdown is-hoverable">
+              <a class="navbar-item" href="scripts.html">Scripts</a>
+              <div class="navbar-dropdown">
+                <a class="navbar-item sub" href="https://oushan24.github.io/PPE1-projet_final/html/scripts.html#francais">Français</a>
+                <a class="navbar-item sub" href="https://oushan24.github.io/PPE1-projet_final/html/scripts.html#russe">Russe</a>
+                <a class="navbar-item sub" href="https://oushan24.github.io/PPE1-projet_final/html/scripts.html#japonais">Japonais</a>
+              </div>
+            </div>
             <div class="navbar-item has-dropdown is-hoverable">
               <a class="navbar-item" href="tableaux.html">Tableaux</a>
               <div class="navbar-dropdown">
@@ -58,4 +68,180 @@
 </section>
 
 <!--corps-->
+<!--corps-->
+<section id="francais" class="content-container2">
+    <h1 class="title has-text-black">Script pour le français</h1>
+    <div class="box">
+      <pre><code class="language-bash">
+#!/usr/bin/bash
+if [ $# -ne 2 ]; then
+    echo "Ce programme demande deux arguments : 1 fichier d'entrée contenant des urls et 1 fichier sortie"
+    exit
+fi
+
+FICHIER_URLS=$1
+SORTIE=$2
+
+if [ ! -f "$FICHIER_URLS" ]; then
+    echo "Ce programme demande un fichier"
+    exit
+fi
+
+NB_LIGNE=0 # on aurait pu mettre lineno
+
+cat &gt; "$SORTIE" &lt;&lt;EOF
+&lt;!DOCTYPE html&gt;
+&lt;html lang="fr"&gt;
+&lt;head&gt;
+    &lt;meta charset="UTF-8"&gt;
+    &lt;meta name="viewport" content="width=device-width, initial-scale=1"&gt;
+    &lt;link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css"/&gt;
+    &lt;link rel="stylesheet" href="../fiche_css/tableau.css"/&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;div class="table-container"&gt;
+    &lt;h2&gt;Analyse des URLs&lt;/h2&gt;
+    &lt;table class="table is-striped is-hoverable is-fullwidth"&gt;
+        &lt;thead&gt;
+            &lt;tr&gt;
+                &lt;th&gt;&lt;abbr title="Numéro"&gt;N°&lt;/abbr&gt;&lt;/th&gt;
+                &lt;th&gt;Adresse (URL)&lt;/th&gt;
+                &lt;th&gt;Réponse requête&lt;/th&gt;
+                &lt;th&gt;Encodage&lt;/th&gt;
+                &lt;th&gt;Nombre de mots&lt;/th&gt;
+                &lt;th&gt;Nombre d'occurences du mot cible&lt;/th&gt;
+                &lt;th&gt;Aspiration des pages&lt;/th&gt;
+                &lt;th&gt;Dump textuel&lt;/th&gt;
+                &lt;th&gt;Contexte&lt;/th&gt;
+                &lt;th&gt;Concordancier&lt;/th&gt;
+                &lt;th&gt;Spécificité&lt;/th&gt;
+
+            &lt;/tr&gt;
+        &lt;/thead&gt;
+        &lt;tbody&gt;
+EOF
+
+while read -r LINE ; do
+    if [[ $LINE =~ ^https?:// ]]; then
+
+        NB_LIGNE=$(expr $NB_LIGNE + 1)
+
+        CODE_ET_ENCODAGE=$(curl -s -L -i -o "tmp.txt" -w "%{http_code}\n%{content_type}" "$LINE")
+
+        CODE=$(echo "$CODE_ET_ENCODAGE" | head -n 1)
+
+        if [ $CODE -eq 0 ]; then
+            echo "&lt;tr&gt;&lt;td&gt;$NB_LIGNE&lt;/td&gt;&lt;td&gt;$LINE&lt;/td&gt;&lt;td&gt;ERREUR&lt;/td&gt;&lt;td&gt;ERREUR&lt;/td&gt;&lt;td&gt;ERREUR&lt;/td&gt;&lt;/tr&gt;" &gt;&gt; "$SORTIE"
+            continue
+        fi
+
+        ENCODAGE=$(echo "$CODE_ET_ENCODAGE" | grep -E -o "charset=.*")
+
+        if [[ "$ENCODAGE" =~ ('UTF-8'|'utf-8') ]]; then
+            ENCODAGE_OU_PAS="UTF-8"
+        else
+            ENCODAGE_OU_PAS="NON"
+        fi
+        # Compte du nombre de mots au total dans la page
+        NB_MOTS=$(cat "tmp.txt" | lynx -dump -stdin -nolist | wc -w)
+
+        # Aspiration des pages (1 fichier html par url)
+        FICHIER_ASP="../aspirations/lang_fr-${NB_LIGNE}.html"
+        curl -s -L -o "$FICHIER_ASP" "$LINE"
+        ASPIRATION="&lt;a href='$FICHIER_ASP' target='_blank'&gt;Aspiration n°$NB_LIGNE&lt;/a&gt;"
+
+        # Extraire le contenu textuel des pages 
+        FICHIER_DUMP="../dump/lang_fr-${NB_LIGNE}.txt"
+        lynx -dump -nolist "$FICHIER_ASP" | iconv -f ISO-8859-1 -t UTF-8 | sponge "$FICHIER_DUMP"
+        DUMP="&lt;a href='$FICHIER_DUMP' target='_blank'&gt;Texte n°$NB_LIGNE&lt;/a&gt;"
+
+        # Compte du nombre du mot cible dans la page
+        NB_OCCURENCES=$(grep -oEi "charge[s]?" "$FICHIER_DUMP" | wc -l)
+
+        # Contexte (quelques lignes autour du mot cible, "zoomer" dans le dump textuel)
+        FICHIER_CONTX="../contextes/lang_fr-${NB_LIGNE}.txt"
+        grep -i -E -C 3 "charge[s]?" "$FICHIER_DUMP" &gt;&gt; "$FICHIER_CONTX"
+        CONTEXTE="&lt;a href='$FICHIER_CONTX' target='_blank'&gt;Contexte n°$NB_LIGNE&lt;/a&gt;"
+
+        #Spécificité (textométrie)
+        FICHIER_TEMP_TOK="temp_tokens.txt" 
+        FICHIER_SPE="../specificite/specificite_fr-${NB_LIGNE}.tsv"
+        
+        grep -oEi "[a-zA-Záàâäãåçéèêëíìîïñóòôöõúùûüýÿæœ]+" "$FICHIER_DUMP" &gt; "$FICHIER_TEMP_TOK"
+
+        python3 ../specificite/cooccurrents.py --target "charges?" "$FICHIER_TEMP_TOK" -N 10 -s i --match-mode regex &gt; "$FICHIER_SPE"
+       
+        rm "$FICHIER_TEMP_TOK"
+
+        SPECIFICITE="&lt;a href='$FICHIER_SPE' target='_blank'&gt;Spécificité n°$NB_LIGNE&lt;/a&gt;"
+
+        # Concordancier 
+        FICHIER_CONCO="../concordanciers/lang_fr-${NB_LIGNE}.html"
+        cat &gt; "$FICHIER_CONCO" &lt;&lt;EOF
+
+&lt;!DOCTYPE html&gt;
+&lt;html lang="fr"&gt;
+&lt;head&gt;
+    &lt;meta charset="UTF-8"&gt;
+    &lt;meta name="viewport" content="width=device-width, initial-scale=1"&gt;
+    &lt;link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css"/&gt;
+    &lt;link rel="stylesheet" href="../fiche_css/tableau.css"/&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;div class="table-container"&gt;
+        &lt;h2&gt;Concordancier&lt;/h2&gt;
+        &lt;table class="table is-striped is-hoverable is-fullwidth"&gt;
+            &lt;thead&gt;
+                &lt;tr&gt;
+                    &lt;th class="has-text-left"&gt;Contexte Gauche&lt;/th&gt;
+                    &lt;th&gt;Mot cible&lt;/th&gt;
+                    &lt;th class="has-text-right"&gt;Contexte Droit&lt;/th&gt;
+                &lt;/tr&gt;
+            &lt;/thead&gt;
+            &lt;tbody&gt;
+EOF
+        grep -E -i "([A-Za-z0-9_]+\W+){0,4}charge[s]?(\W+[A-Za-z0-9_]+){0,4}" "$FICHIER_CONTX" | sed -E -n "s/(.*)(charge[s]?)(.*)/&lt;tr&gt;&lt;td&gt;\1&lt;\/td&gt;&lt;td&gt;\2&lt;\/td&gt;&lt;td&gt;\3&lt;\/td&gt;&lt;\/tr&gt;/Ip" &gt;&gt; "$FICHIER_CONCO"
+
+        cat &gt;&gt; "$FICHIER_CONCO" &lt;&lt;EOF
+            &lt;/tbody&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+EOF
+        CONCORDANCIER="&lt;a href='$FICHIER_CONCO' target='_blank'&gt;Concordancier n°$NB_LIGNE&lt;/a&gt;"
+
+        # Tableau final
+        echo "&lt;tr&gt;&lt;td&gt;$NB_LIGNE&lt;/td&gt;&lt;td id='url'&gt;$LINE&lt;/td&gt;&lt;td&gt;$CODE&lt;/td&gt;&lt;td&gt;$ENCODAGE_OU_PAS&lt;/td&gt;&lt;td&gt;$NB_MOTS&lt;/td&gt;&lt;td&gt;$NB_OCCURENCES&lt;/td&gt;&lt;td&gt;$ASPIRATION&lt;/td&gt;&lt;td&gt;$DUMP&lt;/td&gt;&lt;td&gt;$CONTEXTE&lt;/td&gt;&lt;td&gt;$CONCORDANCIER&lt;/td&gt;&lt;td&gt;$SPECIFICITE&lt;/td&gt;&lt;/tr&gt;" &gt;&gt; "$SORTIE"
+
+fi
+done  &lt; "$FICHIER_URLS"
+cat &gt;&gt; "$SORTIE" &lt;&lt;EOF
+        &lt;/tbody&gt;
+     &lt;/table&gt;
+    &lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+EOF
+      </code></pre>
+  </div>
+</section>
+<section id="russe" class="content-container2">
+    <h1 class="title has-text-black">Script pour le Russe</h1>
+    <div class="box">
+      <pre><code class="language-bash">
+        <!--script-->
+      </code></pre>
+  </div>
+</section>
+
+<section id="japonais" class="content-container2">
+    <h1 class="title has-text-black">Script pour le Japonais</h1>
+    <div class="box">
+      <pre><code class="language-bash">
+        <!--script-->
+      </code></pre>
+  </div>
+</section>
+
 </html>
