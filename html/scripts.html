@@ -232,7 +232,7 @@ EOF
     <h1 class="title has-text-black">Script pour le Russe</h1>
     <div class="box">
       <pre><code class="language-bash">
-        #!/bin/bash
+#!/bin/bash
 if [ $# -ne 2 ]; then
     echo "Ce programme demande deux arguments : 1 fichier d'entrée contenant des urls et 1 fichier sortie"
     exit
@@ -435,7 +435,7 @@ EOF
                 # Convertir en minuscules pour la recherche
                 line_lower = tolower(line)
                 
-                # Trouver la position et la longueur du match
+                # Trouver la position et la longuer du match
                 match(line_lower, regex)
                 if (RSTART > 0) {
                     # Extraire les parties
