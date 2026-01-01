@@ -11,8 +11,8 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
     <script>hljs.highlightAll();</script>
 </head>
-
-<nav class="navbar" role="navigation" aria-label="main navigation">
+<!--Menu-->
+ <nav class="navbar" role="navigation" aria-label="main navigation">
     <div class="navbar-brand">
         <span class="navbar-title">PPE1</span>
         <span class="navbar-subtitle">Projet-Final</span>
@@ -29,83 +29,471 @@
               </div>
             </div>
             <div class="navbar-item has-dropdown is-hoverable">
-              <a class="navbar-item" href="scripts.html">Scripts</a>
+              <a class="navbar-item" href="https://oushan24.github.io/PPE1-projet_final/html/scripts.html">Scripts</a>
               <div class="navbar-dropdown">
-                <a class="navbar-item sub" href="scripts.html#francais">Français</a>
-                <a class="navbar-item sub" href="scripts.html#russe">Russe</a>
-                <a class="navbar-item sub" href="scripts.html#japonais">Japonais</a>
+                <a class="navbar-item sub" href="https://oushan24.github.io/PPE1-projet_final/html/scripts.html#francais">Français</a>
+                <a class="navbar-item sub" href="https://oushan24.github.io/PPE1-projet_final/html/scripts.html#russe">Russe</a>
+                <a class="navbar-item sub" href="https://oushan24.github.io/PPE1-projet_final/html/scripts.html#japonais">Japonais</a>
               </div>
             </div>
             <div class="navbar-item has-dropdown is-hoverable">
               <a class="navbar-item" href="tableaux.html">Tableaux</a>
               <div class="navbar-dropdown">
-                <a class="navbar-item sub" href="tableaux/Russe.html">Russe</a>
-                <a class="navbar-item sub" href="tableaux/Japonais.html">Japonais</a>
-                <a class="navbar-item sub" href="tableaux/Fr.html">Français</a>
+                <a class="navbar-item sub" href="">Russe</a>
+                <a class="navbar-item sub" href="">Japonais</a>
+                <a class="navbar-item sub" href="https://oushan24.github.io/PPE1-projet_final/tableaux/Fr.html">Français</a>
               </div>
             </div>
             <div class="navbar-item has-dropdown is-hoverable">
               <a class="navbar-item" href="analyse.html">Analyses</a>
               <div class="navbar-dropdown">
-                <a class="navbar-item sub" href="analyse.html#nuage">Nuage de mots</a>
-                <a class="navbar-item sub" href="analyse.html#spé">Spécificité</a>
+                <a class="navbar-item sub" href="https://oushan24.github.io/PPE1-projet_final/html/analyse.html#nuage">Nuage de mots</a>
+                <a class="navbar-item sub" href="./analyse.html#spé">Spécificité</a>
               </div>
             </div>
             <div class="navbar-item has-dropdown is-hoverable">
               <a class="navbar-item" href="nous.html">L'équipe</a>
               <div class="navbar-dropdown">
-                <a class="navbar-item sub" href="nous.html#Qui?">Qui sommes-nous ?</a>
+                <a class="navbar-item sub" href="https://oushan24.github.io/PPE1-projet_final/html/nous.html#Qui?">Qui sommes-nous ?</a>
               </div>
             </div>
         </div>
     </div>
 </nav>
 
+<!--Milieu image-->
 <section class="hero-area_bis_4">
      <div class="block">
-        <h1>Scripts</h1>
+    <h1>Scripts</h1>
     </div>
 </section>
 
+<!--corps-->
 <section id="francais" class="content-container2">
     <h1 class="title has-text-black">Script pour le français</h1>
     <div class="box">
-        <object type="text/plain" data="../programmes/Fr.sh" class="script-display">
-            <p>Le script ne peut pas être affiché. <a href="../programmes/Fr.sh">Télécharger le script</a></p>
-        </object>
-    </div>
+      <pre><code class="language-bash">
+#!/usr/bin/bash
+if [ $# -ne 2 ]; then
+    echo "Ce programme demande deux arguments : 1 fichier d'entrée contenant des urls et 1 fichier sortie"
+    exit
+fi
+
+FICHIER_URLS=$1
+SORTIE=$2
+
+if [ ! -f "$FICHIER_URLS" ]; then
+    echo "Ce programme demande un fichier"
+    exit
+fi
+
+NB_LIGNE=0 # on aurait pu mettre lineno
+
+cat &gt; "$SORTIE" &lt;&lt;EOF
+&lt;!DOCTYPE html&gt;
+&lt;html lang="fr"&gt;
+&lt;head&gt;
+    &lt;meta charset="UTF-8"&gt;
+    &lt;meta name="viewport" content="width=device-width, initial-scale=1"&gt;
+    &lt;link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css"/&gt;
+    &lt;link rel="stylesheet" href="../fiche_css/tableau.css"/&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;div class="table-container"&gt;
+    &lt;h2&gt;Analyse des URLs&lt;/h2&gt;
+    &lt;table class="table is-striped is-hoverable is-fullwidth"&gt;
+        &lt;thead&gt;
+            &lt;tr&gt;
+                &lt;th&gt;&lt;abbr title="Numéro"&gt;N°&lt;/abbr&gt;&lt;/th&gt;
+                &lt;th&gt;Adresse (URL)&lt;/th&gt;
+                &lt;th&gt;Réponse requête&lt;/th&gt;
+                &lt;th&gt;Encodage&lt;/th&gt;
+                &lt;th&gt;Nombre de mots&lt;/th&gt;
+                &lt;th&gt;Nombre d'occurences du mot cible&lt;/th&gt;
+                &lt;th&gt;Aspiration des pages&lt;/th&gt;
+                &lt;th&gt;Dump textuel&lt;/th&gt;
+                &lt;th&gt;Contexte&lt;/th&gt;
+                &lt;th&gt;Concordancier&lt;/th&gt;
+                &lt;th&gt;Spécificité&lt;/th&gt;
+            &lt;/tr&gt;
+        &lt;/thead&gt;
+        &lt;tbody&gt;
+EOF
+
+while read -r LINE ; do
+    if [[ $LINE =~ ^https?:// ]]; then
+
+        NB_LIGNE=$(expr $NB_LIGNE + 1)
+
+        CODE_ET_ENCODAGE=$(curl -s -L -i -o "tmp.txt" -w "%{http_code}\n%{content_type}" "$LINE")
+
+        CODE=$(echo "$CODE_ET_ENCODAGE" | head -n 1)
+
+        if [ $CODE -eq 0 ]; then
+            echo "&lt;tr&gt;&lt;td&gt;$NB_LIGNE&lt;/td&gt;&lt;td&gt;$LINE&lt;/td&gt;&lt;td&gt;ERREUR&lt;/td&gt;&lt;td&gt;ERREUR&lt;/td&gt;&lt;td&gt;ERREUR&lt;/td&gt;&lt;/tr&gt;" &gt;&gt; "$SORTIE"
+            continue
+        fi
+
+        ENCODAGE=$(echo "$CODE_ET_ENCODAGE" | grep -E -o "charset=.*")
+
+        if [[ "$ENCODAGE" =~ ('UTF-8'|'utf-8') ]]; then
+            ENCODAGE_OU_PAS="UTF-8"
+        else
+            ENCODAGE_OU_PAS="NON"
+        fi
+        # Compte du nombre de mots au total dans la page
+        NB_MOTS=$(cat "tmp.txt" | lynx -dump -stdin -nolist | wc -w)
+
+        # Aspiration des pages (1 fichier html par url)
+        FICHIER_ASP="../aspirations/lang_fr-${NB_LIGNE}.html"
+        curl -s -L -o "$FICHIER_ASP" "$LINE"
+        ASPIRATION="&lt;a href='$FICHIER_ASP' target='_blank'&gt;Aspiration n°$NB_LIGNE&lt;/a&gt;"
+
+        # Extraire le contenu textuel des pages 
+        FICHIER_DUMP="../dump/lang_fr-${NB_LIGNE}.txt"
+        lynx -dump -nolist "$FICHIER_ASP" | iconv -f ISO-8859-1 -t UTF-8 | sponge "$FICHIER_DUMP"
+        DUMP="&lt;a href='$FICHIER_DUMP' target='_blank'&gt;Texte n°$NB_LIGNE&lt;/a&gt;"
+
+        # Compte du nombre du mot cible dans la page
+        NB_OCCURENCES=$(grep -oEi "charge[s]?" "$FICHIER_DUMP" | wc -l)
+
+        # Contexte (quelques lignes autour du mot cible, "zoomer" dans le dump textuel)
+        FICHIER_CONTX="../contextes/lang_fr-${NB_LIGNE}.txt"
+        grep -i -E -C 3 "charge[s]?" "$FICHIER_DUMP" &gt;&gt; "$FICHIER_CONTX"
+        CONTEXTE="&lt;a href='$FICHIER_CONTX' target='_blank'&gt;Contexte n°$NB_LIGNE&lt;/a&gt;"
+
+        #Spécificité (textométrie)
+        FICHIER_TEMP_TOK="temp_tokens.txt" 
+        FICHIER_SPE="../specificite/specificite_fr-${NB_LIGNE}.tsv"
+        
+        grep -oEi "[a-zA-Záàâäãåçéèêëíìîïñóòôöõúùûüýÿæœ]+" "$FICHIER_DUMP" &gt; "$FICHIER_TEMP_TOK"
+
+        python3 ../specificite/cooccurrents.py --target "charges?" "$FICHIER_TEMP_TOK" -N 10 -s i --match-mode regex &gt; "$FICHIER_SPE"
+       
+        rm "$FICHIER_TEMP_TOK"
+
+        SPECIFICITE="&lt;a href='$FICHIER_SPE' target='_blank'&gt;Spécificité n°$NB_LIGNE&lt;/a&gt;"
+
+        # Concordancier 
+        FICHIER_CONCO="../concordanciers/lang_fr-${NB_LIGNE}.html"
+        cat &gt; "$FICHIER_CONCO" &lt;&lt;EOF
+&lt;!DOCTYPE html&gt;
+&lt;html lang="fr"&gt;
+&lt;head&gt;
+    &lt;meta charset="UTF-8"&gt;
+    &lt;meta name="viewport" content="width=device-width, initial-scale=1"&gt;
+    &lt;link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css"/&gt;
+    &lt;link rel="stylesheet" href="../fiche_css/tableau.css"/&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;div class="table-container"&gt;
+        &lt;h2&gt;Concordancier&lt;/h2&gt;
+        &lt;table class="table is-striped is-hoverable is-fullwidth"&gt;
+            &lt;thead&gt;
+                &lt;tr&gt;
+                    &lt;th class="has-text-left"&gt;Contexte Gauche&lt;/th&gt;
+                    &lt;th&gt;Mot cible&lt;/th&gt;
+                    &lt;th class="has-text-right"&gt;Contexte Droit&lt;/th&gt;
+                &lt;/tr&gt;
+            &lt;/thead&gt;
+            &lt;tbody&gt;
+EOF
+        grep -E -i "([A-Za-z0-9_]+\W+){0,4}charge[s]?(\W+[A-Za-z0-9_]+){0,4}" "$FICHIER_CONTX" | sed -E -n "s/(.*)(charge[s]?)(.*)/&lt;tr&gt;&lt;td&gt;\1&lt;\/td&gt;&lt;td&gt;\2&lt;\/td&gt;&lt;td&gt;\3&lt;\/td&gt;&lt;\/tr&gt;/Ip" &gt;&gt; "$FICHIER_CONCO"
+
+        cat &gt;&gt; "$FICHIER_CONCO" &lt;&lt;EOF
+            &lt;/tbody&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+EOF
+        CONCORDANCIER="&lt;a href='$FICHIER_CONCO' target='_blank'&gt;Concordancier n°$NB_LIGNE&lt;/a&gt;"
+
+        # Tableau final
+        echo "&lt;tr&gt;&lt;td&gt;$NB_LIGNE&lt;/td&gt;&lt;td id='url'&gt;$LINE&lt;/td&gt;&lt;td&gt;$CODE&lt;/td&gt;&lt;td&gt;$ENCODAGE_OU_PAS&lt;/td&gt;&lt;td&gt;$NB_MOTS&lt;/td&gt;&lt;td&gt;$NB_OCCURENCES&lt;/td&gt;&lt;td&gt;$ASPIRATION&lt;/td&gt;&lt;td&gt;$DUMP&lt;/td&gt;&lt;td&gt;$CONTEXTE&lt;/td&gt;&lt;td&gt;$CONCORDANCIER&lt;/td&gt;&lt;td&gt;$SPECIFICITE&lt;/td&gt;&lt;/tr&gt;" &gt;&gt; "$SORTIE"
+
+fi
+done  &lt; "$FICHIER_URLS"
+cat &gt;&gt; "$SORTIE" &lt;&lt;EOF
+        &lt;/tbody&gt;
+     &lt;/table&gt;
+    &lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+EOF
+      </code></pre>
+  </div>
 </section>
 
 <section id="russe" class="content-container2">
     <h1 class="title has-text-black">Script pour le Russe</h1>
     <div class="box">
-        <object type="text/plain" data="../programmes/Russe.sh" class="script-display">
-            <p>Le script ne peut pas être affiché. <a href="../programmes/Russe.sh">Télécharger le script</a></p>
-        </object>
-    </div>
+      <pre><code class="language-bash">
+#!/bin/bash
+if [ $# -ne 2 ]; then
+    echo "Ce programme demande deux arguments : 1 fichier d'entrée contenant des urls et 1 fichier sortie"
+    exit
+fi
+
+FICHIER_URLS=$1
+SORTIE=$2
+
+if [ ! -f "$FICHIER_URLS" ]; then
+    echo "Ce programme demande un fichier"
+    exit
+fi
+
+NB_LIGNE=0
+
+cat &gt; "$SORTIE" &lt;&lt;EOF
+&lt;!DOCTYPE html&gt;
+&lt;html lang="fr"&gt;
+&lt;head&gt;
+    &lt;meta charset="UTF-8"&gt;
+    &lt;meta name="viewport" content="width=device-width, initial-scale=1"&gt;
+    &lt;link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css"/&gt;
+    &lt;link rel="stylesheet" href="../fiche_css/tableau.css"/&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;div class="table-container"&gt;
+    &lt;h2&gt;Analyse des URLs russes&lt;/h2&gt;
+    &lt;table class="table is-striped is-hoverable is-fullwidth"&gt;
+        &lt;thead&gt;
+            &lt;tr&gt;
+                &lt;th&gt;&lt;abbr title="Numéro"&gt;N°&lt;/abbr&gt;&lt;/th&gt;
+                &lt;th&gt;Adresse (URL)&lt;/th&gt;
+                &lt;th&gt;Réponse requête&lt;/th&gt;
+                &lt;th&gt;Encodage&lt;/th&gt;
+                &lt;th&gt;Nombre de mots&lt;/th&gt;
+                &lt;th&gt;Nombre d'occurrences du mot cible&lt;/th&gt;
+                &lt;th&gt;Aspiration des pages&lt;/th&gt;
+                &lt;th&gt;Dump textuel&lt;/th&gt;
+                &lt;th&gt;Contexte&lt;/th&gt;
+                &lt;th&gt;Concordancier&lt;/th&gt;
+                &lt;th&gt;Spécificité&lt;/th&gt;
+            &lt;/tr&gt;
+        &lt;/thead&gt;
+        &lt;tbody&gt;
+EOF
+
+# Créer les dossiers nécessaires
+mkdir -p "../aspirations"
+mkdir -p "../dump"
+mkdir -p "../contextes"
+mkdir -p "../concordanciers"
+mkdir -p "../specificite"
+
+MOT_CIBLE_REGEX="нагрузк(а|и|у|ой|е|ам|ами|ах)|нагрузок"
+
+while IFS= read -r LINE || [[ -n "$LINE" ]]; do
+    if [[ $LINE =~ ^https?:// ]]; then
+
+        NB_LIGNE=$((NB_LIGNE + 1))
+
+        # Détection du code HTTP et de l'encodage
+        CODE=$(curl -s -o /dev/null -w "%{http_code}" "$LINE")
+        
+        if [ "$CODE" = "000" ] || [ "$CODE" = "0" ]; then
+            echo "&lt;tr&gt;&lt;td&gt;$NB_LIGNE&lt;/td&gt;&lt;td&gt;$LINE&lt;/td&gt;&lt;td&gt;ERREUR&lt;/td&gt;&lt;td&gt;ERREUR&lt;/td&gt;&lt;td&gt;ERREUR&lt;/td&gt;&lt;td&gt;ERREUR&lt;/td&gt;&lt;td&gt;ERREUR&lt;/td&gt;&lt;td&gt;ERREUR&lt;/td&gt;&lt;td&gt;ERREUR&lt;/td&gt;&lt;td&gt;ERREUR&lt;/td&gt;&lt;td&gt;ERREUR&lt;/td&gt;&lt;/tr&gt;" &gt;&gt; "$SORTIE"
+            continue
+        fi
+
+        # Récupérer le contenu pour détecter l'encodage et compter les mots
+        CONTENT=$(curl -s -L "$LINE")
+        
+        # Détection de l'encodage
+        ENCODAGE=$(echo "$CONTENT" | grep -i "charset=" | head -n1 | grep -E -o "charset=.*" | cut -d= -f2 | tr -d ' &gt;"/')
+        
+        if [ -z "$ENCODAGE" ]; then
+            ENCODAGE_OU_PAS="-"
+        else
+            # Normaliser l'encodage détecté
+            if [[ "$ENCODAGE" =~ (UTF-8|utf-8|UTF8) ]]; then
+                ENCODAGE_OU_PAS="UTF-8"
+            elif [[ "$ENCODAGE" =~ (windows-1251|cp1251|Windows-1251) ]]; then
+                ENCODAGE_OU_PAS="Windows-1251"
+            else
+                ENCODAGE_OU_PAS="$ENCODAGE"
+            fi
+        fi
+
+        # Compter le nombre de mots
+        NB_MOTS=$(echo "$CONTENT" | lynx -stdin -dump 2&gt;/dev/null | wc -w)
+
+        # Aspiration des pages
+        FICHIER_ASP="../aspirations/russe-${NB_LIGNE}.html"
+        echo "Téléchargement ($NB_LIGNE): $LINE"
+        curl -s -L -o "$FICHIER_ASP" "$LINE"
+        
+        # Vérifier si le téléchargement a réussi
+        if [ ! -s "$FICHIER_ASP" ]; then
+            echo "&lt;tr&gt;&lt;td&gt;$NB_LIGNE&lt;/td&gt;&lt;td&gt;$LINE&lt;/td&gt;&lt;td&gt;$CODE&lt;/td&gt;&lt;td&gt;$ENCODAGE_OU_PAS&lt;/td&gt;&lt;td&gt;$NB_MOTS&lt;/td&gt;&lt;td&gt;ERREUR&lt;/td&gt;&lt;td&gt;ERREUR&lt;/td&gt;&lt;td&gt;ERREUR&lt;/td&gt;&lt;td&gt;ERREUR&lt;/td&gt;&lt;td&gt;ERREUR&lt;/td&gt;&lt;td&gt;ERREUR&lt;/td&gt;&lt;/tr&gt;" &gt;&gt; "$SORTIE"
+            continue
+        fi
+        
+        ASPIRATION="&lt;a href='$FICHIER_ASP' target='_blank'&gt;Aspiration n°$NB_LIGNE&lt;/a&gt;"
+
+        # Extraction du texte avec gestion d'encodage russe
+        FICHIER_DUMP="../dump/russe-${NB_LIGNE}.txt"
+        
+        # Utiliser l'encodage détecté pour la conversion
+        if [ "$ENCODAGE_OU_PAS" = "UTF-8" ] || [ "$ENCODAGE_OU_PAS" = "-" ]; then
+            # Essayer UTF-8 d'abord
+            lynx -dump -nolist -display_charset=utf-8 "$FICHIER_ASP" 2&gt;/dev/null &gt; "$FICHIER_DUMP"
+        elif [ "$ENCODAGE_OU_PAS" = "Windows-1251" ]; then
+            # Convertir de Windows-1251 à UTF-8
+            iconv -f windows-1251 -t UTF-8 "$FICHIER_ASP" 2&gt;/dev/null | lynx -dump -nolist -stdin 2&gt;/dev/null &gt; "$FICHIER_DUMP"
+        else
+            # Essayer par défaut avec UTF-8
+            lynx -dump -nolist -display_charset=utf-8 "$FICHIER_ASP" 2&gt;/dev/null &gt; "$FICHIER_DUMP"
+        fi
+        
+        # Si le fichier est vide, essayer une méthode de secours
+        if [ ! -s "$FICHIER_DUMP" ]; then
+            # Méthode alternative: extraire le texte directement du contenu téléchargé
+            echo "$CONTENT" | lynx -stdin -dump 2&gt;/dev/null &gt; "$FICHIER_DUMP"
+        fi
+        
+        DUMP="&lt;a href='$FICHIER_DUMP' target='_blank'&gt;Texte n°$NB_LIGNE&lt;/a&gt;"
+
+        # Compter le nombre d'occurrences du mot cible dans le dump
+        if [ -s "$FICHIER_DUMP" ]; then
+            # Recherche insensible à la casse avec formes correctes
+            NB_OCCURENCES=$(grep -o -i -E "$MOT_CIBLE_REGEX" "$FICHIER_DUMP" | wc -l | awk '{print $1}')
+        else
+            NB_OCCURENCES=0
+        fi
+
+        # Contexte (quelques lignes autour du mot cible)
+        FICHIER_CONTX="../contextes/russe-${NB_LIGNE}.txt"
+        if [ -s "$FICHIER_DUMP" ] && [ "$NB_OCCURENCES" -gt 0 ]; then
+            grep -i -E -C 3 "$MOT_CIBLE_REGEX" "$FICHIER_DUMP" &gt; "$FICHIER_CONTX" 2&gt;/dev/null || echo "Aucun contexte trouvé" &gt; "$FICHIER_CONTX"
+        else
+            echo "Aucune occurrence du mot cible" &gt; "$FICHIER_CONTX"
+        fi
+        CONTEXTE="&lt;a href='$FICHIER_CONTX' target='_blank'&gt;Contexte n°$NB_LIGNE&lt;/a&gt;"
+
+        # Spécificité (textométrie)
+        FICHIER_TEMP_TOK="temp_tokens_russe.txt"
+        FICHIER_SPE="../specificite/specificite_russe-${NB_LIGNE}.tsv"
+        
+        if [ -s "$FICHIER_DUMP" ]; then
+            # Extraction des mots russes (lettres cyrilliques)
+            grep -oE "[а-яА-ЯёЁ]+" "$FICHIER_DUMP" &gt; "$FICHIER_TEMP_TOK"
+
+            # Vérifier si le fichier de tokens n'est pas vide
+            if [ -s "$FICHIER_TEMP_TOK" ]; then
+                python3 ../specificite/cooccurrents.py --target "$MOT_CIBLE_REGEX" "$FICHIER_TEMP_TOK" -N 10 -s i --match-mode regex &gt; "$FICHIER_SPE" 2&gt;/dev/null || echo "Aucune spécificité trouvée" &gt; "$FICHIER_SPE"
+            else
+                echo "Aucun token russe trouvé" &gt; "$FICHIER_SPE"
+            fi
+            
+            rm -f "$FICHIER_TEMP_TOK" 2&gt;/dev/null
+        else
+            echo "Fichier dump vide" &gt; "$FICHIER_SPE"
+        fi
+
+        SPECIFICITE="&lt;a href='$FICHIER_SPE' target='_blank'&gt;Spécificité n°$NB_LIGNE&lt;/a&gt;"
+
+        # Concordancier
+        FICHIER_CONCO="../concordanciers/russe-${NB_LIGNE}.html"
+        cat &gt; "$FICHIER_CONCO" &lt;&lt;EOF
+&lt;!DOCTYPE html&gt;
+&lt;html lang="fr"&gt;
+&lt;head&gt;
+    &lt;meta charset="UTF-8"&gt;
+    &lt;meta name="viewport" content="width=device-width, initial-scale=1"&gt;
+    &lt;link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css"/&gt;
+    &lt;link rel="stylesheet" href="../fiche_css/tableau.css"/&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;div class="table-container"&gt;
+        &lt;h2&gt;Concordancier russe&lt;/h2&gt;
+        &lt;table class="table is-striped is-hoverable is-fullwidth"&gt;
+            &lt;thead&gt;
+                &lt;tr&gt;
+                    &lt;th class="has-text-left"&gt;Contexte Gauche&lt;/th&gt;
+                    &lt;th&gt;Mot cible&lt;/th&gt;
+                    &lt;th class="has-text-right"&gt;Contexte Droit&lt;/th&gt;
+                &lt;/tr&gt;
+            &lt;/thead&gt;
+            &lt;tbody&gt;
+EOF
+        
+        # Extraction du contexte gauche/droit pour le concordancier
+        if [ -s "$FICHIER_CONTX" ] && [ "$NB_OCCURENCES" -gt 0 ]; then
+            # Utiliser awk pour un traitement plus précis
+            awk -v regex="$MOT_CIBLE_REGEX" '
+            BEGIN {
+                IGNORECASE = 1
+            }
+            /нагрузк(а|и|у|ой|е|ам|ами|ах)|нагрузок/ {
+                line = $0
+                # Convertir en minuscules pour la recherche
+                line_lower = tolower(line)
+                
+                # Trouver la position et la longueur du match
+                match(line_lower, regex)
+                if (RSTART &gt; 0) {
+                    # Extraire les parties
+                    gauche = substr(line, 1, RSTART - 1)
+                    cible = substr(line, RSTART, RLENGTH)
+                    droite = substr(line, RSTART + RLENGTH)
+                    
+                    # Nettoyer les espaces en début/fin
+                    gsub(/^[[:space:]]+|[[:space:]]+$/, "", gauche)
+                    gsub(/^[[:space:]]+|[[:space:]]+$/, "", cible)
+                    gsub(/^[[:space:]]+|[[:space:]]+$/, "", droite)
+                    
+                    print "&lt;tr&gt;&lt;td&gt;" gauche "&lt;/td&gt;&lt;td&gt;" cible "&lt;/td&gt;&lt;td&gt;" droite "&lt;/td&gt;&lt;/tr&gt;"
+                }
+            }' "$FICHIER_CONTX" &gt;&gt; "$FICHIER_CONCO" 2&gt;/dev/null
+        else
+            echo "&lt;tr&gt;&lt;td colspan='3'&gt;Aucun contexte disponible&lt;/td&gt;&lt;/tr&gt;" &gt;&gt; "$FICHIER_CONCO"
+        fi
+
+        cat &gt;&gt; "$FICHIER_CONCO" &lt;&lt;EOF
+            &lt;/tbody&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+EOF
+        
+        CONCORDANCIER="&lt;a href='$FICHIER_CONCO' target='_blank'&gt;Concordancier n°$NB_LIGNE&lt;/a&gt;"
+
+        # Tableau final avec toutes les infos
+        echo "&lt;tr&gt;&lt;td&gt;$NB_LIGNE&lt;/td&gt;&lt;td id='url'&gt;$LINE&lt;/td&gt;&lt;td&gt;$CODE&lt;/td&gt;&lt;td&gt;$ENCODAGE_OU_PAS&lt;/td&gt;&lt;td&gt;$NB_MOTS&lt;/td&gt;&lt;td&gt;$NB_OCCURENCES&lt;/td&gt;&lt;td&gt;$ASPIRATION&lt;/td&gt;&lt;td&gt;$DUMP&lt;/td&gt;&lt;td&gt;$CONTEXTE&lt;/td&gt;&lt;td&gt;$CONCORDANCIER&lt;/td&gt;&lt;td&gt;$SPECIFICITE&lt;/td&gt;&lt;/tr&gt;" &gt;&gt; "$SORTIE"
+
+        # Pause pour éviter de surcharger le serveur
+        sleep 1
+    fi
+done &lt; "$FICHIER_URLS"
+
+cat &gt;&gt; "$SORTIE" &lt;&lt;EOF
+        &lt;/tbody&gt;
+     &lt;/table&gt;
+    &lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+EOF
+
+# Nettoyage des fichiers temporaires
+rm -f tmp_russe.txt 2&gt;/dev/null
+rm -f temp_tokens_russe.txt 2&gt;/dev/null
+
+echo "Analyse terminée. Résultats dans: $SORTIE"
+      </code></pre>
+  </div>
 </section>
 
 <section id="japonais" class="content-container2">
     <h1 class="title has-text-black">Script pour le Japonais</h1>
     <div class="box">
-        <object type="text/plain" data="../programmes/Japonais.sh" class="script-display">
-            <p>Le script ne peut pas être affiché. <a href="../programmes/Japonais.sh">Télécharger le script</a></p>
-        </object>
-    </div>
+      <pre><code class="language-bash">
+        <!--script-->
+      </code></pre>
+  </div>
 </section>
-
-<style>
-.script-display {
-    width: 100%;
-    height: 600px;
-    border: none;
-    font-family: 'Courier New', monospace;
-    font-size: 14px;
-    white-space: pre;
-    overflow: auto;
-    background-color: #f5f5f5;
-    padding: 1rem;
-}
-</style>
 
 </html>
