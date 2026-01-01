@@ -1,7 +1,7 @@
    #Références en psychiatrie et santé mentale » Flux
 
    e-psychiatrie  - TCC - TIP - EMDR
-     * Situations où appeler à l'aide
+     * Situations où appeler à l’aide
 
    psychiatre tcc tip paris psychiatre tcc tip paris
    MENUMENU
@@ -17,7 +17,7 @@
      * EMDR
      * TCC
           + Principes et modèles de la thérapie cognitive comportementale
-          + TCC de l'anxiété ou angoisse : comment guérir ?
+          + TCC de l’anxiété ou angoisse : comment guérir ?
           + TCC et trouble panique
           + TCC et Trouble Anxieux Généralisé (TAG)
           + TCC et TOC (Trouble Obsessionnel Compulsif)
@@ -31,7 +31,7 @@
           + Thérapies Interpersonnelles (TIP)
           + Principes des Thérapies Interpersonnelles (TIP)
           + Quelles indications pour la TIP (Thérapie Interpersonnelle) ?
-          + Preuves de l'efficacité de la TIP
+          + Preuves de l’efficacité de la TIP
           + TIP et dépression
           + Thérapie de couple TIP
           + TIP et TCA
@@ -53,7 +53,7 @@
                o
                     # Téléconsultation : avantages et inconvénients en psy
                     # Tests psychologiques et de santé mentale
-                         @ Avez-vous des traits d'hypersensibilité?
+                         @ Avez-vous des traits d’hypersensibilité?
                          @ Etes-vous anxieux ou angoissé?
                     # Fréquence (Prévalence) des troubles mentaux
                     # Préjugés erronés
@@ -71,9 +71,9 @@
                               - Avant de choisir un poste
                               - S'installer en libéral
                               - Pour Paris VI
-                              - Après l'internat? CCA? Assistant?
+                              - Après l’internat? CCA? Assistant?
      * Psy et Société
-          + Appli psy d'autothérapie
+          + Appli psy d’autothérapie
           + Dépression et Covid / Coronavirus
           + Covid : pourquoi les décisions sont-elles si difficiles ? Le
             « Dilemme du Capitaine »
@@ -89,10 +89,10 @@
           +
                o
                     # A savoir
-                    # Addiction (alcool, drogues, comportements...)
+                    # Addiction (alcool, drogues, comportements…)
                          @ Cannabis thérapeutique: quels effets?
                     # Anxiété ou angoisse
-                    # Ce qu'on voudrait savoir faire, sans y parvenir
+                    # Ce qu’on voudrait savoir faire, sans y parvenir
                     # Couvade, syndrome de couvade
                     # Covid long ou affection post-Covid
                          @ Guérir le Covid long ou syndrome prolongé ou
@@ -106,19 +106,19 @@
                     # Neurodropping: reconnaître et soigner
                     # Phobies : phobies atypiques reconnues
                     # Souffrance au travail
-                    # Syndrome de l'imposteur
+                    # Syndrome de l’imposteur
                     # Tracas avec ses enfants
                     # Trouble Bipolaire, Bipolarité
                     # Trouble Anxiété Généralisée (TAG)
                     # Trouble Explosif Intermittent (TEI)
-                    # Violences à l'école, collège ou lycée
-                    # Violences verbales dans l'enfance: impact sur
-                      l'adulte
+                    # Violences à l’école, collège ou lycée
+                    # Violences verbales dans l’enfance: impact sur
+                      l’adulte
                o
                     # Abus sexuels: comment réagir?
                     # Addiction au portable
                     # Angoisse ou anxiété de performance
-                    # Charge mentale ou cognitive: de quoi s'agit-il?
+                    # Charge mentale ou cognitive: de quoi s’agit-il?
                     # Culpabilité
                     # EDC (épisode dépressif caractérisé) ou dépression :
                       dossier détaillé
@@ -138,19 +138,19 @@
                       idiopathique diffus)
                     # Idées obsédantes ou envahissantes
                     # Bizarrerie
-                    # Manque de confiance ou d'estime de soi : comment le
+                    # Manque de confiance ou d’estime de soi : comment le
                       soigner ?
                     # Obésité: comment la reconnaître et la prendre en
                       charge
                     # Problème de comportement
-                    # Procrastination: de quoi s'agit-il? Qu'est-ce que ça
+                    # Procrastination: de quoi s’agit-il? Qu’est-ce que ça
                       cache?
                     # Syndrome de Diogène ou syllogomanie
-                    # TDAH (Trouble déficit de l'Attention avec ou sans
+                    # TDAH (Trouble déficit de l’Attention avec ou sans
                       Hyperactivité)
-                         @ TDAH de l'enfant: quels sont ses signes ?
+                         @ TDAH de l’enfant: quels sont ses signes ?
                          @ TDAH adulte: comment reconnaître ses signes ?
-                         @ TCC du TDAH (Trouble déficit de l'Attention
+                         @ TCC du TDAH (Trouble déficit de l’Attention
                            avec ou sans Hyperactivité)
                          @ Trouble oppositionnel avec provocation (TOP)
                     # Trouble oppositionnel avec provocation (TOP)
@@ -159,11 +159,11 @@
                     # Addiction à l'alcool : dossier détaillé
                          @ Signes de l'addiction à l'alcool
                          @ Causes de l'addiction à l'alcool
-                         @ Traitement de l'addiction à l'alcool
+                         @ Traitement de l’addiction à l’alcool
                          @ Psychothérapie de l'addiction à l'alcool
                     # Brouillard cérébral ou brain fog
                     # Bébé qui pleure
-                    # Chirurgie bariatrique de l'obésité
+                    # Chirurgie bariatrique de l’obésité
                     # Dépendance affective
                     # Douleur chronique
                     # Harcèlement scolaire: comment réagir?
@@ -179,7 +179,7 @@
                     # Troubles obsessionnels compulsifs (TOC)
                     # Trouble panique
                     # TCA (troubles du comportement alimentaire):
-                      anorexie, boulimie...
+                      anorexie, boulimie…
                          @ Anorexie mentale : comment la reconnaître
                          @ Anorexie mentale : comment la traiter?
                          @ Boulimie : comment la reconnaître et la traiter
@@ -193,14 +193,13 @@
                          @ Arrêter et soigner la dépendance
                          @ Surveillance de l'arrêt du tabac
                          @ Arrêter le tabac lors de la grossesse ou de
-                           l'allaitement
+                           l’allaitement
                     # Burnout ou Burn-out: généralités
                          @ Burnout : comment reconnaître ses signes ?
                          @ Burnout: modèle et théorisation
                          @ Burnout : comment le prévenir en agissant sur
                            la qualité de vie au travail ?
-                         @ Burnout chez le soignant (médecin,
-                           infirmier...)
+                         @ Burnout chez le soignant (médecin, infirmier…)
                     # Comment aider un proche?
                     # Dépenses inconsidérées
                     # Éjaculation précoce ou prématurée
@@ -210,16 +209,16 @@
                     # Phobie: découvrez les symptômes et les différents
                       types
                     # Problèmes et troubles sexuels
-                    # Syndrome d'excitation génitale permanente
+                    # Syndrome d’excitation génitale permanente
                     # Trichotillomanie
                     # Tristesse
                     # Troubles anxieux : comment les reconnaître et les
                       soigner ?
-                    # Troubles anxieux et dépression de l'enfant et
-                      l'adolescent
+                    # Troubles anxieux et dépression de l’enfant et
+                      l’adolescent
                     # Troubles du sommeil
                          @ Généralités sur le sommeil
-                         @ Règles de base d'un bon sommeil
+                         @ Règles de base d’un bon sommeil
           +
                o
           +
@@ -244,7 +243,7 @@
      * Recherche
           + ____________________
 
-   > Vous cherchez une application d'autothérapie ? Rendez-vous sur cette
+   > Vous cherchez une application d’autothérapie ? Rendez-vous sur cette
    page pour en savoir plus et vous inscrire !
    Références en psychiatrie et santé mentale
    Traitements et psychothérapies
@@ -266,9 +265,9 @@ Le gérer la pression en position de responsabilité
    Sources: Pratiquer la Thérapie Interpersonnelle (TIP), Dunod; Prendre
    en charge la dépression avec la thérapie interpersonnelle, Dunod.
 
-     L'essentiel:
+     L’essentiel:
      * Peut être un symptôme de pathologies graves (troubles anxieux,
-       dépression...)
+       dépression…)
      * Un médecin/psychiatre doit faire le diagnostic et coordonner la
        prise en charge
      * La TCC est le traitement indiqué en première intention
@@ -276,10 +275,10 @@ Le gérer la pression en position de responsabilité
 Gérer la pression quand on est dans une position de responsabilité : enjeux
 et mécanismes psychologiques
 
-   Occuper une position de responsabilité, qu'il s'agisse d'un poste de
-   direction, d'un rôle de manager, d'un mandat politique ou d'une
+   Occuper une position de responsabilité, qu’il s’agisse d’un poste de
+   direction, d’un rôle de manager, d’un mandat politique ou d’une
    fonction médicale, expose inévitablement à une pression accrue. Cette
-   pression, si elle n'est pas correctement gérée, peut avoir des
+   pression, si elle n’est pas correctement gérée, peut avoir des
    conséquences néfastes sur la santé mentale, la prise de décision et la
    qualité des relations professionnelles. Dans cet article, nous
    explorerons les mécanismes psychologiques sous-jacents, les stratégies
@@ -290,18 +289,18 @@ La pression : un phénomène multidimensionnel
 
    La pression en position de responsabilité se manifeste à plusieurs
    niveaux : cognitif (surcharge mentale, difficulté à prioriser),
-   émotionnel (anxiété, irritabilité, sentiment d'imposture), et
+   émotionnel (anxiété, irritabilité, sentiment d’imposture), et
    physiologique (fatigue, troubles du sommeil, tensions musculaires).
    Selon une étude publiée dans le Journal of Occupational Health
    Psychology, les cadres supérieurs présentent un risque accru de
    burnout, avec une prévalence estimée à 20-30% dans les secteurs à haute
    responsabilité (Schaufeli & Bakker, 2004).
 
-   Exemple clinique : Sophie, 42 ans, directrice d'un service hospitalier,
+   Exemple clinique : Sophie, 42 ans, directrice d’un service hospitalier,
    consulte pour des épisodes de palpitations et des crises de larmes en
-   réunion. Elle décrit une « peur permanente de l'erreur », une
-   difficulté à déléguer et un sommeil fractionné. L'évaluation révèle un
-   syndrome d'épuisement professionnel (burnout) associé à un trouble
+   réunion. Elle décrit une « peur permanente de l’erreur », une
+   difficulté à déléguer et un sommeil fractionné. L’évaluation révèle un
+   syndrome d’épuisement professionnel (burnout) associé à un trouble
    anxieux généralisé. La prise en charge combine une thérapie
    cognitivo-comportementale (TCC) et un aménagement temporaire de ses
    responsabilités.
@@ -312,20 +311,20 @@ Les sources de pression spécifiques aux positions de responsabilité
    sont :
      * La charge décisionnelle : Prendre des décisions impactant des
        équipes ou des budgets peut générer une anxiété de performance,
-       surtout en contexte d'incertitude.
+       surtout en contexte d’incertitude.
      * La gestion des conflits : Arbitrer entre des intérêts divergents
        (collaborateurs, actionnaires, clients) est une source majeure de
        stress.
-     * L'isolement hiérarchique : Plus on monte dans la hiérarchie, moins
+     * L’isolement hiérarchique : Plus on monte dans la hiérarchie, moins
        on a de pairs avec qui partager ses doutes.
-     * La peur de l'échec : Dans un environnement compétitif, l'échec peut
+     * La peur de l’échec : Dans un environnement compétitif, l’échec peut
        être perçu comme une menace pour la carrière.
 
-   Exemple clinique : Marc, 50 ans, PDG d'une PME, consulte pour des
-   douleurs thoraciques et une consommation accrue d'alcool. Il explique
+   Exemple clinique : Marc, 50 ans, PDG d’une PME, consulte pour des
+   douleurs thoraciques et une consommation accrue d’alcool. Il explique
    ressentir une « pression constante » depuis la crise économique, avec
-   la crainte de devoir licencier. L'évaluation met en évidence un trouble
-   de l'adaptation avec humeur dépressive. La prise en charge associe une
+   la crainte de devoir licencier. L’évaluation met en évidence un trouble
+   de l’adaptation avec humeur dépressive. La prise en charge associe une
    psychothérapie de soutien et un travail sur la gestion des émotions.
 
 Les mécanismes psychologiques et neurobiologiques de la pression
@@ -336,7 +335,7 @@ Le rôle du système nerveux autonome
    combat-fuite (sympathique) ou de conservation-engagement
    (parasympathique). Une activation chronique du système sympathique,
    avec une sécrétion prolongée de cortisol, peut entraîner des troubles
-   de la mémoire, de la concentration, et favoriser l'apparition de
+   de la mémoire, de la concentration, et favoriser l’apparition de
    maladies cardiovasculaires (McEwen, 2003).
 
    Exemple clinique : Thomas, 38 ans, chef de projet IT, présente des
@@ -346,7 +345,7 @@ Le rôle du système nerveux autonome
    relaxation (cohérence cardiaque) et une réorganisation de son emploi du
    temps.
 
-L'impact des croyances et des schémas cognitifs
+L’impact des croyances et des schémas cognitifs
 
    Les croyances dysfonctionnelles, comme « je dois tout contrôler » ou «
    une erreur serait catastrophique », amplifient la perception de la
@@ -356,8 +355,8 @@ L'impact des croyances et des schémas cognitifs
    (Kivimäki et al., 2020).
 
    Exemple clinique : Élodie, 35 ans, avocate, consulte pour des crises
-   d'angoisse avant les audiences. Elle a la conviction que « si je ne
-   suis pas parfaite, je perdrai le respect de mes pairs ». La TCC l'aide
+   d’angoisse avant les audiences. Elle a la conviction que « si je ne
+   suis pas parfaite, je perdrai le respect de mes pairs ». La TCC l’aide
    à relativiser cette croyance et à développer une auto-compassion.
 
 Stratégies scientifiquement validées pour gérer la pression
@@ -366,12 +365,12 @@ La régulation émotionnelle
 
    Apprendre à identifier et nommer ses émotions permet de réduire leur
    intensité. Des techniques comme la pleine conscience (mindfulness) ou
-   la cohérence cardiaque sont efficaces pour diminuer l'anxiété. Une
+   la cohérence cardiaque sont efficaces pour diminuer l’anxiété. Une
    étude de 2018 montre que 8 semaines de pratique de la pleine conscience
    améliorent la résilience des cadres (Goleman & Davidson, 2018).
 
    Exemple clinique : Jean, 45 ans, directeur financier, utilise la
-   cohérence cardiaque (5 secondes d'inspiration, 5 secondes d'expiration)
+   cohérence cardiaque (5 secondes d’inspiration, 5 secondes d’expiration)
    avant les réunions importantes. Il rapporte une diminution de ses
    symptômes de stress et une meilleure clarté mentale.
 
@@ -385,22 +384,22 @@ La gestion du temps et des priorités
    Exemple clinique : Claire, 39 ans, chef de service en marketing,
    applique la matrice Eisenhower pour prioriser ses tâches. Elle délègue
    davantage et réduit son temps de travail hebdomadaire de 10 heures,
-   sans perte d'efficacité.
+   sans perte d’efficacité.
 
 Le soutien social et professionnel
 
    Le soutien des pairs, des mentors ou des coachs est un facteur
-   protecteur majeur. Une étude de l'INRS montre que les cadres
-   bénéficiant d'un mentorat ont un risque réduit de 40% de développer un
+   protecteur majeur. Une étude de l’INRS montre que les cadres
+   bénéficiant d’un mentorat ont un risque réduit de 40% de développer un
    burnout (INRS, 2019).
 
-   Exemple clinique : Pierre, 52 ans, maire d'une petite ville, participe
+   Exemple clinique : Pierre, 52 ans, maire d’une petite ville, participe
    à un groupe de parole de maires. Il y trouve un espace pour exprimer
    ses doutes et partager des solutions, ce qui améliore son bien-être.
 
-Quand consulter ? Signes d'alerte et prise en charge
+Quand consulter ? Signes d’alerte et prise en charge
 
-Les signes d'alerte
+Les signes d’alerte
 
    Certains symptômes doivent alerter :
      * Troubles du sommeil persistants
@@ -409,8 +408,8 @@ Les signes d'alerte
      * Consommation accrue de substances (alcool, médicaments)
      * Sentiment de désespoir ou idées noires
 
-   Exemple clinique : Anne, 40 ans, directrice d'école, consulte pour un
-   épuisement total et des idées suicidaires passagères. L'évaluation
+   Exemple clinique : Anne, 40 ans, directrice d’école, consulte pour un
+   épuisement total et des idées suicidaires passagères. L’évaluation
    révèle un épisode dépressif majeur. Une prise en charge combinant
    antidépresseurs et psychothérapie est mise en place.
 
@@ -432,14 +431,14 @@ Conclusion : vers une gestion durable de la pression
    publique et de performance organisationnelle. Les stratégies présentées
    ici, validées par la recherche, offrent des pistes concrètes pour
    préserver son équilibre mental et physique. Il est essentiel de
-   reconnaître ses limites, de solliciter de l'aide quand nécessaire, et
+   reconnaître ses limites, de solliciter de l’aide quand nécessaire, et
    de cultiver une hygiène de vie adaptée.
 
    En tant que psychiatre, je rencontre quotidiennement des patients dont
    la souffrance pourrait être évitée par une meilleure prévention et une
-   prise de conscience collective. La pression n'est pas une fatalité :
-   elle peut être transformée en levier de croissance, à condition d'en
-   comprendre les mécanismes et d'adopter les bonnes pratiques.
+   prise de conscience collective. La pression n’est pas une fatalité :
+   elle peut être transformée en levier de croissance, à condition d’en
+   comprendre les mécanismes et d’adopter les bonnes pratiques.
 
 Venir au cabinet
 
@@ -449,7 +448,7 @@ Venir au cabinet
        Neuilly sur Seine, La Défense, Nanterre).
      * RER: Station Charles de Gaulle Etoile (RER A depuis La Défense,
        Nanterre, Paris 8, Paris 1-4-11, Rueil, Maisons Laffitte, Le
-       Vésinet etc...).
+       Vésinet etc…).
      * Bus: Station Charles de Gaulle Etoile (lignes 22-30-52 depuis Paris
        75016; ligne 92 depuis Paris 75007, 75014, 75015; lignes
        30-31-92-93 depuis Paris 75017; ligne 73 depuis Neuilly sur Seine;
@@ -459,12 +458,12 @@ Venir au cabinet
 
 Notre chaîne YouTube
 
-La santé mentale... Ca se soigne !
+La santé mentale… Ca se soigne !
      __________________________________________________________________
 
 Auteur
 
-Dr Neveux Nicolas Psychiatre - Psychothérapeute
+Dr Neveux Nicolas Psychiatre – Psychothérapeute
      __________________________________________________________________
 
    Mail: dr.neveux@gmail.com (à privilégier+++)
@@ -475,7 +474,7 @@ Dr Neveux Nicolas Psychiatre - Psychothérapeute
 Nos ouvrages
      __________________________________________________________________
 
-   Comprendre l'hypersensibilité
+   Comprendre l’hypersensibilité
    hypersensibilité chez l adulte hypersensibilité chez l adulte
      __________________________________________________________________
 
@@ -487,7 +486,7 @@ Nos ouvrages
    thérapie interpersonnelle livre thérapie interpersonnelle livre
 
    NB: Pas de consultation par mail ou téléphone. Les messages ne sont pas
-   consultés hors jours et heures ouvrables. En cas d'urgence, contacter
+   consultés hors jours et heures ouvrables. En cas d’urgence, contacter
    le SAMU (15)
 
 Rechercher plus de contenus
@@ -518,7 +517,7 @@ Liens
 
    Inscrivez-vous à la newsletter de e-psychiatrie.fr
 
-Tenez-vous au courant des actualités de la santé mentale ... C'est gratuit !
+Tenez-vous au courant des actualités de la santé mentale … C’est gratuit !
 
    Remarque : JavaScript est requis pour ce contenu.
 

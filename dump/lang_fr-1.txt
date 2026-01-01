@@ -25,10 +25,10 @@
 
 Santé 2025 : urgences, pénuries, prévention
        Le système de santé français fait face à de grands défis : pénurie
-       de soignants, urgences saturées, retards de dépistages... et un
+       de soignants, urgences saturées, retards de dépistages… et un
        effort accru pour la prévention.
      * Santé pratique (BUTTON) Toggle submenu
-          + Coeur, circulation et digestion
+          + Cœur, circulation et digestion
           + Douleurs et troubles musculo-squelettiques
           + Les maux du quotidien
           + Médecines douces
@@ -45,7 +45,7 @@ Santé 2025 : urgences, pénuries, prévention
 Attractivité masculine : au-delà des fesses, voici les zones qui captivent
 réellement les femmes
        Oubliez les clichés sur les biceps démesurés. Des études récentes
-       révèlent que l'oeil féminin scanne des indicateurs précis de santé
+       révèlent que l'œil féminin scanne des indicateurs précis de santé
        et de force. Du ratio épaules-taille à la gestuelle, découvrez
        quelles parties du corps suscitent véritablement l'intérêt et
        pourquoi la posture reste votre meilleure alliée.
@@ -115,11 +115,11 @@ du stress
        moderne. Un couple d'une trentaine
        Les bases de l'alimentation saine
 
-Fatigue, chute de cheveux, oedèmes : souffrez-vous d'une carence en protéines
+Fatigue, chute de cheveux, œdèmes : souffrez-vous d'une carence en protéines
 sans le savoir ?
        Au-delà de la perte musculaire, votre corps envoie des signaux
        silencieux d'un manque de protéines. Des ongles cassants à la
-       rétention d'eau au niveau des pieds et du visage, apprenez à
+       rétention d'eau au niveau des pieds et du visage, apprenez 
        décrypter ces alertes subtiles. Découvrez comment évaluer
        facilement vos besoins quotidiens (0,83g/kg pour les sédentaires)
        pour un bien-être optimal.
@@ -154,7 +154,7 @@ Ce bouillon zéro déchet qui renforce naturellement votre microbiote
 Attractivité masculine : au-delà des fesses, voici les zones qui captivent
 réellement les femmes
        Oubliez les clichés sur les biceps démesurés. Des études récentes
-       révèlent que l'oeil féminin scanne des indicateurs précis de santé
+       révèlent que l'œil féminin scanne des indicateurs précis de santé
        et de force. Du ratio épaules-taille à la gestuelle, découvrez
        quelles parties du corps suscitent véritablement l'intérêt et
        pourquoi la posture reste votre meilleure alliée.
@@ -216,7 +216,7 @@ Charge mentale : désamorcez l'épuisement numérique avec la pleine conscience
    l'illusion du multitâche, pensant gagner en efficacité. Or, les études
    démontrent le contraire : jongler entre plusieurs tâches est une source
    majeure de stress qui sature nos capacités cognitives et diminue la
-   qualité de notre travail. Cet épuisement cognitif lié à
+   qualité de notre travail. Cet épuisement cognitif lié 
    l'hyperconnexion n'est pas une fatalité, mais la conséquence
    d'habitudes qu'il est possible de modifier.
 

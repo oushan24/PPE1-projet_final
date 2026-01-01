@@ -6,7 +6,7 @@
    Menu principal
    (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
    Navigation
-     * Page d'accueil
+     * Page d’accueil
      * Portails thématiques
      * Article au hasard
      * Contact
@@ -64,7 +64,7 @@ Charge émotionnelle
      * Lire
      * Modifier
      * Modifier le code
-     * Voir l'historique
+     * Voir l’historique
 
    [ ] Outils
    Outils
@@ -73,7 +73,7 @@ Charge émotionnelle
      * Lire
      * Modifier
      * Modifier le code
-     * Voir l'historique
+     * Voir l’historique
 
    Général
      * Pages liées
@@ -85,12 +85,12 @@ Charge émotionnelle
      * Obtenir l'URL raccourcie
      * Télécharger le code QR
 
-   Imprimer/exporter
+   Imprimer / exporter
      * Créer un livre
      * Télécharger comme PDF
      * Version imprimable
 
-   Dans d'autres projets
+   Dans d’autres projets
      * Élément Wikidata
 
    Apparence
@@ -111,7 +111,7 @@ Charge émotionnelle
    La notion est vulgarisée en France par une bande dessinée publiée en
    2018 par Emma, déjà connue pour un précédent ouvrage sur la charge
    mentale ménagère^[2]^,^[3]. Emma définit la notion comme « le souci
-   principalement porté par les femmes de mettre son environnement à
+   principalement porté par les femmes de mettre son environnement 
    l'aise aux dépens, souvent, de leur propre confort à elles »^[2].
 
 Milieu professionnel
@@ -144,14 +144,14 @@ Relations amoureuses
 
    Selon le sociologue Michel Bozon, les places de chaque partenaire dans
    une relation amoureuse hétérosexuelle ne sont pas équivalentes et les
-   inégalités d'engagement dans la relation poussent l'un des partenaires,
-   généralement la femme, à « agir pour compenser le déficit d'engagement
-   de l'autre »^[5]. Ce travail consiste par exemple à « se préoccupe[r]
-   systématiquement de l'équilibre des échanges verbaux et de la
-   communication des pensées, alors que l'autre offre surtout sa présence,
+   inégalités d’engagement dans la relation poussent l’un des partenaires,
+   généralement la femme, à « agir pour compenser le déficit d’engagement
+   de l’autre »^[5]. Ce travail consiste par exemple à « se préoccupe[r]
+   systématiquement de l’équilibre des échanges verbaux et de la
+   communication des pensées, alors que l’autre offre surtout sa présence,
    ses compétences, ses ressources financières »^[5]. Michel Bozon estime
    que le « caractère renfermé des hommes n'est pas inné ou irrémédiable »
-   mais « une façon de résister à l'engagement affectif réciproque en
+   mais « une façon de résister à l’engagement affectif réciproque en
    marquant une distance », et constitue « paradoxalement une
    manifestation de domination masculine »^[5].
 
@@ -161,46 +161,46 @@ Relations amoureuses
    prise en charge de la santé du conjoint, ou le fait, plus généralement,
    de « lui faciliter la vie sans qu'il ait besoin de demander »^[2]. Elle
    souligne également que les relations sexuelles s'arrêtent généralement
-   « une fois l'orgasme de l'homme atteint, indépendamment de la
+   « une fois l’orgasme de l’homme atteint, indépendamment de la
    satisfaction de sa partenaire », alors que les femmes ont, elles, plus
-   de difficultés à atteindre l'orgasme et prennent soin, malgré la
+   de difficultés à atteindre l’orgasme et prennent soin, malgré la
    frustration, de rassurer leur partenaire sur ses performances
    sexuelles^[6]. Elle cite Les sentiments du Prince Charles, bande
-   dessinée de Liv Strömquist racontant l'histoire d'hommes célèbres à
-   travers celle des femmes sur lesquelles ils ont pu s'appuyer pour mener
+   dessinée de Liv Strömquist racontant l’histoire d’hommes célèbres 
+   travers celle des femmes sur lesquelles ils ont pu s’appuyer pour mener
    à bien leurs projets^[7].
 
    La sociologue Arlie Hochschild souligne que chaque partenaire amoureux
    partage une charge émotionnelle différente, où les femmes mettent
-   davantage l'emphase sur cette charge émotive comparativement aux
+   davantage l’emphase sur cette charge émotive comparativement aux
    hommes : «  a femme porte toutes ses émotions et garde tout sur ses
    épaules »^[8]. Cette charge émotionnelle déséquilibrée pousserait les
-   partenaires à effectuer un travail personnel l'un envers l'autre pour
+   partenaires à effectuer un travail personnel l’un envers l’autre pour
    atteindre un équilibre émotionnel et/ou relationnel stable et sain.
    Dans son livre « Le prix des sentiments », Hochschild traduit « la
-   femme comme plus empathique, plus d'intuitions et plus facile à offrir
+   femme comme plus empathique, plus d’intuitions et plus facile à offrir
    du soutien et des conseils tandis que, les hommes, eux sont
    généralement plus paresseux côté émotionnel. »^[9], entrainant un
    déséquilibre de la charge émotionnelle. Ce déséquilibre dit
    « émotionnel », engendre des conflits relationnels et ainsi, des
    relations amoureuses moins heureuses.
 
-   L'autrice de la populaire bande dessinée « Emma » souligne que les
+   L’autrice de la populaire bande dessinée « Emma » souligne que les
    hommes cachent leurs émotions à leur partenaire et cette même
    partenaire joue à la devinette pour tenter de comprendre le problème
    entrainant ainsi des difficultés dans le couple.
 
    Sue Johnson, psychologue clinicienne, affirme que « la régulation des
    émotions »^[10]est un élément fondamental dans les relations. Les
-   nombreuses études et recherches des spécialistes démontrent qu'une
+   nombreuses études et recherches des spécialistes démontrent qu’une
    charge émotionnelle séparée égalitairement apporte un « sentiment
-   d'attachement plus sain et heureux »^[11].
+   d’attachement plus sain et heureux »^[11].
 
    Malgré la place importante que prend la charge émotionnelle dans un
    couple, il existe de multiples moyens, souvent en thérapie, pour
    enlever le poids de cette charge sur un seul des deux partenaires.
-   L'association féministe d'éducation et d'action sociale souligne que
-   « la femme met son environnement à l'aise aux dépens, souvent, de leur
+   L’association féministe d’éducation et d’action sociale souligne que
+   « la femme met son environnement à l’aise aux dépens, souvent, de leur
    propre confort à elles »^[12]. Son bien-être passe en deuxième, d'où la
    création de ce guide de survie.
 
@@ -225,12 +225,12 @@ Bibliographie
 
    [modifier | modifier le code]
      * Arlie Russell Hochschild (trad. de l'anglais par Salomé
-       Fournet-Fayas et Cécile Thomé), Le prix des sentiments : au coeur
-       du travail émotionnel, Paris, la Découverte, coll. « Laboratoire
-       des sciences sociales », 2017, 250 p. (ISBN 978-2-7071-8896-0).
+       Fournet-Fayas et Cécile Thomé), Le prix des sentiments : au cœur du
+       travail émotionnel, Paris, la Découverte, coll. « Laboratoire des
+       sciences sociales », 2017, 250 p. (ISBN 978-2-7071-8896-0).
      * Michel Bozon, Pratique de l'amour : le plaisir et l'inquiétude,
        Paris, Payot, 2016, 198 p. (ISBN 978-2-228-91528-1).
-     * Emma, La charge émotionnelle... et autres trucs invisibles,
+     * Emma, La charge émotionnelle… et autres trucs invisibles,
        Paris/18-Saint-Amand-Montrond, Massot éditions, 2018, 111 p.
        (ISBN 979-10-97160-35-7).
 
@@ -251,40 +251,39 @@ Articles connexes
 Références
 
    [modifier | modifier le code]
-    1. ^| ^a b et c Cécile Thomé, Julien Bernard et Nicolas Amadio, « La
+    1. ↑ ^a b et c Cécile Thomé, Julien Bernard et Nicolas Amadio, « La
        sociologie des émotions autour des travaux d'Arlie Hochschild »,
        sur ses.ens-lyon.fr, 2017 (consulté le 29 mars 2020).
-    2. ^| ^a b c d e f g et h « Qu'est-ce que la "Charge
-       émotionnelle" ? », sur rtl.fr, 22 septembre 2018 (consulté le 29
-       mars 2020).
-    3. ^| Céline Hussonnois-Alaya, « Charge émotionnelle, mansplaining,
+    2. ↑ ^a b c d e f g et h « Qu'est-ce que la "Charge émotionnelle" ? »,
+       sur rtl.fr, 22 septembre 2018 (consulté le 29 mars 2020).
+    3. ↑ Céline Hussonnois-Alaya, « Charge émotionnelle, mansplaining,
        manterrupting: le nouveau lexique pour dénoncer le machisme », sur
        bfmtv.com, 7 mars 2020 (consulté le 29 mars 2020).
-    4. ^| ^a et b Alice Maruani, « "Les femmes sont bonnes" : parlons
+    4. ↑ ^a et b Alice Maruani, « "Les femmes sont bonnes" : parlons
        maintenant de la charge émotionnelle », sur nouvelobs.com, 8
        novembre 2017 (consulté le 29 mars 2020).
-    5. ^| ^a b et c « La "charge mentale" des femmes s'étend aussi aux
+    5. ↑ ^a b et c « La "charge mentale" des femmes s'étend aussi aux
        sentiments amoureux », sur madame.lefigaro.fr, 22 juin 2017
        (consulté le 29 mars 2020).
-    6. ^| Fabiola Dor, « Charge émotionnelle : les femmes s'occupent trop
+    6. ↑ Fabiola Dor, « Charge émotionnelle : les femmes s’occupent trop
        des hommes ! », sur start.lesechos.fr, 30 novembre 2018 (consulté
        le 29 mars 2020).
-    7. ^| Fanny Marlier, « Pourquoi il faut lire la bande dessinée d'Emma
+    7. ↑ Fanny Marlier, « Pourquoi il faut lire la bande dessinée d'Emma
        sur la charge émotionnelle (et gratuitement) », sur lesinrocks.com,
        26 mars 2020 (consulté le 29 mars 2020).
-    8. ^| Arlie Russell Hochschild, Le prix des sentiments. Au coeur du
+    8. ↑ Arlie Russell Hochschild, Le prix des sentiments. Au coeur du
        travail émotionnel., Paris, France, La découverte, 2017, 312 p.,
        p.31-38
-    9. ^| Arlie Russell Hochschild, Le prix des sentiments. Au coeur du
+    9. ↑ Arlie Russell Hochschild, Le prix des sentiments. Au coeur du
        travail émotionnel, Paris, France, La découverte, 2017, 312 p.,
        p.31-38
-   10. ^| Sue Johnson, Serre-moi fort! : sept conversations pour une vie
+   10. ↑ Sue Johnson, Serre-moi fort! : sept conversations pour une vie
        entière d'amour., Canada, Le livre de poche, 2014, p.22-26
-   11. ^| Sue Johnson, Serre-moi fort! : sept conversations pour une vie
+   11. ↑ Sue Johnson, Serre-moi fort! : sept conversations pour une vie
        entière d'amour, Canada, Le livre de poche, 2014, p.16
-   12. ^| Association féministe d'éducation et d'action sociale. (2020).
-       Charge mentale - Un guide de survie. Montréal, Canada : Association
-       féministe d'éducation et d'action sociale, p.4.
+   12. ↑ Association féministe d’éducation et d’action sociale. (2020).
+       Charge mentale – Un guide de survie. Montréal, Canada : Association
+       féministe d’éducation et d’action sociale, p.4.
 
    v · m
    Féminisme
@@ -436,12 +435,12 @@ Références
    Ce document provient de
    « https://fr.wikipedia.org/w/index.php?title=Charge_émotionnelle&oldid=
    226688064 ».
-   Catégories:
+   Catégories :
      * Émotion
      * Féminisme
      * Concept sociologique
 
-   Catégories cachées:
+   Catégories cachées :
      * Article contenant un appel à traduction en anglais
      * Portail:Sociologie/Articles liés
      * Portail:Sciences humaines et sociales/Articles liés
@@ -453,8 +452,8 @@ Références
      * La dernière modification de cette page a été faite le 22 juin 2025
        à 01:40.
      * Droit d'auteur : les textes sont disponibles sous licence Creative
-       Commons attribution, partage dans les mêmes conditions ; d'autres
-       conditions peuvent s'appliquer. Voyez les conditions d'utilisation
+       Commons attribution, partage dans les mêmes conditions ; d’autres
+       conditions peuvent s’appliquer. Voyez les conditions d’utilisation
        pour plus de détails, ainsi que les crédits graphiques. En cas de
        réutilisation des textes de cette page, voyez comment citer les
        auteurs et mentionner la licence.

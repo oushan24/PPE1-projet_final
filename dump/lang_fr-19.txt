@@ -28,27 +28,27 @@
 
 Qu'est-ce que la charge de travail?
 
-   La charge de travail fait référence à la quantité de travail à
+   La charge de travail fait référence à la quantité de travail 
    accomplir, aux exigences mentales et émotionnelles et aux contraintes
    de temps vécues par un travailleur.
-     * Charge prescrite : C'est les attentes organisationnelles et les
-       exigences de performance : les tâches demandées dans l'exercice de
+     * Charge prescrite : C’est les attentes organisationnelles et les
+       exigences de performance : les tâches demandées dans l’exercice de
        mes fonctions.
-     * Charge réelle : C'est le travail qui est réellement effectué sur le
+     * Charge réelle : C’est le travail qui est réellement effectué sur le
        terrain. Cela inclut tout ce qui est fait pour surmonter les
        imprévus et les obstacles afin de réaliser la charge prescrite.
-     * Charge vécue/perçue : C'est l'expérience de la charge, selon la
+     * Charge vécue/perçue : C’est l’expérience de la charge, selon la
        perception de la personne (influencée par ses caractéristiques
        personnelles, ses sentiments, son expérience, son contexte
-       d'exercice, etc.
+       d’exercice, etc.
 
    Consultez l'aide-mémoire Charge de travail.
 
 Comment se manifeste la charge de travail?
 
-   La charge de travail peut se classer en quatre types d'exigences :
+   La charge de travail peut se classer en quatre types d’exigences :
      * Quantitative : Quantité de travail, contraintes de temps,
-       disponibilité des ressources, nombre d'heures de travail et
+       disponibilité des ressources, nombre d’heures de travail et
        contraintes physiques, etc.
      * Qualitative : Complexité, concentration, demandes contradictoires
        ou interruptions fréquentes, exigences intellectuelles, etc.
@@ -56,8 +56,8 @@ Comment se manifeste la charge de travail?
        gestion de ses émotions, peur (violence, erreur, échec, accident),
        conflits de valeurs, absence de la satisfaction du travail
        accompli, etc.
-     * Pression mentale : C'est la notion de durée, de fréquence et
-       d'intensité jumelée avec le ressenti de la personne qui peut avoir
+     * Pression mentale : C’est la notion de durée, de fréquence et
+       d’intensité jumelée avec le ressenti de la personne qui peut avoir
        un impact sur le travailleur.
 
 Comment obtenir du soutien en lien avec ma charge de travail?
@@ -65,19 +65,19 @@ Comment obtenir du soutien en lien avec ma charge de travail?
    Individuellement
      * Nommer mes besoins de formation.
      * Prioriser mes tâches.
-     * M'informer des ressources disponibles.
+     * M’informer des ressources disponibles.
      * Organiser mon travail de façon à ce que les interruptions soient
        réduites au minimum; etc.
 
-   Moi envers l'équipe
-     * S'entraider entre collègues lors de surcharge.
+   Moi envers l’équipe
+     * S’entraider entre collègues lors de surcharge.
      * Se supporter et partager nos expertises.
      * Être précis et réaliste dans mes attentes envers mes collègues.
-     * Bien accueillir les nouveaux dans l'équipe, etc.
+     * Bien accueillir les nouveaux dans l’équipe, etc.
 
    Hors champ de pouvoir (qu'est-ce qui est hors de notre contrôle?)
      * Le manque de ressources.
-     * Le nombre d'usagers admis.
+     * Le nombre d’usagers admis.
      * Les décisions organisationnelles et gouvernementales.
      * Certains échéanciers.
      * La complexité de certaines tâches.

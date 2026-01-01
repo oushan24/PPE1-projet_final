@@ -1,6 +1,6 @@
    #prev next alternate alternate
 
-Logo d'Érudit
+Logo d’Érudit
 
    (BUTTON) (BUTTON)
    (BUTTON)
@@ -33,18 +33,18 @@ Fil d'Ariane
      * Revues
      * Relations industrielles / Industrial Relations
      * Volume 74, numéro 1, hiver 2019, p. 3-204
-     * La charge de travail perçue des cadres : d'une typologie ...
+     * La charge de travail perçue des cadres : d’une typologie …
 
    ArticlesArticles
 
-La charge de travail perçue des cadres : d'une typologie à une compréhension
-systémiqueManagers' Perceived Workload: From a Typology to a Systemic
+La charge de travail perçue des cadres : d’une typologie à une compréhension
+systémiqueManagers’ Perceived Workload: From a Typology to a Systemic
 UnderstandingLa carga de trabajo de los ejecutivos según su percepción: de
 una tipología a una comprensión sistemática
 
      * Clotilde Coron
 
-   ...plus d'informations
+   …plus d’informations
      * Clotilde Coron
        Maître de conférences, Institut d'administration des entreprises de
        Paris (IAE Paris), Sorbonne, Paris, France
@@ -64,10 +64,10 @@ una tipología a una comprensión sistemática
 
    Un article de la revue Relations industrielles / Industrial Relations
 
-   Volume 74, numéro 1, hiver 2019, p. 117-140
+   Volume 74, numéro 1, hiver 2019, p. 117–140
 
    Tous droits réservés © Département des relations industrielles de
-   l'Université Laval, 2019
+   l’Université Laval, 2019
 
 Feuilleter les articles de ce numéro
 
@@ -77,7 +77,7 @@ the Casino Industry
 Occupational Health and Safety Indicators and Under-Reporting: Case Studies
 in Chinese Shipping
 
-Plan de l'article
+Plan de l’article
 
      * Retour au début
      * Résumé
@@ -111,34 +111,34 @@ Résumés
 Résumé
 
    La charge de travail des cadres est un phénomène bien documenté : la
-   littérature sur le sujet souligne, entre autres, l'intensification du
+   littérature sur le sujet souligne, entre autres, l’intensification du
    travail des cadres, ainsi que les effets des réorganisations sur cette
    intensification. Une étude de cas dans une administration ayant vécu
-   une réorganisation, confrontée à la menace de l'ouverture à la
+   une réorganisation, confrontée à la menace de l’ouverture à la
    concurrence et caractérisée par un modèle corporatiste, illustre ces
-   points, tout en les accompagnant d'un constat qui incite à approfondir
-   l'analyse.
+   points, tout en les accompagnant d’un constat qui incite à approfondir
+   l’analyse.
 
    En effet, une première analyse quantitative descriptive révèle que la
    charge de travail, et surtout le travail « inintéressant », vont
-   croissant quand on s'élève dans la hiérarchie, phénomène qui peut
+   croissant quand on s’élève dans la hiérarchie, phénomène qui peut
    sembler à prime abord étonnant. Une enquête approfondie, qui combine
-   approches quantitative et qualitative, et qui s'inscrit dans le cadre
-   théorique de l'analyse systémique des organisations, permet alors de
+   approches quantitative et qualitative, et qui s’inscrit dans le cadre
+   théorique de l’analyse systémique des organisations, permet alors de
    montrer en quoi la charge de travail est le fruit de facteurs variés.
-   Ceux-ci peuvent être liés à l'ouverture à la concurrence, à la mise en
-   place d'un système de reddition de compte contraignant, mais également
+   Ceux-ci peuvent être liés à l’ouverture à la concurrence, à la mise en
+   place d’un système de reddition de compte contraignant, mais également
    à des stratégies mises en place par les différents acteurs afin de
    gérer leur travail en fonction des ressources à leur disposition et de
    leur position dans le système.
 
    Une typologie nous a conduite à identifier quatre groupes de cadres
    caractérisés par des perceptions et des stratégies homogènes relatives
-   à la charge de travail. L'analyse systémique permet, ensuite, de
-   comprendre ces stratégies à l'aune du système de l'établissement.
+   à la charge de travail. L’analyse systémique permet, ensuite, de
+   comprendre ces stratégies à l’aune du système de l’établissement.
    Finalement, cette enquête souligne la structuration systémique de la
-   charge de travail des cadres, tout comme l'intérêt d'une méthodologie
-   mixte pour l'appréhender.
+   charge de travail des cadres, tout comme l’intérêt d’une méthodologie
+   mixte pour l’appréhender.
 
    Mots-clés:
      * charge de travail,
@@ -150,8 +150,8 @@ Résumé
 
 Abstract
 
-   Managers' workload is a well-documented topic: the literature
-   underlines, among other things, the intensification of managers'
+   Managers’ workload is a well-documented topic: the literature
+   underlines, among other things, the intensification of managers’
    workload as well as the effects of restructuring and other changes on
    this intensification. A case study conducted in a company that has gone
    through restructuring and is faced with the threat of open competition,
@@ -159,7 +159,7 @@ Abstract
    aspects and goes deeper into the analysis.
 
    An initial descriptive and quantitative analysis shows that workload,
-   and notably `uninteresting work, increase when managers move up the
+   and notably ‘uninteresting work, increase when managers move up the
    hierarchy, an observation that can seem surprising. An in-depth
    analysis mixing quantitative and qualitative methods within the
    theoretical framework of the strategic analysis of organizations makes
@@ -173,7 +173,7 @@ Abstract
    by homogenous perceptions and strategies concerning their workload. The
    strategic analysis of organizations allows us to better understand
    these strategies. Finally, this study underlines the systemic
-   structuring of managers' workloads and the usefulness of a mixed-method
+   structuring of managers’ workloads and the usefulness of a mixed-method
    design to study it.
 
    Keywords:
@@ -224,62 +224,62 @@ Resumen
      * análisis sistemático de organizaciones,
      * métodos cuantitativos
 
-Corps de l'article
+Corps de l’article
 
 Introduction
 
-   L'analyse des enquêtes Emploi du temps depuis 1974 montre que la
+   L’analyse des enquêtes Emploi du temps depuis 1974 montre que la
    répartition du temps de travail a changé : en 1998, ce sont les plus
    diplômés qui travaillent le plus et consacrent le moins de temps au
-   loisir, à l'inverse de ce qui se passait en 1974 (Chenu et Herpin,
+   loisir, à l’inverse de ce qui se passait en 1974 (Chenu et Herpin,
    2002); en 2010, cette tendance se vérifie, avec des cadres
    surreprésentés parmi les personnes ayant des « semaines longues » de
    travail (Sautory et Zilloniz, 2015) avec des horaires importants
    (Brousse, 2015).
 
-   Des enquêtes en sciences de gestion et en sociologie ont montré qu'un
+   Des enquêtes en sciences de gestion et en sociologie ont montré qu’un
    investissement temporel extensible au-delà des horaires légaux et une
    porosité entre les sphères professionnelle et privée constituent des
    caractéristiques distinctives des cadres, en France (Dietrich, 2001;
-   Delteil et Genin, 2004; Genin, 2014) comme à l'international (Hobson et
+   Delteil et Genin, 2004; Genin, 2014) comme à l’international (Hobson et
    Beach, 2000). Ce temps de travail allongé des cadres, avec parfois du
    travail réalisé à domicile le soir ou les fins de semaines (le
-   weekend), est en partie compensé par l'autonomie des horaires (DARES,
-   2014; Brousse, 2015) et l'intérêt du travail, fortement affirmé chez
+   weekend), est en partie compensé par l’autonomie des horaires (DARES,
+   2014; Brousse, 2015) et l’intérêt du travail, fortement affirmé chez
    les cadres (Bouffartigue et Bocchino, 1998; DARES, 2015). Cette norme
-   de la « disponibilité extensive » s'accentue dans les contextes de
+   de la « disponibilité extensive » s’accentue dans les contextes de
    réorganisations, de privatisations et de restructurations avec pression
    sur les coûts et les effectifs (Pochic, 2004; Zeytinoglu et al., 2007;
    Bourgeois, Ohana et Renault, 2016; Gangloff et Malleh, 2017) et peut
-   constituer un facteur d'absentéisme (Randon, Baret et Prioul, 2011;
+   constituer un facteur d’absentéisme (Randon, Baret et Prioul, 2011;
    Fournier, Montreuil et Villa, 2013) ou de risques psychosociaux
    (Zeytinoglu et al., 2007).
 
-   En France, depuis la fin des années 1990, on constate l'apparition
-   d'entrepreneurs de cause autour du thème de la souffrance au travail
-   (Loriol, 2010). L'accent mis sur la dégradation de la santé mentale des
+   En France, depuis la fin des années 1990, on constate l’apparition
+   d’entrepreneurs de cause autour du thème de la souffrance au travail
+   (Loriol, 2010). L’accent mis sur la dégradation de la santé mentale des
    salariés, et plus particulièrement sur le « stress » et la « souffrance
    au travail », a été alors relayé entre autres par les syndicats,
    notamment, pour les cadres, par la Confédération française de
-   l'encadrement-Confédération générale des cadres (CFE-CGC) (Loriol,
+   l’encadrement-Confédération générale des cadres (CFE-CGC) (Loriol,
    2011; Delmas, 2012).
 
-   C'est une alerte syndicale chez DISTRI, un établissement public
+   C’est une alerte syndicale chez DISTRI, un établissement public
    confronté à des réorganisations importantes, qui a constitué le point
    de départ de notre étude de cas (Yin, [1984] 1989). Ces réorganisations
-   constituent des facteurs externes d'augmentation de la charge de
-   travail des cadres : plusieurs cas (3 au moins) d'épuisement
-   professionnel (burn-out) ont été déclarés au cours de l'année de
-   l'étude et l'année précédente. De plus, quelques cadres étaient dans
+   constituent des facteurs externes d’augmentation de la charge de
+   travail des cadres : plusieurs cas (3 au moins) d’épuisement
+   professionnel (burn-out) ont été déclarés au cours de l’année de
+   l’étude et l’année précédente. De plus, quelques cadres étaient dans
    des situations de souffrance psychologique manifeste (pleurs en
    réunion, au téléphone).
 
    La littérature mobilise des approches variées, et pluridisciplinaires,
    comme on le verra, pour appréhender la notion de charge de travail.
    Notre article vise à illustrer, grâce à cette étude de cas, la
-   possibilité d'appréhender la charge de travail en combinant une
-   approche qualitative et quantitative et en mobilisant l'analyse
-   systémique des organisations : nous partons donc du postulat d'une
+   possibilité d’appréhender la charge de travail en combinant une
+   approche qualitative et quantitative et en mobilisant l’analyse
+   systémique des organisations : nous partons donc du postulat d’une
    structuration systémique de la charge de travail des cadres.
 
    La première partie de cet article consiste en une synthèse de la
@@ -287,12 +287,12 @@ Introduction
    angles. La seconde partie présente le cadre théorique retenu, la
    troisième, le cas étudié, et la quatrième, les principaux résultats.
    Nous montrons ainsi en quoi la charge de travail est un reflet des
-   relations de pouvoir dans l'établissement : dans ce système
+   relations de pouvoir dans l’établissement : dans ce système
    corporatiste, le poids de la charge de travail, notamment le travail
-   qualifié de « inintéressant », va croissant lorsque l'on s'élève dans
-   la hiérarchie; l'analyse quantitative conduit à identifier quatre
-   stratégies de gestion de cette charge de travail, que l'analyse
-   systémique permet de comprendre à l'aune du système organisationnel.
+   qualifié de « inintéressant », va croissant lorsque l’on s’élève dans
+   la hiérarchie; l’analyse quantitative conduit à identifier quatre
+   stratégies de gestion de cette charge de travail, que l’analyse
+   systémique permet de comprendre à l’aune du système organisationnel.
 
 La charge de travail, une notion appréhendée sous différents angles
 
@@ -301,7 +301,7 @@ La charge de travail, une notion appréhendée sous différents angles
    approches méthodologiques et disciplinaires de la charge de travail.
    Nous sommes loin de prétendre dresser une liste exhaustive de la
    littérature foisonnante et multidisciplinaire (sociologie, gestion,
-   psychologie, économie, ...) sur la charge de travail. Ici, nous nous
+   psychologie, économie, …) sur la charge de travail. Ici, nous nous
    intéressons plutôt à divers types de mesure de la charge de travail,
    puis aux différents angles théoriques relatifs à ce sujet.
 
@@ -318,27 +318,27 @@ Mesurer la charge de travail
    à la mesure de la charge de travail perçue (Galy, Cariou et Mélan,
    2012), Karasek (voir Machado, Desrumaux et Lancry, 2014, pour des
    précisions sur ce modèle), ou encore Siegrist, en constituent un bon
-   exemple : il s'agit d'administrer un questionnaire construit ex-ante,
+   exemple : il s’agit d’administrer un questionnaire construit ex-ante,
    identique quelle que soit la situation, ce qui a le mérite de la
-   comparabilité et de la généralisation, mais a l'inconvénient de la
-   non-prise en compte des spécificités du système et de l'environnement
+   comparabilité et de la généralisation, mais a l’inconvénient de la
+   non-prise en compte des spécificités du système et de l’environnement
    (Fournier, Montreuil et Villa, 2013). Les enquêtes Emploi du temps ou
    Conditions de travail en constituent une autre illustration : elles
    permettent de disposer de statistiques sur le temps de travail dans la
    population française.
 
-   En-dehors de ces grandes enquêtes, d'autres types de mesure sont
+   En-dehors de ces grandes enquêtes, d’autres types de mesure sont
    également possibles : Hobson et Beach (2000) ont, par exemple, bâti un
    questionnaire spécifique dans une enquête sur la charge de travail des
    managers, comme Bakker, Demerouti et Verbeke (2004) sur le burnout et
    la performance.
 
    Ces mesures sont précieuses pour évaluer des phénomènes comme
-   l'intensification du travail (Gollac, 2011) ou l'effet de contraintes,
+   l’intensification du travail (Gollac, 2011) ou l’effet de contraintes,
    comme les horaires atypiques sur la pénibilité du travail
    (Poilpot-Rocaboy et al., 2017). De plus, elles permettent de modéliser
    certains liens : par exemple, Coutrot et Wolff (2006) comparent des
-   modèles économétriques de complexité variée évaluant l'impact des
+   modèles économétriques de complexité variée évaluant l’impact des
    conditions de travail sur la santé; Zeytinoglu et al. (2007) mesurent
    le lien entre satisfaction vis-à-vis du travail, charge de travail et
    stress.
@@ -346,30 +346,30 @@ Mesurer la charge de travail
    Dans cette étude, pour mesurer la charge de travail perçue, nous
    mobilisons une enquête par questionnaire que nous présentons en
    troisième partie. Cependant, au-delà de la façon de mesurer la charge
-   de travail, se pose la question de l'approche théorique adoptée pour
-   l'appréhender.
+   de travail, se pose la question de l’approche théorique adoptée pour
+   l’appréhender.
 
 Trois grandes approches : psychologique, ergonomique et organisationnelle
 
-   La psychologie du travail s'intéresse notamment aux psychopathologies
-   du travail et à l'engagement d'une subjectivité dans l'activité de
+   La psychologie du travail s’intéresse notamment aux psychopathologies
+   du travail et à l’engagement d’une subjectivité dans l’activité de
    travail (Molinier, 2011). Ainsi, Dejours (2006) identifie deux
    principaux types de pathologies du travail : pathologies de surcharge
    et pathologies de harcèlement. Selon lui, cela renvoie à une forme
-   d'aliénation sociale, où l'aliénation, au sens psychopathologique du
-   terme, implique un ensemble d'acteurs. Clot (2010) se penche sur les
+   d’aliénation sociale, où l’aliénation, au sens psychopathologique du
+   terme, implique un ensemble d’acteurs. Clot (2010) se penche sur les
    freins au « travail bien fait » (conflits sur les critères de qualité,
-   management de la performance éloigné du réel...). Lhuilier (2010)
+   management de la performance éloigné du réel…). Lhuilier (2010)
    explique que les facteurs de pénibilité, surcharge ou stress au travail
-   proviennent en grande partie de « l'invisibilité croissante du travail
+   proviennent en grande partie de « l’invisibilité croissante du travail
    réel » (p. 32).
 
    Cette notion de travail réel renvoie à la distinction entre travail
    prescrit et travail réel, qui a irrigué de nombreux travaux en
-   ergonomie. L'ergonomie cherche à appréhender la charge de travail dans
-   sa globalité, en tenant compte à la fois de l'activité de l'individu
+   ergonomie. L’ergonomie cherche à appréhender la charge de travail dans
+   sa globalité, en tenant compte à la fois de l’activité de l’individu
    divisée en tâches et du contexte (Rusnock et Borghetti, 2018). Les
-   ergonomes s'intéressent surtout à la charge de travail perçue (Galy,
+   ergonomes s’intéressent surtout à la charge de travail perçue (Galy,
    Cariou et Mélan, 2012), aux liens entre la charge perçue et les
    réponses physiologiques (Orlandi et Brooks, 2018), mais également à la
    différence entre la charge réelle et perçue. Ainsi, certains travaux en
@@ -385,116 +385,116 @@ Trois grandes approches : psychologique, ergonomique et organisationnelle
    organisationnel peut être mobilisé pour appréhender la charge de
    travail, comme le préconisent Livian, Baret et Falcoz (2004). Ainsi,
    Cadin et Pralong (2015), dans leur étude sur la charge cognitive,
-   expliquent que l'organisation nécessite de la part des travailleurs un
+   expliquent que l’organisation nécessite de la part des travailleurs un
    certain volume de ressources attentionnelles. Lallement, Lehndorff et
    Voss-Dahm (2004), tout comme De Gaulejac (2011), soulignent aussi
-   l'influence des modèles de gestion et des modes d'organisation sur le
+   l’influence des modèles de gestion et des modes d’organisation sur le
    travail et sa régulation. Herreros (2012) pointe, quant à lui, le rôle
-   de l'encadrement et du management, et plaide en faveur d'un nouveau
-   mode d'organisation, l'organisation réflexive, favorisant un climat et
+   de l’encadrement et du management, et plaide en faveur d’un nouveau
+   mode d’organisation, l’organisation réflexive, favorisant un climat et
    des relations de travail apaisés.
 
-   Nous situons notre travail dans l'approche organisationnelle. Plus
-   précisément, nous mobilisons le cadre théorique de l'analyse systémique
+   Nous situons notre travail dans l’approche organisationnelle. Plus
+   précisément, nous mobilisons le cadre théorique de l’analyse systémique
    des organisations.
 
 Étudier la charge de travail comme un enjeu organisationnel
 
    Si le modèle de Karasek se fonde sur une approche quantitative et ne
    tient pas compte des spécificités des contextes organisationnels, il
-   souligne cependant l'importance de l'organisation : selon ce modèle,
-   les « contraintes d'emploi » proviennent à la fois des demandes de
-   l'emploi et de la latitude décisionnelle (Gintrac, 2011).
+   souligne cependant l’importance de l’organisation : selon ce modèle,
+   les « contraintes d’emploi » proviennent à la fois des demandes de
+   l’emploi et de la latitude décisionnelle (Gintrac, 2011).
 
-   Cette notion de latitude décisionnelle incite à s'interroger sur les
-   ressources dont les acteurs disposent dans l'organisation, dans une
-   approche d'analyse systémique (ou stratégique) des organisations. Dans
+   Cette notion de latitude décisionnelle incite à s’interroger sur les
+   ressources dont les acteurs disposent dans l’organisation, dans une
+   approche d’analyse systémique (ou stratégique) des organisations. Dans
    cette approche, théorisée notamment par Crozier et Friedberg (Crozier,
    [1964], 2001; Crozier et Friedberg, [1977] 1981; Friedberg, [1993]
    1997), une organisation est considérée comme un système dans lequel
    chaque acteur a certaines ressources (expertise, réseau professionnel,
-   maîtrise de l'information, ...) lui permettant, le cas échéant, de
-   maîtriser des éléments importants pour l'organisation. Cette approche
+   maîtrise de l’information, …) lui permettant, le cas échéant, de
+   maîtriser des éléments importants pour l’organisation. Cette approche
    se fonde, en partie, sur le concept de rationalité limitée développé
-   par Simon (1972). Crozier et Friedberg invitent à s'intéresser aux
+   par Simon (1972). Crozier et Friedberg invitent à s’intéresser aux
    stratégies des acteurs pour comprendre comment fonctionnent les
-   organisations : ces stratégies ne sont jamais données à l'avance, car
+   organisations : ces stratégies ne sont jamais données à l’avance, car
    elles dépendent des ressources des acteurs et, surtout, de la manière
    dont ces derniers les mobilisent.
 
    Nous avons choisi de transposer ce cadre théorique à la question de la
    charge de travail, comme le fait Tirmarche (2010). À partir de ce
    cadre, on peut, en effet, supposer que plus un acteur a du pouvoir dans
-   l'organisation, plus il a de marges de manoeuvre pour négocier le
-   travail qu'il doit fournir, et ainsi sa charge de travail. La charge de
+   l’organisation, plus il a de marges de manoeuvre pour négocier le
+   travail qu’il doit fournir, et ainsi sa charge de travail. La charge de
    travail, réelle ou perçue, serait alors le produit de la rencontre
-   entre le contexte et l'organisation, qui définissent la charge de
+   entre le contexte et l’organisation, qui définissent la charge de
    travail prescrite, mais également les ressources et les stratégies des
    acteurs pour gérer et négocier cette charge de travail. On peut alors
-   parler d'une structuration systémique de la charge de travail, et
-   s'intéresser aux stratégies adoptées par les acteurs pour y faire face
+   parler d’une structuration systémique de la charge de travail, et
+   s’intéresser aux stratégies adoptées par les acteurs pour y faire face
    (Gangloff et Malleh, 2017).
 
-   Finalement, l'enjeu de ce travail consiste à mobiliser, d'une part, une
+   Finalement, l’enjeu de ce travail consiste à mobiliser, d’une part, une
    enquête quantitative cherchant à mesurer la charge de travail perçue et
    déclarée et à dresser une typologie des charges de travail perçues, et,
-   d'autre part, une analyse systémique à partir d'un matériau qualitatif
-   permettant de comprendre cette typologie à l'aune des stratégies
+   d’autre part, une analyse systémique à partir d’un matériau qualitatif
+   permettant de comprendre cette typologie à l’aune des stratégies
    adoptées par les acteurs en fonction du système organisationnel.
 
 Cas étudié et méthodologie
 
 Le cas étudié : alerte sur la charge de travail des cadres dans la direction
-régionale d'une administration
+régionale d’une administration
 
    DISTRI est une administration ayant une activité de distribution dans
-   le secteur de l'énergie, créée en 2008. En effet, dans le cadre de
-   l'ouverture à la concurrence, il a fallu séparer, au sein d'une
+   le secteur de l’énergie, créée en 2008. En effet, dans le cadre de
+   l’ouverture à la concurrence, il a fallu séparer, au sein d’une
    ancienne administration de ce secteur, les activités de production
    (ouvertes à la concurrence) et les activités de distribution (DISTRI :
    activité régulée). Avant 2010, DISTRI était organisée en 8
    inter-régions, peu implantées localement. Depuis 2010, DISTRI a voulu
    régionaliser son activité et a, donc, créé des Directions régionales
-   (DR). Pour l'entreprise, il s'agit de responsabiliser financièrement
+   (DR). Pour l’entreprise, il s’agit de responsabiliser financièrement
    les unités régionales, notamment en leur conférant une autonomie
-   budgétaire. L'établissement étudié est une de ces DR. En 2012, à la
-   suite d'une alerte de la CFE-CGC[2] sur la « charge de travail des
+   budgétaire. L’établissement étudié est une de ces DR. En 2012, à la
+   suite d’une alerte de la CFE-CGC[2] sur la « charge de travail des
    cadres », le Directeur régional (Directeur dans la suite du texte) a
-   commandité une intervention d'un cabinet de conseil, sous la forme d'un
+   commandité une intervention d’un cabinet de conseil, sous la forme d’un
    diagnostic sur la charge de travail[3].
 
    Cette DR (voir Figure 1) est divisée en sites dirigés par des chefs de
    pôle (et leur adjoint). Les 49 chefs de pôle et adjoints sont des
    managers de proximité, en charge des agents et de la planification de
    leur travail. Ces sites sont regroupés en agences, dirigés par 16 chefs
-   d'agence (et adjoints), chargés du pilotage global de leur agence. La
+   d’agence (et adjoints), chargés du pilotage global de leur agence. La
    DR emploie également 23 chefs de projet, peu dépendants
    fonctionnellement de leur chef, car ils travaillent dans une grande
    autonomie. Enfin, les 10 cadres dirigeants, membres du Codir (Comité de
-   Direction), sont en charge chacun d'un univers métier (Exploitation,
+   Direction), sont en charge chacun d’un univers métier (Exploitation,
    Ingénierie, Patrimoine, Direction territoriale, État-major : Gestion,
    RH, Communication).
 
    En 2012-13, le Directeur insiste sur la possible ouverture à la
    concurrence, ce qui pouvait toucher DISTRI dès 2015. Dans ce cadre, il
-   insiste sur la nécessité d'augmenter la satisfaction des clients, ce
+   insiste sur la nécessité d’augmenter la satisfaction des clients, ce
    qui passe, entre autres, par une augmentation de la fréquence des
    enquêtes de satisfaction. De plus, dans le cadre de la
    responsabilisation des DR, la DIR (Direction interrégionale, qui
-   regroupe 3 DR) insiste sur l'importance du respect du budget par
+   regroupe 3 DR) insiste sur l’importance du respect du budget par
    chacune des DR, compare les DR entre elles, et souligne la mauvaise
    performance de la DR étudiée par rapport aux autres.
 
-   Pour faire face à ces enjeux, la direction de l'établissement ne
+   Pour faire face à ces enjeux, la direction de l’établissement ne
    dispose que de faibles marges de manoeuvre. En effet, cette
    administration est caractérisée par une identité de métier propre au
    modèle corporatiste, où le climat social est marqué par la
    prépondérance du syndicat (CGT) des très nombreux agents (1500 pour 95
    cadres). La CGT est un syndicat puissant dans cet établissement, du
-   fait de l'importance numérique des agents, mais, aussi, du fait qu'il
+   fait de l’importance numérique des agents, mais, aussi, du fait qu’il
    faut éviter les grèves pour garantir la satisfaction des clients. Le
-   Directeur parle, d'ailleurs, d'un modèle historique de « cogestion »
-   avec la CGT, qu'il semble perpétuer.
+   Directeur parle, d’ailleurs, d’un modèle historique de « cogestion »
+   avec la CGT, qu’il semble perpétuer.
 
    Figure 1
 
@@ -505,19 +505,19 @@ régionale d'une administration
 
      [Le Directeur] vient de débarquer un cadre à T*** suite à un
      différend avec un des gars; il y a une telle crainte des syndicats
-     qu'on fait n'importe quoi parfois pour ne pas les contrarier. Là,
-     les syndicats lui ont dit après : `Tu as vu, on a eu ta peau'. Une
+     qu’on fait n’importe quoi parfois pour ne pas les contrarier. Là,
+     les syndicats lui ont dit après : ‘Tu as vu, on a eu ta peau’. Une
      Direction ça ne vire pas un de ses cadres.
-     - Chef d'agence
+     - Chef d’agence
 
    On est donc dans une forme de dépendance inversée (Terssac, 2012),
    propre au modèle corporatiste. Finalement, pour répondre aux enjeux
    évoqués dans ce contexte contraint, le Directeur a mis en place un
-   pilotage par indicateurs, avec une multiplication des rapports à
+   pilotage par indicateurs, avec une multiplication des rapports 
    remplir par les cadres de tous les niveaux, ce qui crée un surcroît de
-   travail pour eux. Par ailleurs, il s'est constitué des leviers
-   managériaux auprès de l'encadrement en durcissant la règle de mobilité
-   (mobilité obligatoire tous les trois ans) et en s'arrangeant
+   travail pour eux. Par ailleurs, il s’est constitué des leviers
+   managériaux auprès de l’encadrement en durcissant la règle de mobilité
+   (mobilité obligatoire tous les trois ans) et en s’arrangeant
    directement avec les personnes concernées sur les affectations lors des
    mobilités, tout en détectant lui-même les « hauts potentiels ».
 
@@ -526,12 +526,12 @@ quantitative
 
    La collecte des données primaires a donc eu lieu en 2012 et 2013.
 
-   L'enquête a commencé par une série de 16 entretiens de cadrage,
-   ouverts, avec les membres du Codir et du comité de pilotage de l'étude,
+   L’enquête a commencé par une série de 16 entretiens de cadrage,
+   ouverts, avec les membres du Codir et du comité de pilotage de l’étude,
    puis a continué avec 22 entretiens semi-directifs avec des cadres non
    dirigeants, sélectionnés selon une logique de grappe hiérarchique
    (Friedberg, 1999)[4]. Le Tableau 1 récapitule les caractéristiques
-   sociodémographiques des interviewés. Le guide d'entretien portait sur
+   sociodémographiques des interviewés. Le guide d’entretien portait sur
    le contenu du travail (de la personne et de ses équipes, le cas
    échéant), les relations de travail, la vision du statut de cadre, le
    rythme et la charge de travail et leurs éventuelles évolutions.
@@ -541,9 +541,9 @@ quantitative
    Caractéristiques sociodémographiques des personnes interviewées
    Caractéristiques sociodémographiques des personnes interviewées
 
-   Note : Les caractéristiques sociodémographiques n'ont pas pu être
+   Note : Les caractéristiques sociodémographiques n’ont pas pu être
    toutes recueillies lors des entretiens exploratoires. La très grande
-   majorité d'hommes s'explique par le faible taux de féminisation de la
+   majorité d’hommes s’explique par le faible taux de féminisation de la
    population étudiée : 16 % (15 sur 94 cadres).
 
    -> Voir la liste des tableaux
@@ -556,20 +556,20 @@ quantitative
    -> Voir la liste des tableaux
 
    Après une première synthèse très descriptive du contenu des entretiens
-   par grande thématique, un questionnaire a été construit et nous l'avons
-   administré nous-même par téléphone aux 95 cadres de l'établissement,
+   par grande thématique, un questionnaire a été construit et nous l’avons
+   administré nous-même par téléphone aux 95 cadres de l’établissement,
    dirigeants et non dirigeants. Sur ce nombre, il y a eu 90 répondants.
    Plus précisément, nous avions, lors de la construction du
    questionnaire, plusieurs objectifs qui ont guidé la définition des
    questions (Tableau 2).
 
    Le matériau utilisé comprend donc les entretiens, la base de données
-   issue de l'administration du questionnaire, ainsi que les nombreux
+   issue de l’administration du questionnaire, ainsi que les nombreux
    commentaires émis par les répondants au moment de répondre au
    questionnaire par téléphone. Ces différents matériaux nous renseignent
    donc sur la charge de travail perçue, et pas sur la charge de travail
    réelle, ou encore prescrite (Livian, Baret et Falcoz, 2004; Rousseau,
-   2006). À l'instar de Hatzfeld (2004), il nous semble, en effet, que les
+   2006). À l’instar de Hatzfeld (2004), il nous semble, en effet, que les
    perceptions sont intéressantes pour appréhender plus concrètement la
    question de la charge de travail.
 
@@ -578,7 +578,7 @@ quantitative
 
    Après des premières statistiques descriptives, nous avons réalisé une
    ACM (Analyse factorielle des correspondances multiples)[5] sur le
-   matériau quantitatif pour caractériser l'espace de la charge de travail
+   matériau quantitatif pour caractériser l’espace de la charge de travail
    (Cibois, 2009). Les 12 variables actives concernaient la charge de
    travail et les stratégies mises en place pour y faire face, alors que
    les 11 variables supplémentaires caractérisaient les individus
@@ -588,19 +588,19 @@ quantitative
    produire des situations où certains cadres se déclarent surchargés.
 
    Nous avons, ensuite, effectué une CAH (classification ascendante
-   hiérarchique), cela afin d'identifier des « profils » de cadres ayant
+   hiérarchique), cela afin d’identifier des « profils » de cadres ayant
    une charge de travail à peu près homogène.
 
    Enfin, nous avons cherché à expliquer ces profils et la répartition de
-   la charge de travail dans l'établissement grâce à l'analyse systémique
+   la charge de travail dans l’établissement grâce à l’analyse systémique
    des organisations, menée à partir des entretiens semi-directifs. Pour
    cette étape, nous avons mobilisé un codage thématique des entretiens et
    effectué une analyse systémique par « grappe hiérarchique »,
-   c'est-à-dire en replaçant autant que possible les interviewés dans
+   c’est-à-dire en replaçant autant que possible les interviewés dans
    leurs relations de travail, verticales comme horizontales (Friedberg,
    1999). Cela implique, notamment, de mener une première analyse des
    relations et, ici, de la charge de travail pour chaque équipe, puis de
-   confronter les différentes analyses ainsi produites afin d'en tirer une
+   confronter les différentes analyses ainsi produites afin d’en tirer une
    analyse globale.
 
 La charge de travail des cadres, reflet du système organisationnel ?
@@ -610,7 +610,7 @@ La charge de travail perçue, une variable multidimensionnelle
    Les horaires de travail déclarés peuvent constituer un premier moyen
    pour appréhender la charge de travail perçue ou déclarée. Ainsi, 19 %
    des répondants estiment leur présence quotidienne au bureau à 8 ou 9h,
-   56 % l'estiment à 10 ou 11h, et 25 % l'estiment à 12h et plus. Or, les
+   56 % l’estiment à 10 ou 11h, et 25 % l’estiment à 12h et plus. Or, les
    horaires de présence sont corrélés avec la position dans la hiérarchie
    (chi carré significatif à 5 %[6]) : plus on monte dans la hiérarchie,
    plus on a des horaires importants. De plus, des horaires importants en
@@ -618,40 +618,39 @@ La charge de travail perçue, une variable multidimensionnelle
    (Graphique 1).
 
    Cependant, les horaires et le travail les fins de semaine (weekend) ne
-   suffisent pas à rendre compte d'une charge de travail
+   suffisent pas à rendre compte d’une charge de travail
    multidimensionnelle. Par exemple, alors que les horaires sont liés à la
    variable de la fréquence perçue des moments de saturation (« Vous
-   arrive-t-il d'avoir des moments de surcharge ou de saturation de
-   l'activité ? » Résultats : -C'est permanent = 15%; -C'est régulier =
-   37%; -Cela arrive parfois = 41%; -Cela n'arrive jamais =7%), des tests
-   du chi carré montrent qu'ils ne sont pas liés à l'impression que le
+   arrive-t-il d’avoir des moments de surcharge ou de saturation de
+   l’activité ? » Résultats : -C’est permanent = 15%; -C’est régulier =
+   37%; -Cela arrive parfois = 41%; -Cela n’arrive jamais =7%), des tests
+   du chi carré montrent qu’ils ne sont pas liés à l’impression que le
    répondant retire de sa charge de travail (« Globalement, sur votre
-   charge de travail, vous vous dites plutôt... ? » Résultats : -Je suis
-   débordé et c'est vrai que j'ai du mal à y arriver = 26%; -J'ai beaucoup
-   de travail, mais c'est normal vu mon poste = 67%; -J'ai du travail que
-   j'ai le temps de mener à bien = 7%; -J'ai trop peu de travail et les
+   charge de travail, vous vous dites plutôt… ? » Résultats : -Je suis
+   débordé et c’est vrai que j’ai du mal à y arriver = 26%; -J’ai beaucoup
+   de travail, mais c’est normal vu mon poste = 67%; -J’ai du travail que
+   j’ai le temps de mener à bien = 7%; -J’ai trop peu de travail et les
    journées sont longues =0%).
 
    De plus, au cours des entretiens, la plupart des cadres établissent une
    distinction entre leur « travail normal », quotidien (gestion des
-   équipes, chefferie de projet, ...), et qui pour la plupart les
-   intéresse, et ce qu'ils qualifient de « travail en plus », constitué de
-   réponses à des demandes de rapports, de réunions, de courriels
-   (emails), considéré fréquemment comme un travail inintéressant. Ce
-   « travail en plus » se rapproche de la notion de « travail invisible »
-   qu'Alter (2010) définit comme l'ensemble des ajustements à mettre en
-   oeuvre pour traiter les « dyschronies », et dans lequel il range, par
-   exemple, le traitement des courriels ou mails et des sollicitations.
-   Alors que le travail « normal » est différent selon les univers métiers
-   et le niveau de responsabilité, le « travail en plus » est commun à
-   tous (courriels, réunions, sollicitations et rapports), avec une
-   insistance mise sur la dimension « urgente » de ce travail. Plus
-   précisément, au sein des urgences, les interviewés opposent les
-   urgences hiérarchiques (demandes de rapports et de statistiques), qui
-   constituent l'essentiel du « travail en plus », aux autres urgences,
-   notamment les urgences terrain ou les urgences client, comme une panne
-   sur le réseau, qui sont considérées comme faisant partie du « travail
-   normal ».
+   équipes, chefferie de projet, …), et qui pour la plupart les intéresse,
+   et ce qu’ils qualifient de « travail en plus », constitué de réponses 
+   des demandes de rapports, de réunions, de courriels (emails), considéré
+   fréquemment comme un travail inintéressant. Ce « travail en plus » se
+   rapproche de la notion de « travail invisible » qu’Alter (2010) définit
+   comme l’ensemble des ajustements à mettre en oeuvre pour traiter les
+   « dyschronies », et dans lequel il range, par exemple, le traitement
+   des courriels ou mails et des sollicitations. Alors que le travail
+   « normal » est différent selon les univers métiers et le niveau de
+   responsabilité, le « travail en plus » est commun à tous (courriels,
+   réunions, sollicitations et rapports), avec une insistance mise sur la
+   dimension « urgente » de ce travail. Plus précisément, au sein des
+   urgences, les interviewés opposent les urgences hiérarchiques (demandes
+   de rapports et de statistiques), qui constituent l’essentiel du
+   « travail en plus », aux autres urgences, notamment les urgences
+   terrain ou les urgences client, comme une panne sur le réseau, qui sont
+   considérées comme faisant partie du « travail normal ».
 
    Graphique 1
 
@@ -666,23 +665,23 @@ La charge de travail perçue, une variable multidimensionnelle
    -> Voir la liste des figures
 
      Parfois, tout tombe en même temps, on a plein de mails, il faut
-     faire plein de choses, et puis à côté on doit continuer l'activité
-     quotidienne, et, parfois, c'est plus calme, on a le temps de
+     faire plein de choses, et puis à côté on doit continuer l’activité
+     quotidienne, et, parfois, c’est plus calme, on a le temps de
      travailler sur plein de choses.
      - Chef de pôle Ingénierie
 
    Enfin, ces urgences hiérarchiques sont attribuées à la hiérarchie
    supérieure (Directeur régional le plus souvent, ou interrégional
    parfois), même si elles passent par les échelons hiérarchiques
-   intermédiaires avant d'arriver à un salarié donné.
+   intermédiaires avant d’arriver à un salarié donné.
 
    Cette distinction renvoie à la notion de qualité du travail (Clot,
-   2010). En effet, la majorité des interviewés s'accordent pour dire que
-   la mission première de DISTRI est d'assurer le bon fonctionnement du
+   2010). En effet, la majorité des interviewés s’accordent pour dire que
+   la mission première de DISTRI est d’assurer le bon fonctionnement du
    réseau de distribution. Dans ce cas, répondre à un courriel ou remplir
    un tableau pour un rapport est vu comme contribuant moins à la qualité
    du travail que de gérer un problème sur le réseau. Cependant, comme on
-   le verra, tous les cadres n'ont pas la même liberté de laisser de côté
+   le verra, tous les cadres n’ont pas la même liberté de laisser de côté
    les urgences hiérarchiques.
 
    Face à cette notion multidimensionnelle de la charge de travail, nous
@@ -690,15 +689,15 @@ La charge de travail perçue, une variable multidimensionnelle
    multiples) afin de mieux comprendre comment est constituée la
    perception de la charge de travail.
 
-   Le premier plan factoriel (axes 1 et 2[7]) permet de définir l'espace
+   Le premier plan factoriel (axes 1 et 2[7]) permet de définir l’espace
    de la perception de la charge de travail. Le premier axe oppose :
      * à gauche du plan factoriel, les cadres qui déclarent avoir beaucoup
-       de travail, et qui ont l'impression que leur charge de travail est
+       de travail, et qui ont l’impression que leur charge de travail est
        due à de « mauvaises raisons », renvoyant ainsi au « travail en
        plus » des entretiens;
      * à droite du plan factoriel, des cadres qui estiment que leur charge
        de travail est satisfaisante, et qui se déclarent globalement plus
-       satisfaits, tant de leur hiérarchie que de l'utilité de leur
+       satisfaits, tant de leur hiérarchie que de l’utilité de leur
        travail.
 
    Il est intéressant de constater que cet axe se construit à partir de la
@@ -710,20 +709,20 @@ La charge de travail perçue, une variable multidimensionnelle
    travail est donc bien multidimensionnelle, avec à la fois un donné, un
    construit, et un ressenti.
 
-   L'axe 2 oppose quant à lui des cadres qui ont une charge d'encadrement
-   (en bas dans le plan factoriel) aux cadres qui n'ont pas de charge
-   d'encadrement (en haut dans le plan factoriel).
+   L’axe 2 oppose quant à lui des cadres qui ont une charge d’encadrement
+   (en bas dans le plan factoriel) aux cadres qui n’ont pas de charge
+   d’encadrement (en haut dans le plan factoriel).
 
 La répartition de la charge de travail et des strategies: une typologie
 
-   La réalisation d'une CAH (classification ascendante hiérarchique) à
-   partir des deux premiers axes de l'ACM permet, ensuite, de définir
+   La réalisation d’une CAH (classification ascendante hiérarchique) 
+   partir des deux premiers axes de l’ACM permet, ensuite, de définir
    quatre groupes de cadres caractérisés par une perception homogène de la
    charge de travail et des stratégies identiques de gestion de cette
    charge (Graphique 2). Ces stratégies se jouent envers la hiérarchie
-   (docilité envers la hiérarchie, c'est-à-dire acceptation du travail, ou
+   (docilité envers la hiérarchie, c’est-à-dire acceptation du travail, ou
    résistance) et envers les équipes (déléguer ou filtrer le travail).
-   L'analyse systémique des organisations à partir du matériau qualitatif
+   L’analyse systémique des organisations à partir du matériau qualitatif
    permet de mieux caractériser ces stratégies.
 
    Graphique 2
@@ -741,24 +740,24 @@ Les « surchargés » : stratégie de docilité avec filtrage
    « surchargés », qui considèrent que leur charge de travail est très
    importante, et que leur équilibre entre vie privée et vie
    professionnelle pose problème. Ils forment des « goulots
-   d'étranglement » (Codir Gestion), car ils déclarent ne pas négocier
+   d’étranglement » (Codir Gestion), car ils déclarent ne pas négocier
    avec leur hiérarchie et ne pas déléguer. Le cas de la déléguée à la
-   Gestion du Codir est un cas-type : alors qu'elle a une charge de
+   Gestion du Codir est un cas-type : alors qu’elle a une charge de
    travail déjà importante du fait de sa position spécifique dans le
-   système de « reporting » et le suivi des budgets, elle fait attention à
-   ses équipes, ce qu'elle relie directement à sa charge de travail.
+   système de « reporting » et le suivi des budgets, elle fait attention 
+   ses équipes, ce qu’elle relie directement à sa charge de travail.
 
      Ma collaboratrice, quand elle travaille plus tard, je lui dis :
-     `Pars une heure avant'. [...] Le goulot d'étranglement, comme je
-     veille sur tout le monde, c'est moi; je bosse tout le temps le soir,
+     ‘Pars une heure avant’. […] Le goulot d’étranglement, comme je
+     veille sur tout le monde, c’est moi; je bosse tout le temps le soir,
      le week-end.
      - Codir Gestion
 
    Les membres du Codir sont surreprésentés dans ce groupe. Cela semble
-   contradictoire avec les représentations que l'on peut avoir d'acteurs
+   contradictoire avec les représentations que l’on peut avoir d’acteurs
    qui, situés en haut de la hiérarchie, disposent des ressources
-   nécessaires pour déléguer et se décharger d'une partie de leurs tâches
-   -- surtout les tâches perçues comme inintéressantes, à savoir le
+   nécessaires pour déléguer et se décharger d’une partie de leurs tâches
+   — surtout les tâches perçues comme inintéressantes, à savoir le
    « travail en plus » évoqué précédemment. Cependant, les réorganisations
    ont induit, pour le Codir, une multiplication des réunions, et un
    dédoublement des rapports à produire (pour la DR, mais aussi pour la
@@ -775,11 +774,11 @@ Les « surchargés » : stratégie de docilité avec filtrage
      - Codir Communication
 
    De plus, les membres du Codir ne disposent plus de leviers
-   managériaux : comme on l'a vu, le Directeur a, en effet, mis en place
-   un système de relation directe avec les chefs d'agence et les chefs de
+   managériaux : comme on l’a vu, le Directeur a, en effet, mis en place
+   un système de relation directe avec les chefs d’agence et les chefs de
    pôle (N-1 et N-2 du Codir), notamment en attribuant directement des
    postes lors des mobilités, ou en identifiant des « hauts potentiels »
-   sans passer par l'échelon managérial. Un cadre dirigeant estime ainsi
+   sans passer par l’échelon managérial. Un cadre dirigeant estime ainsi
    que le Codir se fait « court-circuiter » dans sa relation managériale
    avec les cadres non dirigeants. Finalement, les membres du Codir sont
    majoritairement dans une stratégie de docilité (du fait de la
@@ -789,31 +788,31 @@ Les « surchargés » : stratégie de docilité avec filtrage
 Les « mécontents » : stratégie de docilité avec délégation
 
    Le deuxième groupe (losange : 25 individus) est constitué des cadres
-   qui se présentent comme ayant beaucoup de travail alors qu'ils
+   qui se présentent comme ayant beaucoup de travail alors qu’ils
    délèguent en partie à leurs équipes : ce sont des « mécontents »,
-   notamment vis-à-vis de leur hiérarchie et de l'organisation. Ils
-   adhèrent d'ailleurs peu au discours selon lequel il est « nécessaire
-   pour l'activité » de travailler beaucoup.
+   notamment vis-à-vis de leur hiérarchie et de l’organisation. Ils
+   adhèrent d’ailleurs peu au discours selon lequel il est « nécessaire
+   pour l’activité » de travailler beaucoup.
 
-   Les chefs d'agence sont surreprésentés dans ce groupe. Ils se plaignent
-   d'une charge de travail très importante, constituée notamment de
+   Les chefs d’agence sont surreprésentés dans ce groupe. Ils se plaignent
+   d’une charge de travail très importante, constituée notamment de
    sollicitations venant de la hiérarchie et tout particulièrement du
    Directeur. Les réorganisations évoquées précédemment ont touché
    directement leur travail, en renforçant le poids des questions
    budgétaires et des rapports à produire. Ils sont donc majoritairement
-   dans une stratégie de docilité (avec l'optique de se faire remarquer
+   dans une stratégie de docilité (avec l’optique de se faire remarquer
    par le Directeur), accompagnée, pour certains, de délégation et, pour
-   d'autres, de filtrage (afin de respecter les urgences terrain, mais
+   d’autres, de filtrage (afin de respecter les urgences terrain, mais
    aussi par peur que les chefs de pôle ne puissent pas répondre
    correctement aux demandes).
 
-     J'ai un encadrement [l'échelon inférieur, les chefs de pôle
-     notamment] pas assez professionnalisé. J'absorbe déjà pas mal, je ne
+     J’ai un encadrement [l’échelon inférieur, les chefs de pôle
+     notamment] pas assez professionnalisé. J’absorbe déjà pas mal, je ne
      peux pas transmettre plus de toute façon parce que mon encadrement a
-     déjà beaucoup de travail. Mais aussi parce qu'on a des exigences de
+     déjà beaucoup de travail. Mais aussi parce qu’on a des exigences de
      résultat, donc je ne peux pas transmettre à mon encadrement parce
-     qu'ils ne pourront pas répondre aux exigences.
-     - Chef d'agence Ingénierie
+     qu’ils ne pourront pas répondre aux exigences.
+     - Chef d’agence Ingénierie
 
 Les « négociateurs » : stratégie de résistance
 
@@ -821,63 +820,63 @@ Les « négociateurs » : stratégie de résistance
    « négociateurs », qui négocient avec leur hiérarchie, ne se rendent pas
    à toutes les réunions, ne répondent pas à tous les courriels, mais qui,
    en retour, sont plutôt satisfaits de leur hiérarchie et de
-   l'organisation, et dont la charge de travail est limitée par cette
-   forme de négociation. Il s'agit donc de personnes qui estiment que la
+   l’organisation, et dont la charge de travail est limitée par cette
+   forme de négociation. Il s’agit donc de personnes qui estiment que la
    qualité du travail (Davezies, 2004) ou le « travail bien fait » (Clot,
    2010) passent par une sélection et une hiérarchisation de leurs tâches.
 
    Les chefs de pôle et les cadres de la Direction territoriale sont
    surreprésentés dans ce groupe, comme dans le suivant, en fonction du
    comportement de délégation de leur supérieur hiérarchique (chef
-   d'agence).
+   d’agence).
 
-   Cela s'explique par le fait qu'une source de négociation dans le
+   Cela s’explique par le fait qu’une source de négociation dans le
    système est le contrôle de la performance finale, qui passe par la
-   relation avec la base d'agents et le contrôle de la relation avec le
+   relation avec la base d’agents et le contrôle de la relation avec le
    client. Cela crée, pour les chefs de pôle (en contact direct avec les
    agents) et les cadres de la Direction territoriale (en contact direct
-   avec le client), un pouvoir de négociation source d'autonomie. Ainsi,
-   les chefs de pôle, tout comme les chefs d'agence, estiment que les
+   avec le client), un pouvoir de négociation source d’autonomie. Ainsi,
+   les chefs de pôle, tout comme les chefs d’agence, estiment que les
    urgences venues du terrain (une tempête, par exemple, ou toute autre
    raison de panne) sont plus importantes que les contraintes venues de la
    hiérarchie.
 
-     On a des mails du jour pour le lendemain, de l'adjoint au directeur,
-     pour des enquêtes, savoir ce qui s'est passé. On pourrait donner
-     quelques jours pour la réponse, pourquoi est-ce que c'est si urgent
-     que ça ? Avec une tempête, c'est urgent. On fait notre boulot.
-     - Adjoint chef d'agence Ingénierie
+     On a des mails du jour pour le lendemain, de l’adjoint au directeur,
+     pour des enquêtes, savoir ce qui s’est passé. On pourrait donner
+     quelques jours pour la réponse, pourquoi est-ce que c’est si urgent
+     que ça ? Avec une tempête, c’est urgent. On fait notre boulot.
+     - Adjoint chef d’agence Ingénierie
 
 Les « protégés » : stratégie de passivité
 
    Le quatrième groupe (carré : 15 individus) est constitué par les
-   « protégés », qui considèrent qu'ils ont peu de travail et n'ont donc
+   « protégés », qui considèrent qu’ils ont peu de travail et n’ont donc
    pas besoin de négocier, soit parce que leur charge de travail
-   « donnée » n'est pas importante, soit parce que leur hiérarchie les
-   protège en formant justement un « goulot d'étranglement » -- on y
+   « donnée » n’est pas importante, soit parce que leur hiérarchie les
+   protège en formant justement un « goulot d’étranglement » — on y
    retrouve notamment la collaboratrice directe de la déléguée à la
    Gestion. Ils sont donc dans une stratégie qualifiée de passivité, au
-   sens où ils n'ont pas besoin de stratégie particulière pour faire face
+   sens où ils n’ont pas besoin de stratégie particulière pour faire face
    à leur charge de travail.
 
    En résumé, les chefs de pôle sont donc majoritairement dans une
-   stratégie de résistance quand leur chef d'agence leur délègue du
-   travail, et dans une stratégie de passivité lorsque leur chef d'agence
+   stratégie de résistance quand leur chef d’agence leur délègue du
+   travail, et dans une stratégie de passivité lorsque leur chef d’agence
    filtre le travail.
 
 Discussion
 
-   L'analyse quantitative a donc contribué à souligner la distribution
+   L’analyse quantitative a donc contribué à souligner la distribution
    inégale de la charge de travail perçue, mais également à identifier
    quatre profils de cadres ayant une perception homogène de cette charge.
-   L'analyse qualitative, fondée sur l'analyse systémique des
+   L’analyse qualitative, fondée sur l’analyse systémique des
    organisations, a permis, quant à elle, de mieux comprendre le système
-   de l'établissement et finalement, la structuration systémique des
+   de l’établissement et finalement, la structuration systémique des
    stratégies des cadres pour gérer leur charge de travail, et donc de
    cerner la charge de travail perçue. Nous avons ainsi pu constater que,
-   comme nous l'avions pressenti, plus un acteur a de pouvoir (pouvoir
-   réel et non officiel) dans l'organisation, plus il a de marges de
-   manoeuvre pour négocier sa charge de travail, que ce soit en délégant à
+   comme nous l’avions pressenti, plus un acteur a de pouvoir (pouvoir
+   réel et non officiel) dans l’organisation, plus il a de marges de
+   manoeuvre pour négocier sa charge de travail, que ce soit en délégant 
    ses équipes, voire même en refusant de fournir certains types de
    tâches.
 
@@ -889,83 +888,83 @@ Discussion
    nécessité, dans certains cas, de trier le travail et de laisser de côté
    certains éléments (ici, les urgences hiérarchiques) pour se concentrer
    sur le coeur du travail (ici, les urgences terrain). Cela souligne
-   l'importance de la prise en compte de la notion de « qualité du
+   l’importance de la prise en compte de la notion de « qualité du
    travail » (Clot, 2010), qui peut prendre un sens différent selon les
    niveaux hiérarchiques (Davezies, 2004). Dans notre cas, les différents
    acteurs opèrent les mêmes distinctions entre urgences hiérarchiques et
-   terrain, mais les cadres de plus haut niveau ont plus de difficultés à
+   terrain, mais les cadres de plus haut niveau ont plus de difficultés 
    mettre de côté les urgences hiérarchiques, car ils disposent de peu de
    ressources pour négocier leur travail.
 
-   Sur le plan méthodologique, notre travail s'inscrit dans une approche
+   Sur le plan méthodologique, notre travail s’inscrit dans une approche
    mixte entre méthodologies qualitative et quantitative et, donc, dans un
    entre-deux entre une approche quantifiée (Brousse, 2015; DARES, 2015;
    Sautory et Zilloniz, 2015) et une approche plus individualisée de la
    charge de travail ou des RPS (Dumond, 2007; Molinier et Flottes, 2012;
    Rossano, Abord de Chatillon et Desmarais, 2015). De plus, ce matériau
    mixte constitue une triangulation des données qui doit permettre
-   d'appréhender un phénomène sous différents aspects (Groulx, 1997;
+   d’appréhender un phénomène sous différents aspects (Groulx, 1997;
    Roupnel-Fuentes, 2011). Rappelons que les personnes interviewées dans
    le cadre des entretiens semi-directifs ont également répondu au
-   questionnaire, contrairement à d'autres approches mixtes où l'analyse
+   questionnaire, contrairement à d’autres approches mixtes où l’analyse
    quantitative se fait sur un échantillon totalement différent (Weber,
    1995). Cela a permis un rapprochement entre les deux types de
-   matériaux et d'analyse : nous avons ainsi pu comprendre et interpréter
-   les quatre segments de la classification ascendante hiérarchique à
-   l'aune des entretiens.
+   matériaux et d’analyse : nous avons ainsi pu comprendre et interpréter
+   les quatre segments de la classification ascendante hiérarchique 
+   l’aune des entretiens.
 
-   D'un point de vue managérial, montrer que la charge de travail dépend
+   D’un point de vue managérial, montrer que la charge de travail dépend
    en grande partie des stratégies des acteurs en fonction du système
    organisationnel nous paraît enrichissant pour les Directions des
    ressources humaines souhaitant mieux comprendre la question de la
-   charge de travail et les leviers permettant d'agir dans ce domaine, au
-   profit d'une meilleure articulation entre vie professionnelle et vie
-   privée. Ainsi, notre travail semble indiquer qu'une bonne compréhension
-   du système relationnel d'un établissement s'avère utile pour
+   charge de travail et les leviers permettant d’agir dans ce domaine, au
+   profit d’une meilleure articulation entre vie professionnelle et vie
+   privée. Ainsi, notre travail semble indiquer qu’une bonne compréhension
+   du système relationnel d’un établissement s’avère utile pour
    appréhender la charge de travail, ce qui rejoint des résultats de
-   travaux en ergonomie montrant l'importance des relations de travail
+   travaux en ergonomie montrant l’importance des relations de travail
    (Fournier, Montreuil et Villa, 2013). Par ailleurs, nos résultats
    invitent à ne pas considérer les cadres comme une catégorie homogène :
-   au sein d'un même établissement, les cadres n'ont pas tous les mêmes
+   au sein d’un même établissement, les cadres n’ont pas tous les mêmes
    enjeux, les mêmes ressources et, donc, les mêmes stratégies de gestion
    de la charge de travail. Cela invite les entreprises à se détacher de
-   la segmentation usuelle entre cadres et non-cadres, au profit d'une
+   la segmentation usuelle entre cadres et non-cadres, au profit d’une
    segmentation plus proche de la réalité du travail lors de la définition
    de politiques sur la charge de travail. Enfin, notre recherche souligne
-   aussi l'importance de la prise en compte du contenu du travail et pas
-   seulement de sa quantité pour évaluer la charge de travail d'une
-   personne. Finalement, les seuls indicateurs d'horaires deviennent
-   insuffisants et, au-delà de « l'intensification du travail » (Gollac,
+   aussi l’importance de la prise en compte du contenu du travail et pas
+   seulement de sa quantité pour évaluer la charge de travail d’une
+   personne. Finalement, les seuls indicateurs d’horaires deviennent
+   insuffisants et, au-delà de « l’intensification du travail » (Gollac,
    2011) et de sa « densité » (Hatzfeld, 2004), se pose aussi la question
    de son contenu, mais également des stratégies des acteurs.
 
 Conclusion
 
    Dans ce travail, nous avons cherché à analyser la répartition de la
-   charge de travail perçue à l'aune du système d'un établissement. Nous
+   charge de travail perçue à l’aune du système d’un établissement. Nous
    avons identifié quatre groupes de cadres ayant des perceptions
    homogènes de la charge de travail et des stratégies identiques pour y
-   faire face. Cela contribue à souligner l'importance des relations de
+   faire face. Cela contribue à souligner l’importance des relations de
    pouvoir, mais aussi des stratégies et des marges de manoeuvre des
    acteurs comme déterminants de la charge de travail perçue. Enfin, cela
    montre que les cadres ne constituent pas une catégorie tout à fait
    homogène en matière de charge de travail perçue.
 
    Cependant, ce travail présente des limites qui ouvrent sur de nouvelles
-   perspectives de recherche. Ainsi, il s'agit d'une étude de cas unique,
+   perspectives de recherche. Ainsi, il s’agit d’une étude de cas unique,
    avec un potentiel de généralisation faible. De plus, ce travail se
    concentre sur la charge de travail perçue et sur les déclarations des
-   acteurs, mais donne peu d'information sur la charge de travail
-   prescrite, ou réelle. Enfin, cette recherche ne s'intéresse pas au
-   poids de variables individuelles telles que le genre ou l'âge sur les
+   acteurs, mais donne peu d’information sur la charge de travail
+   prescrite, ou réelle. Enfin, cette recherche ne s’intéresse pas au
+   poids de variables individuelles telles que le genre ou l’âge sur les
    stratégies mises en oeuvre par les acteurs. Ce choix est dû au cadre
-   théorique de l'analyse systémique des organisations qui suppose de
-   considérer les individus en tant qu'acteurs, éclipsant ainsi leurs
+   théorique de l’analyse systémique des organisations qui suppose de
+   considérer les individus en tant qu’acteurs, éclipsant ainsi leurs
    caractéristiques individuelles (Friedberg, [1993] 1997). Pourtant,
    comme le soulignent les travaux quantitatifs mentionnés précédemment
    (notamment Brousse, 2015; Sautory et Zilloniz, 2015), des variables
-   individuelles comme le genre ou l'âge peuvent influer sur la charge de
-   travail ou, encore, sur la perception de l'équilibre vie privée -- vie
+   individuelles comme le genre ou l’âge peuvent influer sur la charge de
+   travail ou, encore, sur la perception de l’équilibre vie privée — vie
    professionnelle (Gordon, 2014; Beghiti-Mahut, 2015; Wils et Rhnima,
    2015). Cela nous semble constituer une perspective de recherche
    intéressante.
@@ -982,16 +981,16 @@ Notes
     2. [2]
        Contrairement au régime nord-américain, le régime de relations du
        travail français permet la syndicalisation des cadres. La CFE-CGC
-       est un syndicat de cadres, à l'inverse de la Confédération générale
-       du travail (CGT) évoquée plus bas. Suite à l'alerte, une
+       est un syndicat de cadres, à l’inverse de la Confédération générale
+       du travail (CGT) évoquée plus bas. Suite à l’alerte, une
        représentante de la CFE-CGC a été intégrée dans le comité de
-       pilotage de l'étude réalisée par le cabinet.
+       pilotage de l’étude réalisée par le cabinet.
     3. [3]
        Nous travaillions alors pour ce cabinet et avons pu utiliser le
        matériau obtenu dans des recherches ultérieures.
     4. [4]
-       Nous n'avons personnellement pas assisté aux entretiens de cadrage
-       qui ont été menés par d'autres consultants, mais nous avons pu
+       Nous n’avons personnellement pas assisté aux entretiens de cadrage
+       qui ont été menés par d’autres consultants, mais nous avons pu
        récupérer les retranscriptions. Nous avons pu, en revanche,
        effectuer des entretiens semi-directifs.
     5. [5]
@@ -1000,7 +999,7 @@ Notes
        Tous les liens entre deux variables mentionnés par la suite sont
        significatifs au seuil de 5 %.
     7. [7]
-       Les parts d'inertie expliquée sont respectivement de 17,84 % et de
+       Les parts d’inertie expliquée sont respectivement de 17,84 % et de
        11,20 %.
 
 Bibliographie
@@ -1021,20 +1020,20 @@ Bibliographie
        compter son temps ? » Travail et Emploi, 74, 37-50.
        10.3406/estat.2015.10560Google Scholar
     5. Bourgeois, Clémentine, Marc Ohana et Sarah Renault (2016) « Les
-       facteurs organisationnels du harcèlement moral : l'employeur est-il
+       facteurs organisationnels du harcèlement moral : l’employeur est-il
        responsable ? », Recherches en Sciences de Gestion, 1 (112),
        103-120.
        10.3917/resg.112.0103Google Scholar
     6. Brousse, Cécile (2015) « Travail professionnel, tâches domestiques,
-       temps `libre' : quelques déterminants sociaux de la vie
+       temps ‘libre’ : quelques déterminants sociaux de la vie
        quotidienne », Économie et Statistique, 478-480, 119-154.
        10.3406/estat.2015.10560Google Scholar
     7. Cadin, Loïc et Jean Pralong (2015) « Charge cognitive, confusion
        des mandats et identités professionnelles : un modèle de
-       l'attention managériale », Gestion 2000, 5 (32), 99-119.
+       l’attention managériale », Gestion 2000, 5 (32), 99-119.
        10.3917/g2000.325.0099Google Scholar
     8. Cazabat, Sandrine, Béatrice Barthe et Nadine Cascino (2008)
-       « Charge de travail et stress professionnel : deux facettes d'une
+       « Charge de travail et stress professionnel : deux facettes d’une
        même réalité ? Étude exploratoire dans un service de
        gérontologie », Perspectives interdisciplinaires sur le travail et
        la santé, [En ligne], 10 (1).
@@ -1043,26 +1042,26 @@ Bibliographie
        vers la civilisation des loisirs ? », Économie et statistique,
        352-353, 15-37.
        10.3406/estat.2002.7391Google Scholar
-   10. Cibois, Philippe (2009) Les Méthodes d'analyse d'enquête, Paris :
+   10. Cibois, Philippe (2009) Les Méthodes d’analyse d’enquête, Paris :
        PUF/Que sais-je.
        10.1016/j.ergon.2008.01.012Google Scholar
    11. Clot, Yves (2010) Le travail à coeur. Pour en finir avec les
        risques psychosociaux, Paris : La Découverte.
        10.3917/rsg.226.0157Google Scholar
-   12. Coutrot, Thomas et Loup Wolff (2006) « L'impact des conditions de
+   12. Coutrot, Thomas et Loup Wolff (2006) « L’impact des conditions de
        travail sur la santé : une expérience méthodologique », Rapport de
        recherche du CEE.
        Icône pour les DOIs Érudit 10.7202/1014741arGoogle Scholar
    13. Crozier, Michel [1964] (2001) Le Phénomène bureaucratique. Essai
-       sur les tendances bureaucratiques des systèmes d'organisation
+       sur les tendances bureaucratiques des systèmes d’organisation
        modernes et sur leurs relations en France avec le système social et
        culturel, Paris : Points.
        10.1016/j.ijpsycho.2011.09.023Google Scholar
-   14. Crozier, Michel et Erhard Friedberg [1977] (1981) L'Acteur et le
-       système. Les contraintes de l'action collective, Paris : Points
+   14. Crozier, Michel et Erhard Friedberg [1977] (1981) L’Acteur et le
+       système. Les contraintes de l’action collective, Paris : Points
        (2^e édition).
        10.3917/rimhe.026.0003Google Scholar
-   15. DARES (2014) « Les rythmes de travail en 2010 », Document d'études,
+   15. DARES (2014) « Les rythmes de travail en 2010 », Document d’études,
        avril 2014.
        10.3917/rimhe.005.0028Google Scholar
    16. DARES (2015) « Autonomie dans le travail. Enquêtes Conditions de
@@ -1079,7 +1078,7 @@ Bibliographie
        PUF Actuel Marx, 1 (39), 123-144.
        10.3917/amx.039.0123Google Scholar
    20. Delmas, Corinne (2012) « Mobilisation syndicale et expertise en
-       matière de risques psycho-sociaux », La Revue de l'IRES, 3 (74),
+       matière de risques psycho-sociaux », La Revue de l’IRES, 3 (74),
        153-176.
        10.3917/rdli.074.0153Google Scholar
    21. Delteil, Violaine et Émilie Genin (2004) « Les nouvelles frontières
@@ -1107,12 +1106,12 @@ Bibliographie
        Relations, 68 (1), 46-70.
        Icône pour les DOIs Érudit 10.7202/1014741arGoogle Scholar
    26. Friedberg, Erhard [1993] (1997) Le Pouvoir et la règle. Dynamiques
-       de l'action organisée, Paris : Points (2ème édition).
+       de l’action organisée, Paris : Points (2ème édition).
        10.3917/grh.144.0043Google Scholar
-   27. Friedberg, Erhard (1999) « L'entretien dans l'approche
-       organisationnelle de l'action collective : les cas des universités
+   27. Friedberg, Erhard (1999) « L’entretien dans l’approche
+       organisationnelle de l’action collective : les cas des universités
        et des politiques culturelles municipales », dans Samy Cohen
-       (dir.), L'Art d'interviewer les dirigeants, Paris : PUF, p. 85-106
+       (dir.), L’Art d’interviewer les dirigeants, Paris : PUF, p. 85-106
        10.4000/travailemploi.5547Google Scholar
    28. Galy, Edith, Magali Cariou et Claudine Mélan (2012) « What is the
        Relationship between Mental Workload Factors and Cognitive Load
@@ -1124,12 +1123,12 @@ Bibliographie
        et Entreprise, 2 (26), 3-25.
        10.3917/rimhe.026.0003Google Scholar
    30. Gautier, Laurence et Jocelyn Husser (2013) « Contribution
-       psychanalytique à l'approche des risques psychosociaux liés aux
+       psychanalytique à l’approche des risques psychosociaux liés aux
        conditions de travail », RIMHE : Revue Interdisciplinaire
        Management, Homme et Entreprise, 1 (5), 28-42.
        10.3917/rimhe.005.0028Google Scholar
    31. Genin, Émilie (2014) « Quels facteurs influencent la satisfaction
-       des cadres à l'égard de l'équilibre des temps (personnel et
+       des cadres à l’égard de l’équilibre des temps (personnel et
        professionnel) ? », @GRH, 1 (10), 87-107.
        10.3917/grh.141.0087Google Scholar
    32. Gintrac, Alain (2011) « Le stress au travail, un état des lieux »,
@@ -1140,7 +1139,7 @@ Bibliographie
        recomposition ou illusion ? », Sociologie du travail, 53, p. 3-36.
        10.1016/j.ergon.2016.09.003Google Scholar
    34. Gordon, Catherine E. (2014) « Flexible Workplace Practices :
-       Employee's Experiences in Small IT Firms », Relations
+       Employee’s Experiences in Small IT Firms », Relations
        industrielles/Industrial Relations, 69 (4), 766-784.
        Icône pour les DOIs Érudit 10.7202/1028111arGoogle Scholar
    35. Groulx, Lionel-H. (1997) « Querelles autour des méthodes »,
@@ -1153,7 +1152,7 @@ Bibliographie
        Theoretical Research », dans Peter A. Hancock et Najmedin Meshkati
        (dir.), Human Mental Workload, New York : Elsevier, p. 139-183.
        Icône pour les DOIs Érudit 10.7202/1033405arGoogle Scholar
-   37. Hatzfeld, Nicolas (2004) « L'intensification du travail en débat.
+   37. Hatzfeld, Nicolas (2004) « L’intensification du travail en débat.
        Ethnographie et histoire aux chaînes de Peugeot-Sochaux »,
        Sociologie du travail, 46, 291-307.
        Icône pour les DOIs Érudit 10.7202/016086arGoogle Scholar
@@ -1171,8 +1170,8 @@ Bibliographie
        France-Allemagne », dans Rachel Beaujolin-Bellet (dir.),
        Flexibilités et performances, Paris : La Découverte, p. 179-202.
        Google Scholar
-   41. Lhuilier, Dominique (2010) « L'invisibilité du travail réel et
-       l'opacité des liens santé-travail », Sciences sociales et santé, 28
+   41. Lhuilier, Dominique (2010) « L’invisibilité du travail réel et
+       l’opacité des liens santé-travail », Sciences sociales et santé, 28
        (2), 31-63.
        10.3917/sss.282.0031Google Scholar
    42. Linhart, Daniele (2009) « Les conditions paradoxales de la
@@ -1192,7 +1191,7 @@ Bibliographie
        Lallement et al., (dir.), « Maux du travail : dégradation,
        recomposition ou illusion ? », Sociologie du travail, 53, 3-36.
        Google Scholar
-   46. Machado, Tony, Pascale Desrumaux et Alain Lancry (2014) « L'apport
+   46. Machado, Tony, Pascale Desrumaux et Alain Lancry (2014) « L’apport
        de la pluralité des méthodes dans la prévention du risque
        psycho-socio-organisationnel », @GRH, 4 (13), 43-73.
        10.3917/grh.144.0043Google Scholar
@@ -1208,7 +1207,7 @@ Bibliographie
        and Physiological Reactions in Marine Pilots : Building Bridges
        toward Redlines of Performance », Applied Ergonomics, 69, 74-92.
        10.1016/j.apergo.2018.01.005Google Scholar
-   50. Pochic, Sophie (2004) « Le manager et l'expert : des figures
+   50. Pochic, Sophie (2004) « Le manager et l’expert : des figures
        imposées ? », dans Anousheh Karvar et Luc Rouban (dir.), Les cadres
        au travail. Les nouvelles règles du jeu, Paris : La Découverte, p.
        168-198.
@@ -1219,8 +1218,8 @@ Bibliographie
        Revue de gestion des ressources humaines, 1 (103), 3-19.
        10.3917/grhu.103.0003Google Scholar
    52. Randon, Sophie, Christophe Baret et Christine Prioul (2011) « La
-       prévention de l'absentéisme du personnel soignant en gériatrie : du
-       savoir académique à l'action managériale », Management et Avenir, 9
+       prévention de l’absentéisme du personnel soignant en gériatrie : du
+       savoir académique à l’action managériale », Management et Avenir, 9
        (49), 133-149.
        10.3917/mav.049.0133Google Scholar
    53. Rossano, Maryline, Emmanuel Abord de Chatillon et Céline Desmarais
@@ -1241,8 +1240,8 @@ Bibliographie
        Profiles: A Continuous Measure of Mental Workload », International
        Journal of Industrial Ergonomics, 63, 49-64.
        10.1016/j.ergon.2016.09.003Google Scholar
-   57. Sautory, Olivier et Sandra Zilloniz (2015) « De l'organisation des
-       journées à l'organisation de la semaine : des rythmes de travail
+   57. Sautory, Olivier et Sandra Zilloniz (2015) « De l’organisation des
+       journées à l’organisation de la semaine : des rythmes de travail
        socialement différenciés », Économie et Statistique, 478-480,
        155-188.
        10.3406/estat.2015.10561Google Scholar
@@ -1259,21 +1258,21 @@ Bibliographie
    60. Tirmarche, Olivier (2010) Au-delà de la souffrance au travail. Clés
        pour un autre management, Paris : Odile Jacob.
        Google Scholar
-   61. Weber, Florence (1995) « L'ethnographie armée par les
-       statistiques », Les Terrains de l'Enquête, 1.
+   61. Weber, Florence (1995) « L’ethnographie armée par les
+       statistiques », Les Terrains de l’Enquête, 1.
        10.4000/enquete.272Google Scholar
    62. Wils, Thierry et Aziz Rhnima (2015) « Taxonomie des conflits entre
-       le travail et la famille : une analyse multidimensionnelle à l'aide
+       le travail et la famille : une analyse multidimensionnelle à l’aide
        de cartes auto-organisatrices », Relations industrielles/Industrial
        Relations, 70 (3), 432-456.
        Icône pour les DOIs Érudit 10.7202/1033405arGoogle Scholar
-   63. Yin, Robert [1984] (1989) Case Study Research - Design and Methods,
+   63. Yin, Robert [1984] (1989) Case Study Research – Design and Methods,
        Applied Social Research Series, Londres : Sage.
        Google Scholar
    64. Zeytinoglu, Isik U., Margaret Denton, Sharon Davies, Andrea
-       Baumann, Jennifer Blythe et Linda Boos (2007) "Associations between
+       Baumann, Jennifer Blythe et Linda Boos (2007) “Associations between
        Work Intensification, Stress and Job Satisfaction: The Case of
-       Nurses in Ontario", Relations industrielles/Industrial Relations,
+       Nurses in Ontario”, Relations industrielles/Industrial Relations,
        62 (2), 201-225.
        Icône pour les DOIs Érudit 10.7202/016086arGoogle Scholar
 
@@ -1308,9 +1307,9 @@ Liste des tableaux
    Caractéristiques sociodémographiques des personnes interviewées
    Caractéristiques sociodémographiques des personnes interviewées
 
-   Note : Les caractéristiques sociodémographiques n'ont pas pu être
+   Note : Les caractéristiques sociodémographiques n’ont pas pu être
    toutes recueillies lors des entretiens exploratoires. La très grande
-   majorité d'hommes s'explique par le faible taux de féminisation de la
+   majorité d’hommes s’explique par le faible taux de féminisation de la
    population étudiée : 16 % (15 sur 94 cadres).
 
    Tableau 2
@@ -1325,7 +1324,7 @@ Autres articles de cette revue
    Par Pierrette Sartin
 
 Le lock-out et le chômage technique par Alain Ramin, Paris, Bibliothèque
-d'ouvrages de droit social, Tome XX, Librairie générale de droit et de
+d’ouvrages de droit social, Tome XX, Librairie générale de droit et de
 jurisprudence, 1977, 375 pp.
 
    Par André Camiré
@@ -1337,7 +1336,7 @@ Bert R. Brown, New York, Academic Press Inc., 1975, 359 pp.
 
 Aspects de la réalité syndicale québécoise, 1966, par François Delorme et
 Gaspar Lassonde, Québec, Direction générale de la recherche, ministère du
-Travail et de la Main-d'oeuvre, juillet 1978, 42 pp.
+Travail et de la Main-d’oeuvre, juillet 1978, 42 pp.
 
    Par Gérard Dion
 
@@ -1347,20 +1346,20 @@ Citer cet article
 
    MLA
           Coron, Clotilde. « La charge de travail perçue des cadres :
-          d'une typologie à une compréhension systémique. » Relations
+          d’une typologie à une compréhension systémique. » Relations
           industrielles / Industrial Relations, volume 74, numéro 1, hiver
-          2019, p. 117-140. https://doi.org/10.7202/1059467ar
+          2019, p. 117–140. https://doi.org/10.7202/1059467ar
 
    APA
-          Coron, C. (2019). La charge de travail perçue des cadres : d'une
+          Coron, C. (2019). La charge de travail perçue des cadres : d’une
           typologie à une compréhension systémique. Relations
-          industrielles / Industrial Relations, 74(1), 117-140.
+          industrielles / Industrial Relations, 74(1), 117–140.
           https://doi.org/10.7202/1059467ar
 
    Chicago
-          Coron, Clotilde « La charge de travail perçue des cadres : d'une
+          Coron, Clotilde « La charge de travail perçue des cadres : d’une
           typologie à une compréhension systémique ». Relations
-          industrielles / Industrial Relations 74, n^o 1 (2019) : 117-140.
+          industrielles / Industrial Relations 74, n^o 1 (2019) : 117–140.
           https://doi.org/10.7202/1059467ar
      __________________________________________________________________
 
@@ -1377,7 +1376,7 @@ Exporter la notice de cet article
 
    ____________________
 
-   S'inscrire à l'infolettre d'Érudit
+   S’inscrire à l’infolettre d’Érudit
 
    Abonnez-vous à notre infolettre :
    ____________________ S'inscrire
@@ -1393,7 +1392,7 @@ Exporter la notice de cet article
      * Livres et actes
      * Rapports de recherche
 
-   Logo d'Érudit Cultivez votre savoir.
+   Logo d’Érudit Cultivez votre savoir.
 
    Suivez-nous :
      *
@@ -1408,6 +1407,6 @@ Exporter la notice de cet article
 
      * Politique de confidentialité
      * Politique relative aux cookies
-     * Politique et licence d'utilisation
+     * Politique et licence d’utilisation
 
    © 2025 Consortium Érudit

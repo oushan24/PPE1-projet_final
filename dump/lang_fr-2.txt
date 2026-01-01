@@ -21,7 +21,7 @@
           + Exposition d'affiches (histoire des affiches de prévention de
             l'INRS depuis 1947)
           + #Morteltontaf
-          + Avec les machines, le risque est toujours là
+          + Avec les machines, le risque est toujours l
           + Portail documentaire INRS
      * English website
 
@@ -29,7 +29,7 @@
    travail
 
    Recherche rapide :
-   Mots-clés recherchés : ____________________ OK
+   Mots-clés recherchés ______________________ OK
      * INRS
      * Actualités
      * Démarches de prévention
@@ -46,7 +46,7 @@
 
      * Envoyer la page à un ami
      * Imprimer le contenu de la page
-     * Contacter l'INRS par mail
+     * Contacter l’INRS par mail
      *
           +
           +
@@ -94,7 +94,7 @@ manutentions manuelles" (ED 776).
    Date de publication
    03/2019
 
-   Toutes les publications de l'INRS
+   Toutes les publications de l’INRS
 
    Evaluation des risques et document unique
      * Brochures, dépliants, fiches
@@ -127,7 +127,7 @@ manutentions manuelles" (ED 776).
    54400 abonnés
    Agenda
 
-   Webinaire - Evaluation des risques dans le domaine du transport : des
+   Webinaire – Evaluation des risques dans le domaine du transport : des
    outils pour vous aider
 
    Logo Agenda le 20/01/2026

@@ -26,8 +26,8 @@ Navigation principale
                     # Retour
                o Organigramme
                o Conseil d'administration
-               o Comités d'experts permanents
-                    # Comités d'experts permanents
+               o Comités d’experts permanents
+                    # Comités d’experts permanents
                     # Comité de Surveillance provinciale des infections
                       nosocomiales (SPIN)
                     # Comité consultatif québécois sur la santé des
@@ -38,8 +38,8 @@ Navigation principale
                       (CINQ)
                     # Comité sur les infections transmissibles
                       sexuellement et par le sang (CITSS)
-                    # Comité sur l'immunisation du Québec (CIQ)
-                    # Comité d'experts en retraitement des dispositifs
+                    # Comité sur l’immunisation du Québec (CIQ)
+                    # Comité d’experts en retraitement des dispositifs
                       médicaux (CERDM)
                     # Retour
                o Documents institutionnels
@@ -75,7 +75,7 @@ Navigation principale
           + Nous joindre
                o Nous joindre
                o Lieux de travail
-               o Gestion des plaintes - Contrats publics
+               o Gestion des plaintes – Contrats publics
                o Retour
           + Fermer Retour
      * Expertises
@@ -101,7 +101,7 @@ Navigation principale
                     # Interventions pour promouvoir la santé mentale
                     # Données et mesures
                     # Comportements suicidaires
-                    # La santé mentale dans les médias et l'espace public
+                    # La santé mentale dans les médias et l’espace public
                     # Veille scientifique
                     # Retour
                o L'Indicateur de santé publique
@@ -164,7 +164,7 @@ Navigation principale
                     # Retour
                o Alimentation
                     # Alimentation
-                    # Achats alimentaires en supermarchés et magasins à
+                    # Achats alimentaires en supermarchés et magasins 
                       grande surface
                     # Cibles de reformulation des aliments transformés
                     # Environnements favorables à la santé
@@ -189,11 +189,11 @@ Navigation principale
                  désirées
                o Comité sur les habitudes de vie
                o Retour
-          + Substances psychoactives, tabac et jeux d'argent
-               o Substances psychoactives, tabac et jeux d'argent
+          + Substances psychoactives, tabac et jeux d’argent
+               o Substances psychoactives, tabac et jeux d’argent
                o Alcool
                     # Alcool
-                    # Coup d'oeil sur l'alcool
+                    # Coup d’œil sur l'alcool
                     # Données
                     # Bulletin analytique
                     # Veille scientifique
@@ -201,7 +201,7 @@ Navigation principale
                     # Retour
                o Cannabis
                     # Cannabis
-                    # Coup d'oeil sur le cannabis
+                    # Coup d’œil sur le cannabis
                     # Conséquences sanitaires
                     # Données
                     # Contenu pour les équipes de santé publique
@@ -217,24 +217,24 @@ Navigation principale
                     # Veille scientifique
                     # Veille médiatique
                     # Retour
-               o Tabac et cigarette électronique
-                    # Tabac et cigarette électronique
-                    # Coup d'oeil sur le tabac
+               o Tabac et cigarette électronique​
+                    # Tabac et cigarette électronique​
+                    # Coup d’œil sur le tabac
                     # Données
                     # Bulletin analytique
                     # Veille scientifique
                     # Veille médiatique
                     # Retour
-               o Jeux de hasard et d'argent
-                    # Jeux de hasard et d'argent
-                    # Coup d'oeil sur les JHA
+               o Jeux de hasard et d’argent
+                    # Jeux de hasard et d’argent
+                    # Coup d’œil sur les JHA
                     # Cartographie du jeu au Québec
                     # Données
                     # Veille analytique
                     # Veille scientifique
                     # Veille médiatique
                     # Retour
-               o Projets multithématiques
+               o Projets multithématiques​
                o Ressources d'aide
                o Bulletins d'information
                o Retour
@@ -281,8 +281,8 @@ Navigation principale
                     # Rage
                     # Autres zoonoses et maladies émergentes
                     # Observatoire multipartite québécois sur les zoonoses
-                      et l'adaptation aux changements climatiques
-                    # Comité scientifique sur les zoonoses et l'adaptation
+                      et l’adaptation aux changements climatiques
+                    # Comité scientifique sur les zoonoses et l’adaptation
                       aux changements climatiques
                     # Veille sur les zoonoses
                     # Cartes de répartition actuelle et future
@@ -324,7 +324,7 @@ Navigation principale
                     # Bulletin info-RPS
                     # Harcèlement psychologique au travail
                     # Recueil de fiches portant sur les indicateurs de la
-                      Grille d'identification de risques psychosociaux du
+                      Grille d’identification de risques psychosociaux du
                       travail
                     # Retour
                o Maternité et travail
@@ -425,8 +425,8 @@ Navigation principale
           + Fermer Retour
      * Services
           + Services
-          + Analyse des données de santé et systèmes d'information
-               o Analyse des données de santé et systèmes d'information
+          + Analyse des données de santé et systèmes d’information
+               o Analyse des données de santé et systèmes d’information
                o Géomatique
                     # Géomatique
                     # Géoportail de santé publique du Québec
@@ -436,7 +436,7 @@ Navigation principale
                     # Infocentre de santé publique
                     # Formulaire de demande (BIESP)
                     # Retour
-               o Systèmes d'information
+               o Systèmes d’information
                o Retour
           + Centre de toxicologie du Québec
                o Centre de toxicologie du Québec
@@ -449,7 +449,7 @@ Navigation principale
                     # Répertoire des analyses
                     # Requêtes des analyses
                     # Expertise en biosurveillance
-                    # Offre de services à l'intention du réseau de santé
+                    # Offre de services à l’intention du réseau de santé
                       publique
                     # Expédition des échantillons
                     # Paiement de facture PayPal
@@ -458,11 +458,11 @@ Navigation principale
                     # Programmes d'assurance qualité externes
                     # AMAP : AMAP Ring Test pour les polluants organiques
                       persistants dans le sérum humain
-                    # Créatinine : Programme d'assurance qualité externe
+                    # Créatinine : Programme d’assurance qualité externe
                       pour la mesure de la créatinine sérique
                     # OSEQAS : Programme sur les substances organiques
                       urinaires
-                    # PCI : Programme d'assurance qualité externe pour les
+                    # PCI : Programme d’assurance qualité externe pour les
                       métaux en milieu biologique
                     # QMEQAS : Programme d'assurance qualité externe
                       multiélément
@@ -477,8 +477,8 @@ Navigation principale
                     # Soumettre une demande
                     # Retour
                o Retour
-          + Évaluation d'impact sur la santé
-               o Évaluation d'impact sur la santé
+          + Évaluation d’impact sur la santé
+               o Évaluation d’impact sur la santé
                o Formation, outils et connaissances
                o EIS réalisées au Québec
                o Répertoire de publications utiles
@@ -527,12 +527,12 @@ Navigation principale
                o Recherche et développement
                o Surveillance en laboratoire des infections
                o Certification des unités de mammographie
-               o Permis d'exploitation des laboratoires privés
-                    # Permis d'exploitation des laboratoires privés
+               o Permis d’exploitation des laboratoires privés
+                    # Permis d’exploitation des laboratoires privés
                     # Laboratoires de biologie médicale : permis
                       d'exploitation
-                    # Laboratoires de radiologie : processus d'émission
-                      d'un permis
+                    # Laboratoires de radiologie : processus d’émission
+                      d’un permis
                     # Retour
                o Programme d'évaluation externe de la qualité
                     # Programme d'évaluation externe de la qualité
@@ -543,7 +543,7 @@ Navigation principale
                     # Programme d'hémodialyse
                     # Programme de fluoration des eaux de consommation au
                       Québec
-                    # Eaux purifiées de laboratoire et d'usage en milieu
+                    # Eaux purifiées de laboratoire et d’usage en milieu
                       hospitalier
                     # Retour
                o Retour
@@ -557,7 +557,7 @@ Navigation principale
                     # Processus d'évaluation
                     # Droits et responsabilités
                     # Retour
-               o Soutien aux situations complexes de l'infection par le
+               o Soutien aux situations complexes de l’infection par le
                  VIH
                o Retraitement des dispositifs médicaux
                o Retour
@@ -592,7 +592,7 @@ Navigation principale
                o Santé physique et mentale
                o Santé publique
                o Sécurité et prévention de la violence
-               o Substances psychoactives, tabac et jeux d'argent
+               o Substances psychoactives, tabac et jeux d’argent
                o Calendrier des événements
                o Ateliers de santé environnementale
                     # Ateliers de santé environnementale
@@ -622,7 +622,7 @@ Navigation principale
                o Responsabilité populationnelle
                     # Responsabilité populationnelle
                     # Pourquoi assumer la responsabilité populationnelle?
-                    # Quelle est la stratégie ministérielle en soutien à
+                    # Quelle est la stratégie ministérielle en soutien 
                       l'exercice de la responsabilité populationnelle?
                     # Comment assumer la responsabilité populationnelle?
                     # Retour
@@ -649,7 +649,7 @@ Navigation principale
                       de la structure du projet avec les partenaires
                     # Planifier la réalisation du projet et convenir des
                       modalités de soutien
-                    # Mettre en oeuvre, suivre le projet et l'adapter
+                    # Mettre en œuvre, suivre le projet et l'adapter
                     # Faire le bilan du projet
                     # Faciliter le changement
                     # Retour
@@ -676,7 +676,7 @@ Navigation principale
                o Liens utiles
                o Retour
           + Journées annuelles de santé publique
-          + Soutien à l'apprenant - Foire aux questions
+          + Soutien à l’apprenant - Foire aux questions
           + Rendez-vous recherche et innovation en santé publique
           + Fermer Retour
      * Nos productions
@@ -715,7 +715,7 @@ Navigation principale
                     # Environnement bâti
                     # Poids
                     # Santé dentaire
-                    # Substances psychoactives, tabac et jeuxd'argent
+                    # Substances psychoactives, tabac et jeux d’argent
                     # Transport actif
                     # Retour
                o Hémovigilance
@@ -810,20 +810,20 @@ Navigation principale
           + Fermer Retour
      * Emplois
           + Emplois
-          + Travailler à l'INSPQ
-               o Travailler à l'INSPQ
+          + Travailler à l’INSPQ
+               o Travailler à l’INSPQ
                o Équité, diversité et inclusion
                o Processus de recrutement
                o Retour
-          + Domaines d'emploi
-               o Domaines d'emploi
+          + Domaines d’emploi
+               o Domaines d’emploi
                o Administration et soutien scientifique
                o Gestion
                o Laboratoire
                o Science
-               o Technologies de l'information
+               o Technologies de l’information
                o Retour
-          + Façonner l'avenir de la santé publique
+          + Façonner l’avenir de la santé publique
           + Stages
           + Fermer Retour
      * Sondages
@@ -833,16 +833,16 @@ Navigation principale
                o Répondre à la collecte du 28 décembre 2025 au 3 janvier
                  2026
                o Retour
-          + Besoins de formation sur l'âgisme
+          + Besoins de formation sur l’âgisme
           + Étude sur les blessures subies au cours de la pratique
-            d'activités récréatives et sportives au Québec en 2025 (EBARS)
+            d’activités récréatives et sportives au Québec en 2025 (EBARS)
           + Fermer Retour
 
    Danger page
 
 Recherche
 
-   Chercher par mots-clés ______________________________
+   Chercher par mots-clés_______________________________
    Type de contenu [Type de contenu_______]
    Rechercher
 
@@ -853,22 +853,22 @@ Fil d'Ariane
      * Santé au travail
      * Risques psychosociaux du travail
      * Recueil de fiches portant sur les indicateurs de la Grille
-       d'identification de risques psychosociaux du travail
-     * Composantes clés de l'organisation du travail
+       d’identification de risques psychosociaux du travail
+     * Composantes clés de l’organisation du travail
      * Fiche 2-A : Charge de travail
 
 Fiche 2-A : Indicateur « Charge de travail »
 
-Qu'est-ce que la charge de travail?
+Qu’est-ce que la charge de travail?
 
    La charge de travail est un concept complexe à définir et va au-delà de
-   la quantité de travail prescrite par l'employeur. Elle comporte une
+   la quantité de travail prescrite par l’employeur. Elle comporte une
    dimension subjective : la charge de travail ressentie est aussi
    importante que la charge de travail demandée. Elle doit être abordée de
    façon globale en tenant compte de la complexité du travail réel, des
    demandes formelles et informelles qui sont faites aux travailleurs, des
    ressources et des outils mis à la disposition de chacun pour réaliser
-   le travail, du temps disponible et des imprévus que l'on ne peut pas
+   le travail, du temps disponible et des imprévus que l’on ne peut pas
    toujours prévoir et qui ont un impact sur la charge de travail.
 
    En matière de risques psychosociaux, la charge de travail réfère à la
@@ -880,7 +880,7 @@ Qu'est-ce que la charge de travail?
    Exemples de questions posées aux travailleurs pour évaluer la charge de
    travail
      * Votre charge de travail vous apparait-elle excessivement élevée?
-     * Avez-vous l'impression que vous devez travailler très fort?
+     * Avez-vous l’impression que vous devez travailler très fort?
      * Votre travail est-il très mouvementé?
      * Votre travail exige-t-il de vous concentrer intensément durant de
        longues périodes?
@@ -888,23 +888,23 @@ Qu'est-ce que la charge de travail?
      * Votre tâche est-elle souvent interrompue?
      * Avez-vous suffisamment de temps pour terminer votre travail?
 
-Pourquoi s'en préoccuper?
+Pourquoi s’en préoccuper?
 
-   L'intensification du travail est un phénomène de plus en plus présent
-   qui découle des grands changements des formes d'organisation du
+   L’intensification du travail est un phénomène de plus en plus présent
+   qui découle des grands changements des formes d’organisation du
    travail. Ce phénomène se traduit par une augmentation constante de la
    charge de travail et une mobilisation accrue des capacités
    intellectuelles, psychologiques et physiques des travailleurs.
 
    La charge de travail est un facteur de risque important pour la santé.
-   Plusieurs études ont montré des liens entre une combinaison d'une
+   Plusieurs études ont montré des liens entre une combinaison d’une
    charge de travail élevée et une faible autonomie décisionnelle et les
    maladies mentales, musculo-squelettiques et cardiovasculaires.
 
-   En plus de la hausse de l'absentéisme et du présentéisme, une charge de
+   En plus de la hausse de l’absentéisme et du présentéisme, une charge de
    travail élevée peut avoir des impacts négatifs sur les organisations.
-   Par exemple, l'augmentation de la charge de travail freinerait
-   l'initiative et la créativité des travailleurs. Aussi, une charge de
+   Par exemple, l’augmentation de la charge de travail freinerait
+   l’initiative et la créativité des travailleurs. Aussi, une charge de
    travail élevée chez les gestionnaires nuirait à la mise en place de
    pratiques de gestion qui favorisent le soutien et la disponibilité du
    supérieur immédiat.
@@ -912,17 +912,17 @@ Pourquoi s'en préoccuper?
 Quelles pratiques privilégier?
 
    Voici des exemples de pratiques organisationnelles et de gestion
-   susceptibles d'avoir des effets positifs sur l'indicateur : charge de
+   susceptibles d’avoir des effets positifs sur l’indicateur : charge de
    travail.
      * Définir les rôles et les responsabilités de chacun en favorisant la
        participation des travailleurs concernés et en effectuant des
-       révisions régulièrement. S'assurer que les tâches établies sont
-       réalisables à l'intérieur des heures régulières de travail;
+       révisions régulièrement. S’assurer que les tâches établies sont
+       réalisables à l’intérieur des heures régulières de travail;
      * Mettre en place des moyens pour permettre de bien connaître la
        charge de travail réelle de façon régulière et de la réajuster en
        fonction des nouvelles demandes, des capacités des personnes et des
        imprévus qui surviennent. Par exemple :
-          + faire des réunions d'équipe hebdomadaires,
+          + faire des réunions d’équipe hebdomadaires,
           + permettre des échanges entre collègues sur les difficultés
             rencontrées afin de trouver de nouvelles façons de les
             surmonter,
@@ -931,25 +931,25 @@ Quelles pratiques privilégier?
             et évaluer si les moyens pour y arriver sont suffisants.
      * Remplacer les personnes qui quittent pour des raisons de maladie ou
        pour la retraite;
-     * Ajouter des ressources ou faire appel à des ressources d'appoint en
+     * Ajouter des ressources ou faire appel à des ressources d’appoint en
        période de surcharge;
      * Redéfinir les priorités en laissant de côté certaines tâches après
        avoir consulté les travailleurs concernés;
      * Implanter les changements de façon progressive, en y allant par
        phases entrecoupées de périodes de stabilisation pour permettre la
-       récupération et le temps d'appropriation aux changements;
+       récupération et le temps d’appropriation aux changements;
      * Favoriser la participation des travailleurs aux changements et
-       s'assurer de fournir la formation adéquate pour ajuster leur
+       s’assurer de fournir la formation adéquate pour ajuster leur
        travail aux nouvelles façons de faire;
-     * S'assurer d'une bonne adéquation entre la nature et la quantité de
+     * S’assurer d’une bonne adéquation entre la nature et la quantité de
        travail et les capacités et les habiletés des travailleurs;
      * Mettre en place un plan de développement des compétences en
        permettant du coaching, du mentorat, du codéveloppement et des
        activités de formation appropriées;
-     * Prendre en compte le temps d'apprentissage dans la répartition de
+     * Prendre en compte le temps d’apprentissage dans la répartition de
        la charge de travail;
-     * Définir les plans d'action en fonction d'une planification de la
-       main-d'oeuvre basée sur une projection réaliste des besoins.
+     * Définir les plans d’action en fonction d’une planification de la
+       main-d’œuvre basée sur une projection réaliste des besoins.
 
 Références et liens utiles
 
@@ -967,9 +967,9 @@ Références et liens utiles
 
 Liens transversaux de livre pour 11400
 
-     * < Composantes clés de l'organisation du travail
+     * ‹ Composantes clés de l’organisation du travail
      * Haut
-     * Fiche 2-B : Indicateur « Reconnaissance au travail » >
+     * Fiche 2-B : Indicateur « Reconnaissance au travail » ›
 
      * Santé au travail
           + Santé au travail
@@ -985,7 +985,7 @@ Liens transversaux de livre pour 11400
                       reliées
                     # Exposition de la population (BUTTON)
                          @ Exposition de la population
-                         @ Concentrations dans l'air ambiant
+                         @ Concentrations dans l’air ambiant
                          @ Concentration dans les résidus miniers
                          @ Évaluation du risque dans la population de
                            Thetford Mines
@@ -1000,21 +1000,21 @@ Liens transversaux de livre pour 11400
                     Maladies dans la population générale (BUTTON)
                          @ Maladies dans la population générale
                          @ Nombre de nouveaux cas
-                         @ Attribuables à une exposition à l'amiante
+                         @ Attribuables à une exposition à l’amiante
                          @ Âge des nouveaux cas
-                         @ Nombre de décès par maladies reliées à
-                           l'exposition à l'amiante
-                         @ Taux annuels d'incidence et de mortalité et
+                         @ Nombre de décès par maladies reliées 
+                           l’exposition à l’amiante
+                         @ Taux annuels d’incidence et de mortalité et
                            tendances temporelles (BUTTON)
-                              - Taux annuels d'incidence et de mortalité
+                              - Taux annuels d’incidence et de mortalité
                                 et tendances temporelles
                               - Amiantose
                               - Mésothéliome de la plèvre
                               - Mésothéliome du péritoine
-                              - Variation régionale de taux d'incidence
+                              - Variation régionale de taux d’incidence
                               - Comparaisons mésothéliome de la plèvre
                                 Québec/reste de Canada
-                              - Cancers du larynx et de l'ovaire
+                              - Cancers du larynx et de l’ovaire
                               - Plaques pleurales
                          Maladies selon les données du Système
                            MADO-Chimique (BUTTON)
@@ -1041,7 +1041,7 @@ Liens transversaux de livre pour 11400
                                    = Anomalies compatibles avec une
                                      amiantose
                                    = Anomalies compatibles avec une
-                                     exposition à l'amiante
+                                     exposition à l’amiante
                               Références
                               Produits en amiante / fournisseurs
                               Troubles musculo-squelettiques liés au
@@ -1085,11 +1085,11 @@ Liens transversaux de livre pour 11400
                                    Harcèlement psychologique au travail
                                    Recueil de fiches portant sur les
                                      indicateurs de la Grille
-                                     d'identification de risques
+                                     d’identification de risques
                                      psychosociaux du travail (BUTTON)
                                    + Recueil de fiches portant sur les
                                      indicateurs de la Grille
-                                     d'identification de risques
+                                     d’identification de risques
                                      psychosociaux du travail
                                    + Fiche synthèse de la démarche et des
                                      indicateurs de la Grille
@@ -1098,7 +1098,7 @@ Liens transversaux de livre pour 11400
                                    o Contexte de travail et mesures de
                                      prévention en place
                                    o Fiche 1-A : Contexte de travail et
-                                     d'emploi
+                                     d’emploi
                                    o Fiche 1-B : Absentéisme maladie et
                                      présentéisme
                                    o Fiche 1-C : Activités ou politique de
@@ -1110,9 +1110,9 @@ Liens transversaux de livre pour 11400
                                    o Fiche 1-F : Activités ou politique de
                                      conciliation travail et vie
                                      personnelle
-                                   Composantes clés de l'organisation du
+                                   Composantes clés de l’organisation du
                                      travail (BUTTON)
-                                   o Composantes clés de l'organisation du
+                                   o Composantes clés de l’organisation du
                                      travail
                                    o Fiche 2-A : Charge de travail
                                    o Fiche 2-B : Reconnaissance au travail
@@ -1131,8 +1131,8 @@ Liens transversaux de livre pour 11400
                                      Accueil Logo INSPQ
 
 Les Résonances
-                                     Le bulletin d'information de
-                                     l'Institut
+                                     Le bulletin d’information de
+                                     l’Institut
                                      Abonnez-vous
 
 Footer-First column

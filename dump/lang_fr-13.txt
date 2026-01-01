@@ -2,7 +2,7 @@
      * Aller au menu
 
    Santé et sécurité Provence-Alpes-Côte d'Azur
-   Prévenir les risques professionnels en Provence-Alpes-Côte d'Azur
+   Prévenir les risques professionnels en Provence-Alpes-Côte d’Azur
    [ ]
      * Accueil
      * Qui sommes-nous ?
@@ -86,8 +86,8 @@ d'évaluation des risques
    Dernière modification : 29 juin 2018
 
      Les RPS sont définis comme les risques pour la santé mentale,
-     physique et sociale, engendrés par les conditions d'emploi et les
-     facteurs organisationnels et relationnels, susceptibles d'interagir
+     physique et sociale, engendrés par les conditions d’emploi et les
+     facteurs organisationnels et relationnels, susceptibles d’interagir
      avec le fonctionnement mental .
 
      Définition Larousse
@@ -95,8 +95,8 @@ d'évaluation des risques
    Prise en compte de l'aspect lié à la charge de travail dans la démarche
    d'évaluation des risques
 
-Travaux encadrés d'alternants réalisés dans le cadre du module « Facteurs de
-risque et prévention » Master IS-PRNT - Année 2017/2018
+Travaux encadrés d’alternants réalisés dans le cadre du module « Facteurs de
+risque et prévention » Master IS-PRNT – Année 2017/2018
 
    Composition du Groupe de travail : VOISINNE Rémy BAILLE Alexandre
    PANIER Jean-Baptiste
@@ -104,12 +104,12 @@ risque et prévention » Master IS-PRNT - Année 2017/2018
    Olivier BATAILLE et Cyril PUJOL Avec alternants Laurène DANIELE et
    Victoria FELIX, de M2 IS-PRNT en conduite de projet
 
-   Toute entreprise est confrontée à la nécessité d'ajuster finement les
+   Toute entreprise est confrontée à la nécessité d’ajuster finement les
    effectifs à ses besoins de production ou de réalisation de services. En
-   l'absence d'un tel effort, les risques encourus pour la charge de
+   l’absence d’un tel effort, les risques encourus pour la charge de
    travail sont de deux ordres : individuel (la santé et le bien-être des
    salariés) et collectif (la qualité du service et la performance de
-   l'entreprise).
+   l’entreprise).
 
 Récapitulatif des conséquences des RPS dans le monde du travail
 
@@ -124,7 +124,7 @@ Salariés
      * Troubles Musculo-Squelettiques
      * Troubles anxio-dépressifs
      * Suicide ou tentative de suicide
-     * Impact sur l'entourage
+     * Impact sur l’entourage
 
 Entreprise
 
@@ -134,11 +134,11 @@ Entreprise
      * Augmentation du turn-over
      * Actes de malveillance ou de violence au travail
 
-Méthode d'analyse d'une charge de travail
+Méthode d’analyse d’une charge de travail
 
-Préparation de la démarche d'évaluation des risques
+Préparation de la démarche d’évaluation des risques
 
-     * Constitution d'un Groupe de travail (direction, agent référent,
+     * Constitution d’un Groupe de travail (direction, agent référent,
        représentant du personnel, salariés volontaires)
      * Déterminer des unités de travail
      * Information du personnel
@@ -146,7 +146,7 @@ Préparation de la démarche d'évaluation des risques
 Pré-diagnostic
 
    Mettre en place des indicateurs les plus pertinents en fonction de
-   l'activité.
+   l’activité.
 
 Choix de la méthode
 
@@ -156,19 +156,19 @@ Choix de la méthode
 
 Identifier les facteurs de RPS dans les unités de travail
 
-   Cette analyse permet d'identifier sept grandes familles de facteurs de
-   risque à l'origine de l'apparition de RPS afin de les analyser et
-   procéder à l'évaluation des risques
+   Cette analyse permet d’identifier sept grandes familles de facteurs de
+   risque à l’origine de l’apparition de RPS afin de les analyser et
+   procéder à l’évaluation des risques
 
 Classement des facteurs de risques et intégration dans le document unique.
 
-   La grille d'analyse des RPS recense les 7 grandes familles de risque et
+   La grille d’analyse des RPS recense les 7 grandes familles de risque et
    les facteurs de risques associés. Les résultats de cette évaluation
    permettent de comparer les RPS aux autres risques identifiés.
-   C'est donc une synthèse des résultats qui est reporté dans le document
+   C’est donc une synthèse des résultats qui est reporté dans le document
    unique.
 
-Détermination des mesures de prévention, réalisation d'un plan d'actions et
+Détermination des mesures de prévention, réalisation d’un plan d’actions et
 suivi.
 
    Ces mesures de prévention doivent respecter les neuf principes généraux
@@ -181,27 +181,27 @@ Les différentes charges de travail
 
      * La charge de travail Prescrite (P), est la tâche au sens
        ergonomique ;
-     * La charge de travail Réelle (R), est l'astreinte au sens
+     * La charge de travail Réelle (R), est l’astreinte au sens
        ergonomique, le « coût » que le salarié «défraye» pour réaliser
-       l'activité ;
+       l’activité ;
      * La charge de travail Subjective (S), est la charge de travail
        ressentie par le salarié.
 
 Les travailleurs les plus exposés
 
-     * Le travailleur nomade, qui travaillent à d'autres postes que son
+     * Le travailleur nomade, qui travaillent à d’autres postes que son
        poste habituel.
      * Les télétravailleurs, les salariés qui peuvent réaliser leurs
        activités depuis leur domicile.
 
-La prise en compte de la charge de travail dans l'évaluation des RPS
+La prise en compte de la charge de travail dans l’évaluation des RPS
 
-   Lors de l'évaluation la prise en compte de la charge de travail est
+   Lors de l’évaluation la prise en compte de la charge de travail est
    souvent absente.
    Afin de réaliser une bonne étude de la charge de travail, de plus en
-   plus d'organismes tels que l'ANACT propose des modèles, des concepts
-   afin d'obtenir la meilleure visualisation de la charge de travail
-   imposée sur les différents travailleurs d'une entreprise.
+   plus d’organismes tels que l’ANACT propose des modèles, des concepts
+   afin d’obtenir la meilleure visualisation de la charge de travail
+   imposée sur les différents travailleurs d’une entreprise.
    Pour terminer, ce facteur concernant la prise en compte de la charge de
    travail, ne doit en aucun cas être biaisé, sinon une mauvaise
    évaluation des RPS pourrait en découler.
@@ -210,7 +210,7 @@ Focus sur les nouvelles technologies/innovations pour pallier à ceci
 
      * Les NTIC ont tendance à accélérer le rythme de la vie quotidienne
        et introduire davantage de stress ;
-     * L'informatisation de nombreux emplois dans l'industrie ainsi que la
+     * L’informatisation de nombreux emplois dans l’industrie ainsi que la
        robotisation des usines, conduit à une augmentation notable du
        chômage ;
      * Les NTIC nécessitent des niveaux de compétences et/ou de
@@ -224,9 +224,9 @@ Focus sur les nouvelles technologies/innovations pour pallier à ceci
      * Il est rare que les gens travaillant dans les NTIC restent dans le
        même poste pendant plusieurs années, la technologie évoluant.
 
-Reconnaissance de RPS en tant qu'AT ou MP par la Sécurité Sociale
+Reconnaissance de RPS en tant qu’AT ou MP par la Sécurité Sociale
 
-   Auparavant les RPS n'étaient pas pris en compte comme AT ou MP par la
+   Auparavant les RPS n’étaient pas pris en compte comme AT ou MP par la
    Sécurité Sociale.
    Cependant de nos jours la reconnaissance à tendance à se développer en
    raison du nombre de contentieux en perpétuelle augmentation.

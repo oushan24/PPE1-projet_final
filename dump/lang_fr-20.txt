@@ -1,10 +1,10 @@
-   #Charge de travail et stress professionnel : deux facettes d'une même
+   #Charge de travail et stress professionnel : deux facettes d’une même
    réalité ? Work load and job stress: two facets of the same situation?
    Exploratory study in a gerontology department Perspectives
    interdisciplinaires sur le travail et la santé, Numéros Perspectives
    interdisciplinaires sur le travail et la santé, Documents
 
-   Navigation - Plan du site
+   Navigation – Plan du site
 
 Perspectives interdisciplinaires sur le travail et la santé Perspectives
 interdisciplinaires sur le travail et la santé
@@ -17,7 +17,7 @@ interdisciplinaires sur le travail et la santé
    Communauté
    Recherche
 
-Charge de travail et stress professionnel : deux facettes d'une même
+Charge de travail et stress professionnel : deux facettes d’une même
 réalité ?
 
    Étude exploratoire dans un service de gérontologie
@@ -38,24 +38,24 @@ Résumés
 
    Français English Español
 
-   Cet article tente d'aborder les concepts de charge de travail et de
+   Cet article tente d’aborder les concepts de charge de travail et de
    stress professionnel de façon conjointe, en combinant une approche
    psychosociale et une approche ergonomique. Cette étude exploratoire a
-   été menée auprès des infirmières d'un service hospitalier de
-   gérontologie. L'objectif est de savoir, d'une part, si une augmentation
+   été menée auprès des infirmières d’un service hospitalier de
+   gérontologie. L’objectif est de savoir, d’une part, si une augmentation
    de la charge de travail conduit à une hausse du niveau de stress perçu
-   et, d'autre part, si les infirmières adoptent des processus de
+   et, d’autre part, si les infirmières adoptent des processus de
    régulation appuyés sur le soutien social. Les premiers résultats
-   montrent que l'augmentation des scores de stress perçu est associée à
-   une augmentation du nombre d'aspects du travail jugés stressants et une
+   montrent que l’augmentation des scores de stress perçu est associée 
+   une augmentation du nombre d’aspects du travail jugés stressants et une
    baisse des efforts physiques. Ils montrent que les scores de stress les
-   plus bas apparaissent quand les infirmières bénéficient d'une aide pour
-   réaliser leurs tâches et que leur activité de travail n'est pas
+   plus bas apparaissent quand les infirmières bénéficient d’une aide pour
+   réaliser leurs tâches et que leur activité de travail n’est pas
    interrompue. Enfin, les scores de stress les plus élevés surviennent
-   lorsque les infirmières ne s'entraident pas. Ces résultats témoignent
-   de la mise en place d'un processus de régulation à la fois adaptatif et
+   lorsque les infirmières ne s’entraident pas. Ces résultats témoignent
+   de la mise en place d’un processus de régulation à la fois adaptatif et
    pathogène. Pour faire face à une charge de travail élevée, les
-   infirmières s'isolent pour accomplir leurs tâches et cet isolement a
+   infirmières s’isolent pour accomplir leurs tâches et cet isolement a
    des répercussions sur leur santé.
 
    This article attempts to address the concepts of workload and job
@@ -95,7 +95,7 @@ Résumés
    sobre su salud.
    Haut de page
 
-Entrées d'index
+Entrées d’index
 
 Mots-clés :
 
@@ -123,19 +123,19 @@ Plan
    travail du personnel soignant
    4. Étude exploratoire dans un service de gérontologie
    4.1 Eléments de contexte : une demande émergente
-   4.2 Présentation de l'unité de gérontologie
+   4.2 Présentation de l’unité de gérontologie
    4.3 Problématique et méthodologie
    4.4 Résultats
    4.4.1 Scores de stress perçu et dimensions du travail estimées comme
    stressantes
    4.4.2 Efforts physiques
    4.4.3 Interruptions de tâche
-   4.4.4 Demandes d'aide
+   4.4.4 Demandes d’aide
    4.5 Discussion
-   4.5.1 Caractéristiques psychosociales et stress perçu : de l'individu
+   4.5.1 Caractéristiques psychosociales et stress perçu : de l’individu
    au collectif
    4.5.2 Des processus de régulation adaptatifs et pathogènes
-   5. Conclusion : intérêts d'une approche combinatoire et perspectives
+   5. Conclusion : intérêts d’une approche combinatoire et perspectives
    Haut de page
 
 Texte intégral
@@ -146,54 +146,54 @@ Texte intégral
 
    1Le terme « stress », comme le terme « détresse », provient du latin
    « stringere » qui signifie « serrer, tendre, étreindre, offenser ».
-   Dans son usage populaire, il est doublement connoté. D'une part, il
+   Dans son usage populaire, il est doublement connoté. D’une part, il
    recouvre une idée de souffrance où cohabitent anxiété, dépression et
-   symptômes physiques. D'autre part, il évoque une stimulation et une
-   excitation nécessitée par la vie moderne. D'un point de vue conceptuel,
-   il peut désigner à la fois les causes, les effets et l'état dans lequel
+   symptômes physiques. D’autre part, il évoque une stimulation et une
+   excitation nécessitée par la vie moderne. D’un point de vue conceptuel,
+   il peut désigner à la fois les causes, les effets et l’état dans lequel
    il met un individu. Les causes, les impacts et les états de stress
    peuvent être de nature physiologique et/ou psychique (Meister, 1981).
 
-   2L'ambiguïté du terme « stress » explique son usage pluridisciplinaire
-   et l'absence de consensus universel autour de sa définition et de sa
+   2L’ambiguïté du terme « stress » explique son usage pluridisciplinaire
+   et l’absence de consensus universel autour de sa définition et de sa
    mesure.
 
 1.1 Le stress au travail : un problème de santé publique alarmant
 
-   3Le stress dû au travail est un phénomène dont l'ampleur grandissante
+   3Le stress dû au travail est un phénomène dont l’ampleur grandissante
    devient préoccupante. En Europe, il se positionne à la deuxième place
    des problèmes de santé liés au travail : 28 % des salariés sont
    concernés, soit 41 millions de travailleurs (Agence européenne pour la
-   santé et la sécurité au travail, 2000 et 2002). Le terme d'« épidémie »
+   santé et la sécurité au travail, 2000 et 2002). Le terme d’« épidémie »
    est à présent utilisé (Chanlat, 2007, p. 200), une épidémie qui coûte
-   cher : les dépenses sont estimées entre 185 et 269 milliards d'euros
+   cher : les dépenses sont estimées entre 185 et 269 milliards d’euros
    par an (INRS, 2005).
 
-   4Face à l'ampleur et au coût du problème, l'Union européenne et les
+   4Face à l’ampleur et au coût du problème, l’Union européenne et les
    partenaires sociaux se mobilisent pour garantir la santé et la sécurité
    des travailleurs sur leur lieu de travail. Dans cette perspective, la
-   directive cadre 89/391/CEE mise en place en 2002 oblige l'employeur à
+   directive cadre 89/391/CEE mise en place en 2002 oblige l’employeur 
    prendre en considération les effets du stress sur la santé de ses
    employés (Cox et Rial-Gonzàlez, 2002). En France, nombre de
    confédérations syndicales émettent le souhait de reconnaître le stress
    comme maladie professionnelle (Brun, Sarazin et Vallée, 2004). Et pour
-   la première fois, le 5 septembre 2007, le décès d'un ouvrier, à la
-   suite d'une crise cardiaque, a été reconnu par la Sécurité sociale
-   comme découlant d'un stress chronique causé par son travail (Bellan,
+   la première fois, le 5 septembre 2007, le décès d’un ouvrier, à la
+   suite d’une crise cardiaque, a été reconnu par la Sécurité sociale
+   comme découlant d’un stress chronique causé par son travail (Bellan,
    2007).
 
 1.2 Le stress au travail dû à une charge de travail trop importante ?
 
    5Les causes de la montée alarmante du stress en milieu professionnel
    sont certainement imputables aux évolutions du travail, évolutions que
-   l'on peut caractériser par l'essor et la généralisation de la
+   l’on peut caractériser par l’essor et la généralisation de la
    flexibilité (Brangier, Lancry et Louche, 2004) : flexibilité de
-   l'emploi, du contrat de travail, flexibilité des espaces de travail,
+   l’emploi, du contrat de travail, flexibilité des espaces de travail,
    travail en flux tendu, flexibilité du temps de travail. En France par
-   exemple, la réduction du temps de travail a paradoxalement participé à
-   l'accroissement des cadences de production, à une diminution des
-   « temps morts », à des situations de débordement d'horaires, à une
-   fragmentation du travail, autant d'éléments qui concourent à augmenter
+   exemple, la réduction du temps de travail a paradoxalement participé 
+   l’accroissement des cadences de production, à une diminution des
+   « temps morts », à des situations de débordement d’horaires, à une
+   fragmentation du travail, autant d’éléments qui concourent à augmenter
    considérablement les contraintes de temps qui pèsent sur les salariés
    (Quéinnec, Barthe et Verdier, 2000).
 
@@ -201,75 +201,75 @@ Texte intégral
    transformations socioéconomiques et organisationnelles du travail. Ces
    transformations ont mis la santé mentale des travailleurs à rude
    épreuve (Vézina, 1999) et ont intensifié le travail (Vézina et collab.,
-   2002). En Europe, des enquêtes transversales soulignent, qu'en 1991,
+   2002). En Europe, des enquêtes transversales soulignent, qu’en 1991,
    35 % des travailleurs considéraient travailler vite, 38 % estimaient
-   disposer d'un échéancier serré, 48 % disaient devoir fréquemment
+   disposer d’un échéancier serré, 48 % disaient devoir fréquemment
    abandonner une tâche pour en réaliser une autre. En 1996, ces chiffres
    étaient respectivement passés à 43 %, 45 % et 56 %. Soit une
    augmentation moyenne de 7,67 % en seulement cinq ans (Paoli, 1997).
 
    7Parallèlement à cette intensification du travail, les salariés
-   affirment que leur niveau de stress au travail s'est élevé au cours des
+   affirment que leur niveau de stress au travail s’est élevé au cours des
    deux dernières décennies (Davezies, 2001). En Grande-Bretagne, 79 % des
    personnes interrogées estiment que leur charge de travail est la
    première source de stress (TUC, 2004). Au Japon, un phénomène alarmant
    dit « Karoshi » semble témoigner de ce lien : la surcharge de travail
    (ex. : accroissement des pressions, allongement des heures de travail)
-   donne lieu à une augmentation du nombre d'opérateurs victimes de
-   maladies cardiovasculaires dont on sait qu'elles peuvent être des
+   donne lieu à une augmentation du nombre d’opérateurs victimes de
+   maladies cardiovasculaires dont on sait qu’elles peuvent être des
    conséquences du stress (AFPC, 2003).
 
-   8D'emblée, la question du stress au travail se pose, et ce, de façon
-   étroitement liée à celle d'une augmentation de la charge de travail.
-   Les salariés évoquent ces deux aspects comme allant de pair. D'un point
+   8D’emblée, la question du stress au travail se pose, et ce, de façon
+   étroitement liée à celle d’une augmentation de la charge de travail.
+   Les salariés évoquent ces deux aspects comme allant de pair. D’un point
    de vue scientifique, les notions de stress et de charge de travail ont
-   depuis longtemps fait l'objet de nombreuses recherches, mais ce, de
+   depuis longtemps fait l’objet de nombreuses recherches, mais ce, de
    façon indépendante dans des champs disciplinaires différents, alors que
-   de notre point de vue elles ne peuvent être envisagées l'une sans
-   l'autre (Falzon et Sauvagnac, 2004). Un des objectifs de cet article
-   est de tenter de rapprocher et d'articuler les notions de stress et de
-   charge de travail par le biais d'une approche exploratoire combinant le
+   de notre point de vue elles ne peuvent être envisagées l’une sans
+   l’autre (Falzon et Sauvagnac, 2004). Un des objectifs de cet article
+   est de tenter de rapprocher et d’articuler les notions de stress et de
+   charge de travail par le biais d’une approche exploratoire combinant le
    point de vue de la psychologie sociale et le point de vue de
-   l'ergonomie. Ce travail a été accompli à partir d'une monographie
+   l’ergonomie. Ce travail a été accompli à partir d’une monographie
    réalisée dans un service hospitalier de gérontologie.
 
 2. Stress professionnel et charge de travail : quelques éléments théoriques
 
 2.1 Stress et stress au travail
 
-   9D'un point de vue étymologique, le mot « stress » provient du latin
-   stringere qui signifie serrer, étreindre, offenser. Aujourd'hui, son
-   usage est pluridisciplinaire, il n'existe donc pas de consensus
+   9D’un point de vue étymologique, le mot « stress » provient du latin
+   stringere qui signifie serrer, étreindre, offenser. Aujourd’hui, son
+   usage est pluridisciplinaire, il n’existe donc pas de consensus
    universel concernant la définition et la mesure du stress. Ceci étant,
-   même si les premiers modèles dits « mécanistes » du stress l'ont
+   même si les premiers modèles dits « mécanistes » du stress l’ont
    assimilé à une relation stimulus-réponse (Cannon, 1928 cité par
-   Graziani et Swendsen, 2004), il est à présent largement admis qu'il
-   s'agit d'un processus dynamique (Paulhan, 1994 ; Rosnet, 2002).
+   Graziani et Swendsen, 2004), il est à présent largement admis qu’il
+   s’agit d’un processus dynamique (Paulhan, 1994 ; Rosnet, 2002).
 
-   10Afin d'aborder cette dynamique, le modèle transactionnel propose une
+   10Afin d’aborder cette dynamique, le modèle transactionnel propose une
    approche multifactorielle qui prend en compte à la fois les facteurs
    affectifs, cognitifs, sociaux et physiologiques. Lazarus et Folkman
-   (1984) considèrent en effet que le stimulus n'existe pas en soi comme
-   stress mais que c'est le sujet qui l'évalue ou non comme tel. Ainsi,
+   (1984) considèrent en effet que le stimulus n’existe pas en soi comme
+   stress mais que c’est le sujet qui l’évalue ou non comme tel. Ainsi,
    émerge le concept de « stress perçu » (Lindsay et Norman, 1980). Si
-   l'individu estime que les exigences de la situation (facteurs de
+   l’individu estime que les exigences de la situation (facteurs de
    stress) dépassent les ressources dont il dispose pour y répondre alors
    le stress apparaît. En réponse à cette contrainte extérieure,
-   l'individu va mettre en place des processus d'adaptation : le coping.
+   l’individu va mettre en place des processus d’adaptation : le coping.
    Ces stratégies de faire face qui peuvent être cognitives,
    émotionnelles, comportementales ou psychosociales sont mises en place
-   en vue de maîtriser l'impact de l'événement sur la santé. Le choix de
+   en vue de maîtriser l’impact de l’événement sur la santé. Le choix de
    ces stratégies dépend à la fois des caractéristiques de la situation,
-   de l'individu et de leurs relations (Vaxevanoglou et Ponnelle, 1999).
+   de l’individu et de leurs relations (Vaxevanoglou et Ponnelle, 1999).
 
-   11L'idée d'un déséquilibre entre la situation et les capacités de
+   11L’idée d’un déséquilibre entre la situation et les capacités de
    réponse du sujet se retrouve dans les modèles du stress professionnel.
-   La théorie de l'ajustement de Cooper et Paines (1978) met en relation
-   les sources de stress inhérentes à l'organisation, les caractéristiques
+   La théorie de l’ajustement de Cooper et Paines (1978) met en relation
+   les sources de stress inhérentes à l’organisation, les caractéristiques
    individuelles, les symptômes de santé et les maladies.
 
-   12D'autres modèles s'attachent au décalage entre les contraintes de la
-   situation et l'intérêt qu'y trouve l'opérateur. Le modèle
+   12D’autres modèles s’attachent au décalage entre les contraintes de la
+   situation et l’intérêt qu’y trouve l’opérateur. Le modèle
    tridimensionnel de Karasek (1981) avance que le stress est engendré par
    un déséquilibre entre le degré de liberté de décision et les exigences.
    Plus précisément, le stress apparaît lorsque le degré de liberté dans
@@ -277,63 +277,63 @@ Texte intégral
    psychologiques élevées ou lorsque le degré de liberté dans la prise de
    décision est large mais associé à des exigences limitées. À la fin des
    années 80, ce modèle est enrichi avec la notion de « soutien social »,
-   définie comme l'ensemble des interactions utilitaires que le
+   définie comme l’ensemble des interactions utilitaires que le
    travailleur peut trouver chez les personnes de son entourage, y compris
    ses collègues. Le soutien social peut être émotionnel, il fait
-   référence à la cohésion sociale, à l'intégration dans le groupe, ou
-   être instrumental, il renvoie au degré d'aide et d'assistance apporté
-   par les autres dans l'accomplissement de la tâche.
+   référence à la cohésion sociale, à l’intégration dans le groupe, ou
+   être instrumental, il renvoie au degré d’aide et d’assistance apporté
+   par les autres dans l’accomplissement de la tâche.
 
 2.2 Charge de travail et processus de régulation
 
    13Les premières études traitant de la charge de travail sont apparues
    dans les années 70 (Guillevic, 1991). La charge de travail renvoie au
-   niveau d'exigences d'une tâche à un moment donné (les contraintes) et
+   niveau d’exigences d’une tâche à un moment donné (les contraintes) et
    aux conséquences de cette tâche (les astreintes) au moment de sa
    réalisation. Selon Leplat (1997), la charge de travail est le résultat
    de la mise en relation des exigences de travail auxquelles doit
-   répondre l'activité et les astreintes qui représentent un
-   retentissement sur l'organisme. Les exigences peuvent être d'ordre
-   physique, perceptif, cognitif, social, organisationnel ou d'ambiance
+   répondre l’activité et les astreintes qui représentent un
+   retentissement sur l’organisme. Les exigences peuvent être d’ordre
+   physique, perceptif, cognitif, social, organisationnel ou d’ambiance
    (Leplat et Cuny, 1984). Les astreintes sont les effets à court, moyen
-   ou long terme du travail sur l'état psychologique ou physique du
+   ou long terme du travail sur l’état psychologique ou physique du
    travailleur (Spérandio, 1984).
 
    14Bien que la charge de travail soit, pour Rochefort et Guérin (2000),
    « un descripteur global et synthétique » des effets du travail sur les
    plans physique, cognitif et psychique, il existe une ambiguïté de sens
    qui pose le problème de savoir si la charge est une condition ou une
-   conséquence de l'activité de travail. Ces mêmes auteurs considèrent que
-   la charge de travail est située dans le temps et qu'elle permet ainsi à
-   l'opérateur d'anticiper sa charge future en la comparant à sa charge
-   actuelle. L'anticipation peut notamment amorcer la mise en place de
+   conséquence de l’activité de travail. Ces mêmes auteurs considèrent que
+   la charge de travail est située dans le temps et qu’elle permet ainsi 
+   l’opérateur d’anticiper sa charge future en la comparant à sa charge
+   actuelle. L’anticipation peut notamment amorcer la mise en place de
    processus de régulation.
 
    15Sur ce point, Spérandio (1972) montre que les liens entre les
    contraintes et les astreintes sont médiés par les ressources
-   disponibles, à savoir l'ensemble des modes opératoires à la disposition
+   disponibles, à savoir l’ensemble des modes opératoires à la disposition
    des opérateurs. Selon ce modèle de régulation de la charge de travail,
-   la charge de travail est la conséquence de la mise en oeuvre d'un mode
+   la charge de travail est la conséquence de la mise en œuvre d’un mode
    opératoire, en retour la charge de travail peut provoquer un changement
-   de mode opératoire. Lorsque le niveau d'exigences de la tâche est
+   de mode opératoire. Lorsque le niveau d’exigences de la tâche est
    faible, les opérateurs utilisent un mode opératoire combinant des
-   critères multiples. Lorsque les exigences augmentent, l'astreinte
-   augmente jusqu'à l'atteinte d'un seuil (au-delà duquel il y a
-   surcharge) qui déclenche la mise en place d'un mode opératoire plus
+   critères multiples. Lorsque les exigences augmentent, l’astreinte
+   augmente jusqu’à l’atteinte d’un seuil (au-delà duquel il y a
+   surcharge) qui déclenche la mise en place d’un mode opératoire plus
    économique. Le processus en boucle se poursuit ainsi avec
-   l'augmentation du niveau d'exigences, mais il n'est pas infini. Lorsque
+   l’augmentation du niveau d’exigences, mais il n’est pas infini. Lorsque
    la vicariance des modes opératoires est épuisée, les processus de
-   régulation peuvent porter sur d'autres niveaux (modification de la
-   tâche, redistribution des tâches au niveau de l'équipe, etc.).
+   régulation peuvent porter sur d’autres niveaux (modification de la
+   tâche, redistribution des tâches au niveau de l’équipe, etc.).
 
-   16Poete et Rousseau (2003) proposent d'envisager la charge de travail
-   sous l'angle de trois dimensions complémentaires : la charge prescrite
+   16Poete et Rousseau (2003) proposent d’envisager la charge de travail
+   sous l’angle de trois dimensions complémentaires : la charge prescrite
    qui renvoie aux exigences des prescriptions, la charge réelle qui
-   relève de l'activité des opérateurs et la charge subjective qui est le
+   relève de l’activité des opérateurs et la charge subjective qui est le
    sentiment de charge des opérateurs.
 
-   17Ces dimensions de la charge de travail s'articulent et se pondèrent
-   en fonction des possibilités d'action et de compromis qui s'offrent aux
+   17Ces dimensions de la charge de travail s’articulent et se pondèrent
+   en fonction des possibilités d’action et de compromis qui s’offrent aux
    opérateurs. Ces derniers peuvent en effet adopter des compromis
    individuels ou collectifs (processus de régulation) entre leurs propres
    caractéristiques, les prescriptions et la variabilité de la situation
@@ -342,17 +342,17 @@ Texte intégral
    18Ces apports théoriques mettent en relief les points de convergence
    entre les notions de stress et de charge de travail. Là où les modèles
    du stress distinguent les facteurs de stress, le stress perçu et les
-   stratégies de coping, l'approche ergonomique de la charge de travail
+   stratégies de coping, l’approche ergonomique de la charge de travail
    évoque les exigences prescrites, la charge subjective et les processus
-   de régulation mis en oeuvre dans l'activité de travail. Plus que de
-   constater cette proximité conceptuelle, l'intérêt réside dans
-   l'identification des apports mutuels de ces deux champs disciplinaires,
-   puis dans l'utilisation complémentaire de leurs concepts et outils
+   de régulation mis en œuvre dans l’activité de travail. Plus que de
+   constater cette proximité conceptuelle, l’intérêt réside dans
+   l’identification des apports mutuels de ces deux champs disciplinaires,
+   puis dans l’utilisation complémentaire de leurs concepts et outils
    méthodologiques pour parvenir à une approche globale.
 
-   19L'objectif sera donc de combiner ces approches pour appréhender les
+   19L’objectif sera donc de combiner ces approches pour appréhender les
    relations qui lient le stress perçu par les opérateurs aux aspects du
-   travail qu'ils estiment stressants et à la charge de travail réelle
+   travail qu’ils estiment stressants et à la charge de travail réelle
    (activité et compromis adoptés).
 
 3. Spécificités des stresseurs et des déterminants de la charge de travail du
@@ -361,40 +361,40 @@ personnel soignant
    20Parmi les 41 millions de travailleurs stressés, tous ne sont pas
    concernés de manière égale. Les femmes sont plus exposées que les
    hommes à la tension au travail ou job strain (Niedhammer, 2007) et
-   certains secteurs sont plus concernés par le stress que d'autres.
+   certains secteurs sont plus concernés par le stress que d’autres.
    Ainsi, en Grande-Bretagne, le niveau de stress au travail serait plus
-   élevé dans le service national de santé que dans d'autres milieux
+   élevé dans le service national de santé que dans d’autres milieux
    professionnels comparables. Aussi, 28 % des infirmières déclarent
-   souffrir de problèmes de santé mentale contre 18 % pour l'ensemble de
+   souffrir de problèmes de santé mentale contre 18 % pour l’ensemble de
    la population salariée.
 
-   21C'est à ce secteur d'activité et, en particulier, au travail
-   infirmier que s'intéresse notre étude. De nombreux travaux y ont
-   souligné l'ampleur du stress et l'importance de la charge de travail.
+   21C’est à ce secteur d’activité et, en particulier, au travail
+   infirmier que s’intéresse notre étude. De nombreux travaux y ont
+   souligné l’ampleur du stress et l’importance de la charge de travail.
    Ils y ont également identifié les facteurs de stress et de charge de
    travail (Estryn-Béhar, 1996 ; Stoïber et Bouillerce, 1999) qui parfois
    se confondent. Ainsi, les effectifs réduits, la charge de travail qui
-   en découle, l'organisation temporelle (horaires, travail du week-end),
+   en découle, l’organisation temporelle (horaires, travail du week-end),
    les difficultés relationnelles, mais également la confrontation à la
    douleur et à la mort sont à la fois des déterminants du stress et de la
    charge de travail.
 
    22Des facteurs spécifiques à la charge de travail dans le secteur
-   hospitalier ont été mis en évidence par l'approche ergonomique. Il
-   s'agit des efforts posturaux, des manutentions et des déplacements qui
-   contribuent à la charge physique du travail. Le manque d'aménagements
-   anthropométriquement adaptés, le manque d'instrumentation, tels les
-   lève-malades, et l'architecture des lieux engendrent le maintien quasi
+   hospitalier ont été mis en évidence par l’approche ergonomique. Il
+   s’agit des efforts posturaux, des manutentions et des déplacements qui
+   contribuent à la charge physique du travail. Le manque d’aménagements
+   anthropométriquement adaptés, le manque d’instrumentation, tels les
+   lève-malades, et l’architecture des lieux engendrent le maintien quasi
    permanent de la station debout, des postures pénibles et de nombreux
    déplacements (Estryn-Béhar et Fouillot, 1990).
 
    23Le travail hospitalier comporte également une dimension cognitive
-   compte tenu de l'évolution permanente de l'état des patients et des
-   procédures de diagnostic des soignants placés en situation d'urgence.
+   compte tenu de l’évolution permanente de l’état des patients et des
+   procédures de diagnostic des soignants placés en situation d’urgence.
    Les soignants doivent recueillir, traiter, mémoriser et transmettre des
-   informations complexes, nombreuses et fluctuantes quant à l'évolution
-   de l'état de santé de chaque patient (Martin et Gadbois, 2004). Ainsi,
-   la responsabilité, l'incertitude, la pression temporelle sont autant de
+   informations complexes, nombreuses et fluctuantes quant à l’évolution
+   de l’état de santé de chaque patient (Martin et Gadbois, 2004). Ainsi,
+   la responsabilité, l’incertitude, la pression temporelle sont autant de
    facteurs qui concourent à augmenter la charge mentale de travail
    (Nogareda Cuixart, 1991 ; Pottier et Estryn-Behar, 1979 ; Martin et
    Gadbois, 2004 ; Estryn-Behar et Fouillot, 1990). Se surajoutent des
@@ -403,180 +403,180 @@ personnel soignant
    incessante des priorités.
 
    24Certains de ces facteurs de stress et de charge de travail se
-   retrouvent dans quantité de situations de travail alors que d'autres,
-   au contraire, semblent propres au travail des soignants. C'est
+   retrouvent dans quantité de situations de travail alors que d’autres,
+   au contraire, semblent propres au travail des soignants. C’est
    notamment le cas de la confrontation à la douleur et à la mort. En
    effet, dans les pays industrialisés, la mort est devenue une dimension
    incontournable du travail en milieu hospitalier. Les changements de
    comportement familial font que les personnes âgées sont moins prises en
    charge par leurs enfants et fréquemment placées en institution. En
-   France, pays d'Europe occidentale où la personne âgée est le plus
+   France, pays d’Europe occidentale où la personne âgée est le plus
    exclue du noyau familial, 5,5 % des plus de 65 ans vivent en
-   institution. Avec près de 70 % des Français qui y meurent, l'hôpital
+   institution. Avec près de 70 % des Français qui y meurent, l’hôpital
    est devenu un « sas entre la vie et la mort » (Manoukian, 2004 ;
    Molinié, 2005).
 
-   25Face à la mort comme face à la douleur, les soignants sont rappelés à
+   25Face à la mort comme face à la douleur, les soignants sont rappelés 
    la réalité de la condition humaine. Confrontés à cette réalité, ils
-   peuvent éprouver un sentiment d'impuissance mêlé de désoeuvrement qui
-   se traduit en mal-être. Ce mal-être est d'autant plus grand que les
+   peuvent éprouver un sentiment d’impuissance mêlé de désœuvrement qui se
+   traduit en mal-être. Ce mal-être est d’autant plus grand que les
    soignants ont peu de retours positifs sur leur travail : les
    communications avec les patients sont rarement sensées et les familles
    de patients sont exigeantes et critiques (Robert, 2005). De plus, les
    soignants sont peu préparés à affronter les émotions (les leurs, celles
    des patients et celles des familles de patients) et, rappelés à leurs
-   tâches habituelles, ils n'ont guère le temps et l'occasion
-   d'extérioriser leurs sentiments (Stoïber et Boullierce, 1999).
+   tâches habituelles, ils n’ont guère le temps et l’occasion
+   d’extérioriser leurs sentiments (Stoïber et Boullierce, 1999).
 
    26Ces exigences physiques cognitives et psychiques du travail des
-   soignants sont accentuées par le manque d'effectif, des taux
-   d'absentéisme et de turn-over importants.
+   soignants sont accentuées par le manque d’effectif, des taux
+   d’absentéisme et de turn-over importants.
 
 4. Étude exploratoire dans un service de gérontologie
 
 4.1 Eléments de contexte : une demande émergente
 
-   27Lors de nos premiers contacts avec la direction de l'hôpital, une
+   27Lors de nos premiers contacts avec la direction de l’hôpital, une
    demande relative à la charge de travail et au stress émerge très
    rapidement. En fait, les responsables sont inquiets de constater des
-   taux d'absentéisme et de turn-over élevés. Ces phénomènes sont d'autant
-   plus préoccupants qu'ils s'apparentent à des indicateurs
-   organisationnels d'alerte de stress (Brun, 2004) et que les infirmières
-   assimilent le turn-over à un facteur d'insatisfaction au travail
+   taux d’absentéisme et de turn-over élevés. Ces phénomènes sont d’autant
+   plus préoccupants qu’ils s’apparentent à des indicateurs
+   organisationnels d’alerte de stress (Brun, 2004) et que les infirmières
+   assimilent le turn-over à un facteur d’insatisfaction au travail
    (Berney, Marazzi, Wasserfallen, 2002).
 
-   28Les responsables de l'hôpital s'interrogent sur les liens possibles
+   28Les responsables de l’hôpital s’interrogent sur les liens possibles
    entre ces taux élevés, la charge de travail et le stress. Ils évoquent
    un processus en chaîne. Selon eux, le manque de ressources en personnel
-   soignant sur le marché du travail conduit à un manque d'effectif. Ce
-   manque d'effectif amène indéniablement un alourdissement de la charge
+   soignant sur le marché du travail conduit à un manque d’effectif. Ce
+   manque d’effectif amène indéniablement un alourdissement de la charge
    de travail des soignants en poste. Cette charge importante affecte les
-   soignants qui s'absentent donc pour des raisons de santé, voire
-   s'orientent vers d'autres services ou d'autres structures. Ce phénomène
-   aggrave le problème du manque de personnel. La direction de l'hôpital a
+   soignants qui s’absentent donc pour des raisons de santé, voire
+   s’orientent vers d’autres services ou d’autres structures. Ce phénomène
+   aggrave le problème du manque de personnel. La direction de l’hôpital a
    du mal à trouver les ressources humaines nécessaires au bon
-   fonctionnement de l'hôpital. Par conséquent, la conservation du
-   personnel déjà employé à l'hôpital devient une priorité.
+   fonctionnement de l’hôpital. Par conséquent, la conservation du
+   personnel déjà employé à l’hôpital devient une priorité.
 
-   29L'orientation de notre étude est confortée par la prise de
-   connaissance de plusieurs travaux qui soulignent l'importance du stress
+   29L’orientation de notre étude est confortée par la prise de
+   connaissance de plusieurs travaux qui soulignent l’importance du stress
    et de la charge de travail en milieu hospitalier (Dartiguepeyrou,
    1999 ; Bourbonnais et collab., 2005).
 
-   30Les responsables de l'hôpital nous dirigent vers un service précis de
+   30Les responsables de l’hôpital nous dirigent vers un service précis de
    gérontologie, car il fait partie des plus concernés par le turn-over. À
-   notre arrivée dans ce service, nous constatons que l'intérêt des
+   notre arrivée dans ce service, nous constatons que l’intérêt des
    soignants quant à la charge de travail et au stress est tout aussi
-   important que celui des responsables. Des deux cotés, il s'agit avant
-   tout d'une demande de constat, de mise en évidence dans l'objectif de
+   important que celui des responsables. Des deux cotés, il s’agit avant
+   tout d’une demande de constat, de mise en évidence dans l’objectif de
    « faire remonter plus haut ».
 
-4.2 Présentation de l'unité de gérontologie
+4.2 Présentation de l’unité de gérontologie
 
-   31L'étude s'est déroulée dans un hôpital public et, plus précisément,
+   31L’étude s’est déroulée dans un hôpital public et, plus précisément,
    dans une unité fonctionnelle de gérontologie. Ce type de service se
-   singularise par le faible espoir d'amélioration de l'état de santé des
+   singularise par le faible espoir d’amélioration de l’état de santé des
    patients.
 
-   32Au moment de l'étude, l'unité concernée accueillait 38 patients âgés
+   32Au moment de l’étude, l’unité concernée accueillait 38 patients âgés
    (89 ans en moyenne) et pour la plupart atteints de démence sénile, de
-   la maladie d'Alzheimer et/ou d'hémiplégies. Pour prendre en charge ces
+   la maladie d’Alzheimer et/ou d’hémiplégies. Pour prendre en charge ces
    patients, une équipe soignante composée de 2 médecins, 1 cadre
    infirmier, 8 infirmières, 18 aides-soignantes (AS) et agents des
-   services hospitaliers (ASH) était mise à pied d'oeuvre. Cet effectif
-   n'est que théorique puisque, en réalité, le manque d'effectif est
-   manifeste. Par exemple, lors du poste de matin (7 h-15 h), l'effectif
+   services hospitaliers (ASH) était mise à pied d’œuvre. Cet effectif
+   n’est que théorique puisque, en réalité, le manque d’effectif est
+   manifeste. Par exemple, lors du poste de matin (7 h-15 h), l’effectif
    réel des infirmières et des aides-soignantes est toujours en deçà de
-   l'effectif prescrit : 1 infirmière au lieu de 2 (voire 3 selon le
+   l’effectif prescrit : 1 infirmière au lieu de 2 (voire 3 selon le
    chevauchement des postes) et 2 aides-soignantes au lieu de 3 (voire 4
    selon le chevauchement des postes). Il est également considéré comme le
    plus éprouvant. En effet, au cours de ce poste, les infirmières,
    accompagnées de 2 aides-soignantes, ont pour tâches la distribution des
    médicaments, les toilettes et les soins des patients mais également la
    mise à jour des dossiers médicaux, la participation aux réunions de
-   transmission des informations, l'approvisionnement en matériel de soins
-   et médicaments. L'étude s'est alors centrée sur ce poste du matin.
+   transmission des informations, l’approvisionnement en matériel de soins
+   et médicaments. L’étude s’est alors centrée sur ce poste du matin.
 
 4.3 Problématique et méthodologie
 
    33Compte tenu du contexte et des éléments théoriques énoncés, la
-   question s'articule autour de la charge réelle de travail, du stress
-   perçu et des processus de régulation. D'une part, l'objectif est de
+   question s’articule autour de la charge réelle de travail, du stress
+   perçu et des processus de régulation. D’une part, l’objectif est de
    savoir si une charge de travail importante est systématiquement
-   associée à un niveau de stress perçu élevé et, d'autre part, si, pour
+   associée à un niveau de stress perçu élevé et, d’autre part, si, pour
    faire face, les infirmières adoptent des stratégies de régulation
-   appuyées sur le collectif de travail c'est-à-dire sur le soutien social
-   et l'entraide.
+   appuyées sur le collectif de travail c’est-à-dire sur le soutien social
+   et l’entraide.
 
    34Pour répondre à ces interrogations, la démarche méthodologique
-   combine analyse ergonomique de l'activité et recueil de données par
-   questionnaire. L'analyse ergonomique permet d'appréhender la charge
+   combine analyse ergonomique de l’activité et recueil de données par
+   questionnaire. L’analyse ergonomique permet d’appréhender la charge
    réelle de travail au niveau physique (déplacements, postures et
    manutentions) et cognitif (interruptions), mais aussi de rendre compte
-   du recours au collectif (demandes d'aide et entraides accomplies).
-   L'approche in situ (suivi de l'activité des infirmières dans le
+   du recours au collectif (demandes d’aide et entraides accomplies).
+   L’approche in situ (suivi de l’activité des infirmières dans le
    couloir, la salle de soin et les chambres) est fondée sur les
-   techniques d'observation du comportement.
+   techniques d’observation du comportement.
 
-   35Le questionnaire permet quant à lui d'approcher le stress perçu. Il a
+   35Le questionnaire permet quant à lui d’approcher le stress perçu. Il a
    été construit par les auteurs, spécifiquement pour cette étude et sur
    la base des facteurs de stress potentiels identifiés au préalable lors
-   de l'analyse de l'activité. L'objectif était de recueillir des données
-   valides c'est-à-dire correspondant à la situation réelle de travail des
+   de l’analyse de l’activité. L’objectif était de recueillir des données
+   valides c’est-à-dire correspondant à la situation réelle de travail des
    infirmières. Donc, le questionnaire amène les infirmières à exprimer
    leur ressenti et fournit ainsi des données subjectives. Il comporte 19
    items regroupés en 6 catégories : type de tâche à réaliser, ingratitude
    du travail, relations interindividuelles, efforts physiques,
    interruptions et tâches annexes imprévues. À la fin de chaque poste de
-   matin, l'infirmière qui a été suivie donne son sentiment au sujet de
+   matin, l’infirmière qui a été suivie donne son sentiment au sujet de
    ces items en se positionnant sur une échelle de valeurs allant de 1
    (pas du tout stressée) à 5 (très stressée).
 
-   36Les conditions d'accès à l'hôpital ont limité notre investigation de
-   terrain à 12 jours. Le recueil systématique des données s'est étendu
+   36Les conditions d’accès à l’hôpital ont limité notre investigation de
+   terrain à 12 jours. Le recueil systématique des données s’est étendu
    sur 6 postes du matin. Durant cette période de recueil, 3 infirmières
-   se sont relayées sur ce poste, par conséquent, deux d'entre elles ont
-   été suivies à plusieurs reprises (l'infirmière A a été suivie 1 fois ;
-   l'infirmière B 2 fois ; l'infirmière C 3 fois). Elles ont fait l'objet
-   d'un relevé en continu sur toute la durée du poste.
+   se sont relayées sur ce poste, par conséquent, deux d’entre elles ont
+   été suivies à plusieurs reprises (l’infirmière A a été suivie 1 fois ;
+   l’infirmière B 2 fois ; l’infirmière C 3 fois). Elles ont fait l’objet
+   d’un relevé en continu sur toute la durée du poste.
 
 4.4 Résultats
 
-   37Les résultats présentés ci-après sont d'ordre qualitatif,
-   l'échantillon de population restreint n'autorisant pas de soumettre les
+   37Les résultats présentés ci-après sont d’ordre qualitatif,
+   l’échantillon de population restreint n’autorisant pas de soumettre les
    résultats à un traitement statistique. Ils concernent des tendances.
-   Toutefois, ils permettent une première évaluation de l'état de stress
-   des infirmières ainsi qu'une première évaluation des causes et des
+   Toutefois, ils permettent une première évaluation de l’état de stress
+   des infirmières ainsi qu’une première évaluation des causes et des
    conséquences de cet état de stress.
 
    38Les premiers résultats sont issus du recueil de données par
    questionnaire. Ils concernent les scores de stress perçu et les
    dimensions de travail reconnues comme stressantes. Viennent ensuite les
-   résultats issus de l'analyse ergonomique, relatifs aux activités de
+   résultats issus de l’analyse ergonomique, relatifs aux activités de
    distribution des médicaments, de soins et de toilette effectués durant
    le poste du matin, soit sur huit heures. Ils rendent compte des efforts
-   physiques, des interruptions et des demandes d'aide. Ils sont mis en
+   physiques, des interruptions et des demandes d’aide. Ils sont mis en
    rapport avec les scores de stress perçu.
 
 4.4.1 Scores de stress perçu et dimensions du travail estimées comme
 stressantes
 
-   39L'échelle de valeurs employée dans le questionnaire induit un score
+   39L’échelle de valeurs employée dans le questionnaire induit un score
    minimum de 19 points (1 point x 19 items) et un score maximum de 95
-   points (5 points x 19 items). Le score théorique moyen se situe donc à
+   points (5 points x 19 items). Le score théorique moyen se situe donc 
    38 points [(95 -19 points)/2].
 
    40Les scores de stress perçu obtenus par les infirmières lors des 6
    postes de travail sont compris entre 20 et 62 points (cf. Tableau 1).
 
-   41Le niveau de stress perçu par l'infirmière A est quasiment nul (20
+   41Le niveau de stress perçu par l’infirmière A est quasiment nul (20
    points). Trois scores sont proches de la moyenne (31, 32, 39) et deux
    sont plutôt élevés (44, 62).
 
-   42Le niveau de stress perçu par les infirmières B et C, suivies à
-   plusieurs reprises, varie d'un poste de travail à un autre (score
-   variant de 31 à 62 points pour l'infirmière B et de 32 à 44 pour
-   l'infirmière C).
+   42Le niveau de stress perçu par les infirmières B et C, suivies 
+   plusieurs reprises, varie d’un poste de travail à un autre (score
+   variant de 31 à 62 points pour l’infirmière B et de 32 à 44 pour
+   l’infirmière C).
 
    Tableau 1. Scores de stress perçu des infirmières A, B et C lors des 6
    postes de travail et dimensions de travail estimées comme stressantes
@@ -675,7 +675,7 @@ stressantes
 
    X
 
-   Nombre total d'aspects stressants évoqués
+   Nombre total d’aspects stressants évoqués
 
    1
 
@@ -692,9 +692,9 @@ stressantes
    43Chaque dimension de travail est évoquée de manière à peu près égale,
    chacune étant rappelée deux ou trois fois (cf. Tableau 1).
 
-   44La hausse du niveau de stress perçu est associée, d'une part, à
-   l'évocation de dimensions de travail absentes dans les scores bas
-   (imprévus, relations, interruptions) et, d'autre part, au cumul de
+   44La hausse du niveau de stress perçu est associée, d’une part, 
+   l’évocation de dimensions de travail absentes dans les scores bas
+   (imprévus, relations, interruptions) et, d’autre part, au cumul de
    dimensions considérées comme stressantes. En effet, le nombre de
    dimensions de travail retenues comme stressantes augmente parallèlement
    aux scores de stress perçu (une dimension retenue pour le score le plus
@@ -704,24 +704,24 @@ stressantes
 
    45Les efforts physiques se rapportent aux déplacements, aux postures et
    aux manutentions. La quantité de déplacements varie considérablement
-   d'un poste de travail à un autre, allant du simple au double (cf.
-   figure 1). Il en va de même pour les manutentions. Sur l'ensemble des
+   d’un poste de travail à un autre, allant du simple au double (cf.
+   figure 1). Il en va de même pour les manutentions. Sur l’ensemble des
    postes de travail, le nombre de postures pénibles est quant à lui plus
    homogène.
 
-   46La diminution des déplacements s'accompagne d'une augmentation des
-   scores de stress. L'infirmière A totalise le maximum de déplacements
+   46La diminution des déplacements s’accompagne d’une augmentation des
+   scores de stress. L’infirmière A totalise le maximum de déplacements
    (361 déplacements soit, en moyenne, 45 déplacements par heure) et
    présente le score de stress perçu le plus bas (20). La comparaison du
-   nombre de déplacements et des scores de stress de l'infirmière C
+   nombre de déplacements et des scores de stress de l’infirmière C
    confirme cette tendance : le nombre de ses déplacements décroît
-   parallèlement à l'augmentation de ses scores de stress perçu. La
+   parallèlement à l’augmentation de ses scores de stress perçu. La
    tendance globale des manutentions est similaire à celle des
    déplacements.
 
    47Par ailleurs, en rapprochant ces résultats de ceux présentés dans le
-   tableau 1, il ressort que ce n'est pas lorsque les observations
-   relèvent des quantités d'efforts réellement importantes qu'au travers
+   tableau 1, il ressort que ce n’est pas lorsque les observations
+   relèvent des quantités d’efforts réellement importantes qu’au travers
    du questionnaire les infirmières les retiennent comme une dimension
    stressante de leur travail.
 
@@ -735,10 +735,10 @@ stressantes
 
 4.4.3 Interruptions de tâche
 
-   48Nous considérons qu'il y a interruption dès lors que l'infirmière
-   doit suspendre la réalisation d'une tâche pour en réaliser une nouvelle
-   (ex. : suspendre le soin d'une escarre pour transmettre des
-   informations à un collègue ou aux proches d'un patient).
+   48Nous considérons qu’il y a interruption dès lors que l’infirmière
+   doit suspendre la réalisation d’une tâche pour en réaliser une nouvelle
+   (ex. : suspendre le soin d’une escarre pour transmettre des
+   informations à un collègue ou aux proches d’un patient).
 
    Figure 2. Nombre et durée des interruptions des infirmières A, B et C
    lors des 6 postes de travail et scores de stress perçu associés
@@ -746,64 +746,64 @@ stressantes
    lors des 6 postes de travail et scores de stress perçu associés
    Agrandir Original (png, 7,5k)
 
-   49Selon les postes de travail, la durée et le nombre d'interruptions
-   fluctuent (cf. figure 2). Le nombre d'interruptions varie de 9 à 29 par
+   49Selon les postes de travail, la durée et le nombre d’interruptions
+   fluctuent (cf. figure 2). Le nombre d’interruptions varie de 9 à 29 par
    poste de travail, soit respectivement de 1 interruption par heure à 1
    interruption toutes les 19 minutes. Précisons que les interruptions
    proviennent en majorité des collègues (67 %) et, plus particulièrement,
    des aides-soignantes, des ASH et du cadre infirmier.
 
-   50Ces résultats quantitatifs ne permettent pas d'envisager
-   d'éventuelles relations entre les interruptions et les scores de stress
+   50Ces résultats quantitatifs ne permettent pas d’envisager
+   d’éventuelles relations entre les interruptions et les scores de stress
    perçu, même si le score de stress le plus bas est associé au nombre et
-   à la durée d'interruptions minimum.
+   à la durée d’interruptions minimum.
 
-   51D'un point de vue plus qualitatif, il convient de prendre en
-   considération le fait que les interruptions perturbent l'activité
-   (ex. : erreur et/ou omission à la reprise de l'activité) ainsi que
-   l'organisation individuelle et collective du travail. Les interruptions
+   51D’un point de vue plus qualitatif, il convient de prendre en
+   considération le fait que les interruptions perturbent l’activité
+   (ex. : erreur et/ou omission à la reprise de l’activité) ainsi que
+   l’organisation individuelle et collective du travail. Les interruptions
    pourraient donc influer sur le niveau de stress perçu en fonction de la
-   possibilité et du délai de reprise de l'activité interrompue, mais
+   possibilité et du délai de reprise de l’activité interrompue, mais
    également par la possibilité de se faire suppléer.
 
-4.4.4 Demandes d'aide
+4.4.4 Demandes d’aide
 
-   52Les demandes d'aide, exprimées à l'oral, sont ponctuelles et toujours
-   à l'initiative de l'infirmière, l'aide n'est pas proposée spontanément
+   52Les demandes d’aide, exprimées à l’oral, sont ponctuelles et toujours
+   à l’initiative de l’infirmière, l’aide n’est pas proposée spontanément
    par les collègues. Les infirmières travaillant par sectorisation, si
    deux infirmières travaillent simultanément dans le service, elles sont
-   seules pour prendre en charge les patients de leur secteur. C'est
-   pourquoi, elles sollicitent l'aide des aides-soignantes ou des agents
+   seules pour prendre en charge les patients de leur secteur. C’est
+   pourquoi, elles sollicitent l’aide des aides-soignantes ou des agents
    des services hospitaliers, par exemple, pour manipuler certains
-   malades. Les demandes d'aide sont systématiquement adressées aux
+   malades. Les demandes d’aide sont systématiquement adressées aux
    aides-soignantes et agents des services hospitaliers et sont toutes
-   suivies d'une entraide effective.
+   suivies d’une entraide effective.
 
-   53Les fréquences de demandes d'aide sont relativement homogènes d'un
-   poste à l'autre (3 postes totalisent 3 demandes d'aide ; 2 postes
-   totalisent 4 demandes d'aide). Elles sont assez rares : de 1 à 4 par
+   53Les fréquences de demandes d’aide sont relativement homogènes d’un
+   poste à l’autre (3 postes totalisent 3 demandes d’aide ; 2 postes
+   totalisent 4 demandes d’aide). Elles sont assez rares : de 1 à 4 par
    poste de travail (cf. figure 3).
 
-   54Malgré tout, nous constatons que la fréquence des demandes d'aide est
+   54Malgré tout, nous constatons que la fréquence des demandes d’aide est
    élevée lorsque les scores de stress sont bas. En effet, les infirmières
    A et B, obtenant respectivement des scores de stress de 20 et 31
-   points, sollicitent 4 fois l'aide de leurs collègues alors que
-   l'infirmière C, dont le score de stress est de 44 points, ne formule
-   qu'une seule demande. Ce constat ne vaut pas pour le score de stress
-   perçu le plus élevé : l'infirmière B ayant sollicité 3 fois ses
+   points, sollicitent 4 fois l’aide de leurs collègues alors que
+   l’infirmière C, dont le score de stress est de 44 points, ne formule
+   qu’une seule demande. Ce constat ne vaut pas pour le score de stress
+   perçu le plus élevé : l’infirmière B ayant sollicité 3 fois ses
    collègues lors de ce poste-là.
 
    55De même, la durée des aides effectives est plus importante pour les
    scores de stress minimums que pour les scores de stress élevés. Les
-   scores de stress de 20 et 31 points sont associés à des durées d'aide
+   scores de stress de 20 et 31 points sont associés à des durées d’aide
    respectivement égales à 3 min 51 s et 5 min 34 s alors que les scores
    de stress les plus hauts, équivalents à 44 et 62 points, totalisent
-   respectivement 2 min 46 s et 2 min 20 s d'aide effective.
+   respectivement 2 min 46 s et 2 min 20 s d’aide effective.
 
-   Figure 3. Nombre de demandes d'aides et durée de l'entraide effective
+   Figure 3. Nombre de demandes d’aides et durée de l’entraide effective
    des infirmières A, B et C lors des 6 postes de travail et scores de
    stress perçu associés
-   Figure 3. Nombre de demandes d'aides et durée de l'entraide effective
+   Figure 3. Nombre de demandes d’aides et durée de l’entraide effective
    des infirmières A, B et C lors des 6 postes de travail et scores de
    stress perçu associés
    Agrandir Original (png, 5,2k)
@@ -813,10 +813,10 @@ stressantes
    56Les résultats de cette étude exploratoire, combinant une approche
    psychosociale et ergonomique, mettent en évidence plusieurs facteurs de
    stress. Ils suggèrent que le niveau de stress perçu des infirmières de
-   gérontologie dépend, d'une part, de l'attribution causale et, d'autre
-   part, des processus de régulation qu'elles adoptent.
+   gérontologie dépend, d’une part, de l’attribution causale et, d’autre
+   part, des processus de régulation qu’elles adoptent.
 
-4.5.1 Caractéristiques psychosociales et stress perçu : de l'individu au
+4.5.1 Caractéristiques psychosociales et stress perçu : de l’individu au
 collectif
 
    57Les résultats montrent que le niveau de stress perçu par une même
@@ -827,150 +827,150 @@ collectif
    stress propre à chaque infirmière. Les caractéristiques de la situation
    de travail semblent donc bien jouer un rôle prégnant sur les niveaux de
    stress perçu. Les scores de stress faibles sont associés aux efforts
-   physiques, à l'ingratitude et au type de tâche alors que les scores
+   physiques, à l’ingratitude et au type de tâche alors que les scores
    élevés sont associés à la dimension relationnelle, aux imprévus et aux
    interruptions du travail. Ainsi, plus les scores de stress augmentent
-   plus les causes du stress renvoient à l'équipe de travail et à
-   l'organisation. L'identification de facteurs de stress déplace le point
-   de vue de l'individu vers le groupe d'individus concernés par ces
+   plus les causes du stress renvoient à l’équipe de travail et 
+   l’organisation. L’identification de facteurs de stress déplace le point
+   de vue de l’individu vers le groupe d’individus concernés par ces
    différents facteurs.
 
-   58Par ailleurs, le niveau de stress s'accroît avec la multiplication
-   des dimensions de travail reconnues stressantes. Il est fonction d'une
-   accumulation d'éléments jugés stressants plus que d'un aspect fortement
-   stressant. Cette constatation appuie l'idée des modèles psychosociaux
-   selon laquelle plus un individu a à affronter d'événements difficiles
+   58Par ailleurs, le niveau de stress s’accroît avec la multiplication
+   des dimensions de travail reconnues stressantes. Il est fonction d’une
+   accumulation d’éléments jugés stressants plus que d’un aspect fortement
+   stressant. Cette constatation appuie l’idée des modèles psychosociaux
+   selon laquelle plus un individu a à affronter d’événements difficiles
    plus il est susceptible de connaître des problèmes de santé (Aubert et
    Pagès, 1989).
 
 4.5.2 Des processus de régulation adaptatifs et pathogènes
 
-   59Les résultats montrent que l'accroissement du stress perçu ne suit
+   59Les résultats montrent que l’accroissement du stress perçu ne suit
    pas systématiquement la hausse de la charge de travail réelle. Au
-   contraire, plus les scores de stress perçu s'élèvent plus les efforts
-   physiques et les demandes d'aide tendent à diminuer.
+   contraire, plus les scores de stress perçu s’élèvent plus les efforts
+   physiques et les demandes d’aide tendent à diminuer.
 
-   60D'une part, avec la diminution des efforts physiques réels, leur
+   60D’une part, avec la diminution des efforts physiques réels, leur
    évocation comme élément stressant disparaît. Leur diminution effective
-   peut être la conséquence d'un processus de régulation mis en place par
+   peut être la conséquence d’un processus de régulation mis en place par
    les infirmières pour maintenir la charge de travail et le stress à un
    niveau acceptable. Dans un service hospitalier en sous-effectif réel
    permanent, diminuer les efforts physiques, et plus particulièrement les
-   déplacements, leur permet de « s'économiser ». Ceci étant, l'économie
-   reste relative et l'efficacité de ces processus de régulation
+   déplacements, leur permet de « s’économiser ». Ceci étant, l’économie
+   reste relative et l’efficacité de ces processus de régulation
    partielle. Certes, les efforts physiques ne sont plus considérés comme
    stressants par les intéressées mais les scores de stress perçu ne
-   cessent d'augmenter malgré la diminution des efforts physiques réels.
+   cessent d’augmenter malgré la diminution des efforts physiques réels.
    Le compromis mis en place par les infirmières pour gérer leur charge de
    travail, compromis basé sur la réduction des efforts physiques, a en
    retour une incidence pathogène manifeste. Les infirmières disent
-   « culpabiliser de s'économiser ».
+   « culpabiliser de s’économiser ».
 
-   61D'autre part, les scores de stress perçu les plus élevés
-   s'accompagnent d'une réduction des demandes d'aides, déjà relativement
+   61D’autre part, les scores de stress perçu les plus élevés
+   s’accompagnent d’une réduction des demandes d’aides, déjà relativement
    rares. Solliciter des collègues peut être coûteux en termes de temps
    (perdre du temps et/ou en faire perdre aux collègues sollicités) et
    peut comporter un risque (risque de conflit, de récupérer du travail
    supplémentaire). La crainte de déranger les collègues, de retarder
-   l'avancement du travail et, en conséquence, la crainte d'être exclue du
-   groupe, conduisent les infirmières à ne pas solliciter de l'aide/à
-   restreindre leurs demandes d'aide. Cette crainte a été identifiée comme
+   l’avancement du travail et, en conséquence, la crainte d’être exclue du
+   groupe, conduisent les infirmières à ne pas solliciter de l’aide/
+   restreindre leurs demandes d’aide. Cette crainte a été identifiée comme
    un facteur de risque de stress collectif (Daujard, 2001). Dans la
-   présente étude, le fait de ne pas pouvoir s'appuyer sur le collectif de
+   présente étude, le fait de ne pas pouvoir s’appuyer sur le collectif de
    travail peut alors être un facteur de stress perçu. Cette réduction des
-   demandes d'aide peut également traduire l'utilisation par les
+   demandes d’aide peut également traduire l’utilisation par les
    infirmières de stratégies visant à limiter volontairement les relations
    interpersonnelles, celles-ci étant qualifiées de stressantes lors des
    postes de travail aux scores de stress perçu les plus élevés.
 
-   62La réduction des demandes d'aide et des déplacements a pour
-   conséquence un repli de l'infirmière sur elle-même, les opératrices
-   sont dans l'impossibilité de s'appuyer sur le collectif de travail, de
-   s'entraider pour « faire face ». Or, les régulations collectives
+   62La réduction des demandes d’aide et des déplacements a pour
+   conséquence un repli de l’infirmière sur elle-même, les opératrices
+   sont dans l’impossibilité de s’appuyer sur le collectif de travail, de
+   s’entraider pour « faire face ». Or, les régulations collectives
    peuvent constituer une ressource essentielle pour pallier la
    variabilité de toute situation de travail (Barthe, 2000). Cet
-   isolement, qui est la conséquence d'une organisation du travail
+   isolement, qui est la conséquence d’une organisation du travail
    extrêmement contrainte (nombre de patients, pression temporelle, manque
-   d'effectif), est accentué par la mise en place de stratégies
-   d'évitement, seule possibilité pour les infirmières d'accomplir leurs
+   d’effectif), est accentué par la mise en place de stratégies
+   d’évitement, seule possibilité pour les infirmières d’accomplir leurs
    tâches auprès de tous les patients. Ce recours au collectif « empêché »
    (Clot, 2002) conduit à ces stratégies de coping et de régulation
    individuelles dont les limites sont vite atteintes. Elles permettent de
    « contrôler » certaines dimensions de la charge de travail, en
-   l'occurrence la dimension physique, mais en alourdissent d'autres, en
+   l’occurrence la dimension physique, mais en alourdissent d’autres, en
    particulier la dimension psychique. Clot, Kostulsky et Litim (2004) ont
    mené un travail de réflexion sur une intervention accomplie dans un
    service de soins similaire : un service de longs et moyens séjours de
-   gériatrie. Les auteurs montrent que les soignants ont l'impression de
-   ne pas bien faire leur travail parce qu'ils sont pris au piège entre ce
-   qu'il faudrait faire, une organisation du travail qui ne leur donne pas
+   gériatrie. Les auteurs montrent que les soignants ont l’impression de
+   ne pas bien faire leur travail parce qu’ils sont pris au piège entre ce
+   qu’il faudrait faire, une organisation du travail qui ne leur donne pas
    les moyens de le faire et une impossible confrontation entre leur
    activité individuelle de travail et celle de leurs collègues. Cette
    tension use les soignants et porte atteinte à leur santé.
 
-   63En effet, l'isolement, qui traduit un processus de régulation
+   63En effet, l’isolement, qui traduit un processus de régulation
    adaptatif ou stratégie de coping par évitement, a des répercussions
-   pathogènes sur l'état de santé de l'individu. Les crises de larmes de
-   deux infirmières et la démission de l'une d'entre elles, au moment de
+   pathogènes sur l’état de santé de l’individu. Les crises de larmes de
+   deux infirmières et la démission de l’une d’entre elles, au moment de
    notre présence, attestent de cet impact sur leur santé mentale : elles
    « craquent ». Ce service hospitalier de gérontologie, considéré comme
    un « mouroir » pour les patients, est en passe de devenir un
-   « mouroir » pour les soignantes qui n'en sont plus et qui développent
-   des sentiments d'inutilité et d'impuissance (Neveu, 1996).
+   « mouroir » pour les soignantes qui n’en sont plus et qui développent
+   des sentiments d’inutilité et d’impuissance (Neveu, 1996).
 
-   64Le risque est d'aboutir à un état d'épuisement professionnel
+   64Le risque est d’aboutir à un état d’épuisement professionnel
    (burn-out) qui, selon Falzon et Sauvagnac (2004), est une conséquence
    du stress qui affecte les ressources personnelles des individus et se
    caractérise par une rupture avec les règles de métier.
 
    65Les processus de régulation et les stratégies de coping, considérés
-   uniquement sous l'angle d'une adaptation bénéfique, doivent être
+   uniquement sous l’angle d’une adaptation bénéfique, doivent être
    complétés par une prise en compte équivoque de cette notion de
-   régulation qui, parfois, accentue encore l'écart entre exigences et
+   régulation qui, parfois, accentue encore l’écart entre exigences et
    ressources.
 
-5. Conclusion : intérêts d'une approche combinatoire et perspectives
+5. Conclusion : intérêts d’une approche combinatoire et perspectives
 
-   66La démarche méthodologique mise en oeuvre combine des connaissances
-   issues de la psychologie sociale et de l'ergonomie. Les apports mutuels
+   66La démarche méthodologique mise en œuvre combine des connaissances
+   issues de la psychologie sociale et de l’ergonomie. Les apports mutuels
    de ces deux champs disciplinaires se situent aux niveaux méthodologique
-   et explicatif. L'évaluation du stress perçu en lien avec les dimensions
+   et explicatif. L’évaluation du stress perçu en lien avec les dimensions
    stressantes du travail permet de préciser les contours de la charge
-   subjective. L'analyse in situ de l'activité permet, elle, de resituer
+   subjective. L’analyse in situ de l’activité permet, elle, de resituer
    les exigences réelles du travail et les compromis adoptés par les
-   infirmières. Malgré ses limites méthodologiques (peu d'observations,
+   infirmières. Malgré ses limites méthodologiques (peu d’observations,
    échantillon de population restreint, etc.), cette étude exploratoire
    met en place une approche qui permet de déterminer des dimensions de la
    situation de travail effectivement stressantes, celles perçues comme
    stressantes et de comprendre leurs places respectives dans le processus
    de stress.
 
-   67L'étude s'est centrée sur les exigences du travail, les capacités de
-   l'opérateur, le stress perçu et les choix de stratégies qui lient ces
-   éléments. Or, le stress s'inscrit dans un processus dans lequel la
+   67L’étude s’est centrée sur les exigences du travail, les capacités de
+   l’opérateur, le stress perçu et les choix de stratégies qui lient ces
+   éléments. Or, le stress s’inscrit dans un processus dans lequel la
    performance et le résultat du travail tiennent un rôle essentiel. À
-   l'hôpital, la performance renvoie à la qualité des soins prodigués aux
-   patients. En gériatrie, plus que les soins, c'est la qualité de
-   l'accueil de la personne âgée qui est visée. Cette qualité d'accueil
+   l’hôpital, la performance renvoie à la qualité des soins prodigués aux
+   patients. En gériatrie, plus que les soins, c’est la qualité de
+   l’accueil de la personne âgée qui est visée. Cette qualité d’accueil
    est déterminée par les relations entre les soignants, les patients et
    les familles. Actuellement, les contraintes qui pèsent sur ces services
-   créent un mal-être chez les soignants. Ces derniers ont l'impression de
+   créent un mal-être chez les soignants. Ces derniers ont l’impression de
    ne faire que le strict minimum pour les patients : assurer le
    « confort » physique au détriment du « confort » psychologique. De
    plus, les patients et leurs proches, conscients des contraintes
    temporelles subies par les soignants, évitent de les déranger et les
    interpellent essentiellement lors de situations problématiques. Les
    contacts sont donc restreints au point que les patients et leurs
-   proches n'osent interrompre les soignants pour leur témoigner leur
+   proches n’osent interrompre les soignants pour leur témoigner leur
    reconnaissance. Les soignants ont, par conséquent, très peu de retours
    positifs sur leur travail.
 
-   68La volonté actuelle « d'humaniser » les services de gériatrie semble
-   incontournable pour améliorer à la fois la qualité d'accueil des
+   68La volonté actuelle « d’humaniser » les services de gériatrie semble
+   incontournable pour améliorer à la fois la qualité d’accueil des
    patients et les conditions de travail des soignants. Toutefois, cette
    humanisation ne sera rendue possible que par une réflexion globale
    visant à trouver des solutions pour que les soignants aient la
-   possibilité d'atteindre cet objectif relationnel d'accueil et de prise
+   possibilité d’atteindre cet objectif relationnel d’accueil et de prise
    en charge auprès des patients âgés.
    Haut de page
 
@@ -978,21 +978,21 @@ Bibliographie
 
    AFPC (Alliance de la fonction publique du Canada) (2003). Karoshi !
    Réduire le stress, la charge de travail, le temps de travail et mieux
-   concilier le travail et la vie personnelle avant qu'il ne soit trop
+   concilier le travail et la vie personnelle avant qu’il ne soit trop
    tard. Enjeux-Dossiers chauds pour la négociation collective, n° 5.
 
    Agence européenne pour la sécurité et la santé au travail (2000).
-   Stress au travail. Fiche d'information n° 8, 02-06-2000.
+   Stress au travail. Fiche d’information n° 8, 02-06-2000.
    http://ew2002.osha.europa.eu/ew2002/pubs/facts8_fr.pdf
 
    Agence européenne pour la sécurité et la santé au travail (2002).
-   Stress au travail. Fiche d'information n° 22, 22-05-2002.
+   Stress au travail. Fiche d’information n° 22, 22-05-2002.
    http://osha.europa.eu/publications/factsheets/22/?set_language=fr
 
    Aubert N., Pagès M. (1989). Le stress professionnel. Editions
    Klincksieck, Paris.
 
-   Barthe B. (2000). Travailler la nuit au sein d'un collectif : quels
+   Barthe B. (2000). Travailler la nuit au sein d’un collectif : quels
    bénéfices ? In Le travail collectif. Perspectives actuelles en
    ergonomie, eds H. Benchekroun et A. Weill-Fassina, p. 235-255. Octarès
    Éditions, Toulouse.
@@ -1004,31 +1004,31 @@ Bibliographie
    et C. Louche, p. 15-41. Presses Universitaires de Nancy, Nancy.
 
    Bellan M. (2007). Stress : les médecins du travail tirent la sonnette
-   d'alarme. Les Échos, 25 septembre 2007.
+   d’alarme. Les Échos, 25 septembre 2007.
    www.lesechos.fr/info/metiers/4624902.htm
 
    Berney V., Marazzi A., Wasserfallen J.-B. (2002). Évaluation de la
-   satisfaction des infirmiers(-ères) : Développement et validation d'un
-   nouvel outil d'analyse. Recherche en soins infirmiers, n° 71, p. 63-70.
+   satisfaction des infirmiers(-ères) : Développement et validation d’un
+   nouvel outil d’analyse. Recherche en soins infirmiers, n° 71, p. 63-70.
    http://fulltext.bdsp.tm.fr/Rsi/71/63.pdf?67366-DQJ06-361DQ-M1XXQ-1KMJ0
 
    Bourbonnais R., Gauthier N., Vézina M., Viens C., Durand P.J., Brisson
    C., Alderson M., Bégin P. et Ouellet J.P. (2005). Une intervention en
-   centres d'hébergement et de soins de longue durée visant à réduire les
+   centres d’hébergement et de soins de longue durée visant à réduire les
    problèmes de santé mentale liés au travail. PISTES, vol. 7, n° 2.
    www.pistes.uqam.ca/v7n2/articles/v7n2a1.htm
 
-   Brun C. (2004). Un modèle d'analyse à l'essai auprès de treize
+   Brun C. (2004). Un modèle d’analyse à l’essai auprès de treize
    entreprises. Travail et changement, n° 298, p. 12-13.
 
-   Brun C., Sarazin B., Vallée M. (2004). Pour la construction d'une
+   Brun C., Sarazin B., Vallée M. (2004). Pour la construction d’une
    démarche collective et participative. Travail et changement, n° 298,
    p. 5-7. www.anact.fr/portal/pls/portal/docs/1/29931.PDF
 
    Castro B. (1995). Stress, fatigue, burn-out en milieu professionnel :
    interventions individuelles. Pratiques psychologiques, n° 4, p. 37-43.
 
-   Chanlat J.F. (2007). Le stress au travail : problème d'actualité dans
+   Chanlat J.F. (2007). Le stress au travail : problème d’actualité dans
    les entreprises et enjeu social. Notes du congrès « Le stress au
    travail, une réalité. Quelle prévention, quels acteurs et quels
    outils ? », Nancy, 1^er et 2 février 2007. Documents pour le Médecin du
@@ -1038,21 +1038,21 @@ Bibliographie
    augmentée). PUF, Paris.
 
    Clot Y., Kostulsky K. et Litim, M. (2004). Activité empêchée et
-   amputation du sens du travail : conséquences sur la santé. L'exemple
-   d'un service de gériatrie. Congrès international hommes et
-   organisations : la santé au coeur des enjeux de l'entreprise. Nancy,
+   amputation du sens du travail : conséquences sur la santé. L’exemple
+   d’un service de gériatrie. Congrès international hommes et
+   organisations : la santé au cœur des enjeux de l’entreprise. Nancy,
    Metz, Montfort-les-Bains, 22, 23 et 24 Novembre 2004.
 
    Cooper C. L., Payne R. (1978). Stress at work. John Wiley and Sons,
    New-York.
 
    Cox T., Rial-Gonzàlez E. (2002). Stress lié au travail : panorama
-   européen. Magazine de l'agence européenne pour la santé et la sécurité
+   européen. Magazine de l’agence européenne pour la santé et la sécurité
    au travail, n° 5.
 
    DARES (1999). Efforts, risques et charge de travail mentale au travail
    - Résultats des enquêtes conditions de travail 1984, 1991 et 1998. Les
-   dossiers de la DARES, hors-série /99. Ministère de l'Emploi et de la
+   dossiers de la DARES, hors-série /99. Ministère de l’Emploi et de la
    Solidarité. La documentation française.
 
    Dartiguepeyrou M. (1999). Étude comparative des niveaux de stress des
@@ -1069,7 +1069,7 @@ Bibliographie
    et débat social. Performances-Stratégies et Facteur Humain, n° 1,
    p. 4-7.
 
-   D'Hertefelt H. (2002). La mesure de la charge psychosociale sur le lieu
+   D’Hertefelt H. (2002). La mesure de la charge psychosociale sur le lieu
    de travail en Belgique. BTS Newsletter n° 19-20, p. 45-50.
    http://hesa.etui-rehs.org/fr/newsletter/files/2002-19p45-50.pdf
 
@@ -1086,13 +1086,13 @@ Bibliographie
    Falzon P. et Sauvagnac C. (2004). Charge de travail et stress. In
    Ergonomie, ed P. Falzon, p. 45-55. PUF, Paris.
 
-   Frimat P. (1996). Validation d'un outil de mesure du stress, influence
-   du stress perçu au travail sur l'absentéisme et l'incidence des
+   Frimat P. (1996). Validation d’un outil de mesure du stress, influence
+   du stress perçu au travail sur l’absentéisme et l’incidence des
    maladies cardiovasculaires. Santé au travail, 10 ans de recherche
    médicale, colloque du 19 mars 1996, La documentation française.
 
    Graziani P., Swendsen J. (2004). Le stress - Émotions et stratégies
-   d'adaptation. Éditions Nathan, Paris.
+   d’adaptation. Éditions Nathan, Paris.
 
    Guillevic C. (1991). Psychologie du travail. Éditions Nathan, Paris.
 
@@ -1107,34 +1107,34 @@ Bibliographie
    Springer, New-York.
 
    Leplat J. (1997). Quelques commentaires sur la notion de charge mentale
-   de travail. In Regards sur l'activité en situation de travail,
+   de travail. In Regards sur l’activité en situation de travail,
    Contribution à la psychologie ergonomique, ed J. Leplat, p. 57-72. PUF,
    Paris.
 
    Leplat J., Cuny X. (1984). Introduction à la psychologie du travail.
    PUF, Paris.
 
-   Lindsay P.H., Norman D.A. (1980). Traitement de l'information et
+   Lindsay P.H., Norman D.A. (1980). Traitement de l’information et
    comportement humain. Éditions Études vivantes, Montréal.
 
    Manoukian A. (2004). Les soignants et les personnes âgées. Éditions
    Lamarre, coll. Pratiquer, Paris.
 
-   Martin C., Gadbois C. (2004). L'ergonomie à l'hôpital. In Ergonomie, ed
+   Martin C., Gadbois C. (2004). L’ergonomie à l’hôpital. In Ergonomie, ed
    P. Falzon, p. 45-55. PUF, Paris.
 
    Meister D. (1981). The problem of stress definition. In Machine pacing
    and occupational stress, eds. G. Salvendy, M.J. Smith, p. 37-44. Taylor
    & Francis, London.
 
-   Molinié E. (2005). L'hôpital public en France : bilan et perspectives.
+   Molinié E. (2005). L’hôpital public en France : bilan et perspectives.
    Étude du conseil économique et social, Année 2005. - N° 10 NOR : C.E.S.
    X00000110V.
    http://www.ladocumentationfrancaise.fr/var/storage/rapports-publics/054
    000659/0000.pdf
 
    Montmollin M. de (1997). Charge de travail. In Vocabulaire de
-   l'ergonomie, ed M. de Montmollin, 2^e Edition, p. 42-44. Octarès
+   l’ergonomie, ed M. de Montmollin, 2^e Edition, p. 42-44. Octarès
    Edition, Toulouse.
 
    Neboit M., Vézina M. (2002). Chapitre introductif - Évolutions du
@@ -1166,18 +1166,18 @@ Bibliographie
    Foundation for the Improvement of Living and Working Conditions,
    Dublin.
 
-   Paulhan I. (1994). Les stratégies d'ajustement ou « coping ». In
+   Paulhan I. (1994). Les stratégies d’ajustement ou « coping ». In
    Introduction à la psychologie de la santé, eds M. Bruchon-Schweitzer et
    R. Dantzer, p. 99-124. PUF, Paris.
 
-   Poete B., Rousseau T. (2003). La charge de travail - De l'évaluation à
+   Poete B., Rousseau T. (2003). La charge de travail - De l’évaluation 
    la négociation. Éditions Liaisons réseau ANACT.
 
-   Pottier M., Estryn-Behar M. (1979). L'ergonomie du travail infirmier.
+   Pottier M., Estryn-Behar M. (1979). L’ergonomie du travail infirmier.
    Actes du XV^e congrès de la SELF, 6-8 décembre, Paris.
 
    Quéinnec Y., Barthe B., Verdier F. (2000). Réduction du temps de
-   travail et organisation de l'activité de travail : des rapports ambigus
+   travail et organisation de l’activité de travail : des rapports ambigus
    et complexes. In Où va le temps de travail ? eds D.G. Tremblay et G. de
    Terssac, p. 133-142. Presse universitaire, Montréal et Octarès
    Éditions, Toulouse.
@@ -1189,8 +1189,8 @@ Bibliographie
 
    Rochefort T., Guérin F. (2000). Liens entre organisations du travail,
    charge de travail et performance. Organisation du travail - Charge de
-   travail - Performance, Journées de travail organisées par l'ANACT et
-   l'APRAT, 27 et 28 juin 2000, Lyon, p. 6-8.
+   travail - Performance, Journées de travail organisées par l’ANACT et
+   l’APRAT, 27 et 28 juin 2000, Lyon, p. 6-8.
    http://www.whp-training.eu/resources/organisation-du-travail_charge-de-
    travail_-performance.pdf
 
@@ -1202,12 +1202,12 @@ Bibliographie
    conditions. Journal of occupational health psychology, 1996/1,
    p. 27-41.
 
-   Spérandio J.C. (1972). L'ergonomie du travail mental. Masson, Paris.
+   Spérandio J.C. (1972). L’ergonomie du travail mental. Masson, Paris.
 
    Spérandio J.C. (1984). Charge de travail et régulation des processus
    opératoires. Le Travail Humain, vol. 35, n° 1, p. 85-98.
 
-   Stoïber C. et Bouillerce B. (1999). Le stress de l'aide-soignant :
+   Stoïber C. et Bouillerce B. (1999). Le stress de l’aide-soignant :
    Spécificités et conséquences - Comment lutter contre le stress. Masson,
    Paris.
 
@@ -1216,12 +1216,12 @@ Bibliographie
    survey of safety reps 2004. p. 21-26.
    www.tuc.org.uk/h_and_s/tuc-9056-f0.pdf
 
-   Vaxevanoglou X., Ponnelle S. (1999). Déterminants de l'activité et
+   Vaxevanoglou X., Ponnelle S. (1999). Déterminants de l’activité et
    santé psychique au travail. Actes du 32^e congrès de la SELF, Caen,
    p. 289-296.
 
-   Vézina M. (1999). L'organisation du travail et la santé mentale : état
-   des connaissances et perspectives d'intervention. Revue de médecine du
+   Vézina M. (1999). L’organisation du travail et la santé mentale : état
+   des connaissances et perspectives d’intervention. Revue de médecine du
    travail, XXVI, 1/99, p. 14-24.
    Haut de page
 
@@ -1238,7 +1238,7 @@ Table des illustrations
    URL
    http://journals.openedition.org/pistes/docannexe/image/2159/img-2.png
    Fichier image/png, 7,5k
-   Titre Figure 3. Nombre de demandes d'aides et durée de l'entraide
+   Titre Figure 3. Nombre de demandes d’aides et durée de l’entraide
    effective des infirmières A, B et C lors des 6 postes de travail et
    scores de stress perçu associés
    URL
@@ -1251,7 +1251,7 @@ Pour citer cet article
 Référence électronique
 
    Sandrine Cazabat, Béatrice Barthe et Nadine Cascino, « Charge de
-   travail et stress professionnel : deux facettes d'une même
+   travail et stress professionnel : deux facettes d’une même
    réalité ? », Perspectives interdisciplinaires sur le travail et la
    santé [En ligne], 10-1 | 2008, mis en ligne le 01 mai 2008, consulté le
    30 décembre 2025. URL : http://journals.openedition.org/pistes/2159 ;
@@ -1265,7 +1265,7 @@ Sandrine Cazabat
      * [logo_idref.svg] IDREF : https://idref.fr/204774667
      * [logo_viaf.svg] VIAF : http://viaf.org/viaf/138151050015333410745
 
-   Ergonova - Bureau d'études en ergonomie, Parc Club des Sept Deniers, 78
+   Ergonova - Bureau d’études en ergonomie, Parc Club des Sept Deniers, 78
    chemin des Sept Deniers, 31200 Toulouse, s.cazabat@ergonova.fr
 
 Béatrice Barthe
@@ -1294,13 +1294,13 @@ Nadine Cascino
    Machado, 31058 Toulouse cedex 9, cascino@univ-tlse2.fr
    Haut de page
 
-Droits d'auteur
+Droits d’auteur
 
    CC-BY-NC-ND-4.0
 
    Le texte seul est utilisable sous licence CC BY-NC-ND 4.0. Les autres
    éléments (illustrations, fichiers annexes importés) sont susceptibles
-   d'être soumis à des autorisations d'usage spécifiques.
+   d’être soumis à des autorisations d’usage spécifiques.
    Haut de page
    Sommaire - Document précédent - Document suivant
 
@@ -1317,7 +1317,7 @@ Présentation
        international
      * Consignes aux auteur·rices
      * Politique éditoriale
-     * Code d'éthique et de bonnes pratiques
+     * Code d’éthique et de bonnes pratiques
      * Actualités
 
 Appels à contribution
@@ -1367,17 +1367,17 @@ Suivez-nous
 
      * Flux RSS Flux RSS
 
-Lettres d'information
+Lettres d’information
 
      * La Lettre de PISTES
-     * La Lettre d'OpenEdition
+     * La Lettre d’OpenEdition
 
 Affiliations/partenaires
 
-     * Logo FQRSC - Fonds de recherche Société et culture Québec
-     * Logo IRSST - Institut de recherche Robert-Sauvé en santé et en
+     * Logo FQRSC – Fonds de recherche Société et culture Québec
+     * Logo IRSST – Institut de recherche Robert-Sauvé en santé et en
        sécurité du travail
-     * Logo SELF - Société d'ergonomie de langue française
+     * Logo SELF – Société d’ergonomie de langue française
      * DOAJ - Directory of Open Access Journals
      * OpenEdition Journals
 
@@ -1385,13 +1385,13 @@ Affiliations/partenaires
 
    Voir la notice dans le catalogue OpenEdition
 
-   Plan du site - Mentions légales et crédits - Contacts - Flux de
+   Plan du site – Mentions légales et crédits – Contacts – Flux de
    syndication
 
-   CGU d'OpenEdition Journals - Politique de confidentialité - Gestion des
-   cookies - Signaler un problème
+   CGU d’OpenEdition Journals – Politique de confidentialité – Gestion des
+   cookies – Signaler un problème
 
-   Nous adhérons à OpenEdition Journals - Édité avec Lodel - Accès réservé
+   Nous adhérons à OpenEdition Journals – Édité avec Lodel – Accès réservé
 
    (BUTTON)
 

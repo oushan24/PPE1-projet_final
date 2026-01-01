@@ -3,7 +3,7 @@
    Accueil
    (BUTTON) Rechercher (BUTTON) Menu
      * Panier (0)
-     * Lettre d'information
+     * Lettre d’information
      * Contact
      * Se connecter
 
@@ -17,7 +17,7 @@
           + Événements
      * Ressources
      * (BUTTON) Services
-          + L'offre de formations Anact
+          + L’offre de formations Anact
           + Sensibilisation
           + Accompagnement
           + Aide financière
@@ -45,9 +45,9 @@
           + Nouvelle-Aquitaine
           + Occitanie
           + Pays de la Loire
-          + Provence-Alpes-Côte d'Azur
+          + Provence-Alpes-Côte d’Azur
      * L'Anact
-     * ¬ Je donne mon avis
+     * 💬 Je donne mon avis
 
    Vente de jeux :
 
@@ -78,7 +78,7 @@ Quatre choses à savoir sur la charge de travail
        etc.
      * La charge réelle : elle correspond à ce qui est réellement réalisé
        : les aléas, les ajustements, le travail non prévu, le travail
-       réalisé avec le soutien des collègues...
+       réalisé avec le soutien des collègues…
      * La charge vécue : plus subjective, elle correspond à la
        représentation que chacun se fait de sa charge et du sens du
        travail. Et cela compte !
@@ -91,7 +91,7 @@ Quatre choses à savoir sur la charge de travail
      * Quand on parle de charge de travail, on pense généralement à la
        surcharge.
      * Il faut cependant souligner qu'une surcharge de travail,
-       temporaire, visible, reconnue, qui "a du sens" (pour faire face à
+       temporaire, visible, reconnue, qui "a du sens" (pour faire face 
        une situation inédite par exemple) n'est pas toujours mal vécue par
        le collaborateur. C'est lorqu'elle dure, mais aussi lorsqu'elle
        n'est pas visible, pas discutée et pas régulée qu'elle pose
@@ -123,7 +123,7 @@ Quatre choses à savoir sur la charge de travail
 Kit Agir sur la charge de travail
 
    Une méthode, accompagnée d'outils pratiques et d'exemples
-   d'application, pour évaluer la charge de travail en entreprise et la
+   d’application, pour évaluer la charge de travail en entreprise et la
    réguler.
      * Kits méthodologiques
 
@@ -136,7 +136,7 @@ Kit Agir sur la charge de travail
    peuvent être mis en oeuvre aussi bien sur site qu'à distance. Mais des
    spécificités sont à prendre en compte dans ce dernier cas :
      * Le télétravail peut alourdir la charge de travail : besoin de plus
-       de coordination à distance, soutien des collègues plus difficile à
+       de coordination à distance, soutien des collègues plus difficile 
        organiser, et dans certains cas : équipement défaillant, non
        maitrise des outils numériques, sur-connexion, conflits avec les
        activités domestiques...
@@ -146,9 +146,9 @@ Kit Agir sur la charge de travail
 
    Deux points de vigilance :
      * La nécessité de garder du temps pour maintenir le lien social,
-       l'informel à distance.
+       l’informel à distance.
      * Les éventuelles situations d'inégalité (femmes/hommes, équipements,
-       situation personnelle, logement...).
+       situation personnelle, logement…).
 
 La charge de travail, c'est une affaire à traiter entre le manageur et le
 salarié mais pas seulement...
@@ -204,11 +204,11 @@ Podcast : 5 minutes chrono sur la charge de travail
 
    Ressources | 03 janvier 2023
 
-Abonnez-vous à notre lettre d'information
+Abonnez-vous à notre lettre d’information
 
    Recevez chaque mois notre actualité en vous abonnant à notre lettre
    d'information nationale ou la lettre de votre région.
-   S'abonner
+   S’abonner
 
 Suivez-nous
 sur les réseaux sociaux

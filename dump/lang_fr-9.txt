@@ -32,7 +32,7 @@
           + Business Case
           + Étude et Baromètre
           + Réseaux Sociaux
-          + Stratégie d'influence
+          + Stratégie d’influence
           + Veille et Tribune
           + Voir tous les articles Influences
      * Data
@@ -55,7 +55,7 @@
           + Voir tous les articles Search
      * Agences
           + Annuaires
-          + Appels d'offres
+          + Appels d’offres
           + Budgets
           + Business Case
           + Étude et Baromètre
@@ -78,11 +78,11 @@
      * Livres blancs
      * Webinars
      * Espaces partenaires
-          + L'expérience client à l'ère de l'IA
+          + L’expérience client à l’ère de l’IA
           + La bonne méthode par E-Marketing.fr
           + Pub-Audit : construisez des solutions de communication locale
             performantes
-          + L'Expérience client par Isoskele
+          + L’Expérience client par Isoskele
 
      * Emarketing.TV
      * Fiches pratiques
@@ -92,15 +92,15 @@
      * Livres blancs
      * Webinars
      * Espaces partenaires
-          + L'expérience client à l'ère de l'IA
+          + L’expérience client à l’ère de l’IA
           + La bonne méthode par E-Marketing.fr
           + Pub-Audit : construisez des solutions de communication locale
             performantes
-          + L'Expérience client par Isoskele
+          + L’Expérience client par Isoskele
 
    E-marketing.fr Le média de référence des marketeurs
    ____________________ Rechercher
-     * S'abonner
+     * S’abonner
 
      * Marques
           + Business Case
@@ -134,7 +134,7 @@
           + Business Case
           + Étude et Baromètre
           + Réseaux Sociaux
-          + Stratégie d'influence
+          + Stratégie d’influence
           + Veille et Tribune
           + Voir tous les articles Influences
      * Data
@@ -157,7 +157,7 @@
           + Voir tous les articles Search
      * Agences
           + Annuaires
-          + Appels d'offres
+          + Appels d’offres
           + Budgets
           + Business Case
           + Étude et Baromètre
@@ -179,26 +179,26 @@ La charge émotionnelle
    Par Sylvie Labouesse, Nathalie Van Laethem, Le 1 décembre 2017, 0h00
    7 min
 
-   Reconnaître le poids et l'influence de nos émotions dans nos activités
+   Reconnaître le poids et l’influence de nos émotions dans nos activités
 
 En résumé
 
-   Nous appelons charge émotionnelle le poids et l'influence que certaines
+   Nous appelons charge émotionnelle le poids et l’influence que certaines
    de nos émotions apportent à nos réactions, nos attitudes, nos idées et
    convictions. Ce poids et cette influence sont généralement de très
    forte intensité, voire disproportionnés, par exemple, quand nous
-   observons que nous mettons beaucoup d'emphase en regard d'une
-   situation. Mettre de l'emphase n'est ni bien ou mal, mais ce  »
+   observons que nous mettons beaucoup d’emphase en regard d’une
+   situation. Mettre de l’emphase n’est ni bien ou mal, mais ce  »
    trop-plein  » a un impact sur nos activités : nous ne raisonnons plus
    objectivement car nous sommes emportés ou débordés par nos émotions.
 
-Pourquoi l'utiliser ?
+Pourquoi l’utiliser ?
 
 Objectif
 
    Prêter attention à la charge émotionnelle liée à nos réactions,
-   attitudes, idées, nous permet d'observer les stimulations internes ou
-   externes qui en sont à l'origine. Nous pouvons ainsi équilibrer les
+   attitudes, idées, nous permet d’observer les stimulations internes ou
+   externes qui en sont à l’origine. Nous pouvons ainsi équilibrer les
    émotions qui nous font  » grimper dans les tours « , celles qui
    produisent une emphase disproportionnée ou gênante dans nos relations
    avec les autres. Nous renforçons ainsi notre efficience
@@ -210,11 +210,11 @@ Contexte
    ressentons une forte émotion. Prenons comme exemple cette personne
    invitée à la dernière minute à une réunion, alors que sa participation
    y est incontournable : elle arrive à la réunion en colère,  » ruminant
-    » le fait que l'organisateur aurait pu anticiper, qu'il était évident
-   que sa présence y était nécessaire... Envahie par ce surplus
-   émotionnel, elle vit toute la palette des couleurs émotionnelles telles
-   que vexation, rancune... Son énergie est absorbée par ses émotions et
-   son raisonnement s'altère, ses interventions en réunion présentent une
+    » le fait que l’organisateur aurait pu anticiper, qu’il était évident
+   que sa présence y était nécessaire… Envahie par ce surplus émotionnel,
+   elle vit toute la palette des couleurs émotionnelles telles que
+   vexation, rancune… Son énergie est absorbée par ses émotions et son
+   raisonnement s’altère, ses interventions en réunion présentent une
    teinte émotionnelle décalée.
 
    Il en est de même avec les émotions positives. Prenons l'exemple de
@@ -235,7 +235,7 @@ Comment l'utiliser ?
      Qualifiez votre émotion : + pour une émotion positive, - pour une
    émotion négative.
 
-     Observez l'intensité de la charge émotionnelle sur une échelle de 1 à
+     Observez l'intensité de la charge émotionnelle sur une échelle de 1 
    10 ; 1 correspondant à une charge faible, 10 représentant un
    débordement émotionnel quasi immaîtrisable.
 
@@ -367,12 +367,12 @@ TÉMOIGNAGE Kevin C.
 
      * Sommaire
      * I - En pleine conscience, ici et maintenant
-          + L'attention en pleine conscience
+          + L’attention en pleine conscience
           + Le rappel à soi
           + Le Stop interne
           + Les neuf moments de présence attentive
           + La méditation
-          + L'auto-observation
+          + L’auto-observation
      * II - En Pleine conscience de ses sensations
           + La détente des tensions
           + La relaxation
@@ -383,25 +383,25 @@ TÉMOIGNAGE Kevin C.
      * III - En Pleine conscience de ses émotions
           + La Roue des émotions : Définition, schéma et utilisation
           + La charge émotionnelle
-          + L'intuition
+          + L’intuition
           + Les climats intérieurs
           + La confiance en soi
           + Les PIBA (Purs Instants de Bonheur Absolu)
-          + L'adhésion émotionnelle
-          + L'intégration des émotions
+          + L’adhésion émotionnelle
+          + L’intégration des émotions
      * IV - En Pleine conscience de ses mouvements
           + Le geste Design
-          + L'exercice de la main opposée
+          + L’exercice de la main opposée
           + La décharge motrice
           + Le réveil moteur
           + La slow attitude
           + La posture corporelle
      * V - En Pleine conscience de son mental
-          + L'interprétation
-          + L'échelle de valeurs
+          + L’interprétation
+          + L’échelle de valeurs
           + Les pensées involontaires
-          + L'image de soi : définition et explications
-          + L'imagination créatrice
+          + L’image de soi : définition et explications
+          + L’imagination créatrice
           + La mémoire
           + La visualisation
           + La réalisation unitive
@@ -412,13 +412,13 @@ TÉMOIGNAGE Kevin C.
           + Trois comportements bloquants
           + Le centre de gravité interne
           + La matrice Gestion de ses activités
-          + L'équilibre objectifs perso / objectifs pro
+          + L’équilibre objectifs perso / objectifs pro
           + La proportion
      * VII - En pleine conscience même en situation de stress
           + Le fonctionnement stimuli-réponse
           + Les signes du stress
           + Les manifestations de notre insécurité interne
-          + La pression d'autrui
+          + La pression d’autrui
           + Les aspirations positives
           + Le lâcher-prise
      * VIII - En pleine conscience de Son équilibre perso/pro
@@ -427,7 +427,7 @@ TÉMOIGNAGE Kevin C.
           + Les sphères de vie
           + Les cercles de prestige
           + La cartographie des moments clés
-          + L'auto-coaching
+          + L’auto-coaching
           + La démarche de progrès intérieur
 
    Abonnez-vous à Marketing Magazine !
@@ -437,10 +437,10 @@ TÉMOIGNAGE Kevin C.
    [ecrans.png] [MM250_Couv-5.jpg] [MM250_Couv-5.jpg]
 
    à partir de
-   190 EUR
+   190 €
    par an
-   pour 1 an d'abonnement
-   j'en profite
+   pour 1 an d’abonnement
+   j’en profite
 
 Recevez la newsletter de la rédaction
 
@@ -453,7 +453,7 @@ Recevez la newsletter de la rédaction
    la forme du site. Les internautes ont accès à du contenu produit par
    les marques, en lien avec leurs problématiques professionnelles. Ils
    peuvent facilement en identifier la provenance grâce à la mention
-   "Brand Voice", ce format permet de valoriser leur expertise en
+   “Brand Voice“, ce format permet de valoriser leur expertise en
    partageant du contenu à forte valeur ajoutée. Pour toute demande de
    renseignements complémentaires, contactez-nous à l'adresse suivante :
    [email protected]
@@ -464,7 +464,7 @@ Studio IA : La Poste Solutions Business booste le courrier marketing...
 
    Par La Poste Business Solutions 5 min
 
-Conférence MKG Day 2017 - Bots / Intelligence Artificielle 1/4,...
+Conférence MKG Day 2017 – Bots / Intelligence Artificielle 1/4,...
 
    Par Richard Mathey min
 
@@ -486,7 +486,7 @@ Inscrivez-vous à la Newsletter
    Recevez votre magazine en papier + format PDF (4 numéros) et accédez
    aux contenus premium
 
-   210EUR/an 190EUR/an
+   210€/an 190€/an
 
    Bénéficiez du premier mois offert
    pour un règlement immédiat
@@ -496,7 +496,7 @@ Inscrivez-vous à la Newsletter
    Abonnement papier + format PDF (8 numéros) et accédez aux contenus
    premium
 
-   420EUR/2 ans 378EUR/2 ans
+   420€/2 ans 378€/2 ans
 
    Bénéficiez du -10% de réduction
    pour un règlement immédiat
@@ -504,7 +504,7 @@ Inscrivez-vous à la Newsletter
 
    About
    E-marketing.fr et le magazine Marketing sont les médias leader en
-   France de l'information B2B et de l'animation de la communauté
+   France de l’information B2B et de l’animation de la communauté
    professionnelle constituée par les décideurs Marketing. Deux outils
    indispensables pour les pros du business développement et pour les
    prestataires de la filière marketing
@@ -546,7 +546,7 @@ Inscrivez-vous à la Newsletter
      * Silicon.de Silicon.de
 
      * Politique de confidentialité
-     * Conditions Générales d'Utilisation
+     * Conditions Générales d’Utilisation
      * Mentions Légales
 
-   ^|
+   ↑

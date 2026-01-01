@@ -3,7 +3,7 @@
    The store will not work correctly when cookies are disabled.
 
    Javascript est désactivé dans votre navigateur. Pour une meilleure
-   expérience sur notre site, assurez-vous d'activer JavaScript dans votre
+   expérience sur notre site, assurez-vous d’activer JavaScript dans votre
    navigateur.
 
    Vous avez lu 1 sur 3 articles gratuits ce mois-ci.
@@ -80,56 +80,56 @@ La fameuse charge mentale
    comprenant mieux ses mécanismes, il est toutefois possible de la
    réduire.
 
-   La psychologue rappelle d'entrée de jeu que ce que l'on nomme
+   La psychologue rappelle d’entrée de jeu que ce que l’on nomme
    communément «charge mentale» correspond, en termes techniques, à la
    charge cognitive qui pèse sur un individu. Cette dernière dépend moins
    de la quantité de travail à accomplir que de sa complexité. «La
-   principale fonction du gestionnaire est d'assurer l'efficacité de son
+   principale fonction du gestionnaire est d’assurer l’efficacité de son
    équipe et de prévenir les différents problèmes qui pourraient survenir.
-   En plus de l'ampleur de la tâche, il peut avoir à composer avec un
+   En plus de l’ampleur de la tâche, il peut avoir à composer avec un
    manque de ressources et de temps, tout en gérant des objectifs flous ou
    redéfinis constamment», mentionne-t-elle. À cet égard, elle cite en
-   exemple la difficulté pour plusieurs entreprises d'établir des
+   exemple la difficulté pour plusieurs entreprises d’établir des
    stratégies en raison du manque de visibilité sur les tarifs douaniers
    imposés par les États-Unis.
 
-   Malgré ces défis et l'absence de cibles claires, l'organisation doit
+   Malgré ces défis et l’absence de cibles claires, l’organisation doit
    malgré tout poursuivre ses activités, ce qui place le superviseur dans
    une position à la fois paradoxale et inconfortable. Coincé entre
-   l'arbre et l'écorce - d'un côté, une direction qui s'attend à des
-   résultats ; de l'autre, des employés stressés qui espèrent recevoir des
-   directives claires -, le gestionnaire peut ressentir de l'impuissance
-   et montrer des signes d'essoufflement. «C'est particulièrement
+   l’arbre et l’écorce – d’un côté, une direction qui s’attend à des
+   résultats ; de l’autre, des employés stressés qui espèrent recevoir des
+   directives claires –, le gestionnaire peut ressentir de l’impuissance
+   et montrer des signes d’essoufflement. «C’est particulièrement
    éprouvant pour les cadres de proximité et intermédiaires, qui doivent
-   aussi gérer l'anxiété découlant de l'incertitude. À la charge cognitive
-   s'ajoute donc une importante charge émotionnelle», fait valoir la
+   aussi gérer l’anxiété découlant de l’incertitude. À la charge cognitive
+   s’ajoute donc une importante charge émotionnelle», fait valoir la
    psychologue.
 
 Comment reprendre le dessus?
 
-   Pour réduire la surcharge, les gestionnaires ont quelques leviers à
+   Pour réduire la surcharge, les gestionnaires ont quelques leviers 
    leur disposition. «Tabler sur ses ressources personnelles, comme la
-   capacité à rebondir, la créativité et l'agilité, peut les aider en ce
-   sens. Cela dit, il n'est pas toujours facile de trouver l'énergie
+   capacité à rebondir, la créativité et l’agilité, peut les aider en ce
+   sens. Cela dit, il n’est pas toujours facile de trouver l’énergie
    nécessaire pour improviser des solutions si on est déjà épuisé parce
-   qu'en constante adaptation», remarque Estelle M. Morin.
+   qu’en constante adaptation», remarque Estelle M. Morin.
 
-   Miser sur l'esprit de solidarité de l'équipe et valoriser la
-   débrouillardise de ses membres constituent d'autres pistes à explorer.
-   Il peut s'avérer opportun de travailler à développer son intelligence
-   émotionnelle afin de mieux gérer l'anxiété et la frustration, autant
+   Miser sur l’esprit de solidarité de l’équipe et valoriser la
+   débrouillardise de ses membres constituent d’autres pistes à explorer.
+   Il peut s’avérer opportun de travailler à développer son intelligence
+   émotionnelle afin de mieux gérer l’anxiété et la frustration, autant
    les siennes que celles de ses collègues.
 
    Enfin, pour gagner en temps et en efficacité, Estelle M. Morin évoque
-   la possibilité d'utiliser les outils d'intelligence artificielle
-   générative. Elle précise qu'il ne s'agit pas d'y chercher de
-   l'information, leur fiabilité demeurant limitée, mais plutôt de
-   recourir à leurs capacités d'analyse pour évaluer des idées, les tester
+   la possibilité d’utiliser les outils d’intelligence artificielle
+   générative. Elle précise qu’il ne s’agit pas d’y chercher de
+   l’information, leur fiabilité demeurant limitée, mais plutôt de
+   recourir à leurs capacités d’analyse pour évaluer des idées, les tester
    et proposer des améliorations. Selon elle, cette technologie permet
-   d'accroître ses propres capacités et, ultimement, de réduire sa charge
+   d’accroître ses propres capacités et, ultimement, de réduire sa charge
    cognitive.
 
-             Article publié dans l'édition Hiver 2026 de Gestion
+             Article publié dans l’édition Hiver 2026 de Gestion
    Emmanuelle Gril
    Emmanuelle Gril
    Journaliste

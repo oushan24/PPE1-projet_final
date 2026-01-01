@@ -6,7 +6,7 @@
 
    (BUTTON) Toggle navigation
      * Bienvenue chez Lycoa Développement
-     * L'équipe Lycoa Développement
+     * L’équipe Lycoa Développement
      * Les offres
           + Accompagnement individuel
           + Accompagnement collectif
@@ -29,13 +29,13 @@ Management : charge mentale et émotionnelle, un cocktail explosif
    est-ce une fatalité ?
 
    « Faire face à la pression », « gérer mon stress », « prendre du
-   recul », « lâcher prise »... Les demandes qui me sont formulées par les
-   managers que j'accompagne prennent différentes formes mais expriment
+   recul », « lâcher prise »… Les demandes qui me sont formulées par les
+   managers que j’accompagne prennent différentes formes mais expriment
    souvent le même et unique besoin : diminuer leur charge mentale et
    émotionnelle.
 
    Charge de travail, pression sur les délais, relations conflictuelles,
-   contexte de transformation... les causes sont nombreuses.
+   contexte de transformation… les causes sont nombreuses.
 
    Selon le « baromètre de la santé psychologique des salariés français en
    période de crise », réalisé par OpinionWay pour le cabinet Empreinte
@@ -45,32 +45,32 @@ Management : charge mentale et émotionnelle, un cocktail explosif
 
    Alors, est-ce une fatalité ? Au-delà de la responsabilité des
    entreprises en matière de prévention des risques psychosociaux, de
-   l'attention qu'elles doivent porter aux conditions de travail des
+   l’attention qu’elles doivent porter aux conditions de travail des
    collaborateurs, pouvons-nous individuellement agir sur notre charge
    mentale et émotionnelle ? De quelles ressources personnelles disposons
    nous pour y faire face ?
 
-Qu'est ce que la charge mentale et émotionnelle ?
+Qu’est ce que la charge mentale et émotionnelle ?
 
-   La charge émotionnelle est l'ensemble des réactions émotionnelles
-   (inquiétude, angoisse, agacement, abattement...) qui se déclenchent
+   La charge émotionnelle est l’ensemble des réactions émotionnelles
+   (inquiétude, angoisse, agacement, abattement…) qui se déclenchent
    lorsque nous devons faire face à une situation.
 
-   La charge mentale est l'ensemble des choses auxquelles nous devons
+   La charge mentale est l’ensemble des choses auxquelles nous devons
    penser. Elle est liée à la pression que nous nous mettons pour être sûr
    de ne rien oublier. Charges émotionnelles et mentales sont intimement
    liées.
 
    Une même situation peut générer une charge forte pour un manager alors
-   qu'elle aura un impact mineur pour un autre.
-   Le regard que nous portons sur la situation et le niveau d'exigence
+   qu’elle aura un impact mineur pour un autre.
+   Le regard que nous portons sur la situation et le niveau d’exigence
    personnel que nous mettons pour y faire face jouent significativement
    sur le niveau de charge émotionnelle et mentale ressentie.
 
    Cette façon personnelle de vivre et de traiter chacune des situations
    auxquelles nous sommes confrontés dépend de notre histoire, de nos
-   expériences, de la façon dont nous nous sommes construits. C'est un peu
-   comme si nous disposions d'une boîte noire qui influence inconsciemment
+   expériences, de la façon dont nous nous sommes construits. C’est un peu
+   comme si nous disposions d’une boîte noire qui influence inconsciemment
    nos actes, nos décisions et comportements.
 
    Apprivoiser le contenu de notre boîte noire nous permet de reprendre le
@@ -80,39 +80,39 @@ Qu'est ce que la charge mentale et émotionnelle ?
 Explorer notre « boîte noire » avec les Drivers
 
    Le concept des Drivers a été développé par Taïbi Kahler (Psychologue
-   Américain et Analyste Transactionnel) qui cherchait à répertorier et à
+   Américain et Analyste Transactionnel) qui cherchait à répertorier et 
    classer les signes extérieurs émis par la personne en situation de
    stress.
 
    Les drivers sont des conditionnements que nous avons intégrés à notre
-   insu au contact d'adultes référents. Ils provoquent des réactions
-   automatiques et limitent ainsi notre capacité à utiliser d'autres
+   insu au contact d’adultes référents. Ils provoquent des réactions
+   automatiques et limitent ainsi notre capacité à utiliser d’autres
    options comportementales.
 
    Ils sont au nombre de 5 :
 
    « Sois fort »
 
-   Croyance : « je n'ai pas besoin des autres ».
+   Croyance : « je n’ai pas besoin des autres ».
 
    Comportements : Un manager qui a le driver « Sois fort » en dominant
-   fait face à l'adversité avec une apparente sérénité. Il a le sens du
-   devoir. Il a néanmoins beaucoup de difficultés à demander de l'aide,
+   fait face à l’adversité avec une apparente sérénité. Il a le sens du
+   devoir. Il a néanmoins beaucoup de difficultés à demander de l’aide,
    parler de ses difficultés et exprimer ses émotions. Pour lui, aucun
-   signe de faiblesse n'est tolérable. Il a l'angoisse de craquer sous la
+   signe de faiblesse n’est tolérable. Il a l’angoisse de craquer sous la
    pression.
 
    Autorisation à se donner : ressentir et exprimer ses émotions, demander
-   de l'aide, déléguer, ne pas toujours être infaillible.
+   de l’aide, déléguer, ne pas toujours être infaillible.
 
    « Fais des efforts »
 
    Croyance : « je dois montrer que je fais de mon mieux »
 
    Comportements : Un manager qui a le driver « Fais des efforts » en
-   dominant s'implique énormément et marque son enthousiasme pour tout
+   dominant s’implique énormément et marque son enthousiasme pour tout
    nouveau projet. Il a néanmoins tendance à complexifier les choses, il
-   s'épuise vite et à ne parviens pas à finaliser. Pour lui, finalement,
+   s’épuise vite et à ne parviens pas à finaliser. Pour lui, finalement,
    tout devient vite difficile et lourd.
 
    Autorisation à se donner : faire simple et finaliser avant de commencer
@@ -120,12 +120,12 @@ Explorer notre « boîte noire » avec les Drivers
 
    « Dépêche-toi »
 
-   Croyance : « J'ai peu de temps pour faire ce que j'ai à faire »
+   Croyance : « J’ai peu de temps pour faire ce que j’ai à faire »
 
    Comportements : Un manager qui a le driver « Dépêche-toi » » en
    dominant se met vite en action, pense et travaille vite. Il a néanmoins
-   tendance à faire preuve d'impatience et à stresser son entourage. Il ne
-   se donne pas de temps pour faire les choses et angoisse à l'idée de ne
+   tendance à faire preuve d’impatience et à stresser son entourage. Il ne
+   se donne pas de temps pour faire les choses et angoisse à l’idée de ne
    rien faire.
 
    Autorisations à se donner : se reposer parfois, prendre son temps et se
@@ -136,9 +136,9 @@ Explorer notre « boîte noire » avec les Drivers
    Croyance : « Je dois tout faire pour satisfaire les autres »
 
    Comportements : Un manager qui a le driver « Fais plaisir » » en
-   dominant est attentif aux autres et veille à l'ambiance de l'équipe. Il
-   a néanmoins des difficultés à s'affirmer et à dire non. Il est anxieux
-   à l'idée de ne pas être approuvé par les autres.
+   dominant est attentif aux autres et veille à l’ambiance de l’équipe. Il
+   a néanmoins des difficultés à s’affirmer et à dire non. Il est anxieux
+   à l’idée de ne pas être approuvé par les autres.
 
    Autorisations à se donner : poser ses limites et dire non, prendre soin
    de soi.
@@ -148,28 +148,28 @@ Explorer notre « boîte noire » avec les Drivers
    Croyance : « Je dois faire les choses parfaitement »
 
    Comportements : Un manager qui a le driver « Sois parfait » » en
-   dominant a à coeur de bien faire les choses et de les aborder de
-   manière précise et rigoureuse. Il a néanmoins des difficultés à
-   diminuer son niveau d'exigence, à respecter les délais, à déléguer. Il
-   focalise sur ce qui est à améliorer et ne s'arrête pas sur les éléments
-   satisfaisants. Il angoisse à l'idée de mal faire les choses ce qui
-   l'incite à imposer ses propres règles ou à faire lui-même.
+   dominant a à cœur de bien faire les choses et de les aborder de manière
+   précise et rigoureuse. Il a néanmoins des difficultés à diminuer son
+   niveau d’exigence, à respecter les délais, à déléguer. Il focalise sur
+   ce qui est à améliorer et ne s’arrête pas sur les éléments
+   satisfaisants. Il angoisse à l’idée de mal faire les choses ce qui
+   l’incite à imposer ses propres règles ou à faire lui-même.
 
-   Autorisation à se donner : accepter de se tromper, aller à l'essentiel,
+   Autorisation à se donner : accepter de se tromper, aller à l’essentiel,
    déléguer et faire confiance.
 
    Un driver très présent génère, selon les situations, des réactions
-   émotionnelles fortes et induisent des comportements inadaptés...
-   Quelques exemples de comportements que les managers adoptent lorsqu'ils
+   émotionnelles fortes et induisent des comportements inadaptés…
+   Quelques exemples de comportements que les managers adoptent lorsqu’ils
    doivent faire face à un contexte de forte charge de travail :
      * Un manager qui a le driver « Sois fort » en dominant, par peur de
        montrer ses difficultés, va faire seul, va assumer sans demander de
-       l'aide. Il finira par ruminer : « Je dois toujours me débrouiller
+       l’aide. Il finira par ruminer : « Je dois toujours me débrouiller
        tout seul ».
 
      * Un manager qui a le driver « Fais des efforts » en dominant, par
-       peur qu'on lui reproche de ne pas assez s'investir, va redoubler
-       d'effort devant la difficulté. Il finira par ruminer : « C'est
+       peur qu’on lui reproche de ne pas assez s’investir, va redoubler
+       d’effort devant la difficulté. Il finira par ruminer : « C’est
        vraiment trop dur ».
 
      * Un manager qui a le driver « Dépêche toi » en dominant, agacé par
@@ -179,7 +179,7 @@ Explorer notre « boîte noire » avec les Drivers
 
      * Un manager qui a le driver « Fais plaisir » en dominant, par peur
        de mécontenter les autres, ne va pas dire non et accepter toute
-       nouvelle demande. Il finira par ruminer : « J'aurai dû refuser ou
+       nouvelle demande. Il finira par ruminer : « J’aurai dû refuser ou
        négocier un délai ».
 
      * Un manager qui a le driver « Sois parfait » en dominant, par peur
@@ -198,12 +198,12 @@ Que faire pour diminuer notre charge mentale et émotionnelle ?
    Prendre conscience de notre niveau de charge mentale et émotionnelle
      * Lister les situations, activités, projets qui génèrent une charge
        mentale et émotionnelle forte
-     * Pour chacune d'elle :
+     * Pour chacune d’elle :
           + Estimer le temps de travail que cela représente,
           + Estimer le temps de préoccupation professionnelle que cela
             représente (le temps que cela occupe notre esprit, y compris
             en dehors du temps de travail),
-          + Estimer le niveau d'intensité émotionnel que cela représente
+          + Estimer le niveau d’intensité émotionnel que cela représente
             (échelle de 1 à 10).
 
 2
@@ -214,27 +214,27 @@ Que faire pour diminuer notre charge mentale et émotionnelle ?
 
 3
 
-   Prendre conscience de l'influence de nos drivers sur nos décisions et
+   Prendre conscience de l’influence de nos drivers sur nos décisions et
    comportements
-     * Classer les drivers selon l'importance et l'influence qu'ils ont
+     * Classer les drivers selon l’importance et l’influence qu’ils ont
        pour nous,
      * Quelle influence ont les drivers dominant sur notre façon de
        traiter et vivre les situations listées au point 1 ?
      * Que pourrions-nous nous autoriser à faire si notre driver était
        moins présent ?
-     * Sur la base de ces autorisations, qu'allons-nous mettre en oeuvre
-       (faire différemment, ne plus faire...) ?
+     * Sur la base de ces autorisations, qu’allons-nous mettre en œuvre
+       (faire différemment, ne plus faire…) ?
 
 4
 
-   Mettre en oeuvre, expérimenter, ressentir, ajuster, recommencer...
+   Mettre en œuvre, expérimenter, ressentir, ajuster, recommencer…
 
    Et vous, comment régulez vous votre charge émotionnelle et mentale ?
 
 Menu
 
      * Bienvenue chez Lycoa Développement
-     * L'équipe Lycoa Développement
+     * L’équipe Lycoa Développement
      * Les offres
           + Accompagnement individuel
           + Accompagnement collectif

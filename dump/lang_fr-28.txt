@@ -312,7 +312,7 @@ Définition de la charge mentale au travail
    afficher vis-à-vis de son interlocuteur ou client (amabilité forcée,
    compréhension factice...).
    Les violences internes (abus d'autorité, harcèlements moral ou sexuel)
-   et externes au travail (agressions verbales ou physiques des tiers à
+   et externes au travail (agressions verbales ou physiques des tiers 
    l'entreprise) sont des facteurs aggravant la charge mentale.
    Enfin, les mauvaises ambiances physiques de travail (sonores,
    thermiques, lumineuses, ergonomiques...) ou organisationnelles (travail
@@ -342,7 +342,7 @@ Les conséquences d'une surcharge mentale au travail
    procédures d'analyse de haute exigence, il n'en est pas du tout de même
    avec l'évaluation des nuisances psychiques.
    Par ailleurs, le surcharges mentales sont ressenties de manière très
-   diverses selon les individus, sans que les différences analogues à
+   diverses selon les individus, sans que les différences analogues 
    l'anatomie (taille, poids, force, âge...) pour la surcharge physique
    viennent en appui d'une analyse a priori. Les seuils dans le niveau de
    contrainte psychique, au delà desquels l'astreinte qui en résulte pour
@@ -368,7 +368,7 @@ Les conséquences d'une surcharge mentale au travail
    rôle des facteurs organisationnels dans les entreprises constitue une
    alerte majeure de santé publique, puisqu'environ la moitié des arrêts
    maladie en serait imputable, directement ou indirectement.
-   En cas de stress, il y a mobilisation du système endocrinien face à
+   En cas de stress, il y a mobilisation du système endocrinien face 
    cette agression ou menace, ce qui provoque à court et à long terme, une
    augmentation de la fréquence cardiaque, de la pression artérielle, de
    la sécrétion de cortisol, de catécholamines (dont l'adrénaline) ...
@@ -431,7 +431,7 @@ Le contexte socio-économique du renforcement de la charge mentale au travail
        Beaucoup de décisions managériales privilégient une démarche de
        réalisation de changement explicité sous forme d'exigence en
        négligeant la compréhension et l'appropriation par les acteurs qui
-       auront à les mettre en oeuvre, d'où anxiété, sentiment de perte des
+       auront à les mettre en œuvre, d'où anxiété, sentiment de perte des
        repères, de savoir-faire ou de pouvoir. Tous les individus, à des
        degrés variables, ont du mal à se remettre en cause et à se
        projeter dans un futur incertain, d'où le développement de
@@ -445,7 +445,7 @@ Le contexte socio-économique du renforcement de la charge mentale au travail
        systèmes organisationnels demandent une grande réactivité,
        productivité et compétitivité, avec comme conséquence éventuelle
        une surcharge mentale due aux méthodes de management et à la
-       gestion des ressources humaines mises en oeuvre :
+       gestion des ressources humaines mises en œuvre :
        - des exigences accrues à la fois de productivité et de qualité
        parfois incompatibles,
        - la multiplicité et le caractère contradictoire des donneurs
@@ -516,7 +516,7 @@ Le contexte socio-économique du renforcement de la charge mentale au travail
        désormais dans les situations de travail de bureau, ou la
        promiscuité prolongée dans un espace clos, les travers de relations
        hiérarchiques abusives, les favorisent : le stress managérial
-       (organisation, contrôle et rythme de travail), le stress lié à
+       (organisation, contrôle et rythme de travail), le stress lié 
        tension émotionnelle de la relation hiérarchique, le stress du
        harcèlement moral ou sexuel.
        Dans la pratique, savoir distinguer ce qui relève d'une pratique
@@ -567,8 +567,8 @@ Le contexte socio-économique du renforcement de la charge mentale au travail
        constitue un facteur d'augmentation de la charge mentale. Des
        entreprises qui délivrent des informations aux clients peu claires,
        incomplètes, ambiguës, erronées, qui ne laissent aucune marge de
-       manoeuvre à son agent pour négocier un dédommagement, une
-       ristourne, un avoir, une reprise sans frais...
+       manœuvre à son agent pour négocier un dédommagement, une ristourne,
+       un avoir, une reprise sans frais...
        sont des exemples d'organisations qui induisent des situations
        stressantes systématiques aux agents de ses services commerciaux ou
        d'après-vente.
@@ -605,13 +605,13 @@ Les modèles de mesure de la charge mentale au travail
      les modes opératoires et à la capacité à peser sur les décisions
      (latitude décisionnelle), à l'utilisation des compétences et qui
      mesure la possibilité d'épanouissement dans la réalisation de la
-     tâche : liberté d'organisation, marges de manoeuvre, diversité des
+     tâche : liberté d'organisation, marges de manœuvre, diversité des
      tâches, développement des connaissances, des compétences,
      créativité...
      3) Le soutien social, instrumental ou émotionnel, dont dispose le
      travailleur sur son lieu de travail, de la part des collègues et de
      la hiérarchie : soutien sur les aspects techniques comme la mise en
-     oeuvre d'une machine ou d'une procédure ou sur les aspects d'aide
+     œuvre d'une machine ou d'une procédure ou sur les aspects d'aide
      morale et de reconnaissance des efforts et des résultats. Le modèle
      effort / récompense de Siegrist stipule qu'un déséquilibre entre un
      effort consenti élevé et un faible niveau de récompense au travail
@@ -624,11 +624,11 @@ Les modèles de mesure de la charge mentale au travail
    du type Toujours / Souvent / Rarement/ Jamais ou Pas du tout d'accord /
    Pas d'accord / D'accord / Tout à fait d'accord, sur 32 questions : 9
    questions sur la demande psychologique, 3 questions sur l'autonomie
-   décisionnelle, 6 questions sur l`utilisation des compétences, 4
+   décisionnelle, 6 questions sur l‘utilisation des compétences, 4
    questions sur le soutien social de la hiérarchie, 4 questions sur le
    soutien social des collègues et 6 questions supplémentaires sur la
    reconnaissance au travail.
-   Pour chaque axe, on calcule un score en cumulant les notes attribuées à
+   Pour chaque axe, on calcule un score en cumulant les notes attribuées 
    chaque question.
    En croisant les deux premières dimensions, on obtient la matrice de
    Karasek où les exigences du travail figurent en abscisse et le degré
@@ -743,42 +743,42 @@ Nos rubriques
 
 Offres
 
-Nos Ateliers : Transformez la Sécurité en Expéri...
+Nos Ateliers : Transformez la Sécurité en Expéri…
      __________________________________________________________________
 
-L'Organisation de votre Journée Sécurité n'a jam...
+L'Organisation de votre Journée Sécurité n'a jam…
      __________________________________________________________________
 
-Révolutionnez vos Journées Sécurité et Formation...
+Révolutionnez vos Journées Sécurité et Formation…
      __________________________________________________________________
 
-Lamy Liaisons Formation est un organisme de form...
+Lamy Liaisons Formation est un organisme de form…
 
 Dossiers
 
-La prévention des risques professionnels des cha...
+La prévention des risques professionnels des cha…
      __________________________________________________________________
 
-Exposition des travailleurs aux champs électroma...
+Exposition des travailleurs aux champs électroma…
      __________________________________________________________________
 
-Le risque d'exposition aux champs électromagnéti...
+Le risque d'exposition aux champs électromagnéti…
      __________________________________________________________________
 
-La réalité virtuelle : outil innovant pour la pr...
+La réalité virtuelle : outil innovant pour la pr…
 
 Actualités
 
-Défibrillateurs : la liste des établissements de...
+Défibrillateurs : la liste des établissements de…
      __________________________________________________________________
 
-Prévention des chutes : l'Assurance Maladie lanc...
+Prévention des chutes : l’Assurance Maladie lanc…
      __________________________________________________________________
 
-Les risques chimiques au coeur d'une nouvelle cam...
+Les risques chimiques au cœur d’une nouvelle cam…
      __________________________________________________________________
 
-Absentéisme en hausse : l'urgence d'une culture ...
+Absentéisme en hausse : l’urgence d’une culture …
 
 Editeur
 

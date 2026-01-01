@@ -1,8 +1,8 @@
    #Les émotions au travail (scientifique) : enjeux éthiques et stratégies
-   méthodologiques d'une enquête en terrain intime Genre, sexualité &
+   méthodologiques d’une enquête en terrain intime Genre, sexualité &
    société, Numéros Genre, sexualité & société, Documents
 
-   Navigation - Plan du site
+   Navigation – Plan du site
 
 Genre, sexualité & société Genre, sexualité & société
 
@@ -15,7 +15,7 @@ Genre, sexualité & société Genre, sexualité & société
    Varia
 
 Les émotions au travail (scientifique) : enjeux éthiques et stratégies
-méthodologiques d'une enquête en terrain intime
+méthodologiques d’une enquête en terrain intime
 
    Emotions at (scientific) work : ethical challenges and methodological
    strategies to investigate an intimate field
@@ -29,16 +29,16 @@ Résumés
 
    Français English
 
-   À partir d'une recherche qualitative, cet article illustre
-   l'élaboration d'un dispositif méthodologique qui met au travail de
-   manière active les émotions. L'enquête menée sur un terrain intime,
-   puisqu'il traite de la sexualité et de la séropositivité, vise à
-   comprendre comment les femmes migrantes d'origine subsaharienne et
+   À partir d’une recherche qualitative, cet article illustre
+   l’élaboration d’un dispositif méthodologique qui met au travail de
+   manière active les émotions. L’enquête menée sur un terrain intime,
+   puisqu’il traite de la sexualité et de la séropositivité, vise 
+   comprendre comment les femmes migrantes d’origine subsaharienne et
    séropositives résidant en Suisse gèrent le secret sur le VIH/sida. Par
-   l'accumulation des formes de fragilisation, la population étudiée est
+   l’accumulation des formes de fragilisation, la population étudiée est
    particulièrement précaire, ce qui soulève plusieurs questions éthiques.
-   Ce texte en explore certaines, telles que l'implication émotionnelle de
-   la chercheuse et l'impact de la recherche sur la vie des enquêtées.
+   Ce texte en explore certaines, telles que l’implication émotionnelle de
+   la chercheuse et l’impact de la recherche sur la vie des enquêtées.
    Poursuivant une réflexion sur la mobilisation des émotions dans le
    processus de la recherche, la question épistémologique est également
    traitée : les sujets connaissant sont-ils des sujets émotionnels et
@@ -56,7 +56,7 @@ Résumés
    vulnerabilities, the studied population is particularly precarious.
    This raises several ethical questions that are explored in the text. In
    particular, the emotional implications for the investigators and the
-   impact of the research on the interviewee's life are questioned.
+   impact of the research on the interviewee’s life are questioned.
    Reflecting on the mobilization of emotions in the process of research,
    one epistemological question emerges: could knowing subjects be
    emotional subjects and vice versa? Finally, the emotions mobilized both
@@ -64,7 +64,7 @@ Résumés
    on which a situated, felt and committed methodology take place.
    Haut de page
 
-Entrées d'index
+Entrées d’index
 
 Mots-clés :
 
@@ -78,13 +78,13 @@ Keywords:
 Plan
 
    Faire avec les émotions
-   La place des émotions dans l'enquête
+   La place des émotions dans l’enquête
    Appréhender les émotions
    Encadrer les émotions : écriture intime et impressions personnelles
-   La « bonne distance » dans la relation d'enquête : questionner l'autre
+   La « bonne distance » dans la relation d’enquête : questionner l’autre
    ou se questionner ?
-   Enquêter sur le secret : le dévoilement de soi dans l'enquête
-   Restituer la parole aux femmes : l'engagement dans la production de
+   Enquêter sur le secret : le dévoilement de soi dans l’enquête
+   Restituer la parole aux femmes : l’engagement dans la production de
    savoir
    Vers un point de vue situé, ému et engagé
    Haut de page
@@ -95,85 +95,85 @@ Texte intégral
 
 Faire avec les émotions
 
-   1Assise sur un canapé en cuir noir, j'écoute Justine, 32 ans,
-   originaire du Togo, sans emploi et à l'aide sociale, mère de 4 enfants
+   1Assise sur un canapé en cuir noir, j’écoute Justine, 32 ans,
+   originaire du Togo, sans emploi et à l’aide sociale, mère de 4 enfants
    et séropositive depuis 2009. Il fait beau dehors, mais le timide soleil
    de mars perce à peine les rideaux que Justine a soigneusement fermés
-   avant de commencer l'entretien, peut-être pour protéger cette rencontre
+   avant de commencer l’entretien, peut-être pour protéger cette rencontre
    des regards indiscrets. Il est onze heures trente-cinq et Justine ira
-   bientôt chercher sa fille à l'école. Nous arrivons à la fin d'un long
+   bientôt chercher sa fille à l’école. Nous arrivons à la fin d’un long
    entretien, commencé ce matin à neuf heures et demie. Je pose ma
    dernière question.
 
      * 1 Les entretiens ont été retranscrits tels quels. Des minimes
        modifications au niveau de la syntaxe o (...)
 
-   « Enquêtrice : Qu'est-ce que ça vous a fait de parler de tout ça
-   aujourd'hui ?
-   Justine : Ah ! Ça m'a fait plaisir. Et puis, ça m'a soulagée de parler
-   avec quelqu'un que je sais que... j'ai confiance de toi. Ça m'a fait
+   « Enquêtrice : Qu’est-ce que ça vous a fait de parler de tout ça
+   aujourd’hui ?
+   Justine : Ah ! Ça m’a fait plaisir. Et puis, ça m’a soulagée de parler
+   avec quelqu’un que je sais que… j’ai confiance de toi. Ça m’a fait
    rappeler des moments difficiles et des bons moments aussi, mais au
-   moins j'ai fait sortir à quelqu'un que je peux... je peux mettre la
-   confiance. Supposons que c'est ma tante devant moi, tout ce que j'ai
-   dit je ne peux pas le dire. Même si c'est ma mère, je ne peux pas !
+   moins j’ai fait sortir à quelqu’un que je peux… je peux mettre la
+   confiance. Supposons que c’est ma tante devant moi, tout ce que j’ai
+   dit je ne peux pas le dire. Même si c’est ma mère, je ne peux pas !
    Mais je sais que vous êtes déjà dans le milieu et que vous connaissez
-   tout et que c'est votre travail... déjà j'ai confiance. Les moments
+   tout et que c’est votre travail… déjà j’ai confiance. Les moments
    difficiles dont je me suis souvenue, je me suis sentie mal, après ça
-   m'a soulagée. C'est bien... C'est quelque chose qui va encore m'aider
+   m’a soulagée. C’est bien… C’est quelque chose qui va encore m’aider
    après, de me sentir bien dans ma vie, de ne pas trop me garer dans un
-   coin, ou me dire « tu es exclue de la vie »... Ça me donne encore le
-   courage, et ça me donne encore la force de supporter et d'avancer.
-   Voilà ! Quand je parle ça me fait... Ça me soulage, ça me donne la
-   joie, ça me donne le courage encore de vivre. » (MV, entretien avec
-   Justine, 22.03.2013)1
+   coin, ou me dire « tu es exclue de la vie »… Ça me donne encore le
+   courage, et ça me donne encore la force de supporter et d’avancer.
+   Voilà ! Quand je parle ça me fait… Ça me soulage, ça me donne la joie,
+   ça me donne le courage encore de vivre. » (MV, entretien avec Justine,
+   22.03.2013)1
 
    2Lorsque nous sommes confrontés à des déclarations comme celles
-   exprimées par Justine dans le cadre d'une enquête, il n'est pas
-   possible de ne pas s'interroger sur notre place dans la recherche et,
-   de manière plus générale, dans la vie des personnes qu'on y implique.
+   exprimées par Justine dans le cadre d’une enquête, il n’est pas
+   possible de ne pas s’interroger sur notre place dans la recherche et,
+   de manière plus générale, dans la vie des personnes qu’on y implique.
    Cet article propose de questionner la place du chercheur et de la
-   chercheuse sur le terrain d'enquête. Plus précisément, il s'intéresse à
-   la mobilisation des émotions dans l'activité de recherche, à la fois
+   chercheuse sur le terrain d’enquête. Plus précisément, il s’intéresse 
+   la mobilisation des émotions dans l’activité de recherche, à la fois
    par les investigateurs et investigatrices et par les personnes
    interviewées. Que faire des émotions mobilisées au travail ? Quelles
-   sont ces émotions et comment se déploient-elles dans l'espace de
-   l'enquête ? Peut-on dire que les sujets connaissants sont des sujets
+   sont ces émotions et comment se déploient-elles dans l’espace de
+   l’enquête ? Peut-on dire que les sujets connaissants sont des sujets
    émotionnels et vice-versa ? Quel type de relation peut-on établir par
    les diverses émotions en jeu ? Quel statut et quelle place
    occupent-elles dans la production des résultats ?
 
    3Face à des situations parfois inhumaines, socialement marginales,
-   parsemées de violence et de souffrance, l'enquêtrice ne peut pas rester
-   indifférente ni détachée de l'interviewée, avec qui s'instaure un lien
+   parsemées de violence et de souffrance, l’enquêtrice ne peut pas rester
+   indifférente ni détachée de l’interviewée, avec qui s’instaure un lien
    inscrit dans une approche empathique. Le respect de la « neutralité
    axiologique » de Weber se montre, une fois de plus, inadéquate et
    anachronique. En effet, si la « bonne distance » entre enquêt-eur-rice
-   et enquêté-e est une question ancienne, nous proposons de l'interroger
+   et enquêté-e est une question ancienne, nous proposons de l’interroger
    ici à la lumière des contraintes sociales imposées par les « règles des
    sentiments » (Hochschild, 1983). Or, si certains métiers permettent de
    développer des « compétences » spécifiques dans la gestion des
-   émotions, comme le montre l'analyse de Julien Bernard (2007) sur les
+   émotions, comme le montre l’analyse de Julien Bernard (2007) sur les
    pompes funèbres, pour le chercheur et la chercheuse cette compétence
    est souvent improvisée. Dans le terrain où la souffrance est exposée,
-   l'empathie vis-à-vis des enquêté-e-s est attendue, voire demandée. Le
-   métier de sociologue (ou d'anthropologue) se trouve tiraillé entre,
-   d'une part, une posture attendue d'ouverture pour recevoir ce que les
-   enquêté-e-s viennent apporter et, d'autre part, une posture
-   scientifique censée produire un travail d'objectivation de situations,
-   d'interactions, de discours ou d'actions observées.
+   l’empathie vis-à-vis des enquêté-e-s est attendue, voire demandée. Le
+   métier de sociologue (ou d’anthropologue) se trouve tiraillé entre,
+   d’une part, une posture attendue d’ouverture pour recevoir ce que les
+   enquêté-e-s viennent apporter et, d’autre part, une posture
+   scientifique censée produire un travail d’objectivation de situations,
+   d’interactions, de discours ou d’actions observées.
 
-   4La question qui se pose - si nous abordons l'enquête sous l'angle des
-   émotions - est de savoir quelle est la « juste émotion » à ressentir
+   4La question qui se pose – si nous abordons l’enquête sous l’angle des
+   émotions – est de savoir quelle est la « juste émotion » à ressentir
    dans ce genre de situation. Si chaque situation sociale est imprégnée
    de règles des sentiments (feeling rules), que devrait éprouver le
    chercheur ou la chercheuse face à ses enquêté-e-s ? Si, pour Weber,
-   c'était la neutralité axiologique qui permettait de garantir
-   l'objectivité, Bourdieu parle de l'oubli de soi, d'une écoute totale de
-   l'autre afin de parvenir à une situation où le sociologue « s'il était,
+   c’était la neutralité axiologique qui permettait de garantir
+   l’objectivité, Bourdieu parle de l’oubli de soi, d’une écoute totale de
+   l’autre afin de parvenir à une situation où le sociologue « s’il était,
    comme on dit, à sa place, il serait et penserait sans doute comme lui »
    (Bourdieu, 1993, 924). Pour Durkheim (1995 [1895]), les émotions
-   individuelles sont déterminées « du dehors » puisque l'individu sent
-   l'obligation de partager avec le groupe les mêmes valeurs et de s'y
+   individuelles sont déterminées « du dehors » puisque l’individu sent
+   l’obligation de partager avec le groupe les mêmes valeurs et de s’y
    conformer, alors que pour Devereux (1980) il faut rendre compte de ces
    émotions afin de ne pas les projeter sur les autres. Toutes ces
    approches semblent converger vers une commune conclusion : par des
@@ -182,154 +182,154 @@ Faire avec les émotions
    de garantir la scientificité de la démarche. Notre approche dans cette
    recherche est plus complexe.
      * 2 Dès maintenant, dans le texte, nous utiliserons le féminin
-       universel pour toutes les fois qu'on se (...)
+       universel pour toutes les fois qu’on se (...)
 
-   5Nous avons considéré que, dans le cadre de la relation d'entretien2,
+   5Nous avons considéré que, dans le cadre de la relation d’entretien2,
    trois dimensions sont en jeu simultanément : (1) les positions sociales
-   (statut, race, sexe, classe) de l'enquêtrice et de l'enquêtée qui
+   (statut, race, sexe, classe) de l’enquêtrice et de l’enquêtée qui
    informent des rapports de pouvoir selon une approche matérialiste ; (2)
-   l'attitude extérieure (les gestes, le langage, les manières de se
+   l’attitude extérieure (les gestes, le langage, les manières de se
    tenir) selon une approche goffmanienne (Goffman, 1973) qui permet
-   d'étudier les interactions entre enquêtrice et enquêtée et, finalement,
-   (3) l'attitude intérieure, le travail profond sur ses propres émotions
-   de la part de la chercheuse selon l'approche propre de Hochschild
+   d’étudier les interactions entre enquêtrice et enquêtée et, finalement,
+   (3) l’attitude intérieure, le travail profond sur ses propres émotions
+   de la part de la chercheuse selon l’approche propre de Hochschild
    (1979) et de la sociologie des émotions.
 
-   6Nous affirmons ici que l'implication des enquêtrices lors de
-   l'entretien ne peut pas être neutre : la souffrance physique, la
+   6Nous affirmons ici que l’implication des enquêtrices lors de
+   l’entretien ne peut pas être neutre : la souffrance physique, la
    marginalisation et la discrimination subies par ces femmes suscitent
    des émotions telles que la rage ou la prosternation. La posture adoptée
-   sur le terrain est donc celle d'un engagement moral vis-à-vis des
-   enquêtées qui se trouvent dans une position inégalitaire face à
-   l'enquêtrice. Malades, migrantes et souvent précaires, les femmes
+   sur le terrain est donc celle d’un engagement moral vis-à-vis des
+   enquêtées qui se trouvent dans une position inégalitaire face 
+   l’enquêtrice. Malades, migrantes et souvent précaires, les femmes
    interviewées dans notre enquête sont par ailleurs conscientes de cette
    inégalité dans la dynamique de la recherche, vécue pendant le temps de
-   l'entretien. Ce rapport inégalitaire peut être dépassé moralement à
-   condition qu'il y ait un partage, un échange entre enquêtrice et
+   l’entretien. Ce rapport inégalitaire peut être dépassé moralement 
+   condition qu’il y ait un partage, un échange entre enquêtrice et
    enquêtée. La manière de « négocier », par les deux parties, la gestion
-   et le déroulement de l'entretien, tout comme la restitution des
-   sentiments à la fin de l'entretien se déroule dans la reconnaissance du
-   droit d'expression d'autrui.
+   et le déroulement de l’entretien, tout comme la restitution des
+   sentiments à la fin de l’entretien se déroule dans la reconnaissance du
+   droit d’expression d’autrui.
 
    7Dès le départ, nous nous sommes interrogées quant à nos stratégies
-   méthodologiques afin d'élaborer un dispositif permettant de construire
+   méthodologiques afin d’élaborer un dispositif permettant de construire
    ce « pacte » de confiance avec notre population : pour quelle raison
    des femmes subsahariennes et séropositives accepteraient-elles de nous
    parler de leur intimité, de leurs secrets ? Si passer par les
    professionnel-le-s de santé avec lesquel-le-s elles avaient déjà établi
-   une relation de confiance permettait d'accéder à cette population
-   difficile d'accès (Villani et al., 2014), il s'agissait pour nous
-   d'établir un certain équilibre dans cette relation asymétrique. Engager
+   une relation de confiance permettait d’accéder à cette population
+   difficile d’accès (Villani et al., 2014), il s’agissait pour nous
+   d’établir un certain équilibre dans cette relation asymétrique. Engager
    nos émotions nous a exposées et nous a obligées à adopter une posture
    sensible dans la production des données.
 
-   Femis Femmes migrantes d'origine subsaharienne et VIH.
-   Gestion d'un secret et rapport à la santé
+   Femis Femmes migrantes d’origine subsaharienne et VIH.
+   Gestion d’un secret et rapport à la santé
 
    La recherche Femis a été financée par le Fonds national suisse de la
-   recherche scientifique. L'objectif principal de cette étude a été de
-   comprendre comment les femmes migrantes d'origine subsaharienne et
+   recherche scientifique. L’objectif principal de cette étude a été de
+   comprendre comment les femmes migrantes d’origine subsaharienne et
    séropositives résidant en Suisse gèrent le secret sur le VIH/sida. À
-   partir de là, l'impact des secrets et des confidences sur le rapport
+   partir de là, l’impact des secrets et des confidences sur le rapport
    que les femmes concernées entretiennent avec leur santé (santé
    physique, mentale, sexuelle et reproductive, accès aux soins et
    soutiens) a été exploré.
-   Commencée en août 2012 et terminée en juillet 2014, l'étude a été
+   Commencée en août 2012 et terminée en juillet 2014, l’étude a été
    réalisée par une équipe mixte de sociologues et sociolinguistes. De
-   nature qualitative, elle s'est construite sur les témoignages de trente
-   femmes francophones originaires d'Afrique subsaharienne résidant en
+   nature qualitative, elle s’est construite sur les témoignages de trente
+   femmes francophones originaires d’Afrique subsaharienne résidant en
    Suisse romande, séropositives depuis au moins un an. Leurs témoignages
-   ont été recueillis dans le cadre d'entretiens approfondis dont la durée
+   ont été recueillis dans le cadre d’entretiens approfondis dont la durée
    variait entre deux et trois heures. Toutes les femmes qui ont participé
-   à l'étude ont donné leur consentement par écrit, ce qui a permis
-   l'enregistrement des entretiens et leur retranscription intégrale.
-   L'équipe de recherche a procédé par campagnes successives de récolte
-   des données et d'analyse d'entretiens.
+   à l’étude ont donné leur consentement par écrit, ce qui a permis
+   l’enregistrement des entretiens et leur retranscription intégrale.
+   L’équipe de recherche a procédé par campagnes successives de récolte
+   des données et d’analyse d’entretiens.
    Migrantes de première génération, les trente femmes interviewées
-   étaient originaires de différents pays d'Afrique subsaharienne (Angola,
-   Burkina Faso, Cameroun, Côte d'Ivoire, Guinée, Mozambique, RDC, Rwanda,
+   étaient originaires de différents pays d’Afrique subsaharienne (Angola,
+   Burkina Faso, Cameroun, Côte d’Ivoire, Guinée, Mozambique, RDC, Rwanda,
    Sénégal, Togo, Zimbabwe). Âgées de 25 à 57 ans, elles avaient des
    niveaux de formation et des statuts familiaux, légaux et professionnels
-   différents. La grande majorité d'entre elles ont été diagnostiquées
+   différents. La grande majorité d’entre elles ont été diagnostiquées
    séropositive après leur arrivée en Suisse, à un âge compris entre 18 et
    53 ans. Les raisons de la migration sont variées : situation politique
-   instable dans les pays d'origine, conflits interethniques et guerres,
+   instable dans les pays d’origine, conflits interethniques et guerres,
    abus sexuels, pauvreté, souhait de formation, suivi et traitement
    médical, etc.
-   Comme le sujet d'enquête est très délicat et que la population est
+   Comme le sujet d’enquête est très délicat et que la population est
    confrontée à des situations sociales de vulnérabilité, une vigilance
    accrue a été portée à la protection des données. Le projet bénéficie de
-   l'Avis positif de la Commission cantonale (VD) d'éthique de la
-   recherche sur l'être humain.
+   l’Avis positif de la Commission cantonale (VD) d’éthique de la
+   recherche sur l’être humain.
 
-La place des émotions dans l'enquête
+La place des émotions dans l’enquête
 
    8Si plusieurs travaux portent sur la problématisation des émotions en
-   sociologie, elles ont surtout été questionnées sous l'angle de la
+   sociologie, elles ont surtout été questionnées sous l’angle de la
    gestion de la « bonne distance » entre enquêteur et enquêté. En 1995,
    Pierre Lantz et Monique Sélim ont publié un numéro thématique sur les
-   « Passions de la recherche » dans la revue L'Homme et la société. Ils
+   « Passions de la recherche » dans la revue L’Homme et la société. Ils
    abordaient la place et le statut des émotions à la fois des enquêteurs
-   ou enquêtrices et des enquêté-e-s. Notre recherche relève d'une
-   démarche ancrée, assumée et restituée plutôt que d'une posture
-   « oblative » où la chercheuse se mettrait à la place de « l'Autre ».
-   Dans cet article, nous proposons d'analyser nos propres émotions qui
+   ou enquêtrices et des enquêté-e-s. Notre recherche relève d’une
+   démarche ancrée, assumée et restituée plutôt que d’une posture
+   « oblative » où la chercheuse se mettrait à la place de « l’Autre ».
+   Dans cet article, nous proposons d’analyser nos propres émotions qui
    ont été mises au travail afin de dépasser, plus que résoudre, la
-   question de la « bonne distance » dans la relation d'enquête. Si
-   Bourdieu (1993) soulignait l'importance de maintenir la distance entre
-   chercheur (ou chercheuse) et objet d'étude afin de garantir la
-   « scientificité », d'autres comme Georges Devereux (1980) ont rappelé
-   la nécessité d'expliciter, voire de rendre compte des émotions
+   question de la « bonne distance » dans la relation d’enquête. Si
+   Bourdieu (1993) soulignait l’importance de maintenir la distance entre
+   chercheur (ou chercheuse) et objet d’étude afin de garantir la
+   « scientificité », d’autres comme Georges Devereux (1980) ont rappelé
+   la nécessité d’expliciter, voire de rendre compte des émotions
    ressenties par le chercheur (ou la chercheuse) en action afin de se
-   préserver d'une possible projection. Ces deux textes nous semblent
-   centraux, notamment parce qu'ils confrontent deux postures
-   antinomiques : d'une part celle de l'oubli de soi pour une ouverture
-   totale vers l'Autre, d'autre part celle d'une mise en avant des
-   sentiments de l'enquêteur et enquêtrice afin de préserver les données
+   préserver d’une possible projection. Ces deux textes nous semblent
+   centraux, notamment parce qu’ils confrontent deux postures
+   antinomiques : d’une part celle de l’oubli de soi pour une ouverture
+   totale vers l’Autre, d’autre part celle d’une mise en avant des
+   sentiments de l’enquêteur et enquêtrice afin de préserver les données
    du terrain. Nous proposons une troisième voie, qui défend une
    participation active des émotions dans la production des résultats.
 
    9Dans ce même numéro, Patricia Paperman interrogeait le statut des
-   émotions, non pas à partir de leurs formes d'expressions mais plutôt
+   émotions, non pas à partir de leurs formes d’expressions mais plutôt
    des contextes sociaux permettant leur reconnaissance, en posant
-   d'emblée le constat que « les critères d'application des termes
-   d'émotions sont publics » (Paperman, 1995, 7). Dès lors, les émotions
+   d’emblée le constat que « les critères d’application des termes
+   d’émotions sont publics » (Paperman, 1995, 7). Dès lors, les émotions
    suivent la grammaire sociale des règles et des sanctions, permettant
-   ajustements et mise en conformité comme l'avait déjà montré Emile
+   ajustements et mise en conformité comme l’avait déjà montré Emile
    Durkheim, repris ensuite par la sociologie des émotions (Hochschild,
-   1979, 1983). Mais Patricia Paperman s'interroge : « Peut-on parler des
+   1979, 1983). Mais Patricia Paperman s’interroge : « Peut-on parler des
    émotions, de leurs facteurs et de leurs usages sociaux sans lien avec
-   l'expérience qu'elles constituent en première personne ? » (1995, 10).
-   En effet, notre démarche s'efforce sans cesse de questionner et de
+   l’expérience qu’elles constituent en première personne ? » (1995, 10).
+   En effet, notre démarche s’efforce sans cesse de questionner et de
    faire émerger ce que Paperman appelle « la voix intérieure », qui est
-   celle de l'enquêtrice sur le terrain, mais aussi celle de l'enquêtée à
-   qui un « espace » explicite est offert pour s'exprimer. Insatisfaites
-   de la seule démarche goffmanienne et de l'exclusive analyse
+   celle de l’enquêtrice sur le terrain, mais aussi celle de l’enquêtée 
+   qui un « espace » explicite est offert pour s’exprimer. Insatisfaites
+   de la seule démarche goffmanienne et de l’exclusive analyse
    interactionniste, nous avons souhaité rendre « publique » cette partie
-   moins visible, voire invisible, du travail intérieur d'ajustement de
+   moins visible, voire invisible, du travail intérieur d’ajustement de
    nos propres émotions aux « règles de la situation » (Ibid., 12). Notre
-   modèle vise à considérer sérieusement l'expérience émotive des acteurs
+   modèle vise à considérer sérieusement l’expérience émotive des acteurs
    en action, à la fois des enquêtées et des enquêtrices. De ce fait, nous
    nous proposons de rendre compte de cette « activité permanente
-   consistant pour l'acteur socialisé à contrôler l'écart entre ce qu'il
-   ressent ("vraiment") et ce qu'il devrait "normalement" ressentir au vu
-   de la définition "officielle" de la situation » (Ibid., 12). Si pour
-   les enquêtrices, un travail d'écriture intime a été produit comme
-   exercice méthodologique sur les émotions, pour les enquêtées, d'autres
-   techniques ont été employées afin de gérer « l'effort émotionnel »
-   fourni lors de l'entretien.
+   consistant pour l’acteur socialisé à contrôler l’écart entre ce qu’il
+   ressent (“vraiment”) et ce qu’il devrait “normalement” ressentir au vu
+   de la définition “officielle” de la situation » (Ibid., 12). Si pour
+   les enquêtrices, un travail d’écriture intime a été produit comme
+   exercice méthodologique sur les émotions, pour les enquêtées, d’autres
+   techniques ont été employées afin de gérer « l’effort émotionnel »
+   fourni lors de l’entretien.
 
 Appréhender les émotions
 
-     * 3 De manière similaire Livet (2002) le conçoit lorsqu'il parle de
+     * 3 De manière similaire Livet (2002) le conçoit lorsqu’il parle de
        « résonance affective » en mettant (...)
 
-   10À l'instar du constat de Denzin (1984), notre recherche montre
+   10À l’instar du constat de Denzin (1984), notre recherche montre
    comment notre propre « émotionnalité », notre imagination et nos
-   sentiments révélés nous ont permis non seulement d'établir une relation
-   de confiance avec l'autre, mais également d'accéder aux émotions des
-   enquêtées. Les émotions que nous avons éprouvées à ce moment précis, à
-   partir du contexte spécifique de l'entretien et d'une thématique
+   sentiments révélés nous ont permis non seulement d’établir une relation
+   de confiance avec l’autre, mais également d’accéder aux émotions des
+   enquêtées. Les émotions que nous avons éprouvées à ce moment précis, 
+   partir du contexte spécifique de l’entretien et d’une thématique
    « sensible » (le secret, la séropositivité, la sexualité), ne sont pas
    des émotions « universelles » ; elles sont en lien avec la culture, la
    subjectivité et le pouvoir des sujets (enquêtrices et enquêtées)
@@ -337,126 +337,126 @@ Appréhender les émotions
    obéissent à des règles sociales auxquelles tout individu dans une même
    société est soumis et socialisé (bien que de manière différente selon
    les milieux et les classes sociales), leur résonance^3 individuelle est
-   singulière, propre au vécu, à l'histoire et au matériel émotionnel de
+   singulière, propre au vécu, à l’histoire et au matériel émotionnel de
    chacun. Sans nier la dimension biopsychologique (Kemper, 1978, 1990 ;
    Plutchik, 1980 ; Ortony et al., 1988) à la base des effets des
    émotions, tel que les signes kinésiques (repli sur soi lors de la
-   tristesse, épaules vers l'avant et poitrine fermée lors de la honte ou
+   tristesse, épaules vers l’avant et poitrine fermée lors de la honte ou
    de la peur), les expressions faciales (sourcils froncés en cas de
-   contrariété ou colère, lèvres contrites lors d'une frustration ou
+   contrariété ou colère, lèvres contrites lors d’une frustration ou
    répression de rage) ou les symptômes (menton qui tremble, rougeur du
    visage, transpiration, perte de la voix, taux, gorge sèche, etc.), nous
-   considérons qu'une même émotion n'est pas ressentie de la même manière
+   considérons qu’une même émotion n’est pas ressentie de la même manière
    dans une même circonstance, mais varie selon la socialisation et la
-   situation de l'observateur. Par exemple, un enfant qui tombe, se blesse
+   situation de l’observateur. Par exemple, un enfant qui tombe, se blesse
    sans gravité et pleure peut susciter de la compassion chez une personne
-   extérieure (« ce pauvre enfant qui est tombé... »), de l'énervement
-   chez le parent (« je lui avais dit de ne pas courir ») ou de l'hilarité
-   chez un petit camarade (« il ne sait même pas sauter ! »). La position
-   de la personne, dans une même situation sociale, a un impact sur le
-   regard qu'on porte sur la scène tout comme sur l'émotion qu'elle
-   provoque en nous. Toutefois, si cette analyse est propre à l'approche
+   extérieure (« ce pauvre enfant qui est tombé… »), de l’énervement chez
+   le parent (« je lui avais dit de ne pas courir ») ou de l’hilarité chez
+   un petit camarade (« il ne sait même pas sauter ! »). La position de la
+   personne, dans une même situation sociale, a un impact sur le regard
+   qu’on porte sur la scène tout comme sur l’émotion qu’elle provoque en
+   nous. Toutefois, si cette analyse est propre à l’approche
    interactionniste, nous considérons que les personnes ne sont pas figées
-   dans leur rôle (le passant, le parent, l'enfant...), mais que la même
+   dans leur rôle (le passant, le parent, l’enfant…), mais que la même
    personne peut ressentir différents sentiments, parfois contrastants,
    dans différentes circonstances (Cayla, 1995). Par exemple un autre
-   enfant assistant à la même scène, lui-même tombé le jour d'avant,
+   enfant assistant à la même scène, lui-même tombé le jour d’avant,
    voyant son camarade chuter mobilise plus facilement le souvenir de la
-   douleur ressentie, se mettant ainsi à la place de l'enfant tombé. Cette
+   douleur ressentie, se mettant ainsi à la place de l’enfant tombé. Cette
    empathie ressentie est possible à la fois par la posture de proximité,
-   par le partage d'une douleur similaire, par le manque d'inhibition ou
-   protection envers l'identification à l'Autre. Cette attitude
+   par le partage d’une douleur similaire, par le manque d’inhibition ou
+   protection envers l’identification à l’Autre. Cette attitude
    émotionnelle demande donc non seulement des capacités spécifiques (se
-   mettre dans cet état précis d'ouverture et d'accueil), mais également
-   une expérience préalable de la même situation ou d'une situation
-   similaire. De plus, nous revendiquons - ce qui pour nous est une prise
-   de position politique - ne pas « se protéger » des émotions ressenties.
-   Dans notre recherche, il est donc question d'accueillir ces émotions,
+   mettre dans cet état précis d’ouverture et d’accueil), mais également
+   une expérience préalable de la même situation ou d’une situation
+   similaire. De plus, nous revendiquons – ce qui pour nous est une prise
+   de position politique – ne pas « se protéger » des émotions ressenties.
+   Dans notre recherche, il est donc question d’accueillir ces émotions,
    les interroger voire, en troisième instance, les revendiquer.
 
    11Inspirées par la typologie élaborée par Julien Bernard, nous avons
-   conçu les émotions selon quatre dimensions : objets d'étude en soi,
+   conçu les émotions selon quatre dimensions : objets d’étude en soi,
    outils de travail, effet du travail et acteurs du travail (Bernard,
-   2007, 63). À l'instar des émotions au travail chez les opérateurs des
-   pompes funèbres (Bernard, 2008), nous aussi avons dû apprendre à
+   2007, 63). À l’instar des émotions au travail chez les opérateurs des
+   pompes funèbres (Bernard, 2008), nous aussi avons dû apprendre 
    composer avec les différentes situations et les rôles attribués. Or si
    cette « capacité » à agir sur ses propres émotions est requise par
-   certaines fonctions et métiers, cela semble moins évident - et
-   réglementé - pour les sociologues ou anthropologues sur le terrain
-   d'enquête. Cette capacité implique que les enquêteurs et enquêtrices
+   certaines fonctions et métiers, cela semble moins évident – et
+   réglementé – pour les sociologues ou anthropologues sur le terrain
+   d’enquête. Cette capacité implique que les enquêteurs et enquêtrices
    aient une connaissance fine de la palette des émotions pour pouvoir les
    distinguer, les reconnaître et finalement les analyser. Le travail
    effectué par les enquêtrices constitue une action « en
-   profondeur » (deep acting) dans les activités d'écoute, de
-   questionnement et d'ajustement à la situation à travers la gestion des
+   profondeur » (deep acting) dans les activités d’écoute, de
+   questionnement et d’ajustement à la situation à travers la gestion des
    émotions.
 
      Quand elle parle, souvent des larmes coulent de ses yeux. Des larmes
-     presque invisibles, qu'elle essuie vite et qui ne l'empêchent pas de
-     parler. Elle s'exprime très bien en français. J'ai l'impression que
-     dans la deuxième partie de l'entretien ses larmes n'ont pas arrêté
+     presque invisibles, qu’elle essuie vite et qui ne l’empêchent pas de
+     parler. Elle s’exprime très bien en français. J’ai l’impression que
+     dans la deuxième partie de l’entretien ses larmes n’ont pas arrêté
      de couler mais elles coulaient discrètement avec des intervalles.
-     Je l'ai accompagnée vers la sortie, mais elle a voulu rester un
-     moment à la cuisine pour papoter avec d'autres gens. Je suis partie
-     en étant sûre qu'elle était bien entourée. (Impressions
+     Je l’ai accompagnée vers la sortie, mais elle a voulu rester un
+     moment à la cuisine pour papoter avec d’autres gens. Je suis partie
+     en étant sûre qu’elle était bien entourée. (Impressions
      personnelles, entretien avec Béatrice, 12.12.2012).
 
-   12L'entretien avec Béatrice illustre l'implication de l'enquêtrice face
-   aux signes matériels de l'émotion (les larmes qui coulent), la douleur
-   de l'enquêtée ne pouvant pas la laisser indifférente ou désengagée.
-   Bien qu'un dispositif de prise en charge psychologique ait été mis en
+   12L’entretien avec Béatrice illustre l’implication de l’enquêtrice face
+   aux signes matériels de l’émotion (les larmes qui coulent), la douleur
+   de l’enquêtée ne pouvant pas la laisser indifférente ou désengagée.
+   Bien qu’un dispositif de prise en charge psychologique ait été mis en
    place en collaboration avec les services hospitaliers impliqués, les
-   enquêtrices avaient - et sentaient - la responsabilité (émotionnelle et
-   morale) de s'assurer que leurs enquêtées s'étaient rétablies après
-   l'entretien. Les émotions ont été pour nous à la base même de la
-   construction du cadre de l'échange. Sans cette base empathique de
-   l'écoute, du regard et de tout le corps de l'enquêtrice qui ouvre des
-   possibilités, l'entretien n'aurait pas produit les mêmes résultats. Il
+   enquêtrices avaient – et sentaient – la responsabilité (émotionnelle et
+   morale) de s’assurer que leurs enquêtées s’étaient rétablies après
+   l’entretien. Les émotions ont été pour nous à la base même de la
+   construction du cadre de l’échange. Sans cette base empathique de
+   l’écoute, du regard et de tout le corps de l’enquêtrice qui ouvre des
+   possibilités, l’entretien n’aurait pas produit les mêmes résultats. Il
    était donc central pour nous de définir notre « point de vue » et
-   d'expliciter notre posture.
+   d’expliciter notre posture.
 
 Encadrer les émotions : écriture intime et impressions personnelles
 
    13Lors des premiers entretiens nous sortions parfois frustrées, avec le
-   sentiment coupable d'abandonner ces femmes à leur destin alors que nous
+   sentiment coupable d’abandonner ces femmes à leur destin alors que nous
    retournions à nos vies tranquilles et ordonnées. Le debriefing
-   hebdomadaire en équipe, bien qu'utile, s'est révélé rapidement
-   insuffisant. Il fallait un instrument permettant d'extérioriser ces
+   hebdomadaire en équipe, bien qu’utile, s’est révélé rapidement
+   insuffisant. Il fallait un instrument permettant d’extérioriser ces
    émotions instantanément, de les recueillir et de les conserver, avant
    de les analyser. Nous avons alors relevé ce défi méthodologique et nous
-   nous sommes armées d'un outil de débriefing émotionnel post-entretien
+   nous sommes armées d’un outil de débriefing émotionnel post-entretien
    qui se concrétisait par un document prosaïquement appelé impressions
-   personnelles. Il s'agissait de produire une page écrite « à chaud »
-   immédiatement après l'entretien afin de poser nos impressions, nos
-   regards d'enquêtrices, les difficultés rencontrées, mais aussi le
+   personnelles. Il s’agissait de produire une page écrite « à chaud »
+   immédiatement après l’entretien afin de poser nos impressions, nos
+   regards d’enquêtrices, les difficultés rencontrées, mais aussi le
    plaisir tiré de ces différentes rencontres.
 
-   14Le travail émotionnel, bien qu'invisible, est constamment présent et
-   constitue une charge importante dans le déroulement de l'entretien. Les
+   14Le travail émotionnel, bien qu’invisible, est constamment présent et
+   constitue une charge importante dans le déroulement de l’entretien. Les
    « impressions personnelles » sont devenues alors un véritable
-   dispositif de prise en charge émotionnelle, permettant d'encadrer les
+   dispositif de prise en charge émotionnelle, permettant d’encadrer les
    émotions qui peuvent émerger à la fois du côté des enquêtées et des
    chercheuses. Si les interviewées peuvent ressentir de la douleur, de la
    tristesse ou de la honte en racontant leurs situations souvent
    compliquées, nous avons aussi été affectées (Favret-Saada, 1990), nous
-   avons éprouvé de la désolation, de la peine, voire de la rage face à
-   l'accumulation des injustices portées par l'interlocutrice.
+   avons éprouvé de la désolation, de la peine, voire de la rage face 
+   l’accumulation des injustices portées par l’interlocutrice.
    Initialement conçues comme un outil de « décompensation » suite à des
    rencontres parfois très éprouvantes, les impressions personnelles, ces
-   notes prises à l'issue des entretiens, se sont avérées finalement
+   notes prises à l’issue des entretiens, se sont avérées finalement
    remplir une autre fonction, donnant lieu à une production écrite de
    données que nous allions pouvoir analyser. À travers cette écriture
    intime (qui ne visait au départ aucun but scientifique), nous avons été
-   capables de restituer le bagage émotionnel mobilisé pour faire face à
+   capables de restituer le bagage émotionnel mobilisé pour faire face 
    ces situations particulières sans tomber dans un voyeurisme narcissique
    dénoncé par Pierre Bourdieu (2002). Si les émotions des enquêtées nous
    ont guidé vers les aspects douloureux des expériences personnelles, nos
-   propres émotions ont servi d'alertes sur les points méthodologiquement
+   propres émotions ont servi d’alertes sur les points méthodologiquement
    difficiles : les questions liées à la sexualité, la séropositivité et
-   le secret. Les émotions des unes et des autres se recoupaient alors à
-   travers un travail de transmission et de mise en commun. L'embarras, la
-   haine, la rancoeur, l'envie refoulée ou parfois assumée de vengeance,
-   l'anéantissement, toutes ces émotions imprégnaient le récit des
+   le secret. Les émotions des unes et des autres se recoupaient alors 
+   travers un travail de transmission et de mise en commun. L’embarras, la
+   haine, la rancœur, l’envie refoulée ou parfois assumée de vengeance,
+   l’anéantissement, toutes ces émotions imprégnaient le récit des
    enquêtées. La honte était présente de manière permanente et constituait
    le déguisement principal du secret. Ces émotions, exprimées de manière
    plus au moins visibles, étaient néanmoins ressenties, perçues et
@@ -464,155 +464,155 @@ Encadrer les émotions : écriture intime et impressions personnelles
    dans la communication. Attentives à nos propres émotions, puisque nous
    étions nous-mêmes touchées par les narrations, nous avons pris au
    sérieux ces signes (les tremblements, la perturbation, la préoccupation
-   envers nos enquêtées...) et nous les avons parfois verbalisés : « c'est
-   très dur ce que vous dites... », « ça me touche ... », « est-ce que ça
-   va aller ? ». Cette préoccupation s'est parfois révélée nécessaire,
-   comme dans le cas d'un entretien où une femme a menacé de se suicider.
-   Sans domicile fixe, clandestine et sans travail régulier, elle
-   affirmait qu'elle pensait souvent à mettre fin à ses jours et qu'elle
-   avait failli se jeter d'un pont la veille de notre rencontre. Nous
-   avons alors fait un signalement auprès du service hospitalier à la
-   suite de cet entretien, puisque sa situation nous inquiétait
-   sérieusement. Il n'était pas possible d'ignorer les émotions, présentes
-   tout au long de l'entretien, et cette écoute active a permis de les
-   contenir, bien que parfois de manière froide :
+   envers nos enquêtées…) et nous les avons parfois verbalisés : « c’est
+   très dur ce que vous dites… », « ça me touche … », « est-ce que ça va
+   aller ? ». Cette préoccupation s’est parfois révélée nécessaire, comme
+   dans le cas d’un entretien où une femme a menacé de se suicider. Sans
+   domicile fixe, clandestine et sans travail régulier, elle affirmait
+   qu’elle pensait souvent à mettre fin à ses jours et qu’elle avait
+   failli se jeter d’un pont la veille de notre rencontre. Nous avons
+   alors fait un signalement auprès du service hospitalier à la suite de
+   cet entretien, puisque sa situation nous inquiétait sérieusement. Il
+   n’était pas possible d’ignorer les émotions, présentes tout au long de
+   l’entretien, et cette écoute active a permis de les contenir, bien que
+   parfois de manière froide :
 
-     Avant l'entretien :
+     Avant l’entretien :
      Ses yeux étaient grands mais neutres, complètement sans expression,
-     son visage était figé, il n'exprimait rien, ni de la joie, ni de la
-     tristesse. Cet entretien était très important pour moi, c'était
+     son visage était figé, il n’exprimait rien, ni de la joie, ni de la
+     tristesse. Cet entretien était très important pour moi, c’était
      comme une épreuve. Si je pouvais passer par là, je pourrais tout
-     faire. Je savais que c'était un cas compliqué, une histoire qui
-     allait au-delà du possible, de l'humain, de l'imaginable mais qui
-     avait quand même une belle fin, au moins pour l'instant, et je me
-     suis préparée pour l'affronter.
-     Après l'entretien :
-     Le plus important pour moi : j'ai réussi à gérer mes émotions, à me
+     faire. Je savais que c’était un cas compliqué, une histoire qui
+     allait au-delà du possible, de l’humain, de l’imaginable mais qui
+     avait quand même une belle fin, au moins pour l’instant, et je me
+     suis préparée pour l’affronter.
+     Après l’entretien :
+     Le plus important pour moi : j’ai réussi à gérer mes émotions, à me
      protéger, à porter une sorte de bouclier pour ne pas me vider,
-     m'effondrer au fond de moi. Le côté faible : quand j'ai traversé la
+     m’effondrer au fond de moi. Le côté faible : quand j’ai traversé la
      porte, au fond de moi-même je me suis sentie lâche. Je me suis dit :
-     « Je n'ai pas laissé sortir mes émotions, je n'ai pas laissé
+     « Je n’ai pas laissé sortir mes émotions, je n’ai pas laissé
      pénétrer ses émotions en moi. Et pourquoi ? Je dois faire mon
-     travail ». Pourtant, j'avais l'impression que quelque chose m'avait
+     travail ». Pourtant, j’avais l’impression que quelque chose m’avait
      échappé dans cet entretien, peut-être le lien invisible de
-     confiance, de complicité qui peut parfois miraculeusement se
-     créer... Mais son regard vraiment neutre, vide, m'a suivi même après
-     l'entretien, en particulier le manque d'expression dans son visage.
-     J'avais l'impression qu'elle était éternellement triste.
+     confiance, de complicité qui peut parfois miraculeusement se créer…
+     Mais son regard vraiment neutre, vide, m’a suivi même après
+     l’entretien, en particulier le manque d’expression dans son visage.
+     J’avais l’impression qu’elle était éternellement triste.
      (Impressions personnelles. Entretien avec Céline, 19.12.2012)
 
    15Yasmine Debarge a analysé un dispositif capable de « contenir » et de
    « gérer » les émotions de parents lors des visites aux enfants dans les
-   cas de séparations conflictuelles (2013). Si cette étude n'a pas
+   cas de séparations conflictuelles (2013). Si cette étude n’a pas
    grand-chose en commun avec notre thème de recherche, ce qui semble
-   intéressant ici est l'analyse sur les émotions et la réflexivité
-   produite au sein de l'espace de rencontre, où l'accompagnement des
+   intéressant ici est l’analyse sur les émotions et la réflexivité
+   produite au sein de l’espace de rencontre, où l’accompagnement des
    parents peut se faire par des professionnel-le-s. Dans notre cas, le
-   dispositif où se déployaient les émotions était l'entretien : la
-   structure solide du guide d'entretien, les questions réfléchies a
+   dispositif où se déployaient les émotions était l’entretien : la
+   structure solide du guide d’entretien, les questions réfléchies a
    priori permettaient de revenir sans cesse sur une grille sécurisante où
    les émotions étaient exprimées sous différentes formes (sonores,
-   verbales, kinésiques, faciales, symptomatiques...) Une question
+   verbales, kinésiques, faciales, symptomatiques…) Une question
    permettait parfois de mettre un point sur un sujet douloureux et de
    dépasser une impasse silencieuse ; une autre pouvait permettre de
-   résumer ou nommer une situation jusqu'alors indiquée par des mots
-   indéfinis (les nombreux « ça »). Enfin les émotions n'étaient pas
-   fuies, nous allions à leur encontre. Ce même dispositif de l'entretien
+   résumer ou nommer une situation jusqu’alors indiquée par des mots
+   indéfinis (les nombreux « ça »). Enfin les émotions n’étaient pas
+   fuies, nous allions à leur encontre. Ce même dispositif de l’entretien
    permettait aussi de « situer » les « confessions » que les femmes nous
-   livraient, puisqu'il s'agissait bien d'un secret. L'émotion devenait
+   livraient, puisqu’il s’agissait bien d’un secret. L’émotion devenait
    alors légitime : elle était livrée pour une « bonne cause », sous une
-   forme appropriée. L'enquêtée savait aussi que l'enquêtrice était en
-   capacité de contenir ses émotions, qu'elle ne se laisserait pas
+   forme appropriée. L’enquêtée savait aussi que l’enquêtrice était en
+   capacité de contenir ses émotions, qu’elle ne se laisserait pas
    submerger, choquer, ou déstabiliser par les confidences reçues. La
-   distance réciproque et l'intérêt mutuel (bien que complémentaire) ont
+   distance réciproque et l’intérêt mutuel (bien que complémentaire) ont
    ainsi permis des échanges riches et profitables pour toutes.
 
-La « bonne distance » dans la relation d'enquête : questionner l'autre ou se
+La « bonne distance » dans la relation d’enquête : questionner l’autre ou se
 questionner ?
 
    16La capacité réflexive des enquêtrices était sans cesse mobilisée
    puisque interroger notre ressenti nous permettait de questionner notre
    interprétation des situations observées et des déclarations des
-   enquêtées. L'interprétation produite à la suite des témoignages s'est
+   enquêtées. L’interprétation produite à la suite des témoignages s’est
    construite aussi dans une confrontation continue et un compte-rendu
-   systématique de l'expérience vécue en termes émotionnels. Ainsi
-   l'équipe a pu construire une sensibilité intersubjective, et l'adoption
+   systématique de l’expérience vécue en termes émotionnels. Ainsi
+   l’équipe a pu construire une sensibilité intersubjective, et l’adoption
    de positions communes et négociées nous a permis de dépasser le risque
-   d'incohérences individuelles.
+   d’incohérences individuelles.
 
-   17Entre ces deux pôles, d'ouverture vers l'extérieur et d'effort pour
-   rester centré, il y a donc le travail d'introspection qui permet de
+   17Entre ces deux pôles, d’ouverture vers l’extérieur et d’effort pour
+   rester centré, il y a donc le travail d’introspection qui permet de
    relever ces mouvements intérieurs mais en relation et en communication
-   avec l'extérieur. Ces mouvements prennent la forme des perturbations de
-   sensations, de pensées, d'émotions, de retours en arrière,
-   d'associations, de souvenirs qui ont lieu en même temps que
-   l'interaction avec les interviewées. L'entretien approfondi, ce temps
-   privilégié, se caractérise par le partage, l'exclusivité de la relation
-   et l'intimité. Un échange spécifique a alors lieu, la relation entre
+   avec l’extérieur. Ces mouvements prennent la forme des perturbations de
+   sensations, de pensées, d’émotions, de retours en arrière,
+   d’associations, de souvenirs qui ont lieu en même temps que
+   l’interaction avec les interviewées. L’entretien approfondi, ce temps
+   privilégié, se caractérise par le partage, l’exclusivité de la relation
+   et l’intimité. Un échange spécifique a alors lieu, la relation entre
    enquêtrice et enquêtée ne ressemblant à aucune autre : nous avons
    établi ensemble une conversation unique. Ainsi, par exemple, les règles
-   mêmes de la gestion de l'entretien ont été aménagées différemment en
-   fonction des enquêtées. Le lieu ou l'ordre des thèmes varient, mais
-   aussi notre manière de se tenir ou de s'adresser aux interviewées, par
+   mêmes de la gestion de l’entretien ont été aménagées différemment en
+   fonction des enquêtées. Le lieu ou l’ordre des thèmes varient, mais
+   aussi notre manière de se tenir ou de s’adresser aux interviewées, par
    le tutoiement ou le vouvoiement. Par exemple, la première question
    était déterminante pour le déroulé de la narration et la succession des
    interrogations. Certaines femmes mettaient en avant la migration,
-   d'autres un avortement ou la naissance d'un enfant, d'autres encore
-   mentionnaient un viol ou la fin d'un rapport amoureux. Bref la première
-   question, ouverte, portait non seulement l'accent sur tel ou tel
-   aspect, mais déterminait aussi l'attitude affective envers ce souvenir
+   d’autres un avortement ou la naissance d’un enfant, d’autres encore
+   mentionnaient un viol ou la fin d’un rapport amoureux. Bref la première
+   question, ouverte, portait non seulement l’accent sur tel ou tel
+   aspect, mais déterminait aussi l’attitude affective envers ce souvenir
    et le sens construit autour de la maladie. Habituées à être
-   « interrogées » par les différents services de l'administration
-   publique (permis de séjour, demande de soin, demande d'aide sociale) et
+   « interrogées » par les différents services de l’administration
+   publique (permis de séjour, demande de soin, demande d’aide sociale) et
    à être dirigées dans les questions, les femmes interviewées avaient ici
-   une marge plus grande dans la négociation de la relation d'enquête.
+   une marge plus grande dans la négociation de la relation d’enquête.
 
    18Odile montre comment les « règles » dans les relations se négocient
-   sur place, entre les personnes en interaction. L'enquêtrice ici ne peut
+   sur place, entre les personnes en interaction. L’enquêtrice ici ne peut
    pas se défaire de sa propre personne, du corps et de sa propre
    histoire, de sa sensibilité. Ainsi, interpellée par son propre prénom,
-   l'enquêtrice est déliée de son rôle pour devenir un être humain face
+   l’enquêtrice est déliée de son rôle pour devenir un être humain face
    aux émotions de la relation :
 
      Je commence en lui expliquant les « règles » du jeu (consentement,
-     anonymat, feuille d'information, etc.). Elle, sa tasse entre ses
-     mains, m'écoute et me dit « on peut se tutoyer ». Je trouve brusque
-     comme passage, mais je fais comme si en effet c'était la chose la
+     anonymat, feuille d’information, etc.). Elle, sa tasse entre ses
+     mains, m’écoute et me dit « on peut se tutoyer ». Je trouve brusque
+     comme passage, mais je fais comme si en effet c’était la chose la
      plus normale au monde. Sa voix est toujours claire et quand elle me
-     raconte son histoire, d'une intensité, d'un calme, d'une force, elle
-     me regarde et dit « tu vois prénom de l'enquêtrice ? ». Je suis par
+     raconte son histoire, d’une intensité, d’un calme, d’une force, elle
+     me regarde et dit « tu vois prénom de l’enquêtrice ? ». Je suis par
      moment déstabilisée, je suis femme, un être humain dénoué de mon
-     rôle, pourtant ça ne m'arrive pas si facilement quand j'enfile mon
-     armure de sociologue. Il y a un moment où j'hésite... dois-je lui
+     rôle, pourtant ça ne m’arrive pas si facilement quand j’enfile mon
+     armure de sociologue. Il y a un moment où j’hésite… dois-je lui
      répondre ? Puis-je pleurer ? Finalement je la regarde, en silence.
-     Je perds la parole ! Du coup j'ai dû revenir au guide, le regarder,
-     le relire aussi devant elle, car en l'écoutant je me perdais dans
+     Je perds la parole ! Du coup j’ai dû revenir au guide, le regarder,
+     le relire aussi devant elle, car en l’écoutant je me perdais dans
      son histoire, dans sa capacité de rendre en images ces moments
      graves. (Impressions personnelles, entretien avec Eliane,
      16.01.2013)
 
-   19Sous le coup de l'émotion, l'enquêtrice est démise de son « rôle »,
-   elle perd sa capacité à assurer la conduite de l'entretien. Ce n'est
+   19Sous le coup de l’émotion, l’enquêtrice est démise de son « rôle »,
+   elle perd sa capacité à assurer la conduite de l’entretien. Ce n’est
    pourtant pas contre-productif, puisque cette démise renverse les
-   positions, l'enquêtée dirigeant le récit et prenant conscience de sa
+   positions, l’enquêtée dirigeant le récit et prenant conscience de sa
    capacité à impressionner. Ce renversement des rôles, accepté et joué
-   par l'enquêtrice, permet de laisser entrevoir sa fragilité et sa
+   par l’enquêtrice, permet de laisser entrevoir sa fragilité et sa
    sensibilité. Ainsi « se déshabiller », quitter sa carapace, son masque
    ou son rôle de chercheuse rendent possible une rencontre entre deux
    personnes qui se retrouvent sur le terrain commun, parfois brut, de
-   l'expérience émotive.
+   l’expérience émotive.
 
    20Burkitt (2012) critique la conception cartésienne selon laquelle la
-   peur, l'anxiété, la confiance peuvent influencer la réflexivité sans
+   peur, l’anxiété, la confiance peuvent influencer la réflexivité sans
    jamais en constituer la source. Dans cette conception, la réflexivité
-   n'est pas relationnelle, elle est désincarnée et non émotionnelle ;
-   elle découle de la seule connaissance, du savoir. À l'inverse, il
-   semble bien que l'émotion soit la source même de toutes nos pensées car
+   n’est pas relationnelle, elle est désincarnée et non émotionnelle ;
+   elle découle de la seule connaissance, du savoir. À l’inverse, il
+   semble bien que l’émotion soit la source même de toutes nos pensées car
    elle intègre les relations que nous avons avec notre monde (notre
    entourage, nos échanges, nos interactions sociales et nos enquêtées).
    La réflexivité ne vient pas a posteriori, mais demeure dans une
    réflexion sur soi qui commence par des dialogues que les individus
-   entretiennent avec eux-mêmes. C'est vers cette nature dialogique, comme
+   entretiennent avec eux-mêmes. C’est vers cette nature dialogique, comme
    forme de « conversation interne », que la réflexivité peut être conçue
    comme la capacité des individus à se considérer en relation avec le
    contexte social (Archer, 2003).
@@ -624,293 +624,293 @@ questionner ?
    émotionnellement engagés avec les autres dans nos interactions sociales
    et ces engagements émotionnels nourrissent régulièrement notre
    réflexivité au travers les dialogues internes que nous entretenons
-   intimement entre nous et l'image et la voix des autres » (Burkitt,
-   2012, 463). L'entretien avec Nina illustre cette « conversation
-   interne » que l'enquêtrice mène avec elle-même durant l'interview.
-   Alors que Nina s'adresse à l'enquêtrice, cette dernière réfléchit
-   simultanément à la manière dont l'enquêtée est en train de la
-   percevoir. On voit ici que l'enquêtrice est prise dans un double
-   mouvement, l'écoute de l'autre et de soi, se demandant ce qu'elle
+   intimement entre nous et l’image et la voix des autres » (Burkitt,
+   2012, 463). L’entretien avec Nina illustre cette « conversation
+   interne » que l’enquêtrice mène avec elle-même durant l’interview.
+   Alors que Nina s’adresse à l’enquêtrice, cette dernière réfléchit
+   simultanément à la manière dont l’enquêtée est en train de la
+   percevoir. On voit ici que l’enquêtrice est prise dans un double
+   mouvement, l’écoute de l’autre et de soi, se demandant ce qu’elle
    devrait ou pourrait faire pour changer ou orienter le regard de
-   l'enquêtée.
+   l’enquêtée.
 
-     Quand elle parle elle est animée d'émotions, c'est très vivant, sa
+     Quand elle parle elle est animée d’émotions, c’est très vivant, sa
      voix est grave, cassée, fragile en général. Elle devient aussi
      agressive, elle claque les doigts, elle frappe les mains, par moment
      je prends presque peur ! Elle a un regard qui reste dur.
-     Dans ses mots et dans ses yeux, j'ai l'impression qu'elle me regarde
-     comme si j'étais quelqu'un « qui ne peut pas comprendre » ce qu'elle
-     dit, qui est trop privilégié ou qui n'a pas suffisamment souffert :
-     « vous comprenez ? Tu comprends ? J'ai beaucoup souffert » elle ne
-     cesse de répéter. Bref, c'est un entretien très dur, une histoire
+     Dans ses mots et dans ses yeux, j’ai l’impression qu’elle me regarde
+     comme si j’étais quelqu’un « qui ne peut pas comprendre » ce qu’elle
+     dit, qui est trop privilégié ou qui n’a pas suffisamment souffert :
+     « vous comprenez ? Tu comprends ? J’ai beaucoup souffert » elle ne
+     cesse de répéter. Bref, c’est un entretien très dur, une histoire
      douloureuse, plus par sa manière de la raconter que par le contenu,
-     qui ressemble au contraire à celui d'autres récits entendus. Je sens
+     qui ressemble au contraire à celui d’autres récits entendus. Je sens
      le poids, la lourdeur de ses mots et une présence indéfinie de
      « ça » : elle refuse de dire le mot « séropositivité ». Je sors
      complètement exténuée. (Impressions personnelles. entretien avec
      Nina, 9.05.2013).
 
-   22Cet exemple pourrait sembler contradictoire à première vue, puisqu'il
-   illustre le fait que l'enquêtrice, nonobstant le fait d'avoir laissé
+   22Cet exemple pourrait sembler contradictoire à première vue, puisqu’il
+   illustre le fait que l’enquêtrice, nonobstant le fait d’avoir laissé
    une place à ses émotions et montré son ouverture aux expériences de
-   l'enquêtée, ne parvient pas à parler ouvertement de sa séropositivité.
-   Pour la signifier, Nina utilise sans cesse le mot « ça », qu'elle
-   charge d'émotions. Ces dernières se manifestent à travers les
-   mouvements de son corps, le ton de sa voix, l'ouverture des yeux et
-   l'expressivité de son visage. Ces signes visibles du corps, des yeux,
+   l’enquêtée, ne parvient pas à parler ouvertement de sa séropositivité.
+   Pour la signifier, Nina utilise sans cesse le mot « ça », qu’elle
+   charge d’émotions. Ces dernières se manifestent à travers les
+   mouvements de son corps, le ton de sa voix, l’ouverture des yeux et
+   l’expressivité de son visage. Ces signes visibles du corps, des yeux,
    de la voix, viennent substituer les mots dans la narration : ce serait
-   alors une erreur de ne pas les traiter et d'arrêter l'analyse à la
-   simple expérience verbalisée. Nina n'assume pas sa séropositivité car
-   elle n'accepte pas sa maladie. L'enquêtée est en train de transmettre
-   une quantité d'informations précieuses quant à son rapport matériel à
+   alors une erreur de ne pas les traiter et d’arrêter l’analyse à la
+   simple expérience verbalisée. Nina n’assume pas sa séropositivité car
+   elle n’accepte pas sa maladie. L’enquêtée est en train de transmettre
+   une quantité d’informations précieuses quant à son rapport matériel 
    la maladie, la sexualité et la manière de gérer ce lourd secret. Bien
    que son discours reste par moment inachevée, la parole suspendue, Nina
-   exprime sa position : elle est fâchée, habitée par la rage d'avoir subi
-   ce qui pour elle est « une injustice » qui l'a séparée de la vie des
+   exprime sa position : elle est fâchée, habitée par la rage d’avoir subi
+   ce qui pour elle est « une injustice » qui l’a séparée de la vie des
    personnes « saines », « normales », finalement « bien », la
-   séropositivité étant - pour elle - une maladie de personnes déviantes.
+   séropositivité étant – pour elle – une maladie de personnes déviantes.
    Par-là, elle révèle ses représentations du VIH/sida nourries dans le
-   milieu de l'Église, qu'elle fréquente, et qui la rendent paradoxalement
+   milieu de l’Église, qu’elle fréquente, et qui la rendent paradoxalement
    prisonnière de ses propres convictions.
 
-   23Dans la relation il semble impossible d'être détachées, de garder la
+   23Dans la relation il semble impossible d’être détachées, de garder la
    distance et la passivité. La relation est habitée par les espoirs, les
-   souhaits, les attentes, la surprise, la reconnaissance, l'étonnement,
+   souhaits, les attentes, la surprise, la reconnaissance, l’étonnement,
    toutes ces émotions qui orientent notre capacité (ou notre incapacité)
-   à réagir, à relancer l'interviewée pour qu'elle puisse continuer son
+   à réagir, à relancer l’interviewée pour qu’elle puisse continuer son
    histoire. La sensation est une dimension qui nous oriente vers
-   l'action, elle n'est pas séparée de la réflexion, mais en est la source
-   même : « L'émotion influence la manière dont nous nous engageons et
+   l’action, elle n’est pas séparée de la réflexion, mais en est la source
+   même : « L’émotion influence la manière dont nous nous engageons et
    interagissons avec les autres et avec nous-mêmes et, dans ce sens, nous
-   ne pouvons pas séparer l'émotion de la réflexivité » (Burkitt, 2012 :
+   ne pouvons pas séparer l’émotion de la réflexivité » (Burkitt, 2012 :
    459). Les émotions sont strictement liées à la réflexivité, mais aussi
-   aux interactions, à notre manière de bouger et d'agir dans le monde et
+   aux interactions, à notre manière de bouger et d’agir dans le monde et
    envers les autres et notre recherche montre largement sa mise en
-   pratique. La manifestation de l'émotion- si elle est accueillie par le
-   destinataire - permet à la personne de se sentir moins seule. Cette
-   dynamique est antithétique de l'approche compassionnelle : nous
-   n'éprouvions pas de la pitié pour nos interviewées, nous cherchions à
+   pratique. La manifestation de l’émotion– si elle est accueillie par le
+   destinataire – permet à la personne de se sentir moins seule. Cette
+   dynamique est antithétique de l’approche compassionnelle : nous
+   n’éprouvions pas de la pitié pour nos interviewées, nous cherchions 
    sentir avec elles, ce qui a légitimé le partage du secret.
 
-Enquêter sur le secret : le dévoilement de soi dans l'enquête
+Enquêter sur le secret : le dévoilement de soi dans l’enquête
 
    24Comment mener une enquête sur le secret portant sur un aspect de la
-   vie des individus qu'ils choisissent ou se doivent de taire ? Que faire
+   vie des individus qu’ils choisissent ou se doivent de taire ? Que faire
    des témoignages advenus dans le secret des entretiens ? Dans la phase
    de pré-enquête les médiateurs culturels que nous avons rencontrés
-   soulignaient l'importance de respecter le silence de l'interviewée ou
+   soulignaient l’importance de respecter le silence de l’interviewée ou
    son refus de répondre directement à une question (Villani et al.,
    2014). Selon eux, une réponse détournée ou « une réponse à côté »
-   pouvait être le signe d'une forme de gêne, d'embarras ou de difficulté
-   à se référer à une expérience douloureuse plus qu'un problème de langue
-   ou d'incompréhension des concepts. Mais comment interpréter un
+   pouvait être le signe d’une forme de gêne, d’embarras ou de difficulté
+   à se référer à une expérience douloureuse plus qu’un problème de langue
+   ou d’incompréhension des concepts. Mais comment interpréter un
    silence ?
 
    25Le secret est par définition un « non-dit », une chose « tue »,
    « cachée » (Zempleni, 1996) et révélée seulement selon une logique
    précise. Cette dernière se déploie selon des stratégies complexes qui
-   concernent le choix - pour reprendre les termes de Zempleni (1996) des
+   concernent le choix – pour reprendre les termes de Zempleni (1996) des
    « dépositaires » du secret (les personnes à qui ont dit le secret) et
    des « destinataires » du secret (les personnes à qui on cache). Or ce
-   mécanisme ingénieux - et nos résultats le montrent - ne relève pas de
-   l'inconscient ni du terrain psychanalytique. Les secrets constituent
-   une pratique sociale impliquant une « mise en action d'un raisonnement,
+   mécanisme ingénieux – et nos résultats le montrent – ne relève pas de
+   l’inconscient ni du terrain psychanalytique. Les secrets constituent
+   une pratique sociale impliquant une « mise en action d’un raisonnement,
    latent ou explicite, ordinaire ou savant mais toujours en réponse à des
-   situations d'interaction » (Giraud, 2005, 253). Pour les femmes
+   situations d’interaction » (Giraud, 2005, 253). Pour les femmes
    interrogées, les secrets relèvent du conscient, ils ont « un corps »,
    ils pèsent. Le secret est « un poids parfois dur à cacher », une
    allusion (consciente ou non) à la prise réelle de poids, voire à la
    lipodistrophie, effet secondaire des trithérapies que les femmes
-   s'évertuent à dissimuler. Le mécanisme du secret relève de stratégies
-   organisées selon une logique rationnelle et réfléchie, attentive à
+   s’évertuent à dissimuler. Le mécanisme du secret relève de stratégies
+   organisées selon une logique rationnelle et réfléchie, attentive 
    dissimuler les détails qui pourraient trahir un indice ou un signe de
-   leur séropositivité. Finalement il s'agit d'une véritable expérience
+   leur séropositivité. Finalement il s’agit d’une véritable expérience
    « du placard » (Kosofsky, 2008) façonnant la totalité de la vie des
    individus. Dans le cas des femmes migrantes séropositives, « le
    placard » devient le pivot autour duquel se construit leur vie sociale.
    À chaque nouvelle rencontre, à chaque nouvelle situation, elles sont
    soumises au dilemme quant au coming out de leur statut sérologique. Le
    « placard » concrétise cette oppression : elles sont perpétuellement
-   soumises à des formes d'exclusion potentielle et ne parviennent jamais
-   à se convaincre totalement de la possibilité de l'oubli ou du silence.
+   soumises à des formes d’exclusion potentielle et ne parviennent jamais
+   à se convaincre totalement de la possibilité de l’oubli ou du silence.
 
-Restituer la parole aux femmes : l'engagement dans la production de savoir
+Restituer la parole aux femmes : l’engagement dans la production de savoir
 
      Enquêtrice : Et comment vous partez maintenant ?
-     Astrid : Je pars bien. C'est vrai que ça dépend de la personne qui
+     Astrid : Je pars bien. C’est vrai que ça dépend de la personne qui
      est avec vous. Vous savez à chaque entretien ça dépend de la
-     personne comme il est, soit vous êtes ouverte ou vous l'êtes pas.
-     Mais c'est vrai que vous êtes très ouverte, vous avez posé des
-     questions justes et puis vous étiez détendue donc il n'y a pas... ça
-     m'a aussi détendue par la manière dont vous étiez simple et tout.
+     personne comme il est, soit vous êtes ouverte ou vous l’êtes pas.
+     Mais c’est vrai que vous êtes très ouverte, vous avez posé des
+     questions justes et puis vous étiez détendue donc il n’y a pas… ça
+     m’a aussi détendue par la manière dont vous étiez simple et tout.
      (entretien avec Astrid, 9.09.2013)
 
-   26Permettre aux femmes d'exprimer leurs sentiments vis-à-vis de tout ce
+   26Permettre aux femmes d’exprimer leurs sentiments vis-à-vis de tout ce
    dont on venait de parler facilite une reconnaissance du travail
    émotionnel effectué par les deux parties (enquêtrices et enquêtées).
-   L'attitude corporelle, mentale et émotionnelle de l'enquêtrice,
+   L’attitude corporelle, mentale et émotionnelle de l’enquêtrice,
    invisible mais présente, a été sans cesse performée. Cette
-   « ouverture » permet à l'enquêtée de se confier, de parler de sa vie et
-   de son intimité si longtemps cachée. En effet, l'échange, la confiance
-   et, finalement, la révélation de ce qu'elles tiennent secret au
-   quotidien, doit être ici considéré comme le résultat d'un travail actif
-   sur la recherche d'une condition émotionnelle favorable. Il s'agit d'un
+   « ouverture » permet à l’enquêtée de se confier, de parler de sa vie et
+   de son intimité si longtemps cachée. En effet, l’échange, la confiance
+   et, finalement, la révélation de ce qu’elles tiennent secret au
+   quotidien, doit être ici considéré comme le résultat d’un travail actif
+   sur la recherche d’une condition émotionnelle favorable. Il s’agit d’un
    effet recherché et attendu, qui demande un travail particulier au
    niveau émotionnel de la part des enquêtrices et une participation
-   active des enquêtées. La prise en compte du « travail émotionnel » - et
-   sa restitution - a une valence éthique et politique pour nous, puisque
+   active des enquêtées. La prise en compte du « travail émotionnel » – et
+   sa restitution – a une valence éthique et politique pour nous, puisque
    cette restitution nous engage non seulement comme chercheuses et
    productrices des savoirs, mais aussi comme personnes : « Nous, en tant
    que sujets connaissant, sommes censé-e-s être constamment conscient-e-s
    de notre responsabilité dans la fabrication des objets de savoir »
    (Prins, 1995, 356).
 
-   27Concrètement, durant l'entretien mais aussi à sa suite, nous
-   demandions aux femmes de s'exprimer quant au processus, en verbalisant
+   27Concrètement, durant l’entretien mais aussi à sa suite, nous
+   demandions aux femmes de s’exprimer quant au processus, en verbalisant
    leurs sentiments et leurs états émotifs après avoir révélé certains des
-   aspects intimes de leur vie. À l'exception d'une femme, pour qui le
+   aspects intimes de leur vie. À l’exception d’une femme, pour qui le
    fait de mentionner la maladie constituait en soi un moment douloureux,
    pour toutes les autres femmes interviewées parler avait un effet
    libérateur. Ce processus se déclinait en deux temps : parler
    apparaissait bénéfique pour soi et pour les autres. La parole serait
-   associée aux effets bienfaisants d'une « thérapie psychologique ». Pour
-   certaines femmes, comme l'exprime Eliane dans l'extrait ci-dessous,
+   associée aux effets bienfaisants d’une « thérapie psychologique ». Pour
+   certaines femmes, comme l’exprime Eliane dans l’extrait ci-dessous,
    parler est un acte libératoire qui permet de « déballer », de « (se)
    dégager » et par ce fait « soulage ».
 
-     Eliane : Merci, j'étais ravie de parler avec toi et ça m'a fait du
-     bien, parce que ça fait longtemps que je n'ai pas déballé comme ça
-     mon coeur, et sorti tout ce qu'il y avait en moi. C'est comme si
-     pour moi c'était une thérapie... revenir au passé pour reparler de
-     tout ça [Rires]. Même des choses que je n'ai jamais dites ! Donc, à
-     part... je m'étais confié une fois avec mes deux médecins, et puis
-     une fois avec [nom de l'opératrice du centre Sida] donc, dans ma
-     vie, dans mon parcours, il n'y a que ces trois personnes, hein ! Et
-     puis aujourd'hui, après toutes ces années, retourner en arrière...
-     tu ne m'as fait que du bien ! (entretien avec Eliane, 16.01.2013)
+     Eliane : Merci, j’étais ravie de parler avec toi et ça m’a fait du
+     bien, parce que ça fait longtemps que je n’ai pas déballé comme ça
+     mon cœur, et sorti tout ce qu’il y avait en moi. C’est comme si pour
+     moi c’était une thérapie… revenir au passé pour reparler de tout ça
+     [Rires]. Même des choses que je n’ai jamais dites ! Donc, à part… je
+     m’étais confié une fois avec mes deux médecins, et puis une fois
+     avec [nom de l’opératrice du centre Sida] donc, dans ma vie, dans
+     mon parcours, il n’y a que ces trois personnes, hein ! Et puis
+     aujourd’hui, après toutes ces années, retourner en arrière… tu ne
+     m’as fait que du bien ! (entretien avec Eliane, 16.01.2013)
 
-   28Il y a aussi une forme d'émancipation à travers la production d'un
-   discours sur soi. Anne l'exprime de manière explicite en disant qu'il
-   n'y aurait eu autrefois que de la place pour les larmes seules, la
+   28Il y a aussi une forme d’émancipation à travers la production d’un
+   discours sur soi. Anne l’exprime de manière explicite en disant qu’il
+   n’y aurait eu autrefois que de la place pour les larmes seules, la
    parole étant encore immature, inexistante, inexprimable tant la douleur
-   était forte. Le travail d'élaboration de la douleur qui prend un
-   certain temps, parfois des années, permet la construction d'un récit et
+   était forte. Le travail d’élaboration de la douleur qui prend un
+   certain temps, parfois des années, permet la construction d’un récit et
    par là une mise à distance de la maladie.
 
-     Enquêtrice : Comment tu te sens ? Est-ce que je t'ai fatiguée ?
-     Anne : Non, non, ça m'a fait du bien. Des fois, on a la sensation
-     d'oublier ces trucs. Mais ça fait du bien de parler de tous ces
-     trucs, bon ça fait très longtemps que je n'ai pas parlé. Mais d'un
-     côté ça fait du bien de voir les choses aussi d'une autre façon. Il
-     y a dix ans, si tu m'avais appelé parler de la maladie, j'allais
-     m'asseoir et pleurer tout le long. Je n'allais pas pouvoir placer un
-     mot. J'allais pleurer, pleurer, pleurer. Maintenant j'ai fait un
+     Enquêtrice : Comment tu te sens ? Est-ce que je t’ai fatiguée ?
+     Anne : Non, non, ça m’a fait du bien. Des fois, on a la sensation
+     d’oublier ces trucs. Mais ça fait du bien de parler de tous ces
+     trucs, bon ça fait très longtemps que je n’ai pas parlé. Mais d’un
+     côté ça fait du bien de voir les choses aussi d’une autre façon. Il
+     y a dix ans, si tu m’avais appelé parler de la maladie, j’allais
+     m’asseoir et pleurer tout le long. Je n’allais pas pouvoir placer un
+     mot. J’allais pleurer, pleurer, pleurer. Maintenant j’ai fait un
      grand chemin, un grand pas. (entretien avec Anne, 23.02.2013)
 
-   29Dans ces témoignages, il émerge aussi l'idée que « certaines choses »
-   ne peuvent pas être dites n'importe quand à n'importe qui. Le choix de
-   l'interlocuteur ou interlocutrice relève ici d'une stratégie de
+   29Dans ces témoignages, il émerge aussi l’idée que « certaines choses »
+   ne peuvent pas être dites n’importe quand à n’importe qui. Le choix de
+   l’interlocuteur ou interlocutrice relève ici d’une stratégie de
    sélection qui fait partie de la logique du secret (Mellini et al.,
-   2014). Les femmes soulignent cette dimension en expliquant qu'elles ne
-   peuvent pas « dire ça à tout le monde », accentuant ainsi l'exclusivité
+   2014). Les femmes soulignent cette dimension en expliquant qu’elles ne
+   peuvent pas « dire ça à tout le monde », accentuant ainsi l’exclusivité
    de la révélation.
 
    30Le « bénéfice » de la parole se décline sous une deuxième forme. Les
-   femmes font émerger une idée d'« engagement », de volonté d'« aider »
-   d'autres femmes ou hommes dans leur situation. Un sentiment moral de
+   femmes font émerger une idée d’« engagement », de volonté d’« aider »
+   d’autres femmes ou hommes dans leur situation. Un sentiment moral de
    solidarité se manifeste alors, ébauché certes, mais clairement
    exprimé : la « maladie » rassemble par force un groupe de personnes
-   partageant la séropositivité. Delphine et Hélène, en fin d'entretien,
-   dans le bref bilan qu'on leur demande de faire, soulignent cet aspect
-   propre d'une volonté de témoigner, de sortir du silence et de
-   l'isolement en produisant un discours. Cette motivation relève d'une
-   volonté politique de production d'une parole unique et autochtone à
-   propos d'un thème qui touche directement la personne impliquée et qui,
+   partageant la séropositivité. Delphine et Hélène, en fin d’entretien,
+   dans le bref bilan qu’on leur demande de faire, soulignent cet aspect
+   propre d’une volonté de témoigner, de sortir du silence et de
+   l’isolement en produisant un discours. Cette motivation relève d’une
+   volonté politique de production d’une parole unique et autochtone 
+   propos d’un thème qui touche directement la personne impliquée et qui,
    en ce sens, se considère comme une « experte ».
 
      Et comment vous vous sentez par rapport à tout ce qui a été discuté
-     aujourd'hui ?
-     J : Ecoutez, je me dis toujours, si c'est pour la recherche, si ça
-     peut aider les autres... c'est aussi la raison pour laquelle j'ai
-     accepté ça. Si c'est pour la recherche, c'est pour trouver des
+     aujourd’hui ?
+     J : Ecoutez, je me dis toujours, si c’est pour la recherche, si ça
+     peut aider les autres… c’est aussi la raison pour laquelle j’ai
+     accepté ça. Si c’est pour la recherche, c’est pour trouver des
      solutions. Il y a toujours une raison ! Moi avec ma vie chrétienne,
-     je ne vois pas que moi, je vois aussi d'autres personnes ce que ça
-     pourrait apporter. Et si mon témoignage peut aider d'autres
-     personnes... (entretien avec Delphine, 19.12.2012).
+     je ne vois pas que moi, je vois aussi d’autres personnes ce que ça
+     pourrait apporter. Et si mon témoignage peut aider d’autres
+     personnes… (entretien avec Delphine, 19.12.2012).
 
      H : Bon, moi ce que je pourrais dire pour votre article, pour
-     conclure, c'est dire aux malades séropositifs qu'il ne faut vraiment
-     pas qu'ils s'enferment dans la maladie. Parce qu'ils sont
-     prisonniers d'une maladie. Il ne faut pas qu'ils s'enferment
+     conclure, c’est dire aux malades séropositifs qu’il ne faut vraiment
+     pas qu’ils s’enferment dans la maladie. Parce qu’ils sont
+     prisonniers d’une maladie. Il ne faut pas qu’ils s’enferment
      eux-mêmes dans cette maladie. Dans cette prison, ils finissent par
-     mourir enfermés. Cloués. Ce qu'ils doivent faire c'est vraiment
-     sortir de cette prison-là. C'est-à-dire les encourager. Etre
-     séropositif... C'est rejeter cette caricature que la société fait de
-     nous, c'est rejeter tout tabou que la société fait de nous, mais
-     c'est de s'accepter comme on est. À chacun son fardeau. Si le mien
-     c'est le sida, d'autres en ont d'autres, c'est la stérilité, c'est
-     la folie, c'est ceci. Il faut toujours se dire qu'il faut s'épanouir
+     mourir enfermés. Cloués. Ce qu’ils doivent faire c’est vraiment
+     sortir de cette prison-là. C’est-à-dire les encourager. Etre
+     séropositif… C’est rejeter cette caricature que la société fait de
+     nous, c’est rejeter tout tabou que la société fait de nous, mais
+     c’est de s’accepter comme on est. À chacun son fardeau. Si le mien
+     c’est le sida, d’autres en ont d’autres, c’est la stérilité, c’est
+     la folie, c’est ceci. Il faut toujours se dire qu’il faut s’épanouir
      dans sa maladie. (entretien avec Hélène, 13.03.2013)
 
    31Hélène exprime cette envie de communiquer et de « dire aux malades
-   séropositifs » qu'il faut lutter. Elle souhaite passer un message, les
+   séropositifs » qu’il faut lutter. Elle souhaite passer un message, les
    encourager à résister à toutes formes de discrimination auxquelles ils
    sont soumis, tirant ces conclusions à partir de son expérience
    personnelle. Delphine justifie ce même élan, cet engagement politique
    par son appartenance à un credo religieux, « ma vie chrétienne », même
-   si la communauté religieuse, notamment l'Église, est désignée comme
-   l'une des principales sphères où l'expérience de l'exclusion et de la
+   si la communauté religieuse, notamment l’Église, est désignée comme
+   l’une des principales sphères où l’expérience de l’exclusion et de la
    stigmatisation est vécue (Mellini et al., 2014). De manière générale
    les femmes se disent « investies ». Pour elles, parler est non
-   seulement libérateur - dans leurs existences et dans leur rapport à la
-   santé - mais permet aussi de s'affirmer et de se faire entendre,
-   marquant la volonté à la fois d'appartenir à un groupe tout en s'en
+   seulement libérateur – dans leurs existences et dans leur rapport à la
+   santé – mais permet aussi de s’affirmer et de se faire entendre,
+   marquant la volonté à la fois d’appartenir à un groupe tout en s’en
    affranchissant.
 
 Vers un point de vue situé, ému et engagé
 
    32Nous avons pris en compte la dimension corporelle de notre présence
-   sur le terrain en analysant les relations d'enquête à travers le prisme
+   sur le terrain en analysant les relations d’enquête à travers le prisme
    des émotions. Sans être forcément indignées, nous sommes parties du
-   postulat que ces femmes avaient subi plusieurs formes d'injustice
-   envers lesquelles nous ressentions une nécessité morale d'adopter une
+   postulat que ces femmes avaient subi plusieurs formes d’injustice
+   envers lesquelles nous ressentions une nécessité morale d’adopter une
    position de réparation. Faire entendre leurs voix, les interroger sur
    leurs vécus, leurs impressions plutôt que représentations ont été pour
    nous une manière de restituer des « savoirs situés » (Haraway, 1988)
    pour reconnaître une valence scientifique aux enquêtées, devenues
-   sujets producteurs - non seulement de sens comme l'affirme Bourdieu -
+   sujets producteurs – non seulement de sens comme l’affirme Bourdieu –
    mais aussi de savoir.
 
    33Leurs attitudes ont été analysées comme des stratégies individuelles
-   et des dynamiques collectives propres à l'agency de ce groupe social
+   et des dynamiques collectives propres à l’agency de ce groupe social
    discriminé (des femmes noires, étrangères, parfois avec un statut légal
-   irrégulier et - par conséquent - sans droits politiques, sans emploi,
-   sans droits sociaux, séropositives). L'accumulation de facteurs de
+   irrégulier et – par conséquent – sans droits politiques, sans emploi,
+   sans droits sociaux, séropositives). L’accumulation de facteurs de
    fragilisation peut faire des femmes interrogées des victimes ou des
-   actrices, selon l'analyse qu'on s'engage à produire. Dans notre
-   enquête, il était important pour nous d'adopter une posture qui permet
+   actrices, selon l’analyse qu’on s’engage à produire. Dans notre
+   enquête, il était important pour nous d’adopter une posture qui permet
    à la fois de reconnaître leur démarche à partir des efforts accomplis
    (par les stratégies de réussite) et de valoriser les ressources
-   qu'elles mobilisent et maîtrisent (migration, construction d'un réseau,
-   clientèle, recherche d'un partenaire).
+   qu’elles mobilisent et maîtrisent (migration, construction d’un réseau,
+   clientèle, recherche d’un partenaire).
 
    34Nous avons montré comment la mise au travail des émotions
    (mobilisation, compte-rendu, analyse) a inspiré la production des
    données collectées. La position des enquêtrices a parfois basculé dans
    des prises de position « engagées », voire morales, où nous nous sommes
    retrouvées à défendre un point de vue ou à conseiller ou orienter
-   l'enquêtée. Cette implication sur le terrain appelle la chercheuse à
-   « sortir » de son rôle habituel. Face à la narration d'une injustice
+   l’enquêtée. Cette implication sur le terrain appelle la chercheuse 
+   « sortir » de son rôle habituel. Face à la narration d’une injustice
    subie (violence, abus, exploitation, racisme) évidente et reconnue par
-   une enquêtrice à l'écoute, la distance venait s'effriter. Au même titre
-   que toutes les autres, les relations sociales d'enquête supposent
-   certes des enjeux identitaires et statutaires, mais l'entretien
-   approfondi est un type spécifique d'interaction qui implique un
+   une enquêtrice à l’écoute, la distance venait s’effriter. Au même titre
+   que toutes les autres, les relations sociales d’enquête supposent
+   certes des enjeux identitaires et statutaires, mais l’entretien
+   approfondi est un type spécifique d’interaction qui implique un
    rapprochement physique et émotionnel, agissant dans un cadre exclusif
-   et intime. La dimension du secret, et parfois de l'exclusivité de
-   l'information dont la chercheuse devient « dépositaire » (Zempleni,
+   et intime. La dimension du secret, et parfois de l’exclusivité de
+   l’information dont la chercheuse devient « dépositaire » (Zempleni,
    1996), charge cette relation émotionnellement et symboliquement et
-   l'investit d'une responsabilité morale avec laquelle nous avons sans
+   l’investit d’une responsabilité morale avec laquelle nous avons sans
    cesse cherché à composer.
    Haut de page
 
@@ -931,7 +931,7 @@ Bibliographie
    BOURDIEU Pierre, « Comprendre » in BOURDIEU Pierre (dir.), La misère du
    monde, Paris, Seuil, 1993, pp. 903-925.
 
-   BOURDIEU Pierre, « L'objectivation participante », Actes de la
+   BOURDIEU Pierre, « L’objectivation participante », Actes de la
    recherche en sciences sociales, 150, 2002, pp. 43-58.
 
    BURKITT, Ian, « Emotional Reflexivity : Feeling, Emotion and
@@ -942,12 +942,12 @@ Bibliographie
    1995, pp. 83-97.
 
    DEBARGE Yasmine, « Contenir et gérer les émotions : le dispositif
-   "espace de rencontre" », Recherches familiales, 10, 1, 2013, pp. 7-15.
+   “espace de rencontre” », Recherches familiales, 10, 1, 2013, pp. 7-15.
 
    DENZIN Norman, On Understanding Emotion, New Jersey, Transaction
    Publishers, 2007 [1984].
 
-   DEVEREUX Georges, De l'angoisse à la méthode dans les sciences du
+   DEVEREUX Georges, De l’angoisse à la méthode dans les sciences du
    comportement, Paris, Flammarion, 1980.
 
    DURKHEIM Émile, Les Règles de la méthode sociologique, Paris, P.U.F.,
@@ -955,8 +955,8 @@ Bibliographie
 
    FAVRET-SAADA Jeanne, « Être affecté », Gradhiva, 8, 1990, pp. 3-9.
 
-   GIRAUD Claude, Du secret : contribution à une sociologie de l'autorité
-   et de l'engagement, Paris, L'Harmattan, 2005.
+   GIRAUD Claude, Du secret : contribution à une sociologie de l’autorité
+   et de l’engagement, Paris, L’Harmattan, 2005.
 
    GOFFMAN Erving, Les Relations en public, t. 2. La Mise en scène de la
    vie quotidienne, Paris, Minuit, 1973.
@@ -969,7 +969,7 @@ Bibliographie
    reader, New York, Routledge, 2009.
 
    HOCHSCHILD Arlie Russell, « Emotion Work, Feeling Rules, and Social
-   Structure », American Journal of Sociology, 85, 3, 1979, pp. 551-575.
+   Structure », American Journal of Sociology, 85, 3, 1979, pp. 551–575.
 
    HOCHSCHILD Arlie Russell, The Managed Heart: The Commercialization of
    Human Feeling, Berkeley, The University of California Press, 1983.
@@ -985,24 +985,24 @@ Bibliographie
    KOSOFSKY Sedgwick Eve, Epistémologie du placard, Paris, Editions
    Amsterdam, 2008 (1991).
 
-   LANTZ Pierre, SELIM Monique, « Émotions de recherche », L'Homme et la
+   LANTZ Pierre, SELIM Monique, « Émotions de recherche », L’Homme et la
    société, 116, 1995, pp. 3-5.
 
    LIVET Pierre, Émotions et rationalité morale, Paris, PUF, 2002.
 
    MELLINI Laura, GODENZA A, DE PUY J., Le VIH/sida ne se dit pas. Analyse
-   des formes de secret autour du VIH/sida, Paris, L'Harmattan, 2004.
+   des formes de secret autour du VIH/sida, Paris, L’Harmattan, 2004.
 
    POGLIA MILETI Francesca, MELLINI Laura, VILLANI Michela, SULSTAROVA
    Brikela, SINGY Pascal, « Liens sociaux, secrets et confidences : le cas
-   des femmes migrantes d'Afrique subsaharienne et séropositives »,
+   des femmes migrantes d’Afrique subsaharienne et séropositives »,
    Recherches sociologiques et anthropologiques, 45, 2, 2014.
 
    ORTONY Anthony, CLORE Gerard, COLLINS Allen, The Cognitive Structure of
    Emotions, New York, Cambridge University Press, 1988.
 
    PAPERMAN Patricia, « La question des émotions : du physique au
-   social », L'Homme et la société, 116, 1995, pp. 7-17.
+   social », L’Homme et la société, 116, 1995, pp. 7-17.
 
    PLUTCHIK Robert, Emotion: A Psychoevolutionary Synthesis, New York,
    Harper and Row, 1980.
@@ -1012,11 +1012,11 @@ Bibliographie
    3, 1995, pp. 352-367.
 
    VILLANI Michela, POGLIA MILETI Francesca, MELLINI Laura, SULSTAROVA
-   Brikela, SINGY Pascal, « L'engagement (scientifique) sensible :
-   stratégies d'enquête sur les thèmes de la sexualité, la séropositivité
+   Brikela, SINGY Pascal, « L’engagement (scientifique) sensible :
+   stratégies d’enquête sur les thèmes de la sexualité, la séropositivité
    et le secret », sous presse.
 
-   ZEMPLENI Andras, « Savoir taire. Du secret à l'intrusion ethnologique
+   ZEMPLENI Andras, « Savoir taire. Du secret à l’intrusion ethnologique
    dans la vie des autres », Gradhiva, 20, 1996, pp. 23-43.
    Haut de page
 
@@ -1027,14 +1027,14 @@ Notes
    apportées afin de rendre les extraits plus lisibles.
 
    2 Dès maintenant, dans le texte, nous utiliserons le féminin universel
-   pour toutes les fois qu'on se réfère à notre recherche, étant l'équipe
+   pour toutes les fois qu’on se réfère à notre recherche, étant l’équipe
    formée par quatre femmes et un homme. Par ailleurs, si les termes
-   d'investigatrice et enquêtrice sont utilisés comme synonymes, car ils
-   indiquent le travail d'enquête proprement dit (terrain, collecte de
+   d’investigatrice et enquêtrice sont utilisés comme synonymes, car ils
+   indiquent le travail d’enquête proprement dit (terrain, collecte de
    données) ; le terme de chercheuse se réfère à la dimension plus
-   générale de la recherche, dont l'enquête n'est qu'une étape.
+   générale de la recherche, dont l’enquête n’est qu’une étape.
 
-   3 De manière similaire Livet (2002) le conçoit lorsqu'il parle de
+   3 De manière similaire Livet (2002) le conçoit lorsqu’il parle de
    « résonance affective » en mettant en lien le contexte, la cause et les
    orientations affectives.
    Haut de page
@@ -1045,7 +1045,7 @@ Référence électronique
 
    Michela Villani, Francesca Poglia Mileti, Laura Mellini, Brikela
    Sulstarova et Pascal Singy, « Les émotions au travail (scientifique) :
-   enjeux éthiques et stratégies méthodologiques d'une enquête en terrain
+   enjeux éthiques et stratégies méthodologiques d’une enquête en terrain
    intime », Genre, sexualité & société [En ligne], 12 | Automne 2014, mis
    en ligne le 01 décembre 2014, consulté le 30 décembre 2025. URL :
    http://journals.openedition.org/gss/3333 ; DOI :
@@ -1068,12 +1068,12 @@ Articles du même auteur
        Visuals. Producing, distributing and circulating images of gender
        and sexuality
        Paru dans Genre, sexualité & société, Hors-série n° 3 | 2018
-     * L'art engagé : images de résistance, de résilience et de
+     * L’art engagé : images de résistance, de résilience et de
        reconstruction humanitaire. [Texte intégral]
        Committed Art: images of resistance, resilience and humanitarian
        reconstruction
        Paru dans Genre, sexualité & société, Hors-série n° 3 | 2018
-     * Penser les maternités d'un point de vue féministe [Texte intégral]
+     * Penser les maternités d’un point de vue féministe [Texte intégral]
        Mothering through feminisms
        Paru dans Genre, sexualité & société, 16 | Automne 2016
 
@@ -1120,13 +1120,13 @@ Pascal Singy
    UNIL
    Haut de page
 
-Droits d'auteur
+Droits d’auteur
 
    CC-BY-NC-ND-4.0
 
    Le texte seul est utilisable sous licence CC BY-NC-ND 4.0. Les autres
    éléments (illustrations, fichiers annexes importés) sont susceptibles
-   d'être soumis à des autorisations d'usage spécifiques.
+   d’être soumis à des autorisations d’usage spécifiques.
    Haut de page
    Sommaire - Document suivant
 
@@ -1235,15 +1235,15 @@ Suivez-nous
 
      * Flux RSS Flux RSS
 
-Lettres d'information
+Lettres d’information
 
-     * La Lettre d'OpenEdition
+     * La Lettre d’OpenEdition
 
 Affiliations/partenaires
 
      * Logo Institut Emilie du Châtelet
      * DOAJ - Directory of Open Access Journals
-     * Revue soutenue par l'Institut des sciences humaines et sociales
+     * Revue soutenue par l’Institut des sciences humaines et sociales
        (InSHS) du CNRS, 2023-2025
      * OpenEdition Journals
 
@@ -1251,13 +1251,13 @@ Affiliations/partenaires
 
    Voir la notice dans le catalogue OpenEdition
 
-   Plan du site - Mentions légales et Crédits - Contacts - Flux de
+   Plan du site – Mentions légales et Crédits – Contacts – Flux de
    syndication
 
-   CGU d'OpenEdition Journals - Politique de confidentialité - Gestion des
-   cookies - Signaler un problème
+   CGU d’OpenEdition Journals – Politique de confidentialité – Gestion des
+   cookies – Signaler un problème
 
-   Nous adhérons à OpenEdition - Édité avec Lodel - Accès réservé
+   Nous adhérons à OpenEdition – Édité avec Lodel – Accès réservé
 
    (BUTTON)
 

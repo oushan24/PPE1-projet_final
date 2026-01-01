@@ -6,7 +6,7 @@
      * Menu
      * Pied de page
 
-   Groupe JLO - retour à l'accueil (BUTTON)
+   Groupe JLO – retour à l’accueil (BUTTON)
 
      * (BUTTON) Conseil
        Diversité & Inclusion
@@ -186,7 +186,7 @@ Charge Physique :
 
    La charge physique se réfère à l'effort physique requis pour accomplir
    une tâche. Cela englobe les exigences physiques directes du travail,
-   telles que la force musculaire nécessaire, ainsi que les aspects liés à
+   telles que la force musculaire nécessaire, ainsi que les aspects liés 
    l'environnement de travail, comme la posture et la durée des périodes
    d'activité physique.
 
@@ -263,13 +263,13 @@ Charge de Travail Subjective :
 L'enjeu de la régulation de la charge de travail pour les entreprises
 
    Le travail connait des évolutions de fond avec le développement des
-   technologies de communication et des modes d'organisations hybrides.
+   technologies de communication et des modes d’organisations hybrides.
    Ces changements ont été accentués par la crise sanitaire en 2020 avec
    des impacts positifs ou négatifs selon la situation des collaborateurs.
-   Parmi ces impacts, la charge de travail apparait comme l'une des
+   Parmi ces impacts, la charge de travail apparait comme l’une des
    problématiques saillantes. Elle semble traduire une forme
-   d'intensification du travail qui pose aujourd'hui une difficulté
-   majeure dans l'activité, par exemple :
+   d’intensification du travail qui pose aujourd’hui une difficulté
+   majeure dans l’activité, par exemple :
      * absentéisme / arrêt maladie,
      * épuisement professionnel (burnout),
      * perte de sens au travail (brownout, quiet-quitting)
