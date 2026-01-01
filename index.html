@@ -8,8 +8,10 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <link rel="stylesheet" href="fiche_css/site.css"/>
 </head>
+
+<body>
 <!--Menu-->
- <nav class="navbar" role="navigation" aria-label="main navigation">
+<nav class="navbar" role="navigation" aria-label="main navigation">
     <div class="navbar-brand">
         <span class="navbar-title">PPE1</span>
         <span class="navbar-subtitle">Projet-Final</span>
@@ -26,38 +28,37 @@
               </div>
             </div>
             <div class="navbar-item has-dropdown is-hoverable">
-              <a class="navbar-item" href="scripts.html">Scripts</a>
+              <a class="navbar-item" href="html/scripts.html">Scripts</a>
               <div class="navbar-dropdown">
-                <a class="navbar-item sub" href="https://oushan24.github.io/PPE1-projet_final/html/scripts.html#francais">Français</a>
-                <a class="navbar-item sub" href="https://oushan24.github.io/PPE1-projet_final/html/scripts.html#russe">Russe</a>
-                <a class="navbar-item sub" href="https://oushan24.github.io/PPE1-projet_final/html/scripts.html#japonais">Japonais</a>
+                <a class="navbar-item sub" href="html/scripts.html#francais">Français</a>
+                <a class="navbar-item sub" href="html/scripts.html#russe">Russe</a>
+                <a class="navbar-item sub" href="html/scripts.html#japonais">Japonais</a>
               </div>
             </div>
             <div class="navbar-item has-dropdown is-hoverable">
               <a class="navbar-item" href="html/tableaux.html">Tableaux</a>
               <div class="navbar-dropdown">
-                <a class="navbar-item sub" href="">Russe</a>
-                <a class="navbar-item sub" href="">Japonais</a>
-                <a class="navbar-item sub" href="https://oushan24.github.io/PPE1-projet_final/tableaux/Fr.html">Français</a>
+                <a class="navbar-item sub" href="tableaux/Russe.html">Russe</a>
+                <a class="navbar-item sub" href="tableaux/Japonais.html">Japonais</a>
+                <a class="navbar-item sub" href="tableaux/Fr.html">Français</a>
               </div>
             </div>
             <div class="navbar-item has-dropdown is-hoverable">
               <a class="navbar-item" href="html/analyse.html">Analyses</a>
               <div class="navbar-dropdown">
-                <a class="navbar-item sub" href="https://oushan24.github.io/PPE1-projet_final/html/analyse.html#nuage">Nuage de mots</a>
-                <a class="navbar-item sub" herf="https://oushan24.github.io/PPE1-projet_final/html/analyse.html#spé">Spécificité</a>
+                <a class="navbar-item sub" href="html/analyse.html#nuage">Nuage de mots</a>
+                <a class="navbar-item sub" href="html/analyse.html#spé">Spécificité</a>
               </div>
             </div>
             <div class="navbar-item has-dropdown is-hoverable">
               <a class="navbar-item" href="html/nous.html">L'équipe</a>
               <div class="navbar-dropdown">
-                <a class="navbar-item sub" href="https://oushan24.github.io/PPE1-projet_final/html/nous.html#Qui?">Qui sommes-nous ?</a>
+                <a class="navbar-item sub" href="html/nous.html#Qui?">Qui sommes-nous ?</a>
               </div>
             </div>
         </div>
     </div>
 </nav>
-<!--Menu Fin-->
 
 <!--Milieu image-->
 <section class="hero-area">
@@ -65,7 +66,6 @@
     <h1>Charge | en Russe | en Japonais</h1>
     </div>
 </section>
-<!--Milieu image fin-->
 
 <!--Début-->
 <section id="Présentation" class="content-container">
@@ -85,28 +85,28 @@
       <h1>Méthodologie</h1>
       <h2>Le projet étape par étape</h2>
         <ul class="has-text-black">
-        <li>Le choix d’un mot à explorer</li>
-        <li>La recherche d’URLs pour étudier le multilinguisme du mot choisi</li>
-        <li>La formation d’un corpus via la récupération des données textuelles et autres informations récupérées depuis les URLs sélectionnés</li>
-        <li>La construction d’un nuage de mot</li>
-        <li>L’étude des contextes gravitant autour du mot choisi (concordancier)</li>
+        <li>Le choix d'un mot à explorer</li>
+        <li>La recherche d'URLs pour étudier le multilinguisme du mot choisi</li>
+        <li>La formation d'un corpus via la récupération des données textuelles et autres informations récupérées depuis les URLs sélectionnés</li>
+        <li>La construction d'un nuage de mot</li>
+        <li>L'étude des contextes gravitant autour du mot choisi (concordancier)</li>
         </ul>
       <h2>Script de récupération de pages internet</h2>
       <p class="has-text-black">Construction d'un script, implémenté au fur et à mesure, pour répondre à plusieurs objectifs :</p>
         <ol class="has-text-black">
-        <li>Lire une liste d’URLs donnée</li>
+        <li>Lire une liste d'URLs donnée</li>
         <li>Vérifier la validité de ces URLs</li>
         <li>Vérifier la réponse du serveur des URLs valide pour savoir si la page est accessible</li>
-        <li>Récupérer l’encodage des pages accessible</li>
-        <li>Extraire le contenu textuel des pages (les convertir en <emph>UTF-8</emph> si nécessaire)</li>
+        <li>Récupérer l'encodage des pages accessible</li>
+        <li>Extraire le contenu textuel des pages (les convertir en <em>UTF-8</em> si nécessaire)</li>
         <li>Construire un tableaux qui rassemblent diverses informations tel que :</li>
         <ul>
-          <li>L’URL lui même</li>
+          <li>L'URL lui même</li>
           <li>Le code retour de HTTP</li>
-          <li>L’encodage initial de la page</li>
+          <li>L'encodage initial de la page</li>
           <li>La page HTML brut (aspiration)</li>
           <li>Le dump textuel</li>
-          <li>Le nombre d’occurence du mot cible dans la page</li>
+          <li>Le nombre d'occurence du mot cible dans la page</li>
           <li>Le concordancier</li>
           <li>Le contexte (1 par URL)</li>
         </ul>
@@ -120,10 +120,11 @@
     <div class="column is-four-fifths">
     <div class="block content">
       <h1>Choix du mot</h1>
-      <p> On s'est interessé ednedjkebnendlzndzlekndlnlkjdn</p>
+      <p>On s'est intéressé à l'étude du mot "charge" et ses équivalents en russe et japonais pour analyser ses différentes acceptions selon les contextes culturels et linguistiques.</p>
     </div>
   </div>
   </div>
 </section>
 
+</body>
 </html>
