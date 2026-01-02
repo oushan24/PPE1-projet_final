@@ -459,13 +459,13 @@ p{
   text-shadow: 2px 4px 2px rgba(0, 0, 0, 0.8);
 }
 
-.content-container_bis_3 {
+.content-container_bis_3 {  
     display: flex;
     justify-content: center;
     background-color:rgba(147, 112, 216, 0.2);
-    padding-bottom: 50px;
-    margin-top: -20px;
-    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    margin-top: 0px;
+    padding-bottom: 60px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.4);
     gap: 50px;
     flex-wrap: wrap;
     text-align: center;
@@ -510,4 +510,42 @@ p{
     padding-bottom: 60px;
     padding-top: 10px;
     border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+}
+
+#nuage h1 {
+    margin-bottom: 5px; 
+    padding-bottom: 0; 
+}
+
+.nuage-wrap {
+    display: flex;       
+    flex-wrap: wrap;       
+    justify-content: center;
+    gap: 50px;              
+    width: 100%;
+}
+
+.nuage-card{
+    background:transparent;
+    width: 440px;
+    padding: 16px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    gap: 15px;
+    padding-bottom: 20px;
+    padding-top: 30px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+.nuage-card_img{
+    width: 400px;      
+    height: 270px;     
+    object-fit: cover;
+    border-radius: 10%;
+    overflow: hidden;
+    display: block;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
 }
