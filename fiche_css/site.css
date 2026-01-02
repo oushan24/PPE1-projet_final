@@ -526,7 +526,7 @@ p{
 }
 
 .nuage-card{
-    background:transparent;
+    background:rgba(147,112,216,0.1);
     width: 440px;
     padding: 16px;
     border-radius: 20px;
@@ -548,4 +548,51 @@ p{
     overflow: hidden;
     display: block;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+}
+
+#spé h1 {
+    margin-bottom: 5px; 
+    padding-bottom: 0; 
+}
+
+.spe-wrap {
+    display: flex;       
+    flex-wrap: wrap;       
+    gap: 50px;              
+    width: 100%;
+     align-items: center;
+}
+.spe-card_img{
+    background: white;
+    width: 600px;
+    padding: 16px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 3%;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+.spe-card{
+    background: transparent;
+    width: 780px;
+    padding: 16px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    text-align: justify;
+    justify-content:space-between;
+}
+
+.spe-card_2 {
+    background: transparent;
+    width: 100%t;
+    margin-left: 3%;
+    margin-right: 3%;
+    display: flex;
+    flex-direction: column;
+    text-align: justify;
+    justify-content:space-between;
 }

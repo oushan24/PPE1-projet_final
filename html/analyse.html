@@ -100,12 +100,30 @@
 
 <section id="spé" class="content-container_bis_3">
     <h1>Spécificité</h1>
-    <div class="columns is-centered">
-        <div class="column is-four-fifths">
-        <div class="block content">
-            <p>Contenu à venir - Analyse de spécificité en construction</p>
+    <div class="spe-card_2">
+      <p class="mb-4">La spécificité correspond au constat statistique de l’usage, ou non, d’un terme. On parle de spécificité de jalons, le nombre d’apparition brut d’un mot ne veut rien dire en soit, il faut le contextualiser. On ne compare donc pas les occurrences brutes mais les probabilités de distribution d’un mot. Ce sont des mesures qui permettent de calculé la significativité d’un terme dans un texte. On se base également sur la loi hypergéométrique qui estime à quel point on s’éloigne de la distribution attendue dans le corpus.</p>
+      <p class="mb-2"><u>Données du tableau :</u></p>
+        <div class="content">
+          <ul class="has-text-black">
+          <li>Token : mot identifié</li>
+          <li>Corpus size : taille du corpus</li>
+          <li>All contexts size : taille de la "fenêtre d’observation"</li>
+          <li>Frequency : fréquence globale du token dans le corpus</li>
+          <li>Co-frequency : nombre de fois où le mot apparaît spécifiquement à côté du mot cible ("charge")</li>
+          <li>Specificity : score statistique calculé selon la loi hypergéométrique </li>
+          </ul>
         </div>
-        </div>
+    </div>
+    <div class="spe-wrap">
+      <div class="spe-card_img">
+        <img src="../specificite/specificite_globale_Fr.png" alt="nuage_fr">
+      </div>
+      <div class="spe-card">
+        <h2 class="has-text-centered and mb-1"> Analyse de la spécificité globale sur le corpus français</h2>
+        <p class="is-size-6 and mb-1">Après une légère modification du script, afin de ne pas obtenir un fichier dump par URL mais de former un fichier unique contenant l’ensemble des dumps des 50 URLs, nous avons appliqué le script coocurents.py et obtenu le tableau ci-contre. Ce tableau nous donne la liste des 10 tokens cooccurrents les plus fréquents du terme "charge".</p>
+        <p class="is-size-6 and mb-1">Premièrement, on peut omettre les termes "de" et "la", qui sont des articles et donc peu significatifs dans l’analyse. Ensuite, ce qui saute aux yeux est le chiffre très élevé de la valeur de specificity pour le mot "mentale". Cela peut paraître surprenant, mais la loi hypergéométrique ne fournit pas un pourcentage : il s’agit d’une transformation logarithmique de probabilité. Ce calcul donne donc un ordre de grandeur de la probabilité de trouver le terme "mentale" après "charge".</p>
+        <p class="is-size-6 and mb-1">Un chiffre aussi élevé peut s’expliquer, d’une part, par la taille du corpus. D’autre part, alors qu’un chiffre faible indiquerait l’absence de corrélation dans l’apparition conjointe des deux termes, un chiffre plus élevé démontre au contraire un lien très clair entre ceux-ci. Un score étonnamment élevé peut également être indicateur d’un dépassement de la simple cooccurrence, et marquer de la manifestation d’une relation structurelle, voire d’une expression figée. On s’en rend bien compte dans la mesure où, dans le corpus, le terme "mentale" n’existe quasiment que pour qualifier le mot "charge". Les mêmes observations peuvent être faites pour les autres termes mis en évidence, comme travail ("charge de travail"), prise ("prise en charge") ou encore émotionnelle ("charge émotionnelle"). Tous les termes relevés par le calcul de spécificité traduisent avec justesse le thème central du corpus.</p>
+      </div>
     </div>
 </section>
 
