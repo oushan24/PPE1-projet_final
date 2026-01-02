@@ -223,6 +223,11 @@ cat &gt;&gt; "$SORTIE" &lt;&lt;EOF
 &lt;/body&gt;
 &lt;/html&gt;
 EOF
+
+
+# Réalisation du nuage de mot en dehors du script principal (à partir des contextes produits précédemment)
+wordcloud_cli --text /chemin/contextes/lang_fr-1.txt --imagefile Fr.png --stopwords stopwords1.txt --mask /chemin/mask_cloud.png --scale 3 --background whitesmoke --contour_width 12 --contour_color black --colormap magma
+      </code></pre>
       </code></pre>
   </div>
 </section>
