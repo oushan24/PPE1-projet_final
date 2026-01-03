@@ -77,7 +77,8 @@ while read -r LINE ; do
 
         # Extraire le contenu textuel des pages 
         FICHIER_DUMP=$"../dump/lang_fr-${NB_LIGNE}.txt"
-        lynx -dump -nolist "$FICHIER_ASP" | iconv -f ISO-8859-1 -t UTF-8 | sponge "$FICHIER_DUMP" # Conversion en UTF-8 parce que dans mon ordi, les fichiers ne s'ouvres pas correctement (problèmes d'accent etc) au début, j'avais mis la conversion au niveau des fichiers contextes mais j'ai fini par la mettre dès le dump parce que j'ai trouvé des problèmes d'encodages aussi ici, et comme ça le reste n'a pas de problèmes puisque je m'appuie du dump pour faire le contexte
+        # Conversion en UTF-8 parce que dans mon ordi, les fichiers ne s'ouvres pas correctement (problèmes d'accent etc) au début, j'avais mis la conversion au niveau des fichiers contextes mais j'ai fini par la mettre dès le dump parce que j'ai trouvé des problèmes d'encodages aussi ici, et comme ça le reste n'a pas de problèmes puisque je m'appuie du dump pour faire le contexte
+        lynx -dump -nolist "$FICHIER_ASP" | iconv -f ISO-8859-1 -t UTF-8 | sponge "$FICHIER_DUMP"
         DUMP=$"<a href='$FICHIER_DUMP' target='_blank'>Texte n°$NB_LIGNE</a>"
 
         # Compte du nombre du mot cible dans la page
@@ -88,7 +89,7 @@ while read -r LINE ; do
         grep -i -E -C 3 "charge[s]?" "$FICHIER_DUMP" >> "$FICHIER_CONTX"
         CONTEXTE=$"<a href='$FICHIER_CONTX' target='_blank'>Contexte n°$NB_LIGNE</a>"
 
-         #Spécificité (textométrie)
+        #Spécificité (textométrie)
         FICHIER_TEMP_TOK="temp_tokens.txt" # Le script coocurents.py attend 1 mot par ligne donc on peut pas directement mettre les fichiers dump comme ça
         FICHIER_SPE=$"../specificite/specificite_fr-${NB_LIGNE}.tsv"
         
