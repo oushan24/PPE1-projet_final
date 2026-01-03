@@ -550,6 +550,18 @@ p{
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
 }
 
+.nuage-card_img_2{
+    width: 400px;      
+    height: 270px;     
+    object-fit: cover;
+    border-radius: 10%;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    background-color: white;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+}
+
 #spé h1 {
     margin-bottom: 5px; 
     padding-bottom: 0; 
