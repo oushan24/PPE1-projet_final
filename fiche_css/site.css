@@ -367,7 +367,7 @@ p{
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: space-between;
+    justify-content: flex-start;
     gap: 15px;
     padding-bottom: 40px;
     padding-top: 30px;
@@ -403,21 +403,22 @@ p{
     display: flex;
     flex-direction: column; 
     gap: 10px;
+    flex-grow: 1;
+    justify-content: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .profil-card_content_title {
     font-size: 34px;
     font-weight: 500;
     color: black;
-    align-self:center;
     text-align: center;
+    margin-bottom: 5px;
 }
 
 .profil-card_content_title2 {
     align-self:self-end;
     text-align: center;
-    justify-content: flex-start;
-    margin:0;
+    margin-top: auto;
 }
 
 .profil-card_content_subtitle{
