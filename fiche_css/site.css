@@ -83,7 +83,7 @@ body {
     position: absolute;
     top: 100%; 
     left: 0;
-    background-color:transparent;
+    background-color:#f8f9fa;
     min-width: 180px;
     border-radius: 0 0 4px 4px;
     z-index:200;
@@ -97,7 +97,7 @@ body {
     padding: 10px 20px;
     font-size: 0.9em;
     color:black !important;
-    background-color: transparent !important;
+    background-color: #f8f9fa !important;
     border-bottom: 1px solid gray;
     display: block;
     width: 100%;
